@@ -1,0 +1,3651 @@
+Date,Departure airport,Number of big hits
+2019-01-01,Adolfo Suárez Madrid–Barajas Airport,17
+2019-01-01,Amsterdam Airport Schiphol,24
+2019-01-01,Charles de Gaulle International Airport,28
+2019-01-01,Frankfurt am Main Airport,26
+2019-01-01,Josep Tarradellas Barcelona-El Prat Airport,0
+2019-01-01,London Gatwick Airport,7
+2019-01-01,London Heathrow Airport,32
+2019-01-01,Munich Airport,8
+2019-01-01,Rome–Fiumicino Leonardo da Vinci International Airport,11
+2019-01-01,Zürich Airport,8
+2019-01-02,Adolfo Suárez Madrid–Barajas Airport,36
+2019-01-02,Amsterdam Airport Schiphol,41
+2019-01-02,Charles de Gaulle International Airport,47
+2019-01-02,Frankfurt am Main Airport,38
+2019-01-02,Josep Tarradellas Barcelona-El Prat Airport,5
+2019-01-02,London Gatwick Airport,20
+2019-01-02,London Heathrow Airport,107
+2019-01-02,Munich Airport,20
+2019-01-02,Rome–Fiumicino Leonardo da Vinci International Airport,9
+2019-01-02,Zürich Airport,20
+2019-01-03,Adolfo Suárez Madrid–Barajas Airport,48
+2019-01-03,Amsterdam Airport Schiphol,64
+2019-01-03,Charles de Gaulle International Airport,69
+2019-01-03,Frankfurt am Main Airport,56
+2019-01-03,Josep Tarradellas Barcelona-El Prat Airport,3
+2019-01-03,London Gatwick Airport,23
+2019-01-03,London Heathrow Airport,130
+2019-01-03,Munich Airport,21
+2019-01-03,Rome–Fiumicino Leonardo da Vinci International Airport,19
+2019-01-03,Zürich Airport,13
+2019-01-04,Adolfo Suárez Madrid–Barajas Airport,53
+2019-01-04,Amsterdam Airport Schiphol,71
+2019-01-04,Charles de Gaulle International Airport,84
+2019-01-04,Frankfurt am Main Airport,61
+2019-01-04,Josep Tarradellas Barcelona-El Prat Airport,24
+2019-01-04,London Gatwick Airport,41
+2019-01-04,London Heathrow Airport,184
+2019-01-04,Munich Airport,30
+2019-01-04,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-01-04,Zürich Airport,17
+2019-01-05,Adolfo Suárez Madrid–Barajas Airport,51
+2019-01-05,Amsterdam Airport Schiphol,28
+2019-01-05,Charles de Gaulle International Airport,48
+2019-01-05,Frankfurt am Main Airport,39
+2019-01-05,Josep Tarradellas Barcelona-El Prat Airport,9
+2019-01-05,London Gatwick Airport,22
+2019-01-05,London Heathrow Airport,47
+2019-01-05,Munich Airport,13
+2019-01-05,Rome–Fiumicino Leonardo da Vinci International Airport,17
+2019-01-05,Zürich Airport,15
+2019-01-06,Adolfo Suárez Madrid–Barajas Airport,33
+2019-01-06,Amsterdam Airport Schiphol,47
+2019-01-06,Charles de Gaulle International Airport,79
+2019-01-06,Frankfurt am Main Airport,68
+2019-01-06,Josep Tarradellas Barcelona-El Prat Airport,5
+2019-01-06,London Gatwick Airport,30
+2019-01-06,London Heathrow Airport,148
+2019-01-06,Munich Airport,27
+2019-01-06,Rome–Fiumicino Leonardo da Vinci International Airport,17
+2019-01-06,Zürich Airport,18
+2019-01-07,Adolfo Suárez Madrid–Barajas Airport,33
+2019-01-07,Amsterdam Airport Schiphol,88
+2019-01-07,Charles de Gaulle International Airport,109
+2019-01-07,Frankfurt am Main Airport,94
+2019-01-07,Josep Tarradellas Barcelona-El Prat Airport,13
+2019-01-07,London Gatwick Airport,49
+2019-01-07,London Heathrow Airport,207
+2019-01-07,Munich Airport,46
+2019-01-07,Rome–Fiumicino Leonardo da Vinci International Airport,12
+2019-01-07,Zürich Airport,15
+2019-01-08,Adolfo Suárez Madrid–Barajas Airport,28
+2019-01-08,Amsterdam Airport Schiphol,54
+2019-01-08,Charles de Gaulle International Airport,61
+2019-01-08,Frankfurt am Main Airport,76
+2019-01-08,Josep Tarradellas Barcelona-El Prat Airport,25
+2019-01-08,London Gatwick Airport,23
+2019-01-08,London Heathrow Airport,129
+2019-01-08,Munich Airport,34
+2019-01-08,Rome–Fiumicino Leonardo da Vinci International Airport,27
+2019-01-08,Zürich Airport,17
+2019-01-09,Adolfo Suárez Madrid–Barajas Airport,28
+2019-01-09,Amsterdam Airport Schiphol,33
+2019-01-09,Charles de Gaulle International Airport,40
+2019-01-09,Frankfurt am Main Airport,48
+2019-01-09,Josep Tarradellas Barcelona-El Prat Airport,4
+2019-01-09,London Gatwick Airport,12
+2019-01-09,London Heathrow Airport,56
+2019-01-09,Munich Airport,15
+2019-01-09,Rome–Fiumicino Leonardo da Vinci International Airport,11
+2019-01-09,Zürich Airport,12
+2019-01-10,Adolfo Suárez Madrid–Barajas Airport,21
+2019-01-10,Amsterdam Airport Schiphol,51
+2019-01-10,Charles de Gaulle International Airport,64
+2019-01-10,Frankfurt am Main Airport,60
+2019-01-10,Josep Tarradellas Barcelona-El Prat Airport,3
+2019-01-10,London Gatwick Airport,16
+2019-01-10,London Heathrow Airport,110
+2019-01-10,Munich Airport,12
+2019-01-10,Rome–Fiumicino Leonardo da Vinci International Airport,16
+2019-01-10,Zürich Airport,19
+2019-01-11,Adolfo Suárez Madrid–Barajas Airport,32
+2019-01-11,Amsterdam Airport Schiphol,49
+2019-01-11,Charles de Gaulle International Airport,77
+2019-01-11,Frankfurt am Main Airport,85
+2019-01-11,Josep Tarradellas Barcelona-El Prat Airport,12
+2019-01-11,London Gatwick Airport,27
+2019-01-11,London Heathrow Airport,148
+2019-01-11,Munich Airport,32
+2019-01-11,Rome–Fiumicino Leonardo da Vinci International Airport,23
+2019-01-11,Zürich Airport,29
+2019-01-12,Adolfo Suárez Madrid–Barajas Airport,44
+2019-01-12,Amsterdam Airport Schiphol,77
+2019-01-12,Charles de Gaulle International Airport,104
+2019-01-12,Frankfurt am Main Airport,99
+2019-01-12,Josep Tarradellas Barcelona-El Prat Airport,18
+2019-01-12,London Gatwick Airport,48
+2019-01-12,London Heathrow Airport,227
+2019-01-12,Munich Airport,36
+2019-01-12,Rome–Fiumicino Leonardo da Vinci International Airport,29
+2019-01-12,Zürich Airport,34
+2019-01-13,Adolfo Suárez Madrid–Barajas Airport,44
+2019-01-13,Amsterdam Airport Schiphol,71
+2019-01-13,Charles de Gaulle International Airport,103
+2019-01-13,Frankfurt am Main Airport,84
+2019-01-13,Josep Tarradellas Barcelona-El Prat Airport,41
+2019-01-13,London Gatwick Airport,44
+2019-01-13,London Heathrow Airport,167
+2019-01-13,Munich Airport,38
+2019-01-13,Rome–Fiumicino Leonardo da Vinci International Airport,23
+2019-01-13,Zürich Airport,38
+2019-01-14,Adolfo Suárez Madrid–Barajas Airport,21
+2019-01-14,Amsterdam Airport Schiphol,50
+2019-01-14,Charles de Gaulle International Airport,60
+2019-01-14,Frankfurt am Main Airport,50
+2019-01-14,Josep Tarradellas Barcelona-El Prat Airport,4
+2019-01-14,London Gatwick Airport,20
+2019-01-14,London Heathrow Airport,101
+2019-01-14,Munich Airport,19
+2019-01-14,Rome–Fiumicino Leonardo da Vinci International Airport,7
+2019-01-14,Zürich Airport,16
+2019-01-15,Adolfo Suárez Madrid–Barajas Airport,34
+2019-01-15,Amsterdam Airport Schiphol,47
+2019-01-15,Charles de Gaulle International Airport,68
+2019-01-15,Frankfurt am Main Airport,36
+2019-01-15,Josep Tarradellas Barcelona-El Prat Airport,12
+2019-01-15,London Gatwick Airport,32
+2019-01-15,London Heathrow Airport,131
+2019-01-15,Munich Airport,24
+2019-01-15,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-01-15,Zürich Airport,16
+2019-01-16,Adolfo Suárez Madrid–Barajas Airport,49
+2019-01-16,Amsterdam Airport Schiphol,77
+2019-01-16,Charles de Gaulle International Airport,110
+2019-01-16,Frankfurt am Main Airport,116
+2019-01-16,Josep Tarradellas Barcelona-El Prat Airport,27
+2019-01-16,London Gatwick Airport,49
+2019-01-16,London Heathrow Airport,191
+2019-01-16,Munich Airport,68
+2019-01-16,Rome–Fiumicino Leonardo da Vinci International Airport,23
+2019-01-16,Zürich Airport,38
+2019-01-17,Adolfo Suárez Madrid–Barajas Airport,25
+2019-01-17,Amsterdam Airport Schiphol,39
+2019-01-17,Charles de Gaulle International Airport,52
+2019-01-17,Frankfurt am Main Airport,55
+2019-01-17,Josep Tarradellas Barcelona-El Prat Airport,10
+2019-01-17,London Gatwick Airport,6
+2019-01-17,London Heathrow Airport,90
+2019-01-17,Munich Airport,12
+2019-01-17,Rome–Fiumicino Leonardo da Vinci International Airport,17
+2019-01-17,Zürich Airport,13
+2019-01-18,Adolfo Suárez Madrid–Barajas Airport,34
+2019-01-18,Amsterdam Airport Schiphol,47
+2019-01-18,Charles de Gaulle International Airport,60
+2019-01-18,Frankfurt am Main Airport,70
+2019-01-18,Josep Tarradellas Barcelona-El Prat Airport,36
+2019-01-18,London Gatwick Airport,11
+2019-01-18,London Heathrow Airport,60
+2019-01-18,Munich Airport,20
+2019-01-18,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-01-18,Zürich Airport,17
+2019-01-19,Adolfo Suárez Madrid–Barajas Airport,27
+2019-01-19,Amsterdam Airport Schiphol,50
+2019-01-19,Charles de Gaulle International Airport,73
+2019-01-19,Frankfurt am Main Airport,80
+2019-01-19,Josep Tarradellas Barcelona-El Prat Airport,11
+2019-01-19,London Gatwick Airport,19
+2019-01-19,London Heathrow Airport,94
+2019-01-19,Munich Airport,31
+2019-01-19,Rome–Fiumicino Leonardo da Vinci International Airport,26
+2019-01-19,Zürich Airport,22
+2019-01-20,Adolfo Suárez Madrid–Barajas Airport,26
+2019-01-20,Amsterdam Airport Schiphol,41
+2019-01-20,Charles de Gaulle International Airport,47
+2019-01-20,Frankfurt am Main Airport,48
+2019-01-20,Josep Tarradellas Barcelona-El Prat Airport,10
+2019-01-20,London Gatwick Airport,15
+2019-01-20,London Heathrow Airport,84
+2019-01-20,Munich Airport,26
+2019-01-20,Rome–Fiumicino Leonardo da Vinci International Airport,15
+2019-01-20,Zürich Airport,18
+2019-01-21,Adolfo Suárez Madrid–Barajas Airport,12
+2019-01-21,Amsterdam Airport Schiphol,55
+2019-01-21,Charles de Gaulle International Airport,58
+2019-01-21,Frankfurt am Main Airport,68
+2019-01-21,Josep Tarradellas Barcelona-El Prat Airport,3
+2019-01-21,London Gatwick Airport,29
+2019-01-21,London Heathrow Airport,164
+2019-01-21,Munich Airport,18
+2019-01-21,Rome–Fiumicino Leonardo da Vinci International Airport,20
+2019-01-21,Zürich Airport,24
+2019-01-22,Adolfo Suárez Madrid–Barajas Airport,33
+2019-01-22,Amsterdam Airport Schiphol,46
+2019-01-22,Charles de Gaulle International Airport,46
+2019-01-22,Frankfurt am Main Airport,73
+2019-01-22,Josep Tarradellas Barcelona-El Prat Airport,7
+2019-01-22,London Gatwick Airport,30
+2019-01-22,London Heathrow Airport,128
+2019-01-22,Munich Airport,30
+2019-01-22,Rome–Fiumicino Leonardo da Vinci International Airport,13
+2019-01-22,Zürich Airport,30
+2019-01-23,Adolfo Suárez Madrid–Barajas Airport,8
+2019-01-23,Amsterdam Airport Schiphol,49
+2019-01-23,Charles de Gaulle International Airport,58
+2019-01-23,Frankfurt am Main Airport,63
+2019-01-23,Josep Tarradellas Barcelona-El Prat Airport,3
+2019-01-23,London Gatwick Airport,27
+2019-01-23,London Heathrow Airport,108
+2019-01-23,Munich Airport,31
+2019-01-23,Rome–Fiumicino Leonardo da Vinci International Airport,13
+2019-01-23,Zürich Airport,20
+2019-01-24,Adolfo Suárez Madrid–Barajas Airport,29
+2019-01-24,Amsterdam Airport Schiphol,54
+2019-01-24,Charles de Gaulle International Airport,82
+2019-01-24,Frankfurt am Main Airport,71
+2019-01-24,Josep Tarradellas Barcelona-El Prat Airport,13
+2019-01-24,London Gatwick Airport,16
+2019-01-24,London Heathrow Airport,126
+2019-01-24,Munich Airport,29
+2019-01-24,Rome–Fiumicino Leonardo da Vinci International Airport,21
+2019-01-24,Zürich Airport,26
+2019-01-25,Adolfo Suárez Madrid–Barajas Airport,19
+2019-01-25,Amsterdam Airport Schiphol,56
+2019-01-25,Charles de Gaulle International Airport,62
+2019-01-25,Frankfurt am Main Airport,75
+2019-01-25,Josep Tarradellas Barcelona-El Prat Airport,6
+2019-01-25,London Gatwick Airport,34
+2019-01-25,London Heathrow Airport,123
+2019-01-25,Munich Airport,29
+2019-01-25,Rome–Fiumicino Leonardo da Vinci International Airport,13
+2019-01-25,Zürich Airport,19
+2019-01-26,Adolfo Suárez Madrid–Barajas Airport,63
+2019-01-26,Amsterdam Airport Schiphol,132
+2019-01-26,Charles de Gaulle International Airport,167
+2019-01-26,Frankfurt am Main Airport,178
+2019-01-26,Josep Tarradellas Barcelona-El Prat Airport,40
+2019-01-26,London Gatwick Airport,79
+2019-01-26,London Heathrow Airport,216
+2019-01-26,Munich Airport,71
+2019-01-26,Rome–Fiumicino Leonardo da Vinci International Airport,31
+2019-01-26,Zürich Airport,65
+2019-01-27,Adolfo Suárez Madrid–Barajas Airport,38
+2019-01-27,Amsterdam Airport Schiphol,38
+2019-01-27,Charles de Gaulle International Airport,54
+2019-01-27,Frankfurt am Main Airport,67
+2019-01-27,Josep Tarradellas Barcelona-El Prat Airport,21
+2019-01-27,London Gatwick Airport,13
+2019-01-27,London Heathrow Airport,66
+2019-01-27,Munich Airport,29
+2019-01-27,Rome–Fiumicino Leonardo da Vinci International Airport,39
+2019-01-27,Zürich Airport,18
+2019-01-28,Adolfo Suárez Madrid–Barajas Airport,32
+2019-01-28,Amsterdam Airport Schiphol,37
+2019-01-28,Charles de Gaulle International Airport,37
+2019-01-28,Frankfurt am Main Airport,55
+2019-01-28,Josep Tarradellas Barcelona-El Prat Airport,17
+2019-01-28,London Gatwick Airport,11
+2019-01-28,London Heathrow Airport,51
+2019-01-28,Munich Airport,15
+2019-01-28,Rome–Fiumicino Leonardo da Vinci International Airport,19
+2019-01-28,Zürich Airport,19
+2019-01-29,Adolfo Suárez Madrid–Barajas Airport,24
+2019-01-29,Amsterdam Airport Schiphol,26
+2019-01-29,Charles de Gaulle International Airport,29
+2019-01-29,Frankfurt am Main Airport,31
+2019-01-29,Josep Tarradellas Barcelona-El Prat Airport,15
+2019-01-29,London Gatwick Airport,10
+2019-01-29,London Heathrow Airport,58
+2019-01-29,Munich Airport,10
+2019-01-29,Rome–Fiumicino Leonardo da Vinci International Airport,13
+2019-01-29,Zürich Airport,14
+2019-01-30,Adolfo Suárez Madrid–Barajas Airport,33
+2019-01-30,Amsterdam Airport Schiphol,25
+2019-01-30,Charles de Gaulle International Airport,40
+2019-01-30,Frankfurt am Main Airport,40
+2019-01-30,Josep Tarradellas Barcelona-El Prat Airport,11
+2019-01-30,London Gatwick Airport,4
+2019-01-30,London Heathrow Airport,41
+2019-01-30,Munich Airport,27
+2019-01-30,Rome–Fiumicino Leonardo da Vinci International Airport,8
+2019-01-30,Zürich Airport,18
+2019-01-31,Adolfo Suárez Madrid–Barajas Airport,73
+2019-01-31,Amsterdam Airport Schiphol,24
+2019-01-31,Charles de Gaulle International Airport,48
+2019-01-31,Frankfurt am Main Airport,50
+2019-01-31,Josep Tarradellas Barcelona-El Prat Airport,27
+2019-01-31,London Gatwick Airport,18
+2019-01-31,London Heathrow Airport,50
+2019-01-31,Munich Airport,10
+2019-01-31,Rome–Fiumicino Leonardo da Vinci International Airport,14
+2019-01-31,Zürich Airport,7
+2019-02-01,Adolfo Suárez Madrid–Barajas Airport,30
+2019-02-01,Amsterdam Airport Schiphol,50
+2019-02-01,Charles de Gaulle International Airport,55
+2019-02-01,Frankfurt am Main Airport,80
+2019-02-01,Josep Tarradellas Barcelona-El Prat Airport,30
+2019-02-01,London Gatwick Airport,16
+2019-02-01,London Heathrow Airport,84
+2019-02-01,Munich Airport,37
+2019-02-01,Rome–Fiumicino Leonardo da Vinci International Airport,26
+2019-02-01,Zürich Airport,31
+2019-02-02,Adolfo Suárez Madrid–Barajas Airport,41
+2019-02-02,Amsterdam Airport Schiphol,44
+2019-02-02,Charles de Gaulle International Airport,77
+2019-02-02,Frankfurt am Main Airport,63
+2019-02-02,Josep Tarradellas Barcelona-El Prat Airport,21
+2019-02-02,London Gatwick Airport,15
+2019-02-02,London Heathrow Airport,92
+2019-02-02,Munich Airport,34
+2019-02-02,Rome–Fiumicino Leonardo da Vinci International Airport,31
+2019-02-02,Zürich Airport,23
+2019-02-03,Adolfo Suárez Madrid–Barajas Airport,54
+2019-02-03,Amsterdam Airport Schiphol,54
+2019-02-03,Charles de Gaulle International Airport,76
+2019-02-03,Frankfurt am Main Airport,76
+2019-02-03,Josep Tarradellas Barcelona-El Prat Airport,16
+2019-02-03,London Gatwick Airport,16
+2019-02-03,London Heathrow Airport,121
+2019-02-03,Munich Airport,33
+2019-02-03,Rome–Fiumicino Leonardo da Vinci International Airport,32
+2019-02-03,Zürich Airport,25
+2019-02-04,Adolfo Suárez Madrid–Barajas Airport,39
+2019-02-04,Amsterdam Airport Schiphol,41
+2019-02-04,Charles de Gaulle International Airport,58
+2019-02-04,Frankfurt am Main Airport,56
+2019-02-04,Josep Tarradellas Barcelona-El Prat Airport,6
+2019-02-04,London Gatwick Airport,13
+2019-02-04,London Heathrow Airport,95
+2019-02-04,Munich Airport,15
+2019-02-04,Rome–Fiumicino Leonardo da Vinci International Airport,7
+2019-02-04,Zürich Airport,20
+2019-02-05,Adolfo Suárez Madrid–Barajas Airport,39
+2019-02-05,Amsterdam Airport Schiphol,45
+2019-02-05,Charles de Gaulle International Airport,57
+2019-02-05,Frankfurt am Main Airport,48
+2019-02-05,Josep Tarradellas Barcelona-El Prat Airport,7
+2019-02-05,London Gatwick Airport,34
+2019-02-05,London Heathrow Airport,144
+2019-02-05,Munich Airport,17
+2019-02-05,Rome–Fiumicino Leonardo da Vinci International Airport,7
+2019-02-05,Zürich Airport,25
+2019-02-06,Adolfo Suárez Madrid–Barajas Airport,112
+2019-02-06,Amsterdam Airport Schiphol,80
+2019-02-06,Charles de Gaulle International Airport,124
+2019-02-06,Frankfurt am Main Airport,113
+2019-02-06,Josep Tarradellas Barcelona-El Prat Airport,56
+2019-02-06,London Gatwick Airport,84
+2019-02-06,London Heathrow Airport,215
+2019-02-06,Munich Airport,53
+2019-02-06,Rome–Fiumicino Leonardo da Vinci International Airport,18
+2019-02-06,Zürich Airport,40
+2019-02-07,Adolfo Suárez Madrid–Barajas Airport,47
+2019-02-07,Amsterdam Airport Schiphol,114
+2019-02-07,Charles de Gaulle International Airport,121
+2019-02-07,Frankfurt am Main Airport,155
+2019-02-07,Josep Tarradellas Barcelona-El Prat Airport,40
+2019-02-07,London Gatwick Airport,55
+2019-02-07,London Heathrow Airport,141
+2019-02-07,Munich Airport,67
+2019-02-07,Rome–Fiumicino Leonardo da Vinci International Airport,51
+2019-02-07,Zürich Airport,56
+2019-02-08,Adolfo Suárez Madrid–Barajas Airport,90
+2019-02-08,Amsterdam Airport Schiphol,90
+2019-02-08,Charles de Gaulle International Airport,97
+2019-02-08,Frankfurt am Main Airport,98
+2019-02-08,Josep Tarradellas Barcelona-El Prat Airport,53
+2019-02-08,London Gatwick Airport,81
+2019-02-08,London Heathrow Airport,172
+2019-02-08,Munich Airport,58
+2019-02-08,Rome–Fiumicino Leonardo da Vinci International Airport,18
+2019-02-08,Zürich Airport,33
+2019-02-09,Adolfo Suárez Madrid–Barajas Airport,108
+2019-02-09,Amsterdam Airport Schiphol,99
+2019-02-09,Charles de Gaulle International Airport,163
+2019-02-09,Frankfurt am Main Airport,122
+2019-02-09,Josep Tarradellas Barcelona-El Prat Airport,68
+2019-02-09,London Gatwick Airport,96
+2019-02-09,London Heathrow Airport,237
+2019-02-09,Munich Airport,55
+2019-02-09,Rome–Fiumicino Leonardo da Vinci International Airport,45
+2019-02-09,Zürich Airport,60
+2019-02-10,Adolfo Suárez Madrid–Barajas Airport,43
+2019-02-10,Amsterdam Airport Schiphol,69
+2019-02-10,Charles de Gaulle International Airport,83
+2019-02-10,Frankfurt am Main Airport,104
+2019-02-10,Josep Tarradellas Barcelona-El Prat Airport,37
+2019-02-10,London Gatwick Airport,33
+2019-02-10,London Heathrow Airport,117
+2019-02-10,Munich Airport,36
+2019-02-10,Rome–Fiumicino Leonardo da Vinci International Airport,55
+2019-02-10,Zürich Airport,47
+2019-02-11,Adolfo Suárez Madrid–Barajas Airport,22
+2019-02-11,Amsterdam Airport Schiphol,75
+2019-02-11,Charles de Gaulle International Airport,79
+2019-02-11,Frankfurt am Main Airport,79
+2019-02-11,Josep Tarradellas Barcelona-El Prat Airport,16
+2019-02-11,London Gatwick Airport,23
+2019-02-11,London Heathrow Airport,178
+2019-02-11,Munich Airport,33
+2019-02-11,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-02-11,Zürich Airport,31
+2019-02-12,Adolfo Suárez Madrid–Barajas Airport,31
+2019-02-12,Amsterdam Airport Schiphol,28
+2019-02-12,Charles de Gaulle International Airport,39
+2019-02-12,Frankfurt am Main Airport,38
+2019-02-12,Josep Tarradellas Barcelona-El Prat Airport,5
+2019-02-12,London Gatwick Airport,21
+2019-02-12,London Heathrow Airport,91
+2019-02-12,Munich Airport,17
+2019-02-12,Rome–Fiumicino Leonardo da Vinci International Airport,12
+2019-02-12,Zürich Airport,18
+2019-02-13,Adolfo Suárez Madrid–Barajas Airport,38
+2019-02-13,Amsterdam Airport Schiphol,55
+2019-02-13,Charles de Gaulle International Airport,78
+2019-02-13,Frankfurt am Main Airport,60
+2019-02-13,Josep Tarradellas Barcelona-El Prat Airport,12
+2019-02-13,London Gatwick Airport,34
+2019-02-13,London Heathrow Airport,156
+2019-02-13,Munich Airport,24
+2019-02-13,Rome–Fiumicino Leonardo da Vinci International Airport,9
+2019-02-13,Zürich Airport,24
+2019-02-14,Adolfo Suárez Madrid–Barajas Airport,29
+2019-02-14,Amsterdam Airport Schiphol,52
+2019-02-14,Charles de Gaulle International Airport,57
+2019-02-14,Frankfurt am Main Airport,59
+2019-02-14,Josep Tarradellas Barcelona-El Prat Airport,6
+2019-02-14,London Gatwick Airport,24
+2019-02-14,London Heathrow Airport,116
+2019-02-14,Munich Airport,26
+2019-02-14,Rome–Fiumicino Leonardo da Vinci International Airport,15
+2019-02-14,Zürich Airport,21
+2019-02-15,Adolfo Suárez Madrid–Barajas Airport,51
+2019-02-15,Amsterdam Airport Schiphol,37
+2019-02-15,Charles de Gaulle International Airport,45
+2019-02-15,Frankfurt am Main Airport,48
+2019-02-15,Josep Tarradellas Barcelona-El Prat Airport,23
+2019-02-15,London Gatwick Airport,15
+2019-02-15,London Heathrow Airport,84
+2019-02-15,Munich Airport,23
+2019-02-15,Rome–Fiumicino Leonardo da Vinci International Airport,17
+2019-02-15,Zürich Airport,7
+2019-02-16,Adolfo Suárez Madrid–Barajas Airport,63
+2019-02-16,Amsterdam Airport Schiphol,80
+2019-02-16,Charles de Gaulle International Airport,79
+2019-02-16,Frankfurt am Main Airport,77
+2019-02-16,Josep Tarradellas Barcelona-El Prat Airport,31
+2019-02-16,London Gatwick Airport,84
+2019-02-16,London Heathrow Airport,251
+2019-02-16,Munich Airport,47
+2019-02-16,Rome–Fiumicino Leonardo da Vinci International Airport,19
+2019-02-16,Zürich Airport,21
+2019-02-17,Adolfo Suárez Madrid–Barajas Airport,60
+2019-02-17,Amsterdam Airport Schiphol,97
+2019-02-17,Charles de Gaulle International Airport,96
+2019-02-17,Frankfurt am Main Airport,95
+2019-02-17,Josep Tarradellas Barcelona-El Prat Airport,29
+2019-02-17,London Gatwick Airport,69
+2019-02-17,London Heathrow Airport,153
+2019-02-17,Munich Airport,65
+2019-02-17,Rome–Fiumicino Leonardo da Vinci International Airport,22
+2019-02-17,Zürich Airport,28
+2019-02-18,Adolfo Suárez Madrid–Barajas Airport,27
+2019-02-18,Amsterdam Airport Schiphol,35
+2019-02-18,Charles de Gaulle International Airport,70
+2019-02-18,Frankfurt am Main Airport,56
+2019-02-18,Josep Tarradellas Barcelona-El Prat Airport,8
+2019-02-18,London Gatwick Airport,24
+2019-02-18,London Heathrow Airport,129
+2019-02-18,Munich Airport,13
+2019-02-18,Rome–Fiumicino Leonardo da Vinci International Airport,9
+2019-02-18,Zürich Airport,12
+2019-02-19,Adolfo Suárez Madrid–Barajas Airport,31
+2019-02-19,Amsterdam Airport Schiphol,64
+2019-02-19,Charles de Gaulle International Airport,61
+2019-02-19,Frankfurt am Main Airport,56
+2019-02-19,Josep Tarradellas Barcelona-El Prat Airport,4
+2019-02-19,London Gatwick Airport,32
+2019-02-19,London Heathrow Airport,173
+2019-02-19,Munich Airport,22
+2019-02-19,Rome–Fiumicino Leonardo da Vinci International Airport,19
+2019-02-19,Zürich Airport,24
+2019-02-20,Adolfo Suárez Madrid–Barajas Airport,18
+2019-02-20,Amsterdam Airport Schiphol,40
+2019-02-20,Charles de Gaulle International Airport,45
+2019-02-20,Frankfurt am Main Airport,48
+2019-02-20,Josep Tarradellas Barcelona-El Prat Airport,5
+2019-02-20,London Gatwick Airport,19
+2019-02-20,London Heathrow Airport,114
+2019-02-20,Munich Airport,23
+2019-02-20,Rome–Fiumicino Leonardo da Vinci International Airport,5
+2019-02-20,Zürich Airport,9
+2019-02-21,Adolfo Suárez Madrid–Barajas Airport,19
+2019-02-21,Amsterdam Airport Schiphol,20
+2019-02-21,Charles de Gaulle International Airport,32
+2019-02-21,Frankfurt am Main Airport,31
+2019-02-21,Josep Tarradellas Barcelona-El Prat Airport,3
+2019-02-21,London Gatwick Airport,10
+2019-02-21,London Heathrow Airport,51
+2019-02-21,Munich Airport,10
+2019-02-21,Rome–Fiumicino Leonardo da Vinci International Airport,5
+2019-02-21,Zürich Airport,6
+2019-02-22,Adolfo Suárez Madrid–Barajas Airport,44
+2019-02-22,Amsterdam Airport Schiphol,31
+2019-02-22,Charles de Gaulle International Airport,43
+2019-02-22,Frankfurt am Main Airport,38
+2019-02-22,Josep Tarradellas Barcelona-El Prat Airport,6
+2019-02-22,London Gatwick Airport,22
+2019-02-22,London Heathrow Airport,86
+2019-02-22,Munich Airport,15
+2019-02-22,Rome–Fiumicino Leonardo da Vinci International Airport,4
+2019-02-22,Zürich Airport,11
+2019-02-23,Adolfo Suárez Madrid–Barajas Airport,37
+2019-02-23,Amsterdam Airport Schiphol,35
+2019-02-23,Charles de Gaulle International Airport,55
+2019-02-23,Frankfurt am Main Airport,45
+2019-02-23,Josep Tarradellas Barcelona-El Prat Airport,14
+2019-02-23,London Gatwick Airport,15
+2019-02-23,London Heathrow Airport,64
+2019-02-23,Munich Airport,27
+2019-02-23,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-02-23,Zürich Airport,17
+2019-02-24,Adolfo Suárez Madrid–Barajas Airport,22
+2019-02-24,Amsterdam Airport Schiphol,31
+2019-02-24,Charles de Gaulle International Airport,45
+2019-02-24,Frankfurt am Main Airport,33
+2019-02-24,Josep Tarradellas Barcelona-El Prat Airport,6
+2019-02-24,London Gatwick Airport,21
+2019-02-24,London Heathrow Airport,98
+2019-02-24,Munich Airport,15
+2019-02-24,Rome–Fiumicino Leonardo da Vinci International Airport,11
+2019-02-24,Zürich Airport,10
+2019-02-25,Adolfo Suárez Madrid–Barajas Airport,27
+2019-02-25,Amsterdam Airport Schiphol,40
+2019-02-25,Charles de Gaulle International Airport,42
+2019-02-25,Frankfurt am Main Airport,50
+2019-02-25,Josep Tarradellas Barcelona-El Prat Airport,9
+2019-02-25,London Gatwick Airport,17
+2019-02-25,London Heathrow Airport,108
+2019-02-25,Munich Airport,26
+2019-02-25,Rome–Fiumicino Leonardo da Vinci International Airport,11
+2019-02-25,Zürich Airport,10
+2019-02-26,Adolfo Suárez Madrid–Barajas Airport,22
+2019-02-26,Amsterdam Airport Schiphol,17
+2019-02-26,Charles de Gaulle International Airport,33
+2019-02-26,Frankfurt am Main Airport,32
+2019-02-26,Josep Tarradellas Barcelona-El Prat Airport,5
+2019-02-26,London Gatwick Airport,1
+2019-02-26,London Heathrow Airport,37
+2019-02-26,Munich Airport,8
+2019-02-26,Rome–Fiumicino Leonardo da Vinci International Airport,12
+2019-02-26,Zürich Airport,4
+2019-02-27,Adolfo Suárez Madrid–Barajas Airport,24
+2019-02-27,Amsterdam Airport Schiphol,27
+2019-02-27,Charles de Gaulle International Airport,32
+2019-02-27,Frankfurt am Main Airport,30
+2019-02-27,Josep Tarradellas Barcelona-El Prat Airport,7
+2019-02-27,London Gatwick Airport,5
+2019-02-27,London Heathrow Airport,29
+2019-02-27,Munich Airport,13
+2019-02-27,Rome–Fiumicino Leonardo da Vinci International Airport,7
+2019-02-27,Zürich Airport,8
+2019-02-28,Adolfo Suárez Madrid–Barajas Airport,37
+2019-02-28,Amsterdam Airport Schiphol,33
+2019-02-28,Charles de Gaulle International Airport,26
+2019-02-28,Frankfurt am Main Airport,44
+2019-02-28,Josep Tarradellas Barcelona-El Prat Airport,5
+2019-02-28,London Gatwick Airport,10
+2019-02-28,London Heathrow Airport,53
+2019-02-28,Munich Airport,14
+2019-02-28,Rome–Fiumicino Leonardo da Vinci International Airport,1
+2019-02-28,Zürich Airport,6
+2019-03-01,Adolfo Suárez Madrid–Barajas Airport,49
+2019-03-01,Amsterdam Airport Schiphol,34
+2019-03-01,Charles de Gaulle International Airport,41
+2019-03-01,Frankfurt am Main Airport,40
+2019-03-01,Josep Tarradellas Barcelona-El Prat Airport,18
+2019-03-01,London Gatwick Airport,20
+2019-03-01,London Heathrow Airport,64
+2019-03-01,Munich Airport,10
+2019-03-01,Rome–Fiumicino Leonardo da Vinci International Airport,8
+2019-03-01,Zürich Airport,8
+2019-03-02,Adolfo Suárez Madrid–Barajas Airport,38
+2019-03-02,Amsterdam Airport Schiphol,27
+2019-03-02,Charles de Gaulle International Airport,41
+2019-03-02,Frankfurt am Main Airport,39
+2019-03-02,Josep Tarradellas Barcelona-El Prat Airport,9
+2019-03-02,London Gatwick Airport,22
+2019-03-02,London Heathrow Airport,75
+2019-03-02,Munich Airport,17
+2019-03-02,Rome–Fiumicino Leonardo da Vinci International Airport,12
+2019-03-02,Zürich Airport,7
+2019-03-03,Adolfo Suárez Madrid–Barajas Airport,45
+2019-03-03,Amsterdam Airport Schiphol,88
+2019-03-03,Charles de Gaulle International Airport,102
+2019-03-03,Frankfurt am Main Airport,109
+2019-03-03,Josep Tarradellas Barcelona-El Prat Airport,41
+2019-03-03,London Gatwick Airport,53
+2019-03-03,London Heathrow Airport,156
+2019-03-03,Munich Airport,64
+2019-03-03,Rome–Fiumicino Leonardo da Vinci International Airport,28
+2019-03-03,Zürich Airport,33
+2019-03-04,Adolfo Suárez Madrid–Barajas Airport,54
+2019-03-04,Amsterdam Airport Schiphol,29
+2019-03-04,Charles de Gaulle International Airport,38
+2019-03-04,Frankfurt am Main Airport,57
+2019-03-04,Josep Tarradellas Barcelona-El Prat Airport,26
+2019-03-04,London Gatwick Airport,22
+2019-03-04,London Heathrow Airport,63
+2019-03-04,Munich Airport,13
+2019-03-04,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-03-04,Zürich Airport,10
+2019-03-05,Adolfo Suárez Madrid–Barajas Airport,75
+2019-03-05,Amsterdam Airport Schiphol,33
+2019-03-05,Charles de Gaulle International Airport,55
+2019-03-05,Frankfurt am Main Airport,66
+2019-03-05,Josep Tarradellas Barcelona-El Prat Airport,22
+2019-03-05,London Gatwick Airport,37
+2019-03-05,London Heathrow Airport,101
+2019-03-05,Munich Airport,23
+2019-03-05,Rome–Fiumicino Leonardo da Vinci International Airport,26
+2019-03-05,Zürich Airport,24
+2019-03-06,Adolfo Suárez Madrid–Barajas Airport,56
+2019-03-06,Amsterdam Airport Schiphol,72
+2019-03-06,Charles de Gaulle International Airport,109
+2019-03-06,Frankfurt am Main Airport,114
+2019-03-06,Josep Tarradellas Barcelona-El Prat Airport,55
+2019-03-06,London Gatwick Airport,31
+2019-03-06,London Heathrow Airport,180
+2019-03-06,Munich Airport,77
+2019-03-06,Rome–Fiumicino Leonardo da Vinci International Airport,69
+2019-03-06,Zürich Airport,47
+2019-03-07,Adolfo Suárez Madrid–Barajas Airport,24
+2019-03-07,Amsterdam Airport Schiphol,53
+2019-03-07,Charles de Gaulle International Airport,52
+2019-03-07,Frankfurt am Main Airport,85
+2019-03-07,Josep Tarradellas Barcelona-El Prat Airport,12
+2019-03-07,London Gatwick Airport,15
+2019-03-07,London Heathrow Airport,85
+2019-03-07,Munich Airport,36
+2019-03-07,Rome–Fiumicino Leonardo da Vinci International Airport,33
+2019-03-07,Zürich Airport,27
+2019-03-08,Adolfo Suárez Madrid–Barajas Airport,16
+2019-03-08,Amsterdam Airport Schiphol,42
+2019-03-08,Charles de Gaulle International Airport,50
+2019-03-08,Frankfurt am Main Airport,71
+2019-03-08,Josep Tarradellas Barcelona-El Prat Airport,11
+2019-03-08,London Gatwick Airport,11
+2019-03-08,London Heathrow Airport,77
+2019-03-08,Munich Airport,29
+2019-03-08,Rome–Fiumicino Leonardo da Vinci International Airport,21
+2019-03-08,Zürich Airport,18
+2019-03-09,Adolfo Suárez Madrid–Barajas Airport,97
+2019-03-09,Amsterdam Airport Schiphol,81
+2019-03-09,Charles de Gaulle International Airport,102
+2019-03-09,Frankfurt am Main Airport,114
+2019-03-09,Josep Tarradellas Barcelona-El Prat Airport,52
+2019-03-09,London Gatwick Airport,77
+2019-03-09,London Heathrow Airport,132
+2019-03-09,Munich Airport,43
+2019-03-09,Rome–Fiumicino Leonardo da Vinci International Airport,40
+2019-03-09,Zürich Airport,26
+2019-03-10,Adolfo Suárez Madrid–Barajas Airport,28
+2019-03-10,Amsterdam Airport Schiphol,43
+2019-03-10,Charles de Gaulle International Airport,46
+2019-03-10,Frankfurt am Main Airport,47
+2019-03-10,Josep Tarradellas Barcelona-El Prat Airport,16
+2019-03-10,London Gatwick Airport,18
+2019-03-10,London Heathrow Airport,56
+2019-03-10,Munich Airport,19
+2019-03-10,Rome–Fiumicino Leonardo da Vinci International Airport,22
+2019-03-10,Zürich Airport,19
+2019-03-11,Adolfo Suárez Madrid–Barajas Airport,20
+2019-03-11,Amsterdam Airport Schiphol,22
+2019-03-11,Charles de Gaulle International Airport,38
+2019-03-11,Frankfurt am Main Airport,44
+2019-03-11,Josep Tarradellas Barcelona-El Prat Airport,7
+2019-03-11,London Gatwick Airport,15
+2019-03-11,London Heathrow Airport,88
+2019-03-11,Munich Airport,12
+2019-03-11,Rome–Fiumicino Leonardo da Vinci International Airport,9
+2019-03-11,Zürich Airport,19
+2019-03-12,Adolfo Suárez Madrid–Barajas Airport,41
+2019-03-12,Amsterdam Airport Schiphol,27
+2019-03-12,Charles de Gaulle International Airport,48
+2019-03-12,Frankfurt am Main Airport,42
+2019-03-12,Josep Tarradellas Barcelona-El Prat Airport,19
+2019-03-12,London Gatwick Airport,13
+2019-03-12,London Heathrow Airport,79
+2019-03-12,Munich Airport,18
+2019-03-12,Rome–Fiumicino Leonardo da Vinci International Airport,17
+2019-03-12,Zürich Airport,13
+2019-03-13,Adolfo Suárez Madrid–Barajas Airport,26
+2019-03-13,Amsterdam Airport Schiphol,41
+2019-03-13,Charles de Gaulle International Airport,58
+2019-03-13,Frankfurt am Main Airport,77
+2019-03-13,Josep Tarradellas Barcelona-El Prat Airport,10
+2019-03-13,London Gatwick Airport,16
+2019-03-13,London Heathrow Airport,116
+2019-03-13,Munich Airport,25
+2019-03-13,Rome–Fiumicino Leonardo da Vinci International Airport,22
+2019-03-13,Zürich Airport,26
+2019-03-14,Adolfo Suárez Madrid–Barajas Airport,27
+2019-03-14,Amsterdam Airport Schiphol,39
+2019-03-14,Charles de Gaulle International Airport,57
+2019-03-14,Frankfurt am Main Airport,57
+2019-03-14,Josep Tarradellas Barcelona-El Prat Airport,22
+2019-03-14,London Gatwick Airport,34
+2019-03-14,London Heathrow Airport,108
+2019-03-14,Munich Airport,21
+2019-03-14,Rome–Fiumicino Leonardo da Vinci International Airport,15
+2019-03-14,Zürich Airport,20
+2019-03-15,Adolfo Suárez Madrid–Barajas Airport,32
+2019-03-15,Amsterdam Airport Schiphol,50
+2019-03-15,Charles de Gaulle International Airport,93
+2019-03-15,Frankfurt am Main Airport,95
+2019-03-15,Josep Tarradellas Barcelona-El Prat Airport,24
+2019-03-15,London Gatwick Airport,39
+2019-03-15,London Heathrow Airport,187
+2019-03-15,Munich Airport,42
+2019-03-15,Rome–Fiumicino Leonardo da Vinci International Airport,11
+2019-03-15,Zürich Airport,27
+2019-03-16,Adolfo Suárez Madrid–Barajas Airport,28
+2019-03-16,Amsterdam Airport Schiphol,42
+2019-03-16,Charles de Gaulle International Airport,41
+2019-03-16,Frankfurt am Main Airport,51
+2019-03-16,Josep Tarradellas Barcelona-El Prat Airport,6
+2019-03-16,London Gatwick Airport,36
+2019-03-16,London Heathrow Airport,92
+2019-03-16,Munich Airport,30
+2019-03-16,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-03-16,Zürich Airport,8
+2019-03-17,Adolfo Suárez Madrid–Barajas Airport,24
+2019-03-17,Amsterdam Airport Schiphol,29
+2019-03-17,Charles de Gaulle International Airport,54
+2019-03-17,Frankfurt am Main Airport,64
+2019-03-17,Josep Tarradellas Barcelona-El Prat Airport,7
+2019-03-17,London Gatwick Airport,12
+2019-03-17,London Heathrow Airport,88
+2019-03-17,Munich Airport,28
+2019-03-17,Rome–Fiumicino Leonardo da Vinci International Airport,16
+2019-03-17,Zürich Airport,10
+2019-03-18,Adolfo Suárez Madrid–Barajas Airport,16
+2019-03-18,Amsterdam Airport Schiphol,36
+2019-03-18,Charles de Gaulle International Airport,34
+2019-03-18,Frankfurt am Main Airport,42
+2019-03-18,Josep Tarradellas Barcelona-El Prat Airport,3
+2019-03-18,London Gatwick Airport,8
+2019-03-18,London Heathrow Airport,64
+2019-03-18,Munich Airport,23
+2019-03-18,Rome–Fiumicino Leonardo da Vinci International Airport,11
+2019-03-18,Zürich Airport,13
+2019-03-19,Adolfo Suárez Madrid–Barajas Airport,12
+2019-03-19,Amsterdam Airport Schiphol,24
+2019-03-19,Charles de Gaulle International Airport,30
+2019-03-19,Frankfurt am Main Airport,41
+2019-03-19,Josep Tarradellas Barcelona-El Prat Airport,1
+2019-03-19,London Gatwick Airport,7
+2019-03-19,London Heathrow Airport,75
+2019-03-19,Munich Airport,16
+2019-03-19,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-03-19,Zürich Airport,14
+2019-03-20,Adolfo Suárez Madrid–Barajas Airport,16
+2019-03-20,Amsterdam Airport Schiphol,57
+2019-03-20,Charles de Gaulle International Airport,48
+2019-03-20,Frankfurt am Main Airport,59
+2019-03-20,Josep Tarradellas Barcelona-El Prat Airport,12
+2019-03-20,London Gatwick Airport,16
+2019-03-20,London Heathrow Airport,59
+2019-03-20,Munich Airport,24
+2019-03-20,Rome–Fiumicino Leonardo da Vinci International Airport,6
+2019-03-20,Zürich Airport,4
+2019-03-21,Adolfo Suárez Madrid–Barajas Airport,19
+2019-03-21,Amsterdam Airport Schiphol,25
+2019-03-21,Charles de Gaulle International Airport,29
+2019-03-21,Frankfurt am Main Airport,35
+2019-03-21,Josep Tarradellas Barcelona-El Prat Airport,3
+2019-03-21,London Gatwick Airport,12
+2019-03-21,London Heathrow Airport,92
+2019-03-21,Munich Airport,14
+2019-03-21,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-03-21,Zürich Airport,8
+2019-03-22,Adolfo Suárez Madrid–Barajas Airport,18
+2019-03-22,Amsterdam Airport Schiphol,19
+2019-03-22,Charles de Gaulle International Airport,36
+2019-03-22,Frankfurt am Main Airport,39
+2019-03-22,Josep Tarradellas Barcelona-El Prat Airport,8
+2019-03-22,London Gatwick Airport,13
+2019-03-22,London Heathrow Airport,42
+2019-03-22,Munich Airport,11
+2019-03-22,Rome–Fiumicino Leonardo da Vinci International Airport,9
+2019-03-22,Zürich Airport,8
+2019-03-23,Adolfo Suárez Madrid–Barajas Airport,23
+2019-03-23,Amsterdam Airport Schiphol,26
+2019-03-23,Charles de Gaulle International Airport,69
+2019-03-23,Frankfurt am Main Airport,61
+2019-03-23,Josep Tarradellas Barcelona-El Prat Airport,14
+2019-03-23,London Gatwick Airport,13
+2019-03-23,London Heathrow Airport,103
+2019-03-23,Munich Airport,26
+2019-03-23,Rome–Fiumicino Leonardo da Vinci International Airport,9
+2019-03-23,Zürich Airport,14
+2019-03-24,Adolfo Suárez Madrid–Barajas Airport,11
+2019-03-24,Amsterdam Airport Schiphol,23
+2019-03-24,Charles de Gaulle International Airport,32
+2019-03-24,Frankfurt am Main Airport,36
+2019-03-24,Josep Tarradellas Barcelona-El Prat Airport,4
+2019-03-24,London Gatwick Airport,13
+2019-03-24,London Heathrow Airport,95
+2019-03-24,Munich Airport,14
+2019-03-24,Rome–Fiumicino Leonardo da Vinci International Airport,9
+2019-03-24,Zürich Airport,10
+2019-03-25,Adolfo Suárez Madrid–Barajas Airport,11
+2019-03-25,Amsterdam Airport Schiphol,15
+2019-03-25,Charles de Gaulle International Airport,25
+2019-03-25,Frankfurt am Main Airport,24
+2019-03-25,Josep Tarradellas Barcelona-El Prat Airport,4
+2019-03-25,London Gatwick Airport,13
+2019-03-25,London Heathrow Airport,75
+2019-03-25,Munich Airport,10
+2019-03-25,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-03-25,Zürich Airport,12
+2019-03-26,Adolfo Suárez Madrid–Barajas Airport,19
+2019-03-26,Amsterdam Airport Schiphol,22
+2019-03-26,Charles de Gaulle International Airport,25
+2019-03-26,Frankfurt am Main Airport,27
+2019-03-26,Josep Tarradellas Barcelona-El Prat Airport,8
+2019-03-26,London Gatwick Airport,6
+2019-03-26,London Heathrow Airport,64
+2019-03-26,Munich Airport,16
+2019-03-26,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-03-26,Zürich Airport,10
+2019-03-27,Adolfo Suárez Madrid–Barajas Airport,10
+2019-03-27,Amsterdam Airport Schiphol,25
+2019-03-27,Charles de Gaulle International Airport,34
+2019-03-27,Frankfurt am Main Airport,25
+2019-03-27,Josep Tarradellas Barcelona-El Prat Airport,2
+2019-03-27,London Gatwick Airport,11
+2019-03-27,London Heathrow Airport,79
+2019-03-27,Munich Airport,9
+2019-03-27,Rome–Fiumicino Leonardo da Vinci International Airport,7
+2019-03-27,Zürich Airport,6
+2019-03-28,Adolfo Suárez Madrid–Barajas Airport,8
+2019-03-28,Amsterdam Airport Schiphol,33
+2019-03-28,Charles de Gaulle International Airport,44
+2019-03-28,Frankfurt am Main Airport,54
+2019-03-28,Josep Tarradellas Barcelona-El Prat Airport,2
+2019-03-28,London Gatwick Airport,14
+2019-03-28,London Heathrow Airport,104
+2019-03-28,Munich Airport,22
+2019-03-28,Rome–Fiumicino Leonardo da Vinci International Airport,7
+2019-03-28,Zürich Airport,16
+2019-03-29,Adolfo Suárez Madrid–Barajas Airport,15
+2019-03-29,Amsterdam Airport Schiphol,38
+2019-03-29,Charles de Gaulle International Airport,42
+2019-03-29,Frankfurt am Main Airport,66
+2019-03-29,Josep Tarradellas Barcelona-El Prat Airport,10
+2019-03-29,London Gatwick Airport,9
+2019-03-29,London Heathrow Airport,96
+2019-03-29,Munich Airport,37
+2019-03-29,Rome–Fiumicino Leonardo da Vinci International Airport,18
+2019-03-29,Zürich Airport,19
+2019-03-30,Adolfo Suárez Madrid–Barajas Airport,21
+2019-03-30,Amsterdam Airport Schiphol,34
+2019-03-30,Charles de Gaulle International Airport,50
+2019-03-30,Frankfurt am Main Airport,61
+2019-03-30,Josep Tarradellas Barcelona-El Prat Airport,9
+2019-03-30,London Gatwick Airport,12
+2019-03-30,London Heathrow Airport,76
+2019-03-30,Munich Airport,28
+2019-03-30,Rome–Fiumicino Leonardo da Vinci International Airport,16
+2019-03-30,Zürich Airport,17
+2019-03-31,Adolfo Suárez Madrid–Barajas Airport,15
+2019-03-31,Amsterdam Airport Schiphol,23
+2019-03-31,Charles de Gaulle International Airport,30
+2019-03-31,Frankfurt am Main Airport,30
+2019-03-31,Josep Tarradellas Barcelona-El Prat Airport,8
+2019-03-31,London Gatwick Airport,6
+2019-03-31,London Heathrow Airport,66
+2019-03-31,Munich Airport,12
+2019-03-31,Rome–Fiumicino Leonardo da Vinci International Airport,16
+2019-03-31,Zürich Airport,12
+2019-04-01,Adolfo Suárez Madrid–Barajas Airport,33
+2019-04-01,Amsterdam Airport Schiphol,32
+2019-04-01,Charles de Gaulle International Airport,46
+2019-04-01,Frankfurt am Main Airport,38
+2019-04-01,Josep Tarradellas Barcelona-El Prat Airport,17
+2019-04-01,London Gatwick Airport,26
+2019-04-01,London Heathrow Airport,115
+2019-04-01,Munich Airport,12
+2019-04-01,Rome–Fiumicino Leonardo da Vinci International Airport,23
+2019-04-01,Zürich Airport,16
+2019-04-02,Adolfo Suárez Madrid–Barajas Airport,15
+2019-04-02,Amsterdam Airport Schiphol,55
+2019-04-02,Charles de Gaulle International Airport,61
+2019-04-02,Frankfurt am Main Airport,75
+2019-04-02,Josep Tarradellas Barcelona-El Prat Airport,10
+2019-04-02,London Gatwick Airport,22
+2019-04-02,London Heathrow Airport,106
+2019-04-02,Munich Airport,49
+2019-04-02,Rome–Fiumicino Leonardo da Vinci International Airport,13
+2019-04-02,Zürich Airport,34
+2019-04-03,Adolfo Suárez Madrid–Barajas Airport,17
+2019-04-03,Amsterdam Airport Schiphol,25
+2019-04-03,Charles de Gaulle International Airport,34
+2019-04-03,Frankfurt am Main Airport,30
+2019-04-03,Josep Tarradellas Barcelona-El Prat Airport,6
+2019-04-03,London Gatwick Airport,11
+2019-04-03,London Heathrow Airport,52
+2019-04-03,Munich Airport,8
+2019-04-03,Rome–Fiumicino Leonardo da Vinci International Airport,12
+2019-04-03,Zürich Airport,6
+2019-04-04,Adolfo Suárez Madrid–Barajas Airport,16
+2019-04-04,Amsterdam Airport Schiphol,16
+2019-04-04,Charles de Gaulle International Airport,18
+2019-04-04,Frankfurt am Main Airport,26
+2019-04-04,Josep Tarradellas Barcelona-El Prat Airport,4
+2019-04-04,London Gatwick Airport,6
+2019-04-04,London Heathrow Airport,36
+2019-04-04,Munich Airport,2
+2019-04-04,Rome–Fiumicino Leonardo da Vinci International Airport,5
+2019-04-04,Zürich Airport,8
+2019-04-05,Adolfo Suárez Madrid–Barajas Airport,29
+2019-04-05,Amsterdam Airport Schiphol,24
+2019-04-05,Charles de Gaulle International Airport,56
+2019-04-05,Frankfurt am Main Airport,54
+2019-04-05,Josep Tarradellas Barcelona-El Prat Airport,17
+2019-04-05,London Gatwick Airport,18
+2019-04-05,London Heathrow Airport,93
+2019-04-05,Munich Airport,8
+2019-04-05,Rome–Fiumicino Leonardo da Vinci International Airport,4
+2019-04-05,Zürich Airport,15
+2019-04-06,Adolfo Suárez Madrid–Barajas Airport,15
+2019-04-06,Amsterdam Airport Schiphol,27
+2019-04-06,Charles de Gaulle International Airport,39
+2019-04-06,Frankfurt am Main Airport,59
+2019-04-06,Josep Tarradellas Barcelona-El Prat Airport,3
+2019-04-06,London Gatwick Airport,8
+2019-04-06,London Heathrow Airport,91
+2019-04-06,Munich Airport,22
+2019-04-06,Rome–Fiumicino Leonardo da Vinci International Airport,6
+2019-04-06,Zürich Airport,20
+2019-04-07,Adolfo Suárez Madrid–Barajas Airport,28
+2019-04-07,Amsterdam Airport Schiphol,27
+2019-04-07,Charles de Gaulle International Airport,21
+2019-04-07,Frankfurt am Main Airport,32
+2019-04-07,Josep Tarradellas Barcelona-El Prat Airport,2
+2019-04-07,London Gatwick Airport,5
+2019-04-07,London Heathrow Airport,55
+2019-04-07,Munich Airport,5
+2019-04-07,Rome–Fiumicino Leonardo da Vinci International Airport,6
+2019-04-07,Zürich Airport,11
+2019-04-08,Adolfo Suárez Madrid–Barajas Airport,20
+2019-04-08,Amsterdam Airport Schiphol,24
+2019-04-08,Charles de Gaulle International Airport,30
+2019-04-08,Frankfurt am Main Airport,47
+2019-04-08,Josep Tarradellas Barcelona-El Prat Airport,5
+2019-04-08,London Gatwick Airport,9
+2019-04-08,London Heathrow Airport,53
+2019-04-08,Munich Airport,22
+2019-04-08,Rome–Fiumicino Leonardo da Vinci International Airport,11
+2019-04-08,Zürich Airport,9
+2019-04-09,Adolfo Suárez Madrid–Barajas Airport,16
+2019-04-09,Amsterdam Airport Schiphol,21
+2019-04-09,Charles de Gaulle International Airport,19
+2019-04-09,Frankfurt am Main Airport,33
+2019-04-09,Josep Tarradellas Barcelona-El Prat Airport,5
+2019-04-09,London Gatwick Airport,4
+2019-04-09,London Heathrow Airport,48
+2019-04-09,Munich Airport,14
+2019-04-09,Rome–Fiumicino Leonardo da Vinci International Airport,5
+2019-04-09,Zürich Airport,12
+2019-04-10,Adolfo Suárez Madrid–Barajas Airport,26
+2019-04-10,Amsterdam Airport Schiphol,26
+2019-04-10,Charles de Gaulle International Airport,36
+2019-04-10,Frankfurt am Main Airport,39
+2019-04-10,Josep Tarradellas Barcelona-El Prat Airport,1
+2019-04-10,London Gatwick Airport,4
+2019-04-10,London Heathrow Airport,46
+2019-04-10,Munich Airport,16
+2019-04-10,Rome–Fiumicino Leonardo da Vinci International Airport,6
+2019-04-10,Zürich Airport,15
+2019-04-11,Adolfo Suárez Madrid–Barajas Airport,14
+2019-04-11,Amsterdam Airport Schiphol,18
+2019-04-11,Charles de Gaulle International Airport,23
+2019-04-11,Frankfurt am Main Airport,47
+2019-04-11,Josep Tarradellas Barcelona-El Prat Airport,9
+2019-04-11,London Gatwick Airport,4
+2019-04-11,London Heathrow Airport,44
+2019-04-11,Munich Airport,17
+2019-04-11,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-04-11,Zürich Airport,9
+2019-04-12,Adolfo Suárez Madrid–Barajas Airport,26
+2019-04-12,Amsterdam Airport Schiphol,27
+2019-04-12,Charles de Gaulle International Airport,28
+2019-04-12,Frankfurt am Main Airport,46
+2019-04-12,Josep Tarradellas Barcelona-El Prat Airport,8
+2019-04-12,London Gatwick Airport,3
+2019-04-12,London Heathrow Airport,46
+2019-04-12,Munich Airport,12
+2019-04-12,Rome–Fiumicino Leonardo da Vinci International Airport,16
+2019-04-12,Zürich Airport,9
+2019-04-13,Adolfo Suárez Madrid–Barajas Airport,22
+2019-04-13,Amsterdam Airport Schiphol,23
+2019-04-13,Charles de Gaulle International Airport,35
+2019-04-13,Frankfurt am Main Airport,28
+2019-04-13,Josep Tarradellas Barcelona-El Prat Airport,7
+2019-04-13,London Gatwick Airport,7
+2019-04-13,London Heathrow Airport,44
+2019-04-13,Munich Airport,13
+2019-04-13,Rome–Fiumicino Leonardo da Vinci International Airport,8
+2019-04-13,Zürich Airport,9
+2019-04-14,Adolfo Suárez Madrid–Barajas Airport,39
+2019-04-14,Amsterdam Airport Schiphol,11
+2019-04-14,Charles de Gaulle International Airport,12
+2019-04-14,Frankfurt am Main Airport,23
+2019-04-14,Josep Tarradellas Barcelona-El Prat Airport,8
+2019-04-14,London Gatwick Airport,9
+2019-04-14,London Heathrow Airport,20
+2019-04-14,Munich Airport,7
+2019-04-14,Rome–Fiumicino Leonardo da Vinci International Airport,6
+2019-04-14,Zürich Airport,10
+2019-04-15,Adolfo Suárez Madrid–Barajas Airport,35
+2019-04-15,Amsterdam Airport Schiphol,25
+2019-04-15,Charles de Gaulle International Airport,32
+2019-04-15,Frankfurt am Main Airport,31
+2019-04-15,Josep Tarradellas Barcelona-El Prat Airport,26
+2019-04-15,London Gatwick Airport,28
+2019-04-15,London Heathrow Airport,77
+2019-04-15,Munich Airport,10
+2019-04-15,Rome–Fiumicino Leonardo da Vinci International Airport,16
+2019-04-15,Zürich Airport,12
+2019-04-16,Adolfo Suárez Madrid–Barajas Airport,43
+2019-04-16,Amsterdam Airport Schiphol,14
+2019-04-16,Charles de Gaulle International Airport,29
+2019-04-16,Frankfurt am Main Airport,21
+2019-04-16,Josep Tarradellas Barcelona-El Prat Airport,18
+2019-04-16,London Gatwick Airport,19
+2019-04-16,London Heathrow Airport,69
+2019-04-16,Munich Airport,6
+2019-04-16,Rome–Fiumicino Leonardo da Vinci International Airport,11
+2019-04-16,Zürich Airport,22
+2019-04-17,Adolfo Suárez Madrid–Barajas Airport,70
+2019-04-17,Amsterdam Airport Schiphol,31
+2019-04-17,Charles de Gaulle International Airport,39
+2019-04-17,Frankfurt am Main Airport,42
+2019-04-17,Josep Tarradellas Barcelona-El Prat Airport,42
+2019-04-17,London Gatwick Airport,21
+2019-04-17,London Heathrow Airport,58
+2019-04-17,Munich Airport,9
+2019-04-17,Rome–Fiumicino Leonardo da Vinci International Airport,16
+2019-04-17,Zürich Airport,10
+2019-04-18,Adolfo Suárez Madrid–Barajas Airport,57
+2019-04-18,Amsterdam Airport Schiphol,22
+2019-04-18,Charles de Gaulle International Airport,43
+2019-04-18,Frankfurt am Main Airport,27
+2019-04-18,Josep Tarradellas Barcelona-El Prat Airport,43
+2019-04-18,London Gatwick Airport,25
+2019-04-18,London Heathrow Airport,53
+2019-04-18,Munich Airport,13
+2019-04-18,Rome–Fiumicino Leonardo da Vinci International Airport,17
+2019-04-18,Zürich Airport,9
+2019-04-19,Adolfo Suárez Madrid–Barajas Airport,20
+2019-04-19,Amsterdam Airport Schiphol,18
+2019-04-19,Charles de Gaulle International Airport,37
+2019-04-19,Frankfurt am Main Airport,32
+2019-04-19,Josep Tarradellas Barcelona-El Prat Airport,9
+2019-04-19,London Gatwick Airport,11
+2019-04-19,London Heathrow Airport,69
+2019-04-19,Munich Airport,10
+2019-04-19,Rome–Fiumicino Leonardo da Vinci International Airport,20
+2019-04-19,Zürich Airport,9
+2019-04-20,Adolfo Suárez Madrid–Barajas Airport,20
+2019-04-20,Amsterdam Airport Schiphol,18
+2019-04-20,Charles de Gaulle International Airport,32
+2019-04-20,Frankfurt am Main Airport,16
+2019-04-20,Josep Tarradellas Barcelona-El Prat Airport,12
+2019-04-20,London Gatwick Airport,12
+2019-04-20,London Heathrow Airport,61
+2019-04-20,Munich Airport,11
+2019-04-20,Rome–Fiumicino Leonardo da Vinci International Airport,21
+2019-04-20,Zürich Airport,10
+2019-04-21,Adolfo Suárez Madrid–Barajas Airport,27
+2019-04-21,Amsterdam Airport Schiphol,27
+2019-04-21,Charles de Gaulle International Airport,63
+2019-04-21,Frankfurt am Main Airport,46
+2019-04-21,Josep Tarradellas Barcelona-El Prat Airport,44
+2019-04-21,London Gatwick Airport,17
+2019-04-21,London Heathrow Airport,81
+2019-04-21,Munich Airport,19
+2019-04-21,Rome–Fiumicino Leonardo da Vinci International Airport,60
+2019-04-21,Zürich Airport,23
+2019-04-22,Adolfo Suárez Madrid–Barajas Airport,41
+2019-04-22,Amsterdam Airport Schiphol,31
+2019-04-22,Charles de Gaulle International Airport,48
+2019-04-22,Frankfurt am Main Airport,41
+2019-04-22,Josep Tarradellas Barcelona-El Prat Airport,16
+2019-04-22,London Gatwick Airport,17
+2019-04-22,London Heathrow Airport,71
+2019-04-22,Munich Airport,15
+2019-04-22,Rome–Fiumicino Leonardo da Vinci International Airport,15
+2019-04-22,Zürich Airport,11
+2019-04-23,Adolfo Suárez Madrid–Barajas Airport,32
+2019-04-23,Amsterdam Airport Schiphol,30
+2019-04-23,Charles de Gaulle International Airport,41
+2019-04-23,Frankfurt am Main Airport,47
+2019-04-23,Josep Tarradellas Barcelona-El Prat Airport,21
+2019-04-23,London Gatwick Airport,24
+2019-04-23,London Heathrow Airport,71
+2019-04-23,Munich Airport,23
+2019-04-23,Rome–Fiumicino Leonardo da Vinci International Airport,14
+2019-04-23,Zürich Airport,12
+2019-04-24,Adolfo Suárez Madrid–Barajas Airport,27
+2019-04-24,Amsterdam Airport Schiphol,14
+2019-04-24,Charles de Gaulle International Airport,26
+2019-04-24,Frankfurt am Main Airport,22
+2019-04-24,Josep Tarradellas Barcelona-El Prat Airport,9
+2019-04-24,London Gatwick Airport,8
+2019-04-24,London Heathrow Airport,44
+2019-04-24,Munich Airport,17
+2019-04-24,Rome–Fiumicino Leonardo da Vinci International Airport,21
+2019-04-24,Zürich Airport,15
+2019-04-25,Adolfo Suárez Madrid–Barajas Airport,18
+2019-04-25,Amsterdam Airport Schiphol,11
+2019-04-25,Charles de Gaulle International Airport,33
+2019-04-25,Frankfurt am Main Airport,51
+2019-04-25,Josep Tarradellas Barcelona-El Prat Airport,18
+2019-04-25,London Gatwick Airport,5
+2019-04-25,London Heathrow Airport,42
+2019-04-25,Munich Airport,14
+2019-04-25,Rome–Fiumicino Leonardo da Vinci International Airport,34
+2019-04-25,Zürich Airport,13
+2019-04-26,Adolfo Suárez Madrid–Barajas Airport,19
+2019-04-26,Amsterdam Airport Schiphol,31
+2019-04-26,Charles de Gaulle International Airport,31
+2019-04-26,Frankfurt am Main Airport,56
+2019-04-26,Josep Tarradellas Barcelona-El Prat Airport,7
+2019-04-26,London Gatwick Airport,16
+2019-04-26,London Heathrow Airport,49
+2019-04-26,Munich Airport,24
+2019-04-26,Rome–Fiumicino Leonardo da Vinci International Airport,22
+2019-04-26,Zürich Airport,6
+2019-04-27,Adolfo Suárez Madrid–Barajas Airport,21
+2019-04-27,Amsterdam Airport Schiphol,19
+2019-04-27,Charles de Gaulle International Airport,36
+2019-04-27,Frankfurt am Main Airport,30
+2019-04-27,Josep Tarradellas Barcelona-El Prat Airport,5
+2019-04-27,London Gatwick Airport,6
+2019-04-27,London Heathrow Airport,36
+2019-04-27,Munich Airport,8
+2019-04-27,Rome–Fiumicino Leonardo da Vinci International Airport,6
+2019-04-27,Zürich Airport,6
+2019-04-28,Adolfo Suárez Madrid–Barajas Airport,26
+2019-04-28,Amsterdam Airport Schiphol,35
+2019-04-28,Charles de Gaulle International Airport,53
+2019-04-28,Frankfurt am Main Airport,57
+2019-04-28,Josep Tarradellas Barcelona-El Prat Airport,25
+2019-04-28,London Gatwick Airport,24
+2019-04-28,London Heathrow Airport,92
+2019-04-28,Munich Airport,20
+2019-04-28,Rome–Fiumicino Leonardo da Vinci International Airport,12
+2019-04-28,Zürich Airport,10
+2019-04-29,Adolfo Suárez Madrid–Barajas Airport,22
+2019-04-29,Amsterdam Airport Schiphol,20
+2019-04-29,Charles de Gaulle International Airport,25
+2019-04-29,Frankfurt am Main Airport,35
+2019-04-29,Josep Tarradellas Barcelona-El Prat Airport,2
+2019-04-29,London Gatwick Airport,4
+2019-04-29,London Heathrow Airport,42
+2019-04-29,Munich Airport,9
+2019-04-29,Rome–Fiumicino Leonardo da Vinci International Airport,5
+2019-04-29,Zürich Airport,10
+2019-04-30,Adolfo Suárez Madrid–Barajas Airport,29
+2019-04-30,Amsterdam Airport Schiphol,15
+2019-04-30,Charles de Gaulle International Airport,24
+2019-04-30,Frankfurt am Main Airport,25
+2019-04-30,Josep Tarradellas Barcelona-El Prat Airport,9
+2019-04-30,London Gatwick Airport,5
+2019-04-30,London Heathrow Airport,45
+2019-04-30,Munich Airport,14
+2019-04-30,Rome–Fiumicino Leonardo da Vinci International Airport,13
+2019-04-30,Zürich Airport,13
+2019-05-01,Adolfo Suárez Madrid–Barajas Airport,28
+2019-05-01,Amsterdam Airport Schiphol,27
+2019-05-01,Charles de Gaulle International Airport,24
+2019-05-01,Frankfurt am Main Airport,40
+2019-05-01,Josep Tarradellas Barcelona-El Prat Airport,1
+2019-05-01,London Gatwick Airport,6
+2019-05-01,London Heathrow Airport,52
+2019-05-01,Munich Airport,19
+2019-05-01,Rome–Fiumicino Leonardo da Vinci International Airport,7
+2019-05-01,Zürich Airport,16
+2019-05-02,Adolfo Suárez Madrid–Barajas Airport,22
+2019-05-02,Amsterdam Airport Schiphol,27
+2019-05-02,Charles de Gaulle International Airport,30
+2019-05-02,Frankfurt am Main Airport,32
+2019-05-02,Josep Tarradellas Barcelona-El Prat Airport,10
+2019-05-02,London Gatwick Airport,10
+2019-05-02,London Heathrow Airport,54
+2019-05-02,Munich Airport,8
+2019-05-02,Rome–Fiumicino Leonardo da Vinci International Airport,13
+2019-05-02,Zürich Airport,12
+2019-05-03,Adolfo Suárez Madrid–Barajas Airport,23
+2019-05-03,Amsterdam Airport Schiphol,32
+2019-05-03,Charles de Gaulle International Airport,37
+2019-05-03,Frankfurt am Main Airport,42
+2019-05-03,Josep Tarradellas Barcelona-El Prat Airport,7
+2019-05-03,London Gatwick Airport,11
+2019-05-03,London Heathrow Airport,69
+2019-05-03,Munich Airport,21
+2019-05-03,Rome–Fiumicino Leonardo da Vinci International Airport,14
+2019-05-03,Zürich Airport,6
+2019-05-04,Adolfo Suárez Madrid–Barajas Airport,27
+2019-05-04,Amsterdam Airport Schiphol,30
+2019-05-04,Charles de Gaulle International Airport,42
+2019-05-04,Frankfurt am Main Airport,41
+2019-05-04,Josep Tarradellas Barcelona-El Prat Airport,4
+2019-05-04,London Gatwick Airport,15
+2019-05-04,London Heathrow Airport,63
+2019-05-04,Munich Airport,18
+2019-05-04,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-05-04,Zürich Airport,12
+2019-05-05,Adolfo Suárez Madrid–Barajas Airport,29
+2019-05-05,Amsterdam Airport Schiphol,31
+2019-05-05,Charles de Gaulle International Airport,34
+2019-05-05,Frankfurt am Main Airport,32
+2019-05-05,Josep Tarradellas Barcelona-El Prat Airport,9
+2019-05-05,London Gatwick Airport,12
+2019-05-05,London Heathrow Airport,55
+2019-05-05,Munich Airport,14
+2019-05-05,Rome–Fiumicino Leonardo da Vinci International Airport,18
+2019-05-05,Zürich Airport,9
+2019-05-06,Adolfo Suárez Madrid–Barajas Airport,36
+2019-05-06,Amsterdam Airport Schiphol,26
+2019-05-06,Charles de Gaulle International Airport,26
+2019-05-06,Frankfurt am Main Airport,29
+2019-05-06,Josep Tarradellas Barcelona-El Prat Airport,19
+2019-05-06,London Gatwick Airport,22
+2019-05-06,London Heathrow Airport,43
+2019-05-06,Munich Airport,4
+2019-05-06,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-05-06,Zürich Airport,3
+2019-05-07,Adolfo Suárez Madrid–Barajas Airport,60
+2019-05-07,Amsterdam Airport Schiphol,26
+2019-05-07,Charles de Gaulle International Airport,43
+2019-05-07,Frankfurt am Main Airport,34
+2019-05-07,Josep Tarradellas Barcelona-El Prat Airport,31
+2019-05-07,London Gatwick Airport,37
+2019-05-07,London Heathrow Airport,57
+2019-05-07,Munich Airport,12
+2019-05-07,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-05-07,Zürich Airport,11
+2019-05-08,Adolfo Suárez Madrid–Barajas Airport,70
+2019-05-08,Amsterdam Airport Schiphol,23
+2019-05-08,Charles de Gaulle International Airport,49
+2019-05-08,Frankfurt am Main Airport,65
+2019-05-08,Josep Tarradellas Barcelona-El Prat Airport,38
+2019-05-08,London Gatwick Airport,34
+2019-05-08,London Heathrow Airport,52
+2019-05-08,Munich Airport,21
+2019-05-08,Rome–Fiumicino Leonardo da Vinci International Airport,26
+2019-05-08,Zürich Airport,20
+2019-05-09,Adolfo Suárez Madrid–Barajas Airport,30
+2019-05-09,Amsterdam Airport Schiphol,25
+2019-05-09,Charles de Gaulle International Airport,25
+2019-05-09,Frankfurt am Main Airport,30
+2019-05-09,Josep Tarradellas Barcelona-El Prat Airport,19
+2019-05-09,London Gatwick Airport,5
+2019-05-09,London Heathrow Airport,40
+2019-05-09,Munich Airport,8
+2019-05-09,Rome–Fiumicino Leonardo da Vinci International Airport,16
+2019-05-09,Zürich Airport,7
+2019-05-10,Adolfo Suárez Madrid–Barajas Airport,31
+2019-05-10,Amsterdam Airport Schiphol,29
+2019-05-10,Charles de Gaulle International Airport,31
+2019-05-10,Frankfurt am Main Airport,22
+2019-05-10,Josep Tarradellas Barcelona-El Prat Airport,16
+2019-05-10,London Gatwick Airport,14
+2019-05-10,London Heathrow Airport,61
+2019-05-10,Munich Airport,8
+2019-05-10,Rome–Fiumicino Leonardo da Vinci International Airport,6
+2019-05-10,Zürich Airport,3
+2019-05-11,Adolfo Suárez Madrid–Barajas Airport,29
+2019-05-11,Amsterdam Airport Schiphol,23
+2019-05-11,Charles de Gaulle International Airport,34
+2019-05-11,Frankfurt am Main Airport,39
+2019-05-11,Josep Tarradellas Barcelona-El Prat Airport,12
+2019-05-11,London Gatwick Airport,16
+2019-05-11,London Heathrow Airport,31
+2019-05-11,Munich Airport,9
+2019-05-11,Rome–Fiumicino Leonardo da Vinci International Airport,17
+2019-05-11,Zürich Airport,15
+2019-05-12,Adolfo Suárez Madrid–Barajas Airport,28
+2019-05-12,Amsterdam Airport Schiphol,38
+2019-05-12,Charles de Gaulle International Airport,36
+2019-05-12,Frankfurt am Main Airport,56
+2019-05-12,Josep Tarradellas Barcelona-El Prat Airport,12
+2019-05-12,London Gatwick Airport,10
+2019-05-12,London Heathrow Airport,61
+2019-05-12,Munich Airport,19
+2019-05-12,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-05-12,Zürich Airport,13
+2019-05-13,Adolfo Suárez Madrid–Barajas Airport,18
+2019-05-13,Amsterdam Airport Schiphol,14
+2019-05-13,Charles de Gaulle International Airport,23
+2019-05-13,Frankfurt am Main Airport,33
+2019-05-13,Josep Tarradellas Barcelona-El Prat Airport,3
+2019-05-13,London Gatwick Airport,3
+2019-05-13,London Heathrow Airport,32
+2019-05-13,Munich Airport,8
+2019-05-13,Rome–Fiumicino Leonardo da Vinci International Airport,13
+2019-05-13,Zürich Airport,9
+2019-05-14,Adolfo Suárez Madrid–Barajas Airport,16
+2019-05-14,Amsterdam Airport Schiphol,23
+2019-05-14,Charles de Gaulle International Airport,24
+2019-05-14,Frankfurt am Main Airport,27
+2019-05-14,Josep Tarradellas Barcelona-El Prat Airport,2
+2019-05-14,London Gatwick Airport,6
+2019-05-14,London Heathrow Airport,33
+2019-05-14,Munich Airport,9
+2019-05-14,Rome–Fiumicino Leonardo da Vinci International Airport,9
+2019-05-14,Zürich Airport,5
+2019-05-15,Adolfo Suárez Madrid–Barajas Airport,32
+2019-05-15,Amsterdam Airport Schiphol,20
+2019-05-15,Charles de Gaulle International Airport,27
+2019-05-15,Frankfurt am Main Airport,45
+2019-05-15,Josep Tarradellas Barcelona-El Prat Airport,15
+2019-05-15,London Gatwick Airport,20
+2019-05-15,London Heathrow Airport,37
+2019-05-15,Munich Airport,8
+2019-05-15,Rome–Fiumicino Leonardo da Vinci International Airport,3
+2019-05-15,Zürich Airport,7
+2019-05-16,Adolfo Suárez Madrid–Barajas Airport,29
+2019-05-16,Amsterdam Airport Schiphol,20
+2019-05-16,Charles de Gaulle International Airport,24
+2019-05-16,Frankfurt am Main Airport,30
+2019-05-16,Josep Tarradellas Barcelona-El Prat Airport,20
+2019-05-16,London Gatwick Airport,8
+2019-05-16,London Heathrow Airport,34
+2019-05-16,Munich Airport,14
+2019-05-16,Rome–Fiumicino Leonardo da Vinci International Airport,2
+2019-05-16,Zürich Airport,8
+2019-05-17,Adolfo Suárez Madrid–Barajas Airport,15
+2019-05-17,Amsterdam Airport Schiphol,22
+2019-05-17,Charles de Gaulle International Airport,35
+2019-05-17,Frankfurt am Main Airport,46
+2019-05-17,Josep Tarradellas Barcelona-El Prat Airport,13
+2019-05-17,London Gatwick Airport,9
+2019-05-17,London Heathrow Airport,36
+2019-05-17,Munich Airport,9
+2019-05-17,Rome–Fiumicino Leonardo da Vinci International Airport,14
+2019-05-17,Zürich Airport,8
+2019-05-18,Adolfo Suárez Madrid–Barajas Airport,32
+2019-05-18,Amsterdam Airport Schiphol,21
+2019-05-18,Charles de Gaulle International Airport,29
+2019-05-18,Frankfurt am Main Airport,33
+2019-05-18,Josep Tarradellas Barcelona-El Prat Airport,5
+2019-05-18,London Gatwick Airport,13
+2019-05-18,London Heathrow Airport,41
+2019-05-18,Munich Airport,19
+2019-05-18,Rome–Fiumicino Leonardo da Vinci International Airport,9
+2019-05-18,Zürich Airport,5
+2019-05-19,Adolfo Suárez Madrid–Barajas Airport,37
+2019-05-19,Amsterdam Airport Schiphol,29
+2019-05-19,Charles de Gaulle International Airport,54
+2019-05-19,Frankfurt am Main Airport,46
+2019-05-19,Josep Tarradellas Barcelona-El Prat Airport,14
+2019-05-19,London Gatwick Airport,11
+2019-05-19,London Heathrow Airport,94
+2019-05-19,Munich Airport,20
+2019-05-19,Rome–Fiumicino Leonardo da Vinci International Airport,20
+2019-05-19,Zürich Airport,15
+2019-05-20,Adolfo Suárez Madrid–Barajas Airport,14
+2019-05-20,Amsterdam Airport Schiphol,14
+2019-05-20,Charles de Gaulle International Airport,20
+2019-05-20,Frankfurt am Main Airport,36
+2019-05-20,Josep Tarradellas Barcelona-El Prat Airport,10
+2019-05-20,London Gatwick Airport,12
+2019-05-20,London Heathrow Airport,60
+2019-05-20,Munich Airport,13
+2019-05-20,Rome–Fiumicino Leonardo da Vinci International Airport,6
+2019-05-20,Zürich Airport,5
+2019-05-21,Adolfo Suárez Madrid–Barajas Airport,23
+2019-05-21,Amsterdam Airport Schiphol,21
+2019-05-21,Charles de Gaulle International Airport,48
+2019-05-21,Frankfurt am Main Airport,39
+2019-05-21,Josep Tarradellas Barcelona-El Prat Airport,9
+2019-05-21,London Gatwick Airport,12
+2019-05-21,London Heathrow Airport,60
+2019-05-21,Munich Airport,20
+2019-05-21,Rome–Fiumicino Leonardo da Vinci International Airport,15
+2019-05-21,Zürich Airport,14
+2019-05-22,Adolfo Suárez Madrid–Barajas Airport,31
+2019-05-22,Amsterdam Airport Schiphol,30
+2019-05-22,Charles de Gaulle International Airport,42
+2019-05-22,Frankfurt am Main Airport,49
+2019-05-22,Josep Tarradellas Barcelona-El Prat Airport,12
+2019-05-22,London Gatwick Airport,18
+2019-05-22,London Heathrow Airport,78
+2019-05-22,Munich Airport,13
+2019-05-22,Rome–Fiumicino Leonardo da Vinci International Airport,9
+2019-05-22,Zürich Airport,11
+2019-05-23,Adolfo Suárez Madrid–Barajas Airport,22
+2019-05-23,Amsterdam Airport Schiphol,29
+2019-05-23,Charles de Gaulle International Airport,38
+2019-05-23,Frankfurt am Main Airport,50
+2019-05-23,Josep Tarradellas Barcelona-El Prat Airport,21
+2019-05-23,London Gatwick Airport,18
+2019-05-23,London Heathrow Airport,80
+2019-05-23,Munich Airport,18
+2019-05-23,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-05-23,Zürich Airport,8
+2019-05-24,Adolfo Suárez Madrid–Barajas Airport,34
+2019-05-24,Amsterdam Airport Schiphol,43
+2019-05-24,Charles de Gaulle International Airport,48
+2019-05-24,Frankfurt am Main Airport,67
+2019-05-24,Josep Tarradellas Barcelona-El Prat Airport,35
+2019-05-24,London Gatwick Airport,24
+2019-05-24,London Heathrow Airport,69
+2019-05-24,Munich Airport,23
+2019-05-24,Rome–Fiumicino Leonardo da Vinci International Airport,28
+2019-05-24,Zürich Airport,15
+2019-05-25,Adolfo Suárez Madrid–Barajas Airport,21
+2019-05-25,Amsterdam Airport Schiphol,26
+2019-05-25,Charles de Gaulle International Airport,35
+2019-05-25,Frankfurt am Main Airport,42
+2019-05-25,Josep Tarradellas Barcelona-El Prat Airport,18
+2019-05-25,London Gatwick Airport,5
+2019-05-25,London Heathrow Airport,42
+2019-05-25,Munich Airport,22
+2019-05-25,Rome–Fiumicino Leonardo da Vinci International Airport,12
+2019-05-25,Zürich Airport,11
+2019-05-26,Adolfo Suárez Madrid–Barajas Airport,22
+2019-05-26,Amsterdam Airport Schiphol,44
+2019-05-26,Charles de Gaulle International Airport,57
+2019-05-26,Frankfurt am Main Airport,59
+2019-05-26,Josep Tarradellas Barcelona-El Prat Airport,16
+2019-05-26,London Gatwick Airport,36
+2019-05-26,London Heathrow Airport,74
+2019-05-26,Munich Airport,25
+2019-05-26,Rome–Fiumicino Leonardo da Vinci International Airport,23
+2019-05-26,Zürich Airport,10
+2019-05-27,Adolfo Suárez Madrid–Barajas Airport,36
+2019-05-27,Amsterdam Airport Schiphol,39
+2019-05-27,Charles de Gaulle International Airport,54
+2019-05-27,Frankfurt am Main Airport,41
+2019-05-27,Josep Tarradellas Barcelona-El Prat Airport,57
+2019-05-27,London Gatwick Airport,40
+2019-05-27,London Heathrow Airport,64
+2019-05-27,Munich Airport,18
+2019-05-27,Rome–Fiumicino Leonardo da Vinci International Airport,20
+2019-05-27,Zürich Airport,5
+2019-05-28,Adolfo Suárez Madrid–Barajas Airport,17
+2019-05-28,Amsterdam Airport Schiphol,20
+2019-05-28,Charles de Gaulle International Airport,35
+2019-05-28,Frankfurt am Main Airport,33
+2019-05-28,Josep Tarradellas Barcelona-El Prat Airport,9
+2019-05-28,London Gatwick Airport,10
+2019-05-28,London Heathrow Airport,59
+2019-05-28,Munich Airport,11
+2019-05-28,Rome–Fiumicino Leonardo da Vinci International Airport,17
+2019-05-28,Zürich Airport,14
+2019-05-29,Adolfo Suárez Madrid–Barajas Airport,15
+2019-05-29,Amsterdam Airport Schiphol,51
+2019-05-29,Charles de Gaulle International Airport,72
+2019-05-29,Frankfurt am Main Airport,62
+2019-05-29,Josep Tarradellas Barcelona-El Prat Airport,13
+2019-05-29,London Gatwick Airport,28
+2019-05-29,London Heathrow Airport,132
+2019-05-29,Munich Airport,20
+2019-05-29,Rome–Fiumicino Leonardo da Vinci International Airport,19
+2019-05-29,Zürich Airport,20
+2019-05-30,Adolfo Suárez Madrid–Barajas Airport,14
+2019-05-30,Amsterdam Airport Schiphol,28
+2019-05-30,Charles de Gaulle International Airport,53
+2019-05-30,Frankfurt am Main Airport,35
+2019-05-30,Josep Tarradellas Barcelona-El Prat Airport,9
+2019-05-30,London Gatwick Airport,25
+2019-05-30,London Heathrow Airport,80
+2019-05-30,Munich Airport,14
+2019-05-30,Rome–Fiumicino Leonardo da Vinci International Airport,12
+2019-05-30,Zürich Airport,8
+2019-05-31,Adolfo Suárez Madrid–Barajas Airport,10
+2019-05-31,Amsterdam Airport Schiphol,15
+2019-05-31,Charles de Gaulle International Airport,24
+2019-05-31,Frankfurt am Main Airport,39
+2019-05-31,Josep Tarradellas Barcelona-El Prat Airport,8
+2019-05-31,London Gatwick Airport,38
+2019-05-31,London Heathrow Airport,59
+2019-05-31,Munich Airport,7
+2019-05-31,Rome–Fiumicino Leonardo da Vinci International Airport,4
+2019-05-31,Zürich Airport,1
+2019-06-01,Adolfo Suárez Madrid–Barajas Airport,15
+2019-06-01,Amsterdam Airport Schiphol,16
+2019-06-01,Charles de Gaulle International Airport,22
+2019-06-01,Frankfurt am Main Airport,22
+2019-06-01,Josep Tarradellas Barcelona-El Prat Airport,9
+2019-06-01,London Gatwick Airport,8
+2019-06-01,London Heathrow Airport,39
+2019-06-01,Munich Airport,5
+2019-06-01,Rome–Fiumicino Leonardo da Vinci International Airport,2
+2019-06-01,Zürich Airport,0
+2019-06-02,Adolfo Suárez Madrid–Barajas Airport,29
+2019-06-02,Amsterdam Airport Schiphol,16
+2019-06-02,Charles de Gaulle International Airport,28
+2019-06-02,Frankfurt am Main Airport,31
+2019-06-02,Josep Tarradellas Barcelona-El Prat Airport,14
+2019-06-02,London Gatwick Airport,22
+2019-06-02,London Heathrow Airport,49
+2019-06-02,Munich Airport,6
+2019-06-02,Rome–Fiumicino Leonardo da Vinci International Airport,7
+2019-06-02,Zürich Airport,6
+2019-06-03,Adolfo Suárez Madrid–Barajas Airport,17
+2019-06-03,Amsterdam Airport Schiphol,14
+2019-06-03,Charles de Gaulle International Airport,18
+2019-06-03,Frankfurt am Main Airport,26
+2019-06-03,Josep Tarradellas Barcelona-El Prat Airport,9
+2019-06-03,London Gatwick Airport,5
+2019-06-03,London Heathrow Airport,43
+2019-06-03,Munich Airport,8
+2019-06-03,Rome–Fiumicino Leonardo da Vinci International Airport,11
+2019-06-03,Zürich Airport,6
+2019-06-04,Adolfo Suárez Madrid–Barajas Airport,26
+2019-06-04,Amsterdam Airport Schiphol,31
+2019-06-04,Charles de Gaulle International Airport,30
+2019-06-04,Frankfurt am Main Airport,24
+2019-06-04,Josep Tarradellas Barcelona-El Prat Airport,10
+2019-06-04,London Gatwick Airport,22
+2019-06-04,London Heathrow Airport,84
+2019-06-04,Munich Airport,16
+2019-06-04,Rome–Fiumicino Leonardo da Vinci International Airport,15
+2019-06-04,Zürich Airport,14
+2019-06-05,Adolfo Suárez Madrid–Barajas Airport,19
+2019-06-05,Amsterdam Airport Schiphol,10
+2019-06-05,Charles de Gaulle International Airport,19
+2019-06-05,Frankfurt am Main Airport,24
+2019-06-05,Josep Tarradellas Barcelona-El Prat Airport,4
+2019-06-05,London Gatwick Airport,3
+2019-06-05,London Heathrow Airport,43
+2019-06-05,Munich Airport,8
+2019-06-05,Rome–Fiumicino Leonardo da Vinci International Airport,8
+2019-06-05,Zürich Airport,5
+2019-06-06,Adolfo Suárez Madrid–Barajas Airport,19
+2019-06-06,Amsterdam Airport Schiphol,10
+2019-06-06,Charles de Gaulle International Airport,16
+2019-06-06,Frankfurt am Main Airport,25
+2019-06-06,Josep Tarradellas Barcelona-El Prat Airport,11
+2019-06-06,London Gatwick Airport,6
+2019-06-06,London Heathrow Airport,30
+2019-06-06,Munich Airport,2
+2019-06-06,Rome–Fiumicino Leonardo da Vinci International Airport,4
+2019-06-06,Zürich Airport,1
+2019-06-07,Adolfo Suárez Madrid–Barajas Airport,20
+2019-06-07,Amsterdam Airport Schiphol,8
+2019-06-07,Charles de Gaulle International Airport,10
+2019-06-07,Frankfurt am Main Airport,13
+2019-06-07,Josep Tarradellas Barcelona-El Prat Airport,11
+2019-06-07,London Gatwick Airport,11
+2019-06-07,London Heathrow Airport,24
+2019-06-07,Munich Airport,4
+2019-06-07,Rome–Fiumicino Leonardo da Vinci International Airport,5
+2019-06-07,Zürich Airport,3
+2019-06-08,Adolfo Suárez Madrid–Barajas Airport,18
+2019-06-08,Amsterdam Airport Schiphol,8
+2019-06-08,Charles de Gaulle International Airport,17
+2019-06-08,Frankfurt am Main Airport,15
+2019-06-08,Josep Tarradellas Barcelona-El Prat Airport,5
+2019-06-08,London Gatwick Airport,5
+2019-06-08,London Heathrow Airport,28
+2019-06-08,Munich Airport,2
+2019-06-08,Rome–Fiumicino Leonardo da Vinci International Airport,3
+2019-06-08,Zürich Airport,7
+2019-06-09,Adolfo Suárez Madrid–Barajas Airport,27
+2019-06-09,Amsterdam Airport Schiphol,14
+2019-06-09,Charles de Gaulle International Airport,33
+2019-06-09,Frankfurt am Main Airport,24
+2019-06-09,Josep Tarradellas Barcelona-El Prat Airport,25
+2019-06-09,London Gatwick Airport,12
+2019-06-09,London Heathrow Airport,39
+2019-06-09,Munich Airport,6
+2019-06-09,Rome–Fiumicino Leonardo da Vinci International Airport,19
+2019-06-09,Zürich Airport,7
+2019-06-10,Adolfo Suárez Madrid–Barajas Airport,29
+2019-06-10,Amsterdam Airport Schiphol,20
+2019-06-10,Charles de Gaulle International Airport,30
+2019-06-10,Frankfurt am Main Airport,29
+2019-06-10,Josep Tarradellas Barcelona-El Prat Airport,8
+2019-06-10,London Gatwick Airport,13
+2019-06-10,London Heathrow Airport,60
+2019-06-10,Munich Airport,14
+2019-06-10,Rome–Fiumicino Leonardo da Vinci International Airport,18
+2019-06-10,Zürich Airport,10
+2019-06-11,Adolfo Suárez Madrid–Barajas Airport,10
+2019-06-11,Amsterdam Airport Schiphol,27
+2019-06-11,Charles de Gaulle International Airport,38
+2019-06-11,Frankfurt am Main Airport,46
+2019-06-11,Josep Tarradellas Barcelona-El Prat Airport,5
+2019-06-11,London Gatwick Airport,11
+2019-06-11,London Heathrow Airport,69
+2019-06-11,Munich Airport,19
+2019-06-11,Rome–Fiumicino Leonardo da Vinci International Airport,12
+2019-06-11,Zürich Airport,10
+2019-06-12,Adolfo Suárez Madrid–Barajas Airport,18
+2019-06-12,Amsterdam Airport Schiphol,17
+2019-06-12,Charles de Gaulle International Airport,14
+2019-06-12,Frankfurt am Main Airport,18
+2019-06-12,Josep Tarradellas Barcelona-El Prat Airport,4
+2019-06-12,London Gatwick Airport,6
+2019-06-12,London Heathrow Airport,20
+2019-06-12,Munich Airport,5
+2019-06-12,Rome–Fiumicino Leonardo da Vinci International Airport,5
+2019-06-12,Zürich Airport,4
+2019-06-13,Adolfo Suárez Madrid–Barajas Airport,27
+2019-06-13,Amsterdam Airport Schiphol,18
+2019-06-13,Charles de Gaulle International Airport,26
+2019-06-13,Frankfurt am Main Airport,14
+2019-06-13,Josep Tarradellas Barcelona-El Prat Airport,9
+2019-06-13,London Gatwick Airport,8
+2019-06-13,London Heathrow Airport,46
+2019-06-13,Munich Airport,7
+2019-06-13,Rome–Fiumicino Leonardo da Vinci International Airport,6
+2019-06-13,Zürich Airport,6
+2019-06-14,Adolfo Suárez Madrid–Barajas Airport,14
+2019-06-14,Amsterdam Airport Schiphol,5
+2019-06-14,Charles de Gaulle International Airport,8
+2019-06-14,Frankfurt am Main Airport,18
+2019-06-14,Josep Tarradellas Barcelona-El Prat Airport,2
+2019-06-14,London Gatwick Airport,9
+2019-06-14,London Heathrow Airport,26
+2019-06-14,Munich Airport,5
+2019-06-14,Rome–Fiumicino Leonardo da Vinci International Airport,6
+2019-06-14,Zürich Airport,2
+2019-06-15,Adolfo Suárez Madrid–Barajas Airport,10
+2019-06-15,Amsterdam Airport Schiphol,6
+2019-06-15,Charles de Gaulle International Airport,11
+2019-06-15,Frankfurt am Main Airport,19
+2019-06-15,Josep Tarradellas Barcelona-El Prat Airport,5
+2019-06-15,London Gatwick Airport,5
+2019-06-15,London Heathrow Airport,23
+2019-06-15,Munich Airport,7
+2019-06-15,Rome–Fiumicino Leonardo da Vinci International Airport,7
+2019-06-15,Zürich Airport,1
+2019-06-16,Adolfo Suárez Madrid–Barajas Airport,19
+2019-06-16,Amsterdam Airport Schiphol,13
+2019-06-16,Charles de Gaulle International Airport,24
+2019-06-16,Frankfurt am Main Airport,15
+2019-06-16,Josep Tarradellas Barcelona-El Prat Airport,12
+2019-06-16,London Gatwick Airport,3
+2019-06-16,London Heathrow Airport,31
+2019-06-16,Munich Airport,11
+2019-06-16,Rome–Fiumicino Leonardo da Vinci International Airport,16
+2019-06-16,Zürich Airport,6
+2019-06-17,Adolfo Suárez Madrid–Barajas Airport,21
+2019-06-17,Amsterdam Airport Schiphol,38
+2019-06-17,Charles de Gaulle International Airport,30
+2019-06-17,Frankfurt am Main Airport,39
+2019-06-17,Josep Tarradellas Barcelona-El Prat Airport,15
+2019-06-17,London Gatwick Airport,28
+2019-06-17,London Heathrow Airport,79
+2019-06-17,Munich Airport,19
+2019-06-17,Rome–Fiumicino Leonardo da Vinci International Airport,16
+2019-06-17,Zürich Airport,14
+2019-06-18,Adolfo Suárez Madrid–Barajas Airport,18
+2019-06-18,Amsterdam Airport Schiphol,13
+2019-06-18,Charles de Gaulle International Airport,24
+2019-06-18,Frankfurt am Main Airport,24
+2019-06-18,Josep Tarradellas Barcelona-El Prat Airport,10
+2019-06-18,London Gatwick Airport,12
+2019-06-18,London Heathrow Airport,57
+2019-06-18,Munich Airport,14
+2019-06-18,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-06-18,Zürich Airport,8
+2019-06-19,Adolfo Suárez Madrid–Barajas Airport,10
+2019-06-19,Amsterdam Airport Schiphol,20
+2019-06-19,Charles de Gaulle International Airport,41
+2019-06-19,Frankfurt am Main Airport,38
+2019-06-19,Josep Tarradellas Barcelona-El Prat Airport,18
+2019-06-19,London Gatwick Airport,14
+2019-06-19,London Heathrow Airport,78
+2019-06-19,Munich Airport,18
+2019-06-19,Rome–Fiumicino Leonardo da Vinci International Airport,19
+2019-06-19,Zürich Airport,11
+2019-06-20,Adolfo Suárez Madrid–Barajas Airport,17
+2019-06-20,Amsterdam Airport Schiphol,24
+2019-06-20,Charles de Gaulle International Airport,19
+2019-06-20,Frankfurt am Main Airport,37
+2019-06-20,Josep Tarradellas Barcelona-El Prat Airport,6
+2019-06-20,London Gatwick Airport,7
+2019-06-20,London Heathrow Airport,35
+2019-06-20,Munich Airport,11
+2019-06-20,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-06-20,Zürich Airport,4
+2019-06-21,Adolfo Suárez Madrid–Barajas Airport,30
+2019-06-21,Amsterdam Airport Schiphol,18
+2019-06-21,Charles de Gaulle International Airport,37
+2019-06-21,Frankfurt am Main Airport,37
+2019-06-21,Josep Tarradellas Barcelona-El Prat Airport,21
+2019-06-21,London Gatwick Airport,15
+2019-06-21,London Heathrow Airport,43
+2019-06-21,Munich Airport,15
+2019-06-21,Rome–Fiumicino Leonardo da Vinci International Airport,31
+2019-06-21,Zürich Airport,7
+2019-06-22,Adolfo Suárez Madrid–Barajas Airport,35
+2019-06-22,Amsterdam Airport Schiphol,26
+2019-06-22,Charles de Gaulle International Airport,32
+2019-06-22,Frankfurt am Main Airport,53
+2019-06-22,Josep Tarradellas Barcelona-El Prat Airport,26
+2019-06-22,London Gatwick Airport,48
+2019-06-22,London Heathrow Airport,54
+2019-06-22,Munich Airport,17
+2019-06-22,Rome–Fiumicino Leonardo da Vinci International Airport,12
+2019-06-22,Zürich Airport,11
+2019-06-23,Adolfo Suárez Madrid–Barajas Airport,45
+2019-06-23,Amsterdam Airport Schiphol,37
+2019-06-23,Charles de Gaulle International Airport,43
+2019-06-23,Frankfurt am Main Airport,29
+2019-06-23,Josep Tarradellas Barcelona-El Prat Airport,43
+2019-06-23,London Gatwick Airport,52
+2019-06-23,London Heathrow Airport,63
+2019-06-23,Munich Airport,17
+2019-06-23,Rome–Fiumicino Leonardo da Vinci International Airport,11
+2019-06-23,Zürich Airport,6
+2019-06-24,Adolfo Suárez Madrid–Barajas Airport,28
+2019-06-24,Amsterdam Airport Schiphol,37
+2019-06-24,Charles de Gaulle International Airport,40
+2019-06-24,Frankfurt am Main Airport,31
+2019-06-24,Josep Tarradellas Barcelona-El Prat Airport,27
+2019-06-24,London Gatwick Airport,38
+2019-06-24,London Heathrow Airport,60
+2019-06-24,Munich Airport,17
+2019-06-24,Rome–Fiumicino Leonardo da Vinci International Airport,19
+2019-06-24,Zürich Airport,12
+2019-06-25,Adolfo Suárez Madrid–Barajas Airport,15
+2019-06-25,Amsterdam Airport Schiphol,20
+2019-06-25,Charles de Gaulle International Airport,23
+2019-06-25,Frankfurt am Main Airport,34
+2019-06-25,Josep Tarradellas Barcelona-El Prat Airport,8
+2019-06-25,London Gatwick Airport,13
+2019-06-25,London Heathrow Airport,40
+2019-06-25,Munich Airport,20
+2019-06-25,Rome–Fiumicino Leonardo da Vinci International Airport,9
+2019-06-25,Zürich Airport,9
+2019-06-26,Adolfo Suárez Madrid–Barajas Airport,4
+2019-06-26,Amsterdam Airport Schiphol,11
+2019-06-26,Charles de Gaulle International Airport,19
+2019-06-26,Frankfurt am Main Airport,21
+2019-06-26,Josep Tarradellas Barcelona-El Prat Airport,4
+2019-06-26,London Gatwick Airport,2
+2019-06-26,London Heathrow Airport,21
+2019-06-26,Munich Airport,4
+2019-06-26,Rome–Fiumicino Leonardo da Vinci International Airport,5
+2019-06-26,Zürich Airport,4
+2019-06-27,Adolfo Suárez Madrid–Barajas Airport,13
+2019-06-27,Amsterdam Airport Schiphol,9
+2019-06-27,Charles de Gaulle International Airport,15
+2019-06-27,Frankfurt am Main Airport,16
+2019-06-27,Josep Tarradellas Barcelona-El Prat Airport,4
+2019-06-27,London Gatwick Airport,9
+2019-06-27,London Heathrow Airport,22
+2019-06-27,Munich Airport,2
+2019-06-27,Rome–Fiumicino Leonardo da Vinci International Airport,7
+2019-06-27,Zürich Airport,5
+2019-06-28,Adolfo Suárez Madrid–Barajas Airport,14
+2019-06-28,Amsterdam Airport Schiphol,11
+2019-06-28,Charles de Gaulle International Airport,11
+2019-06-28,Frankfurt am Main Airport,8
+2019-06-28,Josep Tarradellas Barcelona-El Prat Airport,8
+2019-06-28,London Gatwick Airport,3
+2019-06-28,London Heathrow Airport,24
+2019-06-28,Munich Airport,3
+2019-06-28,Rome–Fiumicino Leonardo da Vinci International Airport,6
+2019-06-28,Zürich Airport,2
+2019-06-29,Adolfo Suárez Madrid–Barajas Airport,7
+2019-06-29,Amsterdam Airport Schiphol,14
+2019-06-29,Charles de Gaulle International Airport,16
+2019-06-29,Frankfurt am Main Airport,25
+2019-06-29,Josep Tarradellas Barcelona-El Prat Airport,3
+2019-06-29,London Gatwick Airport,4
+2019-06-29,London Heathrow Airport,15
+2019-06-29,Munich Airport,4
+2019-06-29,Rome–Fiumicino Leonardo da Vinci International Airport,3
+2019-06-29,Zürich Airport,1
+2019-06-30,Adolfo Suárez Madrid–Barajas Airport,17
+2019-06-30,Amsterdam Airport Schiphol,13
+2019-06-30,Charles de Gaulle International Airport,17
+2019-06-30,Frankfurt am Main Airport,17
+2019-06-30,Josep Tarradellas Barcelona-El Prat Airport,2
+2019-06-30,London Gatwick Airport,5
+2019-06-30,London Heathrow Airport,36
+2019-06-30,Munich Airport,6
+2019-06-30,Rome–Fiumicino Leonardo da Vinci International Airport,9
+2019-06-30,Zürich Airport,7
+2019-07-01,Adolfo Suárez Madrid–Barajas Airport,9
+2019-07-01,Amsterdam Airport Schiphol,16
+2019-07-01,Charles de Gaulle International Airport,8
+2019-07-01,Frankfurt am Main Airport,19
+2019-07-01,Josep Tarradellas Barcelona-El Prat Airport,4
+2019-07-01,London Gatwick Airport,5
+2019-07-01,London Heathrow Airport,26
+2019-07-01,Munich Airport,6
+2019-07-01,Rome–Fiumicino Leonardo da Vinci International Airport,11
+2019-07-01,Zürich Airport,5
+2019-07-02,Adolfo Suárez Madrid–Barajas Airport,19
+2019-07-02,Amsterdam Airport Schiphol,11
+2019-07-02,Charles de Gaulle International Airport,21
+2019-07-02,Frankfurt am Main Airport,8
+2019-07-02,Josep Tarradellas Barcelona-El Prat Airport,4
+2019-07-02,London Gatwick Airport,14
+2019-07-02,London Heathrow Airport,41
+2019-07-02,Munich Airport,6
+2019-07-02,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-07-02,Zürich Airport,6
+2019-07-03,Adolfo Suárez Madrid–Barajas Airport,12
+2019-07-03,Amsterdam Airport Schiphol,20
+2019-07-03,Charles de Gaulle International Airport,14
+2019-07-03,Frankfurt am Main Airport,25
+2019-07-03,Josep Tarradellas Barcelona-El Prat Airport,0
+2019-07-03,London Gatwick Airport,4
+2019-07-03,London Heathrow Airport,57
+2019-07-03,Munich Airport,7
+2019-07-03,Rome–Fiumicino Leonardo da Vinci International Airport,2
+2019-07-03,Zürich Airport,2
+2019-07-04,Adolfo Suárez Madrid–Barajas Airport,12
+2019-07-04,Amsterdam Airport Schiphol,9
+2019-07-04,Charles de Gaulle International Airport,15
+2019-07-04,Frankfurt am Main Airport,10
+2019-07-04,Josep Tarradellas Barcelona-El Prat Airport,4
+2019-07-04,London Gatwick Airport,6
+2019-07-04,London Heathrow Airport,28
+2019-07-04,Munich Airport,3
+2019-07-04,Rome–Fiumicino Leonardo da Vinci International Airport,0
+2019-07-04,Zürich Airport,2
+2019-07-05,Adolfo Suárez Madrid–Barajas Airport,19
+2019-07-05,Amsterdam Airport Schiphol,20
+2019-07-05,Charles de Gaulle International Airport,20
+2019-07-05,Frankfurt am Main Airport,16
+2019-07-05,Josep Tarradellas Barcelona-El Prat Airport,7
+2019-07-05,London Gatwick Airport,5
+2019-07-05,London Heathrow Airport,34
+2019-07-05,Munich Airport,8
+2019-07-05,Rome–Fiumicino Leonardo da Vinci International Airport,8
+2019-07-05,Zürich Airport,3
+2019-07-06,Adolfo Suárez Madrid–Barajas Airport,10
+2019-07-06,Amsterdam Airport Schiphol,7
+2019-07-06,Charles de Gaulle International Airport,18
+2019-07-06,Frankfurt am Main Airport,8
+2019-07-06,Josep Tarradellas Barcelona-El Prat Airport,6
+2019-07-06,London Gatwick Airport,8
+2019-07-06,London Heathrow Airport,48
+2019-07-06,Munich Airport,10
+2019-07-06,Rome–Fiumicino Leonardo da Vinci International Airport,5
+2019-07-06,Zürich Airport,3
+2019-07-07,Adolfo Suárez Madrid–Barajas Airport,10
+2019-07-07,Amsterdam Airport Schiphol,19
+2019-07-07,Charles de Gaulle International Airport,27
+2019-07-07,Frankfurt am Main Airport,21
+2019-07-07,Josep Tarradellas Barcelona-El Prat Airport,6
+2019-07-07,London Gatwick Airport,15
+2019-07-07,London Heathrow Airport,79
+2019-07-07,Munich Airport,7
+2019-07-07,Rome–Fiumicino Leonardo da Vinci International Airport,17
+2019-07-07,Zürich Airport,11
+2019-07-08,Adolfo Suárez Madrid–Barajas Airport,13
+2019-07-08,Amsterdam Airport Schiphol,24
+2019-07-08,Charles de Gaulle International Airport,32
+2019-07-08,Frankfurt am Main Airport,35
+2019-07-08,Josep Tarradellas Barcelona-El Prat Airport,6
+2019-07-08,London Gatwick Airport,17
+2019-07-08,London Heathrow Airport,51
+2019-07-08,Munich Airport,17
+2019-07-08,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-07-08,Zürich Airport,3
+2019-07-09,Adolfo Suárez Madrid–Barajas Airport,11
+2019-07-09,Amsterdam Airport Schiphol,16
+2019-07-09,Charles de Gaulle International Airport,23
+2019-07-09,Frankfurt am Main Airport,17
+2019-07-09,Josep Tarradellas Barcelona-El Prat Airport,6
+2019-07-09,London Gatwick Airport,7
+2019-07-09,London Heathrow Airport,36
+2019-07-09,Munich Airport,7
+2019-07-09,Rome–Fiumicino Leonardo da Vinci International Airport,4
+2019-07-09,Zürich Airport,2
+2019-07-10,Adolfo Suárez Madrid–Barajas Airport,9
+2019-07-10,Amsterdam Airport Schiphol,19
+2019-07-10,Charles de Gaulle International Airport,19
+2019-07-10,Frankfurt am Main Airport,23
+2019-07-10,Josep Tarradellas Barcelona-El Prat Airport,8
+2019-07-10,London Gatwick Airport,7
+2019-07-10,London Heathrow Airport,21
+2019-07-10,Munich Airport,5
+2019-07-10,Rome–Fiumicino Leonardo da Vinci International Airport,3
+2019-07-10,Zürich Airport,5
+2019-07-11,Adolfo Suárez Madrid–Barajas Airport,2
+2019-07-11,Amsterdam Airport Schiphol,13
+2019-07-11,Charles de Gaulle International Airport,23
+2019-07-11,Frankfurt am Main Airport,19
+2019-07-11,Josep Tarradellas Barcelona-El Prat Airport,0
+2019-07-11,London Gatwick Airport,5
+2019-07-11,London Heathrow Airport,31
+2019-07-11,Munich Airport,5
+2019-07-11,Rome–Fiumicino Leonardo da Vinci International Airport,2
+2019-07-11,Zürich Airport,6
+2019-07-12,Adolfo Suárez Madrid–Barajas Airport,1
+2019-07-12,Amsterdam Airport Schiphol,18
+2019-07-12,Charles de Gaulle International Airport,18
+2019-07-12,Frankfurt am Main Airport,19
+2019-07-12,Josep Tarradellas Barcelona-El Prat Airport,3
+2019-07-12,London Gatwick Airport,1
+2019-07-12,London Heathrow Airport,34
+2019-07-12,Munich Airport,11
+2019-07-12,Rome–Fiumicino Leonardo da Vinci International Airport,4
+2019-07-12,Zürich Airport,6
+2019-07-13,Adolfo Suárez Madrid–Barajas Airport,13
+2019-07-13,Amsterdam Airport Schiphol,25
+2019-07-13,Charles de Gaulle International Airport,27
+2019-07-13,Frankfurt am Main Airport,31
+2019-07-13,Josep Tarradellas Barcelona-El Prat Airport,6
+2019-07-13,London Gatwick Airport,7
+2019-07-13,London Heathrow Airport,68
+2019-07-13,Munich Airport,11
+2019-07-13,Rome–Fiumicino Leonardo da Vinci International Airport,6
+2019-07-13,Zürich Airport,7
+2019-07-14,Adolfo Suárez Madrid–Barajas Airport,6
+2019-07-14,Amsterdam Airport Schiphol,20
+2019-07-14,Charles de Gaulle International Airport,24
+2019-07-14,Frankfurt am Main Airport,29
+2019-07-14,Josep Tarradellas Barcelona-El Prat Airport,2
+2019-07-14,London Gatwick Airport,6
+2019-07-14,London Heathrow Airport,35
+2019-07-14,Munich Airport,12
+2019-07-14,Rome–Fiumicino Leonardo da Vinci International Airport,5
+2019-07-14,Zürich Airport,9
+2019-07-15,Adolfo Suárez Madrid–Barajas Airport,6
+2019-07-15,Amsterdam Airport Schiphol,19
+2019-07-15,Charles de Gaulle International Airport,26
+2019-07-15,Frankfurt am Main Airport,39
+2019-07-15,Josep Tarradellas Barcelona-El Prat Airport,7
+2019-07-15,London Gatwick Airport,19
+2019-07-15,London Heathrow Airport,59
+2019-07-15,Munich Airport,15
+2019-07-15,Rome–Fiumicino Leonardo da Vinci International Airport,8
+2019-07-15,Zürich Airport,5
+2019-07-16,Adolfo Suárez Madrid–Barajas Airport,18
+2019-07-16,Amsterdam Airport Schiphol,19
+2019-07-16,Charles de Gaulle International Airport,50
+2019-07-16,Frankfurt am Main Airport,29
+2019-07-16,Josep Tarradellas Barcelona-El Prat Airport,7
+2019-07-16,London Gatwick Airport,22
+2019-07-16,London Heathrow Airport,67
+2019-07-16,Munich Airport,7
+2019-07-16,Rome–Fiumicino Leonardo da Vinci International Airport,14
+2019-07-16,Zürich Airport,7
+2019-07-17,Adolfo Suárez Madrid–Barajas Airport,21
+2019-07-17,Amsterdam Airport Schiphol,24
+2019-07-17,Charles de Gaulle International Airport,41
+2019-07-17,Frankfurt am Main Airport,53
+2019-07-17,Josep Tarradellas Barcelona-El Prat Airport,32
+2019-07-17,London Gatwick Airport,24
+2019-07-17,London Heathrow Airport,78
+2019-07-17,Munich Airport,25
+2019-07-17,Rome–Fiumicino Leonardo da Vinci International Airport,20
+2019-07-17,Zürich Airport,19
+2019-07-18,Adolfo Suárez Madrid–Barajas Airport,19
+2019-07-18,Amsterdam Airport Schiphol,44
+2019-07-18,Charles de Gaulle International Airport,47
+2019-07-18,Frankfurt am Main Airport,40
+2019-07-18,Josep Tarradellas Barcelona-El Prat Airport,24
+2019-07-18,London Gatwick Airport,49
+2019-07-18,London Heathrow Airport,83
+2019-07-18,Munich Airport,19
+2019-07-18,Rome–Fiumicino Leonardo da Vinci International Airport,25
+2019-07-18,Zürich Airport,12
+2019-07-19,Adolfo Suárez Madrid–Barajas Airport,11
+2019-07-19,Amsterdam Airport Schiphol,22
+2019-07-19,Charles de Gaulle International Airport,26
+2019-07-19,Frankfurt am Main Airport,34
+2019-07-19,Josep Tarradellas Barcelona-El Prat Airport,9
+2019-07-19,London Gatwick Airport,51
+2019-07-19,London Heathrow Airport,77
+2019-07-19,Munich Airport,14
+2019-07-19,Rome–Fiumicino Leonardo da Vinci International Airport,13
+2019-07-19,Zürich Airport,14
+2019-07-20,Adolfo Suárez Madrid–Barajas Airport,11
+2019-07-20,Amsterdam Airport Schiphol,22
+2019-07-20,Charles de Gaulle International Airport,36
+2019-07-20,Frankfurt am Main Airport,41
+2019-07-20,Josep Tarradellas Barcelona-El Prat Airport,14
+2019-07-20,London Gatwick Airport,41
+2019-07-20,London Heathrow Airport,65
+2019-07-20,Munich Airport,18
+2019-07-20,Rome–Fiumicino Leonardo da Vinci International Airport,8
+2019-07-20,Zürich Airport,8
+2019-07-21,Adolfo Suárez Madrid–Barajas Airport,17
+2019-07-21,Amsterdam Airport Schiphol,25
+2019-07-21,Charles de Gaulle International Airport,29
+2019-07-21,Frankfurt am Main Airport,22
+2019-07-21,Josep Tarradellas Barcelona-El Prat Airport,11
+2019-07-21,London Gatwick Airport,21
+2019-07-21,London Heathrow Airport,68
+2019-07-21,Munich Airport,15
+2019-07-21,Rome–Fiumicino Leonardo da Vinci International Airport,6
+2019-07-21,Zürich Airport,7
+2019-07-22,Adolfo Suárez Madrid–Barajas Airport,14
+2019-07-22,Amsterdam Airport Schiphol,16
+2019-07-22,Charles de Gaulle International Airport,20
+2019-07-22,Frankfurt am Main Airport,10
+2019-07-22,Josep Tarradellas Barcelona-El Prat Airport,10
+2019-07-22,London Gatwick Airport,10
+2019-07-22,London Heathrow Airport,34
+2019-07-22,Munich Airport,4
+2019-07-22,Rome–Fiumicino Leonardo da Vinci International Airport,13
+2019-07-22,Zürich Airport,8
+2019-07-23,Adolfo Suárez Madrid–Barajas Airport,10
+2019-07-23,Amsterdam Airport Schiphol,13
+2019-07-23,Charles de Gaulle International Airport,22
+2019-07-23,Frankfurt am Main Airport,16
+2019-07-23,Josep Tarradellas Barcelona-El Prat Airport,3
+2019-07-23,London Gatwick Airport,7
+2019-07-23,London Heathrow Airport,29
+2019-07-23,Munich Airport,6
+2019-07-23,Rome–Fiumicino Leonardo da Vinci International Airport,4
+2019-07-23,Zürich Airport,6
+2019-07-24,Adolfo Suárez Madrid–Barajas Airport,10
+2019-07-24,Amsterdam Airport Schiphol,8
+2019-07-24,Charles de Gaulle International Airport,16
+2019-07-24,Frankfurt am Main Airport,14
+2019-07-24,Josep Tarradellas Barcelona-El Prat Airport,6
+2019-07-24,London Gatwick Airport,3
+2019-07-24,London Heathrow Airport,31
+2019-07-24,Munich Airport,5
+2019-07-24,Rome–Fiumicino Leonardo da Vinci International Airport,5
+2019-07-24,Zürich Airport,4
+2019-07-25,Adolfo Suárez Madrid–Barajas Airport,13
+2019-07-25,Amsterdam Airport Schiphol,5
+2019-07-25,Charles de Gaulle International Airport,25
+2019-07-25,Frankfurt am Main Airport,15
+2019-07-25,Josep Tarradellas Barcelona-El Prat Airport,4
+2019-07-25,London Gatwick Airport,13
+2019-07-25,London Heathrow Airport,19
+2019-07-25,Munich Airport,3
+2019-07-25,Rome–Fiumicino Leonardo da Vinci International Airport,3
+2019-07-25,Zürich Airport,3
+2019-07-26,Adolfo Suárez Madrid–Barajas Airport,13
+2019-07-26,Amsterdam Airport Schiphol,13
+2019-07-26,Charles de Gaulle International Airport,11
+2019-07-26,Frankfurt am Main Airport,11
+2019-07-26,Josep Tarradellas Barcelona-El Prat Airport,2
+2019-07-26,London Gatwick Airport,9
+2019-07-26,London Heathrow Airport,21
+2019-07-26,Munich Airport,5
+2019-07-26,Rome–Fiumicino Leonardo da Vinci International Airport,1
+2019-07-26,Zürich Airport,3
+2019-07-27,Adolfo Suárez Madrid–Barajas Airport,6
+2019-07-27,Amsterdam Airport Schiphol,12
+2019-07-27,Charles de Gaulle International Airport,17
+2019-07-27,Frankfurt am Main Airport,12
+2019-07-27,Josep Tarradellas Barcelona-El Prat Airport,6
+2019-07-27,London Gatwick Airport,7
+2019-07-27,London Heathrow Airport,26
+2019-07-27,Munich Airport,9
+2019-07-27,Rome–Fiumicino Leonardo da Vinci International Airport,4
+2019-07-27,Zürich Airport,5
+2019-07-28,Adolfo Suárez Madrid–Barajas Airport,15
+2019-07-28,Amsterdam Airport Schiphol,23
+2019-07-28,Charles de Gaulle International Airport,28
+2019-07-28,Frankfurt am Main Airport,33
+2019-07-28,Josep Tarradellas Barcelona-El Prat Airport,7
+2019-07-28,London Gatwick Airport,8
+2019-07-28,London Heathrow Airport,50
+2019-07-28,Munich Airport,14
+2019-07-28,Rome–Fiumicino Leonardo da Vinci International Airport,13
+2019-07-28,Zürich Airport,8
+2019-07-29,Adolfo Suárez Madrid–Barajas Airport,6
+2019-07-29,Amsterdam Airport Schiphol,12
+2019-07-29,Charles de Gaulle International Airport,14
+2019-07-29,Frankfurt am Main Airport,17
+2019-07-29,Josep Tarradellas Barcelona-El Prat Airport,3
+2019-07-29,London Gatwick Airport,0
+2019-07-29,London Heathrow Airport,23
+2019-07-29,Munich Airport,5
+2019-07-29,Rome–Fiumicino Leonardo da Vinci International Airport,5
+2019-07-29,Zürich Airport,4
+2019-07-30,Adolfo Suárez Madrid–Barajas Airport,9
+2019-07-30,Amsterdam Airport Schiphol,6
+2019-07-30,Charles de Gaulle International Airport,12
+2019-07-30,Frankfurt am Main Airport,12
+2019-07-30,Josep Tarradellas Barcelona-El Prat Airport,1
+2019-07-30,London Gatwick Airport,6
+2019-07-30,London Heathrow Airport,27
+2019-07-30,Munich Airport,4
+2019-07-30,Rome–Fiumicino Leonardo da Vinci International Airport,6
+2019-07-30,Zürich Airport,1
+2019-07-31,Adolfo Suárez Madrid–Barajas Airport,17
+2019-07-31,Amsterdam Airport Schiphol,12
+2019-07-31,Charles de Gaulle International Airport,39
+2019-07-31,Frankfurt am Main Airport,15
+2019-07-31,Josep Tarradellas Barcelona-El Prat Airport,5
+2019-07-31,London Gatwick Airport,14
+2019-07-31,London Heathrow Airport,33
+2019-07-31,Munich Airport,2
+2019-07-31,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-07-31,Zürich Airport,11
+2019-08-01,Adolfo Suárez Madrid–Barajas Airport,8
+2019-08-01,Amsterdam Airport Schiphol,8
+2019-08-01,Charles de Gaulle International Airport,21
+2019-08-01,Frankfurt am Main Airport,20
+2019-08-01,Josep Tarradellas Barcelona-El Prat Airport,3
+2019-08-01,London Gatwick Airport,7
+2019-08-01,London Heathrow Airport,30
+2019-08-01,Munich Airport,7
+2019-08-01,Rome–Fiumicino Leonardo da Vinci International Airport,4
+2019-08-01,Zürich Airport,4
+2019-08-02,Adolfo Suárez Madrid–Barajas Airport,13
+2019-08-02,Amsterdam Airport Schiphol,14
+2019-08-02,Charles de Gaulle International Airport,16
+2019-08-02,Frankfurt am Main Airport,18
+2019-08-02,Josep Tarradellas Barcelona-El Prat Airport,4
+2019-08-02,London Gatwick Airport,7
+2019-08-02,London Heathrow Airport,38
+2019-08-02,Munich Airport,10
+2019-08-02,Rome–Fiumicino Leonardo da Vinci International Airport,7
+2019-08-02,Zürich Airport,3
+2019-08-03,Adolfo Suárez Madrid–Barajas Airport,10
+2019-08-03,Amsterdam Airport Schiphol,16
+2019-08-03,Charles de Gaulle International Airport,37
+2019-08-03,Frankfurt am Main Airport,16
+2019-08-03,Josep Tarradellas Barcelona-El Prat Airport,6
+2019-08-03,London Gatwick Airport,14
+2019-08-03,London Heathrow Airport,54
+2019-08-03,Munich Airport,8
+2019-08-03,Rome–Fiumicino Leonardo da Vinci International Airport,12
+2019-08-03,Zürich Airport,6
+2019-08-04,Adolfo Suárez Madrid–Barajas Airport,28
+2019-08-04,Amsterdam Airport Schiphol,36
+2019-08-04,Charles de Gaulle International Airport,27
+2019-08-04,Frankfurt am Main Airport,29
+2019-08-04,Josep Tarradellas Barcelona-El Prat Airport,14
+2019-08-04,London Gatwick Airport,31
+2019-08-04,London Heathrow Airport,71
+2019-08-04,Munich Airport,12
+2019-08-04,Rome–Fiumicino Leonardo da Vinci International Airport,8
+2019-08-04,Zürich Airport,8
+2019-08-05,Adolfo Suárez Madrid–Barajas Airport,13
+2019-08-05,Amsterdam Airport Schiphol,17
+2019-08-05,Charles de Gaulle International Airport,22
+2019-08-05,Frankfurt am Main Airport,26
+2019-08-05,Josep Tarradellas Barcelona-El Prat Airport,10
+2019-08-05,London Gatwick Airport,27
+2019-08-05,London Heathrow Airport,53
+2019-08-05,Munich Airport,11
+2019-08-05,Rome–Fiumicino Leonardo da Vinci International Airport,1
+2019-08-05,Zürich Airport,4
+2019-08-06,Adolfo Suárez Madrid–Barajas Airport,27
+2019-08-06,Amsterdam Airport Schiphol,40
+2019-08-06,Charles de Gaulle International Airport,46
+2019-08-06,Frankfurt am Main Airport,42
+2019-08-06,Josep Tarradellas Barcelona-El Prat Airport,27
+2019-08-06,London Gatwick Airport,35
+2019-08-06,London Heathrow Airport,78
+2019-08-06,Munich Airport,21
+2019-08-06,Rome–Fiumicino Leonardo da Vinci International Airport,15
+2019-08-06,Zürich Airport,14
+2019-08-07,Adolfo Suárez Madrid–Barajas Airport,45
+2019-08-07,Amsterdam Airport Schiphol,35
+2019-08-07,Charles de Gaulle International Airport,38
+2019-08-07,Frankfurt am Main Airport,48
+2019-08-07,Josep Tarradellas Barcelona-El Prat Airport,44
+2019-08-07,London Gatwick Airport,40
+2019-08-07,London Heathrow Airport,70
+2019-08-07,Munich Airport,15
+2019-08-07,Rome–Fiumicino Leonardo da Vinci International Airport,13
+2019-08-07,Zürich Airport,6
+2019-08-08,Adolfo Suárez Madrid–Barajas Airport,19
+2019-08-08,Amsterdam Airport Schiphol,20
+2019-08-08,Charles de Gaulle International Airport,29
+2019-08-08,Frankfurt am Main Airport,28
+2019-08-08,Josep Tarradellas Barcelona-El Prat Airport,8
+2019-08-08,London Gatwick Airport,21
+2019-08-08,London Heathrow Airport,62
+2019-08-08,Munich Airport,10
+2019-08-08,Rome–Fiumicino Leonardo da Vinci International Airport,23
+2019-08-08,Zürich Airport,10
+2019-08-09,Adolfo Suárez Madrid–Barajas Airport,9
+2019-08-09,Amsterdam Airport Schiphol,22
+2019-08-09,Charles de Gaulle International Airport,32
+2019-08-09,Frankfurt am Main Airport,18
+2019-08-09,Josep Tarradellas Barcelona-El Prat Airport,5
+2019-08-09,London Gatwick Airport,3
+2019-08-09,London Heathrow Airport,43
+2019-08-09,Munich Airport,8
+2019-08-09,Rome–Fiumicino Leonardo da Vinci International Airport,12
+2019-08-09,Zürich Airport,4
+2019-08-10,Adolfo Suárez Madrid–Barajas Airport,14
+2019-08-10,Amsterdam Airport Schiphol,7
+2019-08-10,Charles de Gaulle International Airport,13
+2019-08-10,Frankfurt am Main Airport,17
+2019-08-10,Josep Tarradellas Barcelona-El Prat Airport,2
+2019-08-10,London Gatwick Airport,4
+2019-08-10,London Heathrow Airport,23
+2019-08-10,Munich Airport,2
+2019-08-10,Rome–Fiumicino Leonardo da Vinci International Airport,4
+2019-08-10,Zürich Airport,3
+2019-08-11,Adolfo Suárez Madrid–Barajas Airport,8
+2019-08-11,Amsterdam Airport Schiphol,14
+2019-08-11,Charles de Gaulle International Airport,18
+2019-08-11,Frankfurt am Main Airport,19
+2019-08-11,Josep Tarradellas Barcelona-El Prat Airport,10
+2019-08-11,London Gatwick Airport,8
+2019-08-11,London Heathrow Airport,25
+2019-08-11,Munich Airport,3
+2019-08-11,Rome–Fiumicino Leonardo da Vinci International Airport,4
+2019-08-11,Zürich Airport,2
+2019-08-12,Adolfo Suárez Madrid–Barajas Airport,10
+2019-08-12,Amsterdam Airport Schiphol,12
+2019-08-12,Charles de Gaulle International Airport,13
+2019-08-12,Frankfurt am Main Airport,22
+2019-08-12,Josep Tarradellas Barcelona-El Prat Airport,9
+2019-08-12,London Gatwick Airport,5
+2019-08-12,London Heathrow Airport,18
+2019-08-12,Munich Airport,6
+2019-08-12,Rome–Fiumicino Leonardo da Vinci International Airport,7
+2019-08-12,Zürich Airport,2
+2019-08-13,Adolfo Suárez Madrid–Barajas Airport,10
+2019-08-13,Amsterdam Airport Schiphol,9
+2019-08-13,Charles de Gaulle International Airport,16
+2019-08-13,Frankfurt am Main Airport,17
+2019-08-13,Josep Tarradellas Barcelona-El Prat Airport,3
+2019-08-13,London Gatwick Airport,5
+2019-08-13,London Heathrow Airport,20
+2019-08-13,Munich Airport,9
+2019-08-13,Rome–Fiumicino Leonardo da Vinci International Airport,4
+2019-08-13,Zürich Airport,2
+2019-08-14,Adolfo Suárez Madrid–Barajas Airport,10
+2019-08-14,Amsterdam Airport Schiphol,9
+2019-08-14,Charles de Gaulle International Airport,15
+2019-08-14,Frankfurt am Main Airport,23
+2019-08-14,Josep Tarradellas Barcelona-El Prat Airport,2
+2019-08-14,London Gatwick Airport,1
+2019-08-14,London Heathrow Airport,21
+2019-08-14,Munich Airport,4
+2019-08-14,Rome–Fiumicino Leonardo da Vinci International Airport,4
+2019-08-14,Zürich Airport,1
+2019-08-15,Adolfo Suárez Madrid–Barajas Airport,11
+2019-08-15,Amsterdam Airport Schiphol,19
+2019-08-15,Charles de Gaulle International Airport,29
+2019-08-15,Frankfurt am Main Airport,45
+2019-08-15,Josep Tarradellas Barcelona-El Prat Airport,6
+2019-08-15,London Gatwick Airport,2
+2019-08-15,London Heathrow Airport,34
+2019-08-15,Munich Airport,7
+2019-08-15,Rome–Fiumicino Leonardo da Vinci International Airport,9
+2019-08-15,Zürich Airport,4
+2019-08-16,Adolfo Suárez Madrid–Barajas Airport,33
+2019-08-16,Amsterdam Airport Schiphol,21
+2019-08-16,Charles de Gaulle International Airport,30
+2019-08-16,Frankfurt am Main Airport,37
+2019-08-16,Josep Tarradellas Barcelona-El Prat Airport,18
+2019-08-16,London Gatwick Airport,13
+2019-08-16,London Heathrow Airport,51
+2019-08-16,Munich Airport,14
+2019-08-16,Rome–Fiumicino Leonardo da Vinci International Airport,9
+2019-08-16,Zürich Airport,6
+2019-08-17,Adolfo Suárez Madrid–Barajas Airport,10
+2019-08-17,Amsterdam Airport Schiphol,33
+2019-08-17,Charles de Gaulle International Airport,33
+2019-08-17,Frankfurt am Main Airport,31
+2019-08-17,Josep Tarradellas Barcelona-El Prat Airport,9
+2019-08-17,London Gatwick Airport,29
+2019-08-17,London Heathrow Airport,44
+2019-08-17,Munich Airport,7
+2019-08-17,Rome–Fiumicino Leonardo da Vinci International Airport,13
+2019-08-17,Zürich Airport,10
+2019-08-18,Adolfo Suárez Madrid–Barajas Airport,11
+2019-08-18,Amsterdam Airport Schiphol,11
+2019-08-18,Charles de Gaulle International Airport,28
+2019-08-18,Frankfurt am Main Airport,19
+2019-08-18,Josep Tarradellas Barcelona-El Prat Airport,5
+2019-08-18,London Gatwick Airport,5
+2019-08-18,London Heathrow Airport,62
+2019-08-18,Munich Airport,5
+2019-08-18,Rome–Fiumicino Leonardo da Vinci International Airport,12
+2019-08-18,Zürich Airport,7
+2019-08-19,Adolfo Suárez Madrid–Barajas Airport,27
+2019-08-19,Amsterdam Airport Schiphol,35
+2019-08-19,Charles de Gaulle International Airport,49
+2019-08-19,Frankfurt am Main Airport,40
+2019-08-19,Josep Tarradellas Barcelona-El Prat Airport,21
+2019-08-19,London Gatwick Airport,25
+2019-08-19,London Heathrow Airport,66
+2019-08-19,Munich Airport,14
+2019-08-19,Rome–Fiumicino Leonardo da Vinci International Airport,19
+2019-08-19,Zürich Airport,12
+2019-08-20,Adolfo Suárez Madrid–Barajas Airport,10
+2019-08-20,Amsterdam Airport Schiphol,17
+2019-08-20,Charles de Gaulle International Airport,33
+2019-08-20,Frankfurt am Main Airport,27
+2019-08-20,Josep Tarradellas Barcelona-El Prat Airport,14
+2019-08-20,London Gatwick Airport,10
+2019-08-20,London Heathrow Airport,50
+2019-08-20,Munich Airport,14
+2019-08-20,Rome–Fiumicino Leonardo da Vinci International Airport,19
+2019-08-20,Zürich Airport,6
+2019-08-21,Adolfo Suárez Madrid–Barajas Airport,12
+2019-08-21,Amsterdam Airport Schiphol,25
+2019-08-21,Charles de Gaulle International Airport,44
+2019-08-21,Frankfurt am Main Airport,44
+2019-08-21,Josep Tarradellas Barcelona-El Prat Airport,17
+2019-08-21,London Gatwick Airport,14
+2019-08-21,London Heathrow Airport,54
+2019-08-21,Munich Airport,14
+2019-08-21,Rome–Fiumicino Leonardo da Vinci International Airport,17
+2019-08-21,Zürich Airport,9
+2019-08-22,Adolfo Suárez Madrid–Barajas Airport,10
+2019-08-22,Amsterdam Airport Schiphol,37
+2019-08-22,Charles de Gaulle International Airport,50
+2019-08-22,Frankfurt am Main Airport,54
+2019-08-22,Josep Tarradellas Barcelona-El Prat Airport,11
+2019-08-22,London Gatwick Airport,23
+2019-08-22,London Heathrow Airport,110
+2019-08-22,Munich Airport,12
+2019-08-22,Rome–Fiumicino Leonardo da Vinci International Airport,13
+2019-08-22,Zürich Airport,8
+2019-08-23,Adolfo Suárez Madrid–Barajas Airport,18
+2019-08-23,Amsterdam Airport Schiphol,35
+2019-08-23,Charles de Gaulle International Airport,44
+2019-08-23,Frankfurt am Main Airport,50
+2019-08-23,Josep Tarradellas Barcelona-El Prat Airport,9
+2019-08-23,London Gatwick Airport,30
+2019-08-23,London Heathrow Airport,76
+2019-08-23,Munich Airport,18
+2019-08-23,Rome–Fiumicino Leonardo da Vinci International Airport,17
+2019-08-23,Zürich Airport,6
+2019-08-24,Adolfo Suárez Madrid–Barajas Airport,16
+2019-08-24,Amsterdam Airport Schiphol,25
+2019-08-24,Charles de Gaulle International Airport,30
+2019-08-24,Frankfurt am Main Airport,28
+2019-08-24,Josep Tarradellas Barcelona-El Prat Airport,16
+2019-08-24,London Gatwick Airport,21
+2019-08-24,London Heathrow Airport,62
+2019-08-24,Munich Airport,11
+2019-08-24,Rome–Fiumicino Leonardo da Vinci International Airport,12
+2019-08-24,Zürich Airport,12
+2019-08-25,Adolfo Suárez Madrid–Barajas Airport,11
+2019-08-25,Amsterdam Airport Schiphol,19
+2019-08-25,Charles de Gaulle International Airport,20
+2019-08-25,Frankfurt am Main Airport,21
+2019-08-25,Josep Tarradellas Barcelona-El Prat Airport,5
+2019-08-25,London Gatwick Airport,6
+2019-08-25,London Heathrow Airport,41
+2019-08-25,Munich Airport,6
+2019-08-25,Rome–Fiumicino Leonardo da Vinci International Airport,7
+2019-08-25,Zürich Airport,6
+2019-08-26,Adolfo Suárez Madrid–Barajas Airport,20
+2019-08-26,Amsterdam Airport Schiphol,16
+2019-08-26,Charles de Gaulle International Airport,38
+2019-08-26,Frankfurt am Main Airport,24
+2019-08-26,Josep Tarradellas Barcelona-El Prat Airport,21
+2019-08-26,London Gatwick Airport,4
+2019-08-26,London Heathrow Airport,51
+2019-08-26,Munich Airport,11
+2019-08-26,Rome–Fiumicino Leonardo da Vinci International Airport,6
+2019-08-26,Zürich Airport,7
+2019-08-27,Adolfo Suárez Madrid–Barajas Airport,13
+2019-08-27,Amsterdam Airport Schiphol,10
+2019-08-27,Charles de Gaulle International Airport,32
+2019-08-27,Frankfurt am Main Airport,27
+2019-08-27,Josep Tarradellas Barcelona-El Prat Airport,20
+2019-08-27,London Gatwick Airport,17
+2019-08-27,London Heathrow Airport,58
+2019-08-27,Munich Airport,13
+2019-08-27,Rome–Fiumicino Leonardo da Vinci International Airport,16
+2019-08-27,Zürich Airport,11
+2019-08-28,Adolfo Suárez Madrid–Barajas Airport,11
+2019-08-28,Amsterdam Airport Schiphol,21
+2019-08-28,Charles de Gaulle International Airport,50
+2019-08-28,Frankfurt am Main Airport,40
+2019-08-28,Josep Tarradellas Barcelona-El Prat Airport,17
+2019-08-28,London Gatwick Airport,27
+2019-08-28,London Heathrow Airport,74
+2019-08-28,Munich Airport,26
+2019-08-28,Rome–Fiumicino Leonardo da Vinci International Airport,27
+2019-08-28,Zürich Airport,15
+2019-08-29,Adolfo Suárez Madrid–Barajas Airport,22
+2019-08-29,Amsterdam Airport Schiphol,26
+2019-08-29,Charles de Gaulle International Airport,39
+2019-08-29,Frankfurt am Main Airport,26
+2019-08-29,Josep Tarradellas Barcelona-El Prat Airport,19
+2019-08-29,London Gatwick Airport,19
+2019-08-29,London Heathrow Airport,50
+2019-08-29,Munich Airport,19
+2019-08-29,Rome–Fiumicino Leonardo da Vinci International Airport,17
+2019-08-29,Zürich Airport,11
+2019-08-30,Adolfo Suárez Madrid–Barajas Airport,5
+2019-08-30,Amsterdam Airport Schiphol,14
+2019-08-30,Charles de Gaulle International Airport,33
+2019-08-30,Frankfurt am Main Airport,26
+2019-08-30,Josep Tarradellas Barcelona-El Prat Airport,5
+2019-08-30,London Gatwick Airport,13
+2019-08-30,London Heathrow Airport,81
+2019-08-30,Munich Airport,17
+2019-08-30,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-08-30,Zürich Airport,6
+2019-08-31,Adolfo Suárez Madrid–Barajas Airport,27
+2019-08-31,Amsterdam Airport Schiphol,23
+2019-08-31,Charles de Gaulle International Airport,40
+2019-08-31,Frankfurt am Main Airport,40
+2019-08-31,Josep Tarradellas Barcelona-El Prat Airport,24
+2019-08-31,London Gatwick Airport,37
+2019-08-31,London Heathrow Airport,89
+2019-08-31,Munich Airport,6
+2019-08-31,Rome–Fiumicino Leonardo da Vinci International Airport,11
+2019-08-31,Zürich Airport,5
+2019-09-01,Adolfo Suárez Madrid–Barajas Airport,20
+2019-09-01,Amsterdam Airport Schiphol,23
+2019-09-01,Charles de Gaulle International Airport,26
+2019-09-01,Frankfurt am Main Airport,28
+2019-09-01,Josep Tarradellas Barcelona-El Prat Airport,11
+2019-09-01,London Gatwick Airport,7
+2019-09-01,London Heathrow Airport,41
+2019-09-01,Munich Airport,8
+2019-09-01,Rome–Fiumicino Leonardo da Vinci International Airport,13
+2019-09-01,Zürich Airport,9
+2019-09-02,Adolfo Suárez Madrid–Barajas Airport,23
+2019-09-02,Amsterdam Airport Schiphol,16
+2019-09-02,Charles de Gaulle International Airport,38
+2019-09-02,Frankfurt am Main Airport,29
+2019-09-02,Josep Tarradellas Barcelona-El Prat Airport,15
+2019-09-02,London Gatwick Airport,12
+2019-09-02,London Heathrow Airport,62
+2019-09-02,Munich Airport,12
+2019-09-02,Rome–Fiumicino Leonardo da Vinci International Airport,17
+2019-09-02,Zürich Airport,6
+2019-09-03,Adolfo Suárez Madrid–Barajas Airport,15
+2019-09-03,Amsterdam Airport Schiphol,19
+2019-09-03,Charles de Gaulle International Airport,31
+2019-09-03,Frankfurt am Main Airport,23
+2019-09-03,Josep Tarradellas Barcelona-El Prat Airport,3
+2019-09-03,London Gatwick Airport,6
+2019-09-03,London Heathrow Airport,63
+2019-09-03,Munich Airport,11
+2019-09-03,Rome–Fiumicino Leonardo da Vinci International Airport,12
+2019-09-03,Zürich Airport,6
+2019-09-04,Adolfo Suárez Madrid–Barajas Airport,15
+2019-09-04,Amsterdam Airport Schiphol,11
+2019-09-04,Charles de Gaulle International Airport,40
+2019-09-04,Frankfurt am Main Airport,29
+2019-09-04,Josep Tarradellas Barcelona-El Prat Airport,6
+2019-09-04,London Gatwick Airport,3
+2019-09-04,London Heathrow Airport,51
+2019-09-04,Munich Airport,6
+2019-09-04,Rome–Fiumicino Leonardo da Vinci International Airport,7
+2019-09-04,Zürich Airport,2
+2019-09-05,Adolfo Suárez Madrid–Barajas Airport,21
+2019-09-05,Amsterdam Airport Schiphol,17
+2019-09-05,Charles de Gaulle International Airport,34
+2019-09-05,Frankfurt am Main Airport,46
+2019-09-05,Josep Tarradellas Barcelona-El Prat Airport,4
+2019-09-05,London Gatwick Airport,11
+2019-09-05,London Heathrow Airport,82
+2019-09-05,Munich Airport,15
+2019-09-05,Rome–Fiumicino Leonardo da Vinci International Airport,12
+2019-09-05,Zürich Airport,7
+2019-09-06,Adolfo Suárez Madrid–Barajas Airport,28
+2019-09-06,Amsterdam Airport Schiphol,51
+2019-09-06,Charles de Gaulle International Airport,60
+2019-09-06,Frankfurt am Main Airport,76
+2019-09-06,Josep Tarradellas Barcelona-El Prat Airport,24
+2019-09-06,London Gatwick Airport,48
+2019-09-06,London Heathrow Airport,134
+2019-09-06,Munich Airport,35
+2019-09-06,Rome–Fiumicino Leonardo da Vinci International Airport,22
+2019-09-06,Zürich Airport,13
+2019-09-07,Adolfo Suárez Madrid–Barajas Airport,23
+2019-09-07,Amsterdam Airport Schiphol,39
+2019-09-07,Charles de Gaulle International Airport,59
+2019-09-07,Frankfurt am Main Airport,82
+2019-09-07,Josep Tarradellas Barcelona-El Prat Airport,30
+2019-09-07,London Gatwick Airport,13
+2019-09-07,London Heathrow Airport,101
+2019-09-07,Munich Airport,38
+2019-09-07,Rome–Fiumicino Leonardo da Vinci International Airport,35
+2019-09-07,Zürich Airport,19
+2019-09-08,Adolfo Suárez Madrid–Barajas Airport,13
+2019-09-08,Amsterdam Airport Schiphol,39
+2019-09-08,Charles de Gaulle International Airport,58
+2019-09-08,Frankfurt am Main Airport,65
+2019-09-08,Josep Tarradellas Barcelona-El Prat Airport,18
+2019-09-08,London Gatwick Airport,17
+2019-09-08,London Heathrow Airport,91
+2019-09-08,Munich Airport,21
+2019-09-08,Rome–Fiumicino Leonardo da Vinci International Airport,27
+2019-09-08,Zürich Airport,18
+2019-09-09,Adolfo Suárez Madrid–Barajas Airport,22
+2019-09-09,Amsterdam Airport Schiphol,29
+2019-09-09,Charles de Gaulle International Airport,40
+2019-09-09,Frankfurt am Main Airport,57
+2019-09-09,Josep Tarradellas Barcelona-El Prat Airport,15
+2019-09-09,London Gatwick Airport,6
+2019-09-09,London Heathrow Airport,27
+2019-09-09,Munich Airport,24
+2019-09-09,Rome–Fiumicino Leonardo da Vinci International Airport,20
+2019-09-09,Zürich Airport,14
+2019-09-10,Adolfo Suárez Madrid–Barajas Airport,16
+2019-09-10,Amsterdam Airport Schiphol,31
+2019-09-10,Charles de Gaulle International Airport,36
+2019-09-10,Frankfurt am Main Airport,52
+2019-09-10,Josep Tarradellas Barcelona-El Prat Airport,17
+2019-09-10,London Gatwick Airport,13
+2019-09-10,London Heathrow Airport,24
+2019-09-10,Munich Airport,26
+2019-09-10,Rome–Fiumicino Leonardo da Vinci International Airport,19
+2019-09-10,Zürich Airport,9
+2019-09-11,Adolfo Suárez Madrid–Barajas Airport,13
+2019-09-11,Amsterdam Airport Schiphol,24
+2019-09-11,Charles de Gaulle International Airport,28
+2019-09-11,Frankfurt am Main Airport,39
+2019-09-11,Josep Tarradellas Barcelona-El Prat Airport,11
+2019-09-11,London Gatwick Airport,15
+2019-09-11,London Heathrow Airport,34
+2019-09-11,Munich Airport,16
+2019-09-11,Rome–Fiumicino Leonardo da Vinci International Airport,7
+2019-09-11,Zürich Airport,6
+2019-09-12,Adolfo Suárez Madrid–Barajas Airport,17
+2019-09-12,Amsterdam Airport Schiphol,17
+2019-09-12,Charles de Gaulle International Airport,31
+2019-09-12,Frankfurt am Main Airport,31
+2019-09-12,Josep Tarradellas Barcelona-El Prat Airport,7
+2019-09-12,London Gatwick Airport,2
+2019-09-12,London Heathrow Airport,37
+2019-09-12,Munich Airport,11
+2019-09-12,Rome–Fiumicino Leonardo da Vinci International Airport,5
+2019-09-12,Zürich Airport,6
+2019-09-13,Adolfo Suárez Madrid–Barajas Airport,21
+2019-09-13,Amsterdam Airport Schiphol,31
+2019-09-13,Charles de Gaulle International Airport,34
+2019-09-13,Frankfurt am Main Airport,34
+2019-09-13,Josep Tarradellas Barcelona-El Prat Airport,21
+2019-09-13,London Gatwick Airport,13
+2019-09-13,London Heathrow Airport,49
+2019-09-13,Munich Airport,25
+2019-09-13,Rome–Fiumicino Leonardo da Vinci International Airport,7
+2019-09-13,Zürich Airport,5
+2019-09-14,Adolfo Suárez Madrid–Barajas Airport,25
+2019-09-14,Amsterdam Airport Schiphol,22
+2019-09-14,Charles de Gaulle International Airport,42
+2019-09-14,Frankfurt am Main Airport,37
+2019-09-14,Josep Tarradellas Barcelona-El Prat Airport,31
+2019-09-14,London Gatwick Airport,21
+2019-09-14,London Heathrow Airport,71
+2019-09-14,Munich Airport,18
+2019-09-14,Rome–Fiumicino Leonardo da Vinci International Airport,21
+2019-09-14,Zürich Airport,18
+2019-09-15,Adolfo Suárez Madrid–Barajas Airport,25
+2019-09-15,Amsterdam Airport Schiphol,24
+2019-09-15,Charles de Gaulle International Airport,66
+2019-09-15,Frankfurt am Main Airport,71
+2019-09-15,Josep Tarradellas Barcelona-El Prat Airport,35
+2019-09-15,London Gatwick Airport,23
+2019-09-15,London Heathrow Airport,107
+2019-09-15,Munich Airport,33
+2019-09-15,Rome–Fiumicino Leonardo da Vinci International Airport,30
+2019-09-15,Zürich Airport,17
+2019-09-16,Adolfo Suárez Madrid–Barajas Airport,21
+2019-09-16,Amsterdam Airport Schiphol,49
+2019-09-16,Charles de Gaulle International Airport,51
+2019-09-16,Frankfurt am Main Airport,45
+2019-09-16,Josep Tarradellas Barcelona-El Prat Airport,13
+2019-09-16,London Gatwick Airport,33
+2019-09-16,London Heathrow Airport,124
+2019-09-16,Munich Airport,33
+2019-09-16,Rome–Fiumicino Leonardo da Vinci International Airport,5
+2019-09-16,Zürich Airport,10
+2019-09-17,Adolfo Suárez Madrid–Barajas Airport,21
+2019-09-17,Amsterdam Airport Schiphol,28
+2019-09-17,Charles de Gaulle International Airport,38
+2019-09-17,Frankfurt am Main Airport,32
+2019-09-17,Josep Tarradellas Barcelona-El Prat Airport,8
+2019-09-17,London Gatwick Airport,18
+2019-09-17,London Heathrow Airport,74
+2019-09-17,Munich Airport,14
+2019-09-17,Rome–Fiumicino Leonardo da Vinci International Airport,7
+2019-09-17,Zürich Airport,5
+2019-09-18,Adolfo Suárez Madrid–Barajas Airport,9
+2019-09-18,Amsterdam Airport Schiphol,34
+2019-09-18,Charles de Gaulle International Airport,56
+2019-09-18,Frankfurt am Main Airport,47
+2019-09-18,Josep Tarradellas Barcelona-El Prat Airport,2
+2019-09-18,London Gatwick Airport,24
+2019-09-18,London Heathrow Airport,123
+2019-09-18,Munich Airport,20
+2019-09-18,Rome–Fiumicino Leonardo da Vinci International Airport,15
+2019-09-18,Zürich Airport,5
+2019-09-19,Adolfo Suárez Madrid–Barajas Airport,18
+2019-09-19,Amsterdam Airport Schiphol,30
+2019-09-19,Charles de Gaulle International Airport,30
+2019-09-19,Frankfurt am Main Airport,35
+2019-09-19,Josep Tarradellas Barcelona-El Prat Airport,11
+2019-09-19,London Gatwick Airport,23
+2019-09-19,London Heathrow Airport,53
+2019-09-19,Munich Airport,13
+2019-09-19,Rome–Fiumicino Leonardo da Vinci International Airport,11
+2019-09-19,Zürich Airport,5
+2019-09-20,Adolfo Suárez Madrid–Barajas Airport,24
+2019-09-20,Amsterdam Airport Schiphol,18
+2019-09-20,Charles de Gaulle International Airport,25
+2019-09-20,Frankfurt am Main Airport,30
+2019-09-20,Josep Tarradellas Barcelona-El Prat Airport,16
+2019-09-20,London Gatwick Airport,10
+2019-09-20,London Heathrow Airport,45
+2019-09-20,Munich Airport,14
+2019-09-20,Rome–Fiumicino Leonardo da Vinci International Airport,22
+2019-09-20,Zürich Airport,5
+2019-09-21,Adolfo Suárez Madrid–Barajas Airport,35
+2019-09-21,Amsterdam Airport Schiphol,26
+2019-09-21,Charles de Gaulle International Airport,56
+2019-09-21,Frankfurt am Main Airport,43
+2019-09-21,Josep Tarradellas Barcelona-El Prat Airport,49
+2019-09-21,London Gatwick Airport,30
+2019-09-21,London Heathrow Airport,46
+2019-09-21,Munich Airport,30
+2019-09-21,Rome–Fiumicino Leonardo da Vinci International Airport,17
+2019-09-21,Zürich Airport,11
+2019-09-22,Adolfo Suárez Madrid–Barajas Airport,51
+2019-09-22,Amsterdam Airport Schiphol,47
+2019-09-22,Charles de Gaulle International Airport,83
+2019-09-22,Frankfurt am Main Airport,72
+2019-09-22,Josep Tarradellas Barcelona-El Prat Airport,49
+2019-09-22,London Gatwick Airport,67
+2019-09-22,London Heathrow Airport,145
+2019-09-22,Munich Airport,44
+2019-09-22,Rome–Fiumicino Leonardo da Vinci International Airport,54
+2019-09-22,Zürich Airport,18
+2019-09-23,Adolfo Suárez Madrid–Barajas Airport,45
+2019-09-23,Amsterdam Airport Schiphol,69
+2019-09-23,Charles de Gaulle International Airport,47
+2019-09-23,Frankfurt am Main Airport,96
+2019-09-23,Josep Tarradellas Barcelona-El Prat Airport,52
+2019-09-23,London Gatwick Airport,40
+2019-09-23,London Heathrow Airport,96
+2019-09-23,Munich Airport,44
+2019-09-23,Rome–Fiumicino Leonardo da Vinci International Airport,39
+2019-09-23,Zürich Airport,27
+2019-09-24,Adolfo Suárez Madrid–Barajas Airport,18
+2019-09-24,Amsterdam Airport Schiphol,22
+2019-09-24,Charles de Gaulle International Airport,21
+2019-09-24,Frankfurt am Main Airport,46
+2019-09-24,Josep Tarradellas Barcelona-El Prat Airport,4
+2019-09-24,London Gatwick Airport,8
+2019-09-24,London Heathrow Airport,51
+2019-09-24,Munich Airport,16
+2019-09-24,Rome–Fiumicino Leonardo da Vinci International Airport,6
+2019-09-24,Zürich Airport,7
+2019-09-25,Adolfo Suárez Madrid–Barajas Airport,35
+2019-09-25,Amsterdam Airport Schiphol,30
+2019-09-25,Charles de Gaulle International Airport,36
+2019-09-25,Frankfurt am Main Airport,43
+2019-09-25,Josep Tarradellas Barcelona-El Prat Airport,36
+2019-09-25,London Gatwick Airport,31
+2019-09-25,London Heathrow Airport,46
+2019-09-25,Munich Airport,22
+2019-09-25,Rome–Fiumicino Leonardo da Vinci International Airport,17
+2019-09-25,Zürich Airport,10
+2019-09-26,Adolfo Suárez Madrid–Barajas Airport,19
+2019-09-26,Amsterdam Airport Schiphol,25
+2019-09-26,Charles de Gaulle International Airport,25
+2019-09-26,Frankfurt am Main Airport,30
+2019-09-26,Josep Tarradellas Barcelona-El Prat Airport,13
+2019-09-26,London Gatwick Airport,21
+2019-09-26,London Heathrow Airport,73
+2019-09-26,Munich Airport,20
+2019-09-26,Rome–Fiumicino Leonardo da Vinci International Airport,9
+2019-09-26,Zürich Airport,9
+2019-09-27,Adolfo Suárez Madrid–Barajas Airport,16
+2019-09-27,Amsterdam Airport Schiphol,34
+2019-09-27,Charles de Gaulle International Airport,49
+2019-09-27,Frankfurt am Main Airport,62
+2019-09-27,Josep Tarradellas Barcelona-El Prat Airport,23
+2019-09-27,London Gatwick Airport,17
+2019-09-27,London Heathrow Airport,56
+2019-09-27,Munich Airport,24
+2019-09-27,Rome–Fiumicino Leonardo da Vinci International Airport,18
+2019-09-27,Zürich Airport,14
+2019-09-28,Adolfo Suárez Madrid–Barajas Airport,23
+2019-09-28,Amsterdam Airport Schiphol,50
+2019-09-28,Charles de Gaulle International Airport,65
+2019-09-28,Frankfurt am Main Airport,41
+2019-09-28,Josep Tarradellas Barcelona-El Prat Airport,20
+2019-09-28,London Gatwick Airport,42
+2019-09-28,London Heathrow Airport,103
+2019-09-28,Munich Airport,12
+2019-09-28,Rome–Fiumicino Leonardo da Vinci International Airport,20
+2019-09-28,Zürich Airport,8
+2019-09-29,Adolfo Suárez Madrid–Barajas Airport,23
+2019-09-29,Amsterdam Airport Schiphol,25
+2019-09-29,Charles de Gaulle International Airport,28
+2019-09-29,Frankfurt am Main Airport,40
+2019-09-29,Josep Tarradellas Barcelona-El Prat Airport,15
+2019-09-29,London Gatwick Airport,6
+2019-09-29,London Heathrow Airport,44
+2019-09-29,Munich Airport,20
+2019-09-29,Rome–Fiumicino Leonardo da Vinci International Airport,14
+2019-09-29,Zürich Airport,4
+2019-09-30,Adolfo Suárez Madrid–Barajas Airport,20
+2019-09-30,Amsterdam Airport Schiphol,27
+2019-09-30,Charles de Gaulle International Airport,40
+2019-09-30,Frankfurt am Main Airport,30
+2019-09-30,Josep Tarradellas Barcelona-El Prat Airport,7
+2019-09-30,London Gatwick Airport,20
+2019-09-30,London Heathrow Airport,90
+2019-09-30,Munich Airport,17
+2019-09-30,Rome–Fiumicino Leonardo da Vinci International Airport,9
+2019-09-30,Zürich Airport,6
+2019-10-01,Adolfo Suárez Madrid–Barajas Airport,11
+2019-10-01,Amsterdam Airport Schiphol,15
+2019-10-01,Charles de Gaulle International Airport,24
+2019-10-01,Frankfurt am Main Airport,22
+2019-10-01,Josep Tarradellas Barcelona-El Prat Airport,13
+2019-10-01,London Gatwick Airport,3
+2019-10-01,London Heathrow Airport,26
+2019-10-01,Munich Airport,7
+2019-10-01,Rome–Fiumicino Leonardo da Vinci International Airport,6
+2019-10-01,Zürich Airport,6
+2019-10-02,Adolfo Suárez Madrid–Barajas Airport,17
+2019-10-02,Amsterdam Airport Schiphol,32
+2019-10-02,Charles de Gaulle International Airport,34
+2019-10-02,Frankfurt am Main Airport,49
+2019-10-02,Josep Tarradellas Barcelona-El Prat Airport,24
+2019-10-02,London Gatwick Airport,10
+2019-10-02,London Heathrow Airport,58
+2019-10-02,Munich Airport,19
+2019-10-02,Rome–Fiumicino Leonardo da Vinci International Airport,13
+2019-10-02,Zürich Airport,8
+2019-10-03,Adolfo Suárez Madrid–Barajas Airport,10
+2019-10-03,Amsterdam Airport Schiphol,22
+2019-10-03,Charles de Gaulle International Airport,32
+2019-10-03,Frankfurt am Main Airport,52
+2019-10-03,Josep Tarradellas Barcelona-El Prat Airport,10
+2019-10-03,London Gatwick Airport,7
+2019-10-03,London Heathrow Airport,44
+2019-10-03,Munich Airport,23
+2019-10-03,Rome–Fiumicino Leonardo da Vinci International Airport,12
+2019-10-03,Zürich Airport,6
+2019-10-04,Adolfo Suárez Madrid–Barajas Airport,17
+2019-10-04,Amsterdam Airport Schiphol,21
+2019-10-04,Charles de Gaulle International Airport,30
+2019-10-04,Frankfurt am Main Airport,40
+2019-10-04,Josep Tarradellas Barcelona-El Prat Airport,15
+2019-10-04,London Gatwick Airport,8
+2019-10-04,London Heathrow Airport,63
+2019-10-04,Munich Airport,12
+2019-10-04,Rome–Fiumicino Leonardo da Vinci International Airport,13
+2019-10-04,Zürich Airport,5
+2019-10-05,Adolfo Suárez Madrid–Barajas Airport,16
+2019-10-05,Amsterdam Airport Schiphol,19
+2019-10-05,Charles de Gaulle International Airport,40
+2019-10-05,Frankfurt am Main Airport,32
+2019-10-05,Josep Tarradellas Barcelona-El Prat Airport,7
+2019-10-05,London Gatwick Airport,7
+2019-10-05,London Heathrow Airport,42
+2019-10-05,Munich Airport,11
+2019-10-05,Rome–Fiumicino Leonardo da Vinci International Airport,14
+2019-10-05,Zürich Airport,9
+2019-10-06,Adolfo Suárez Madrid–Barajas Airport,21
+2019-10-06,Amsterdam Airport Schiphol,25
+2019-10-06,Charles de Gaulle International Airport,31
+2019-10-06,Frankfurt am Main Airport,35
+2019-10-06,Josep Tarradellas Barcelona-El Prat Airport,33
+2019-10-06,London Gatwick Airport,14
+2019-10-06,London Heathrow Airport,59
+2019-10-06,Munich Airport,14
+2019-10-06,Rome–Fiumicino Leonardo da Vinci International Airport,15
+2019-10-06,Zürich Airport,7
+2019-10-07,Adolfo Suárez Madrid–Barajas Airport,16
+2019-10-07,Amsterdam Airport Schiphol,26
+2019-10-07,Charles de Gaulle International Airport,37
+2019-10-07,Frankfurt am Main Airport,51
+2019-10-07,Josep Tarradellas Barcelona-El Prat Airport,8
+2019-10-07,London Gatwick Airport,8
+2019-10-07,London Heathrow Airport,70
+2019-10-07,Munich Airport,18
+2019-10-07,Rome–Fiumicino Leonardo da Vinci International Airport,20
+2019-10-07,Zürich Airport,6
+2019-10-08,Adolfo Suárez Madrid–Barajas Airport,25
+2019-10-08,Amsterdam Airport Schiphol,19
+2019-10-08,Charles de Gaulle International Airport,34
+2019-10-08,Frankfurt am Main Airport,31
+2019-10-08,Josep Tarradellas Barcelona-El Prat Airport,7
+2019-10-08,London Gatwick Airport,2
+2019-10-08,London Heathrow Airport,41
+2019-10-08,Munich Airport,11
+2019-10-08,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-10-08,Zürich Airport,10
+2019-10-09,Adolfo Suárez Madrid–Barajas Airport,17
+2019-10-09,Amsterdam Airport Schiphol,23
+2019-10-09,Charles de Gaulle International Airport,24
+2019-10-09,Frankfurt am Main Airport,34
+2019-10-09,Josep Tarradellas Barcelona-El Prat Airport,7
+2019-10-09,London Gatwick Airport,4
+2019-10-09,London Heathrow Airport,24
+2019-10-09,Munich Airport,13
+2019-10-09,Rome–Fiumicino Leonardo da Vinci International Airport,10
+2019-10-09,Zürich Airport,7
+2019-10-10,Adolfo Suárez Madrid–Barajas Airport,26
+2019-10-10,Amsterdam Airport Schiphol,22
+2019-10-10,Charles de Gaulle International Airport,23
+2019-10-10,Frankfurt am Main Airport,36
+2019-10-10,Josep Tarradellas Barcelona-El Prat Airport,7
+2019-10-10,London Gatwick Airport,11
+2019-10-10,London Heathrow Airport,57
+2019-10-10,Munich Airport,19
+2019-10-10,Rome–Fiumicino Leonardo da Vinci International Airport,9
+2019-10-10,Zürich Airport,13
+2019-10-11,Adolfo Suárez Madrid–Barajas Airport,27
+2019-10-11,Amsterdam Airport Schiphol,67
+2019-10-11,Charles de Gaulle International Airport,69
+2019-10-11,Frankfurt am Main Airport,91
+2019-10-11,Josep Tarradellas Barcelona-El Prat Airport,36
+2019-10-11,London Gatwick Airport,43
+2019-10-11,London Heathrow Airport,161
+2019-10-11,Munich Airport,56
+2019-10-11,Rome–Fiumicino Leonardo da Vinci International Airport,27
+2019-10-11,Zürich Airport,18
+2019-10-12,Adolfo Suárez Madrid–Barajas Airport,50
+2019-10-12,Amsterdam Airport Schiphol,34
+2019-10-12,Charles de Gaulle International Airport,68
+2019-10-12,Frankfurt am Main Airport,88
+2019-10-12,Josep Tarradellas Barcelona-El Prat Airport,37
+2019-10-12,London Gatwick Airport,41
+2019-10-12,London Heathrow Airport,114
+2019-10-12,Munich Airport,42
+2019-10-12,Rome–Fiumicino Leonardo da Vinci International Airport,37
+2019-10-12,Zürich Airport,19
+2019-10-13,Adolfo Suárez Madrid–Barajas Airport,29
+2019-10-13,Amsterdam Airport Schiphol,48
+2019-10-13,Charles de Gaulle International Airport,80
+2019-10-13,Frankfurt am Main Airport,83
+2019-10-13,Josep Tarradellas Barcelona-El Prat Airport,20
+2019-10-13,London Gatwick Airport,42
+2019-10-13,London Heathrow Airport,135
+2019-10-13,Munich Airport,42
+2019-10-13,Rome–Fiumicino Leonardo da Vinci International Airport,30
+2019-10-13,Zürich Airport,22
+2019-10-14,Adolfo Suárez Madrid–Barajas Airport,44
+2019-10-14,Amsterdam Airport Schiphol,50
+2019-10-14,Charles de Gaulle International Airport,62
+2019-10-14,Frankfurt am Main Airport,79
+2019-10-14,Josep Tarradellas Barcelona-El Prat Airport,17
+2019-10-14,London Gatwick Airport,34
+2019-10-14,London Heathrow Airport,126
+2019-10-14,Munich Airport,42
+2019-10-14,Rome–Fiumicino Leonardo da Vinci International Airport,25
+2019-10-14,Zürich Airport,21
+2019-10-15,Adolfo Suárez Madrid–Barajas Airport,40
+2019-10-15,Amsterdam Airport Schiphol,52
+2019-10-15,Charles de Gaulle International Airport,58
+2019-10-15,Frankfurt am Main Airport,60
+2019-10-15,Josep Tarradellas Barcelona-El Prat Airport,23
+2019-10-15,London Gatwick Airport,16
+2019-10-15,London Heathrow Airport,86
+2019-10-15,Munich Airport,28
+2019-10-15,Rome–Fiumicino Leonardo da Vinci International Airport,11
+2019-10-15,Zürich Airport,14
+2019-10-16,Adolfo Suárez Madrid–Barajas Airport,27
+2019-10-16,Amsterdam Airport Schiphol,39
+2019-10-16,Charles de Gaulle International Airport,42
+2019-10-16,Frankfurt am Main Airport,57
+2019-10-16,Josep Tarradellas Barcelona-El Prat Airport,6
+2019-10-16,London Gatwick Airport,12
+2019-10-16,London Heathrow Airport,71
+2019-10-16,Munich Airport,19
+2019-10-16,Rome–Fiumicino Leonardo da Vinci International Airport,11
+2019-10-16,Zürich Airport,12
+2019-10-17,Adolfo Suárez Madrid–Barajas Airport,48
+2019-10-17,Amsterdam Airport Schiphol,32
+2019-10-17,Charles de Gaulle International Airport,63
+2019-10-17,Frankfurt am Main Airport,55
+2019-10-17,Josep Tarradellas Barcelona-El Prat Airport,27
+2019-10-17,London Gatwick Airport,27
+2019-10-17,London Heathrow Airport,62
+2019-10-17,Munich Airport,26
+2019-10-17,Rome–Fiumicino Leonardo da Vinci International Airport,18
+2019-10-17,Zürich Airport,13
+2019-10-18,Adolfo Suárez Madrid–Barajas Airport,86
+2019-10-18,Amsterdam Airport Schiphol,95
+2019-10-18,Charles de Gaulle International Airport,107
+2019-10-18,Frankfurt am Main Airport,118
+2019-10-18,Josep Tarradellas Barcelona-El Prat Airport,76
+2019-10-18,London Gatwick Airport,63
+2019-10-18,London Heathrow Airport,140
+2019-10-18,Munich Airport,50
+2019-10-18,Rome–Fiumicino Leonardo da Vinci International Airport,35
+2019-10-18,Zürich Airport,30
+2019-10-19,Adolfo Suárez Madrid–Barajas Airport,36
+2019-10-19,Amsterdam Airport Schiphol,48
+2019-10-19,Charles de Gaulle International Airport,85
+2019-10-19,Frankfurt am Main Airport,78
+2019-10-19,Josep Tarradellas Barcelona-El Prat Airport,21
+2019-10-19,London Gatwick Airport,21
+2019-10-19,London Heathrow Airport,110
+2019-10-19,Munich Airport,37
+2019-10-19,Rome–Fiumicino Leonardo da Vinci International Airport,40
+2019-10-19,Zürich Airport,14
+2019-10-20,Adolfo Suárez Madrid–Barajas Airport,24
+2019-10-20,Amsterdam Airport Schiphol,44
+2019-10-20,Charles de Gaulle International Airport,70
+2019-10-20,Frankfurt am Main Airport,77
+2019-10-20,Josep Tarradellas Barcelona-El Prat Airport,19
+2019-10-20,London Gatwick Airport,20
+2019-10-20,London Heathrow Airport,110
+2019-10-20,Munich Airport,41
+2019-10-20,Rome–Fiumicino Leonardo da Vinci International Airport,23
+2019-10-20,Zürich Airport,20
+2019-10-21,Adolfo Suárez Madrid–Barajas Airport,25
+2019-10-21,Amsterdam Airport Schiphol,36
+2019-10-21,Charles de Gaulle International Airport,59
+2019-10-21,Frankfurt am Main Airport,71
+2019-10-21,Josep Tarradellas Barcelona-El Prat Airport,40
+2019-10-21,London Gatwick Airport,22
+2019-10-21,London Heathrow Airport,87
+2019-10-21,Munich Airport,40
+2019-10-21,Rome–Fiumicino Leonardo da Vinci International Airport,31
+2019-10-21,Zürich Airport,12
+2019-10-22,Adolfo Suárez Madrid–Barajas Airport,44
+2019-10-22,Amsterdam Airport Schiphol,57
+2019-10-22,Charles de Gaulle International Airport,65
+2019-10-22,Frankfurt am Main Airport,70
+2019-10-22,Josep Tarradellas Barcelona-El Prat Airport,43
+2019-10-22,London Gatwick Airport,30
+2019-10-22,London Heathrow Airport,80
+2019-10-22,Munich Airport,41
+2019-10-22,Rome–Fiumicino Leonardo da Vinci International Airport,51
+2019-10-22,Zürich Airport,14
+2019-10-23,Adolfo Suárez Madrid–Barajas Airport,32
+2019-10-23,Amsterdam Airport Schiphol,31
+2019-10-23,Charles de Gaulle International Airport,39
+2019-10-23,Frankfurt am Main Airport,54
+2019-10-23,Josep Tarradellas Barcelona-El Prat Airport,27
+2019-10-23,London Gatwick Airport,21
+2019-10-23,London Heathrow Airport,65
+2019-10-23,Munich Airport,27
+2019-10-23,Rome–Fiumicino Leonardo da Vinci International Airport,42
+2019-10-23,Zürich Airport,8
+2019-10-24,Adolfo Suárez Madrid–Barajas Airport,45
+2019-10-24,Amsterdam Airport Schiphol,35
+2019-10-24,Charles de Gaulle International Airport,68
+2019-10-24,Frankfurt am Main Airport,49
+2019-10-24,Josep Tarradellas Barcelona-El Prat Airport,21
+2019-10-24,London Gatwick Airport,26
+2019-10-24,London Heathrow Airport,79
+2019-10-24,Munich Airport,19
+2019-10-24,Rome–Fiumicino Leonardo da Vinci International Airport,23
+2019-10-24,Zürich Airport,7
+2019-10-25,Adolfo Suárez Madrid–Barajas Airport,39
+2019-10-25,Amsterdam Airport Schiphol,95
+2019-10-25,Charles de Gaulle International Airport,79
+2019-10-25,Frankfurt am Main Airport,89
+2019-10-25,Josep Tarradellas Barcelona-El Prat Airport,42
+2019-10-25,London Gatwick Airport,74
+2019-10-25,London Heathrow Airport,127
+2019-10-25,Munich Airport,52
+2019-10-25,Rome–Fiumicino Leonardo da Vinci International Airport,26
+2019-10-25,Zürich Airport,15
+2019-10-26,Adolfo Suárez Madrid–Barajas Airport,44
+2019-10-26,Amsterdam Airport Schiphol,62
+2019-10-26,Charles de Gaulle International Airport,63
+2019-10-26,Frankfurt am Main Airport,61
+2019-10-26,Josep Tarradellas Barcelona-El Prat Airport,40
+2019-10-26,London Gatwick Airport,68
+2019-10-26,London Heathrow Airport,140
+2019-10-26,Munich Airport,33
+2019-10-26,Rome–Fiumicino Leonardo da Vinci International Airport,31
+2019-10-26,Zürich Airport,15
+2019-10-27,Adolfo Suárez Madrid–Barajas Airport,43
+2019-10-27,Amsterdam Airport Schiphol,38
+2019-10-27,Charles de Gaulle International Airport,84
+2019-10-27,Frankfurt am Main Airport,54
+2019-10-27,Josep Tarradellas Barcelona-El Prat Airport,44
+2019-10-27,London Gatwick Airport,28
+2019-10-27,London Heathrow Airport,84
+2019-10-27,Munich Airport,23
+2019-10-27,Rome–Fiumicino Leonardo da Vinci International Airport,27
+2019-10-27,Zürich Airport,9
+2019-10-28,Adolfo Suárez Madrid–Barajas Airport,85
+2019-10-28,Amsterdam Airport Schiphol,61
+2019-10-28,Charles de Gaulle International Airport,118
+2019-10-28,Frankfurt am Main Airport,120
+2019-10-28,Josep Tarradellas Barcelona-El Prat Airport,86
+2019-10-28,London Gatwick Airport,69
+2019-10-28,London Heathrow Airport,157
+2019-10-28,Munich Airport,59
+2019-10-28,Rome–Fiumicino Leonardo da Vinci International Airport,84
+2019-10-28,Zürich Airport,28
+2019-10-29,Adolfo Suárez Madrid–Barajas Airport,31
+2019-10-29,Amsterdam Airport Schiphol,41
+2019-10-29,Charles de Gaulle International Airport,81
+2019-10-29,Frankfurt am Main Airport,87
+2019-10-29,Josep Tarradellas Barcelona-El Prat Airport,51
+2019-10-29,London Gatwick Airport,36
+2019-10-29,London Heathrow Airport,94
+2019-10-29,Munich Airport,43
+2019-10-29,Rome–Fiumicino Leonardo da Vinci International Airport,62
+2019-10-29,Zürich Airport,28
+2019-10-30,Adolfo Suárez Madrid–Barajas Airport,79
+2019-10-30,Amsterdam Airport Schiphol,54
+2019-10-30,Charles de Gaulle International Airport,92
+2019-10-30,Frankfurt am Main Airport,98
+2019-10-30,Josep Tarradellas Barcelona-El Prat Airport,56
+2019-10-30,London Gatwick Airport,35
+2019-10-30,London Heathrow Airport,131
+2019-10-30,Munich Airport,43
+2019-10-30,Rome–Fiumicino Leonardo da Vinci International Airport,50
+2019-10-30,Zürich Airport,39
+2019-10-31,Adolfo Suárez Madrid–Barajas Airport,47
+2019-10-31,Amsterdam Airport Schiphol,33
+2019-10-31,Charles de Gaulle International Airport,55
+2019-10-31,Frankfurt am Main Airport,51
+2019-10-31,Josep Tarradellas Barcelona-El Prat Airport,31
+2019-10-31,London Gatwick Airport,35
+2019-10-31,London Heathrow Airport,113
+2019-10-31,Munich Airport,29
+2019-10-31,Rome–Fiumicino Leonardo da Vinci International Airport,25
+2019-10-31,Zürich Airport,19
+2019-11-01,Adolfo Suárez Madrid–Barajas Airport,106
+2019-11-01,Amsterdam Airport Schiphol,115
+2019-11-01,Charles de Gaulle International Airport,152
+2019-11-01,Frankfurt am Main Airport,145
+2019-11-01,Josep Tarradellas Barcelona-El Prat Airport,111
+2019-11-01,London Gatwick Airport,81
+2019-11-01,London Heathrow Airport,192
+2019-11-01,Munich Airport,61
+2019-11-01,Rome–Fiumicino Leonardo da Vinci International Airport,60
+2019-11-01,Zürich Airport,40
+2019-11-02,Adolfo Suárez Madrid–Barajas Airport,62
+2019-11-02,Amsterdam Airport Schiphol,75
+2019-11-02,Charles de Gaulle International Airport,112
+2019-11-02,Frankfurt am Main Airport,145
+2019-11-02,Josep Tarradellas Barcelona-El Prat Airport,46
+2019-11-02,London Gatwick Airport,45
+2019-11-02,London Heathrow Airport,149
+2019-11-02,Munich Airport,71
+2019-11-02,Rome–Fiumicino Leonardo da Vinci International Airport,60
+2019-11-02,Zürich Airport,44
+2019-11-03,Adolfo Suárez Madrid–Barajas Airport,36
+2019-11-03,Amsterdam Airport Schiphol,72
+2019-11-03,Charles de Gaulle International Airport,78
+2019-11-03,Frankfurt am Main Airport,129
+2019-11-03,Josep Tarradellas Barcelona-El Prat Airport,27
+2019-11-03,London Gatwick Airport,19
+2019-11-03,London Heathrow Airport,120
+2019-11-03,Munich Airport,60
+2019-11-03,Rome–Fiumicino Leonardo da Vinci International Airport,43
+2019-11-03,Zürich Airport,31
+2019-11-04,Adolfo Suárez Madrid–Barajas Airport,30
+2019-11-04,Amsterdam Airport Schiphol,33
+2019-11-04,Charles de Gaulle International Airport,52
+2019-11-04,Frankfurt am Main Airport,57
+2019-11-04,Josep Tarradellas Barcelona-El Prat Airport,12
+2019-11-04,London Gatwick Airport,10
+2019-11-04,London Heathrow Airport,102
+2019-11-04,Munich Airport,25
+2019-11-04,Rome–Fiumicino Leonardo da Vinci International Airport,23
+2019-11-04,Zürich Airport,19
+2019-11-05,Adolfo Suárez Madrid–Barajas Airport,22
+2019-11-05,Amsterdam Airport Schiphol,27
+2019-11-05,Charles de Gaulle International Airport,35
+2019-11-05,Frankfurt am Main Airport,37
+2019-11-05,Josep Tarradellas Barcelona-El Prat Airport,7
+2019-11-05,London Gatwick Airport,6
+2019-11-05,London Heathrow Airport,48
+2019-11-05,Munich Airport,10
+2019-11-05,Rome–Fiumicino Leonardo da Vinci International Airport,13
+2019-11-05,Zürich Airport,9
+2019-11-06,Adolfo Suárez Madrid–Barajas Airport,24
+2019-11-06,Amsterdam Airport Schiphol,39
+2019-11-06,Charles de Gaulle International Airport,48
+2019-11-06,Frankfurt am Main Airport,66
+2019-11-06,Josep Tarradellas Barcelona-El Prat Airport,9
+2019-11-06,London Gatwick Airport,13
+2019-11-06,London Heathrow Airport,67
+2019-11-06,Munich Airport,22
+2019-11-06,Rome–Fiumicino Leonardo da Vinci International Airport,24
+2019-11-06,Zürich Airport,22
+2019-11-07,Adolfo Suárez Madrid–Barajas Airport,19
+2019-11-07,Amsterdam Airport Schiphol,47
+2019-11-07,Charles de Gaulle International Airport,55
+2019-11-07,Frankfurt am Main Airport,51
+2019-11-07,Josep Tarradellas Barcelona-El Prat Airport,11
+2019-11-07,London Gatwick Airport,12
+2019-11-07,London Heathrow Airport,96
+2019-11-07,Munich Airport,15
+2019-11-07,Rome–Fiumicino Leonardo da Vinci International Airport,20
+2019-11-07,Zürich Airport,19
+2019-11-08,Adolfo Suárez Madrid–Barajas Airport,33
+2019-11-08,Amsterdam Airport Schiphol,28
+2019-11-08,Charles de Gaulle International Airport,40
+2019-11-08,Frankfurt am Main Airport,39
+2019-11-08,Josep Tarradellas Barcelona-El Prat Airport,10
+2019-11-08,London Gatwick Airport,15
+2019-11-08,London Heathrow Airport,77
+2019-11-08,Munich Airport,7
+2019-11-08,Rome–Fiumicino Leonardo da Vinci International Airport,7
+2019-11-08,Zürich Airport,9
+2019-11-09,Adolfo Suárez Madrid–Barajas Airport,35
+2019-11-09,Amsterdam Airport Schiphol,40
+2019-11-09,Charles de Gaulle International Airport,52
+2019-11-09,Frankfurt am Main Airport,66
+2019-11-09,Josep Tarradellas Barcelona-El Prat Airport,15
+2019-11-09,London Gatwick Airport,22
+2019-11-09,London Heathrow Airport,98
+2019-11-09,Munich Airport,28
+2019-11-09,Rome–Fiumicino Leonardo da Vinci International Airport,26
+2019-11-09,Zürich Airport,20
+2019-11-10,Adolfo Suárez Madrid–Barajas Airport,29
+2019-11-10,Amsterdam Airport Schiphol,42
+2019-11-10,Charles de Gaulle International Airport,51
+2019-11-10,Frankfurt am Main Airport,65
+2019-11-10,Josep Tarradellas Barcelona-El Prat Airport,16
+2019-11-10,London Gatwick Airport,15
+2019-11-10,London Heathrow Airport,93
+2019-11-10,Munich Airport,17
+2019-11-10,Rome–Fiumicino Leonardo da Vinci International Airport,33
+2019-11-10,Zürich Airport,14
+2019-11-11,Adolfo Suárez Madrid–Barajas Airport,43
+2019-11-11,Amsterdam Airport Schiphol,54
+2019-11-11,Charles de Gaulle International Airport,63
+2019-11-11,Frankfurt am Main Airport,85
+2019-11-11,Josep Tarradellas Barcelona-El Prat Airport,26
+2019-11-11,London Gatwick Airport,25
+2019-11-11,London Heathrow Airport,98
+2019-11-11,Munich Airport,43
+2019-11-11,Rome–Fiumicino Leonardo da Vinci International Airport,44
+2019-11-11,Zürich Airport,27
+2019-11-12,Adolfo Suárez Madrid–Barajas Airport,45
+2019-11-12,Amsterdam Airport Schiphol,53
+2019-11-12,Charles de Gaulle International Airport,75
+2019-11-12,Frankfurt am Main Airport,116
+2019-11-12,Josep Tarradellas Barcelona-El Prat Airport,18
+2019-11-12,London Gatwick Airport,26
+2019-11-12,London Heathrow Airport,126
+2019-11-12,Munich Airport,45
+2019-11-12,Rome–Fiumicino Leonardo da Vinci International Airport,31
+2019-11-12,Zürich Airport,24
+2019-11-13,Adolfo Suárez Madrid–Barajas Airport,42
+2019-11-13,Amsterdam Airport Schiphol,55
+2019-11-13,Charles de Gaulle International Airport,86
+2019-11-13,Frankfurt am Main Airport,87
+2019-11-13,Josep Tarradellas Barcelona-El Prat Airport,16
+2019-11-13,London Gatwick Airport,27
+2019-11-13,London Heathrow Airport,133
+2019-11-13,Munich Airport,45
+2019-11-13,Rome–Fiumicino Leonardo da Vinci International Airport,28
+2019-11-13,Zürich Airport,27
+2019-11-14,Adolfo Suárez Madrid–Barajas Airport,28
+2019-11-14,Amsterdam Airport Schiphol,27
+2019-11-14,Charles de Gaulle International Airport,57
+2019-11-14,Frankfurt am Main Airport,63
+2019-11-14,Josep Tarradellas Barcelona-El Prat Airport,16
+2019-11-14,London Gatwick Airport,16
+2019-11-14,London Heathrow Airport,94
+2019-11-14,Munich Airport,19
+2019-11-14,Rome–Fiumicino Leonardo da Vinci International Airport,21
+2019-11-14,Zürich Airport,16
+2019-11-15,Adolfo Suárez Madrid–Barajas Airport,38
+2019-11-15,Amsterdam Airport Schiphol,57
+2019-11-15,Charles de Gaulle International Airport,90
+2019-11-15,Frankfurt am Main Airport,125
+2019-11-15,Josep Tarradellas Barcelona-El Prat Airport,18
+2019-11-15,London Gatwick Airport,35
+2019-11-15,London Heathrow Airport,150
+2019-11-15,Munich Airport,48
+2019-11-15,Rome–Fiumicino Leonardo da Vinci International Airport,31
+2019-11-15,Zürich Airport,26
+2019-11-16,Adolfo Suárez Madrid–Barajas Airport,29
+2019-11-16,Amsterdam Airport Schiphol,62
+2019-11-16,Charles de Gaulle International Airport,82
+2019-11-16,Frankfurt am Main Airport,93
+2019-11-16,Josep Tarradellas Barcelona-El Prat Airport,20
+2019-11-16,London Gatwick Airport,20
+2019-11-16,London Heathrow Airport,135
+2019-11-16,Munich Airport,43
+2019-11-16,Rome–Fiumicino Leonardo da Vinci International Airport,37
+2019-11-16,Zürich Airport,34
+2019-11-17,Adolfo Suárez Madrid–Barajas Airport,34
+2019-11-17,Amsterdam Airport Schiphol,71
+2019-11-17,Charles de Gaulle International Airport,76
+2019-11-17,Frankfurt am Main Airport,115
+2019-11-17,Josep Tarradellas Barcelona-El Prat Airport,14
+2019-11-17,London Gatwick Airport,25
+2019-11-17,London Heathrow Airport,146
+2019-11-17,Munich Airport,52
+2019-11-17,Rome–Fiumicino Leonardo da Vinci International Airport,32
+2019-11-17,Zürich Airport,22
+2019-11-18,Adolfo Suárez Madrid–Barajas Airport,41
+2019-11-18,Amsterdam Airport Schiphol,58
+2019-11-18,Charles de Gaulle International Airport,70
+2019-11-18,Frankfurt am Main Airport,79
+2019-11-18,Josep Tarradellas Barcelona-El Prat Airport,10
+2019-11-18,London Gatwick Airport,21
+2019-11-18,London Heathrow Airport,144
+2019-11-18,Munich Airport,32
+2019-11-18,Rome–Fiumicino Leonardo da Vinci International Airport,25
+2019-11-18,Zürich Airport,22
+2019-11-19,Adolfo Suárez Madrid–Barajas Airport,93
+2019-11-19,Amsterdam Airport Schiphol,72
+2019-11-19,Charles de Gaulle International Airport,100
+2019-11-19,Frankfurt am Main Airport,96
+2019-11-19,Josep Tarradellas Barcelona-El Prat Airport,38
+2019-11-19,London Gatwick Airport,47
+2019-11-19,London Heathrow Airport,172
+2019-11-19,Munich Airport,46
+2019-11-19,Rome–Fiumicino Leonardo da Vinci International Airport,35
+2019-11-19,Zürich Airport,30
+2019-11-20,Adolfo Suárez Madrid–Barajas Airport,53
+2019-11-20,Amsterdam Airport Schiphol,72
+2019-11-20,Charles de Gaulle International Airport,76
+2019-11-20,Frankfurt am Main Airport,105
+2019-11-20,Josep Tarradellas Barcelona-El Prat Airport,41
+2019-11-20,London Gatwick Airport,43
+2019-11-20,London Heathrow Airport,139
+2019-11-20,Munich Airport,39
+2019-11-20,Rome–Fiumicino Leonardo da Vinci International Airport,29
+2019-11-20,Zürich Airport,27
+2019-11-21,Adolfo Suárez Madrid–Barajas Airport,60
+2019-11-21,Amsterdam Airport Schiphol,81
+2019-11-21,Charles de Gaulle International Airport,81
+2019-11-21,Frankfurt am Main Airport,111
+2019-11-21,Josep Tarradellas Barcelona-El Prat Airport,69
+2019-11-21,London Gatwick Airport,25
+2019-11-21,London Heathrow Airport,129
+2019-11-21,Munich Airport,52
+2019-11-21,Rome–Fiumicino Leonardo da Vinci International Airport,40
+2019-11-21,Zürich Airport,23
+2019-11-22,Adolfo Suárez Madrid–Barajas Airport,34
+2019-11-22,Amsterdam Airport Schiphol,73
+2019-11-22,Charles de Gaulle International Airport,104
+2019-11-22,Frankfurt am Main Airport,154
+2019-11-22,Josep Tarradellas Barcelona-El Prat Airport,44
+2019-11-22,London Gatwick Airport,28
+2019-11-22,London Heathrow Airport,161
+2019-11-22,Munich Airport,69
+2019-11-22,Rome–Fiumicino Leonardo da Vinci International Airport,33
+2019-11-22,Zürich Airport,33
+2019-11-23,Adolfo Suárez Madrid–Barajas Airport,34
+2019-11-23,Amsterdam Airport Schiphol,79
+2019-11-23,Charles de Gaulle International Airport,118
+2019-11-23,Frankfurt am Main Airport,118
+2019-11-23,Josep Tarradellas Barcelona-El Prat Airport,26
+2019-11-23,London Gatwick Airport,23
+2019-11-23,London Heathrow Airport,161
+2019-11-23,Munich Airport,66
+2019-11-23,Rome–Fiumicino Leonardo da Vinci International Airport,41
+2019-11-23,Zürich Airport,38
+2019-11-24,Adolfo Suárez Madrid–Barajas Airport,40
+2019-11-24,Amsterdam Airport Schiphol,130
+2019-11-24,Charles de Gaulle International Airport,147
+2019-11-24,Frankfurt am Main Airport,139
+2019-11-24,Josep Tarradellas Barcelona-El Prat Airport,54
+2019-11-24,London Gatwick Airport,64
+2019-11-24,London Heathrow Airport,230
+2019-11-24,Munich Airport,83
+2019-11-24,Rome–Fiumicino Leonardo da Vinci International Airport,74
+2019-11-24,Zürich Airport,39
+2019-11-25,Adolfo Suárez Madrid–Barajas Airport,97
+2019-11-25,Amsterdam Airport Schiphol,116
+2019-11-25,Charles de Gaulle International Airport,128
+2019-11-25,Frankfurt am Main Airport,158
+2019-11-25,Josep Tarradellas Barcelona-El Prat Airport,50
+2019-11-25,London Gatwick Airport,67
+2019-11-25,London Heathrow Airport,160
+2019-11-25,Munich Airport,67
+2019-11-25,Rome–Fiumicino Leonardo da Vinci International Airport,23
+2019-11-25,Zürich Airport,30
+2019-11-26,Adolfo Suárez Madrid–Barajas Airport,68
+2019-11-26,Amsterdam Airport Schiphol,127
+2019-11-26,Charles de Gaulle International Airport,117
+2019-11-26,Frankfurt am Main Airport,146
+2019-11-26,Josep Tarradellas Barcelona-El Prat Airport,48
+2019-11-26,London Gatwick Airport,72
+2019-11-26,London Heathrow Airport,217
+2019-11-26,Munich Airport,70
+2019-11-26,Rome–Fiumicino Leonardo da Vinci International Airport,26
+2019-11-26,Zürich Airport,28
+2019-11-27,Adolfo Suárez Madrid–Barajas Airport,27
+2019-11-27,Amsterdam Airport Schiphol,46
+2019-11-27,Charles de Gaulle International Airport,65
+2019-11-27,Frankfurt am Main Airport,99
+2019-11-27,Josep Tarradellas Barcelona-El Prat Airport,14
+2019-11-27,London Gatwick Airport,11
+2019-11-27,London Heathrow Airport,92
+2019-11-27,Munich Airport,35
+2019-11-27,Rome–Fiumicino Leonardo da Vinci International Airport,30
+2019-11-27,Zürich Airport,22
+2019-11-28,Adolfo Suárez Madrid–Barajas Airport,38
+2019-11-28,Amsterdam Airport Schiphol,35
+2019-11-28,Charles de Gaulle International Airport,46
+2019-11-28,Frankfurt am Main Airport,61
+2019-11-28,Josep Tarradellas Barcelona-El Prat Airport,21
+2019-11-28,London Gatwick Airport,10
+2019-11-28,London Heathrow Airport,62
+2019-11-28,Munich Airport,19
+2019-11-28,Rome–Fiumicino Leonardo da Vinci International Airport,20
+2019-11-28,Zürich Airport,11
+2019-11-29,Adolfo Suárez Madrid–Barajas Airport,47
+2019-11-29,Amsterdam Airport Schiphol,24
+2019-11-29,Charles de Gaulle International Airport,30
+2019-11-29,Frankfurt am Main Airport,34
+2019-11-29,Josep Tarradellas Barcelona-El Prat Airport,9
+2019-11-29,London Gatwick Airport,14
+2019-11-29,London Heathrow Airport,55
+2019-11-29,Munich Airport,16
+2019-11-29,Rome–Fiumicino Leonardo da Vinci International Airport,8
+2019-11-29,Zürich Airport,5
+2019-11-30,Adolfo Suárez Madrid–Barajas Airport,34
+2019-11-30,Amsterdam Airport Schiphol,44
+2019-11-30,Charles de Gaulle International Airport,55
+2019-11-30,Frankfurt am Main Airport,61
+2019-11-30,Josep Tarradellas Barcelona-El Prat Airport,15
+2019-11-30,London Gatwick Airport,18
+2019-11-30,London Heathrow Airport,108
+2019-11-30,Munich Airport,16
+2019-11-30,Rome–Fiumicino Leonardo da Vinci International Airport,19
+2019-11-30,Zürich Airport,17
+2019-12-01,Adolfo Suárez Madrid–Barajas Airport,37
+2019-12-01,Amsterdam Airport Schiphol,55
+2019-12-01,Charles de Gaulle International Airport,68
+2019-12-01,Frankfurt am Main Airport,94
+2019-12-01,Josep Tarradellas Barcelona-El Prat Airport,18
+2019-12-01,London Gatwick Airport,19
+2019-12-01,London Heathrow Airport,142
+2019-12-01,Munich Airport,43
+2019-12-01,Rome–Fiumicino Leonardo da Vinci International Airport,28
+2019-12-01,Zürich Airport,20
+2019-12-02,Adolfo Suárez Madrid–Barajas Airport,24
+2019-12-02,Amsterdam Airport Schiphol,47
+2019-12-02,Charles de Gaulle International Airport,61
+2019-12-02,Frankfurt am Main Airport,66
+2019-12-02,Josep Tarradellas Barcelona-El Prat Airport,9
+2019-12-02,London Gatwick Airport,15
+2019-12-02,London Heathrow Airport,127
+2019-12-02,Munich Airport,32
+2019-12-02,Rome–Fiumicino Leonardo da Vinci International Airport,14
+2019-12-02,Zürich Airport,24
+2019-12-03,Adolfo Suárez Madrid–Barajas Airport,15
+2019-12-03,Amsterdam Airport Schiphol,30
+2019-12-03,Charles de Gaulle International Airport,48
+2019-12-03,Frankfurt am Main Airport,51
+2019-12-03,Josep Tarradellas Barcelona-El Prat Airport,5
+2019-12-03,London Gatwick Airport,10
+2019-12-03,London Heathrow Airport,57
+2019-12-03,Munich Airport,15
+2019-12-03,Rome–Fiumicino Leonardo da Vinci International Airport,12
+2019-12-03,Zürich Airport,11
+2019-12-04,Adolfo Suárez Madrid–Barajas Airport,26
+2019-12-04,Amsterdam Airport Schiphol,33
+2019-12-04,Charles de Gaulle International Airport,43
+2019-12-04,Frankfurt am Main Airport,37
+2019-12-04,Josep Tarradellas Barcelona-El Prat Airport,10
+2019-12-04,London Gatwick Airport,12
+2019-12-04,London Heathrow Airport,83
+2019-12-04,Munich Airport,13
+2019-12-04,Rome–Fiumicino Leonardo da Vinci International Airport,19
+2019-12-04,Zürich Airport,10
+2019-12-05,Adolfo Suárez Madrid–Barajas Airport,33
+2019-12-05,Amsterdam Airport Schiphol,50
+2019-12-05,Charles de Gaulle International Airport,69
+2019-12-05,Frankfurt am Main Airport,64
+2019-12-05,Josep Tarradellas Barcelona-El Prat Airport,13
+2019-12-05,London Gatwick Airport,34
+2019-12-05,London Heathrow Airport,111
+2019-12-05,Munich Airport,29
+2019-12-05,Rome–Fiumicino Leonardo da Vinci International Airport,16
+2019-12-05,Zürich Airport,16
+2019-12-06,Adolfo Suárez Madrid–Barajas Airport,33
+2019-12-06,Amsterdam Airport Schiphol,77
+2019-12-06,Charles de Gaulle International Airport,95
+2019-12-06,Frankfurt am Main Airport,101
+2019-12-06,Josep Tarradellas Barcelona-El Prat Airport,18
+2019-12-06,London Gatwick Airport,41
+2019-12-06,London Heathrow Airport,152
+2019-12-06,Munich Airport,71
+2019-12-06,Rome–Fiumicino Leonardo da Vinci International Airport,29
+2019-12-06,Zürich Airport,32
+2019-12-07,Adolfo Suárez Madrid–Barajas Airport,24
+2019-12-07,Amsterdam Airport Schiphol,51
+2019-12-07,Charles de Gaulle International Airport,76
+2019-12-07,Frankfurt am Main Airport,84
+2019-12-07,Josep Tarradellas Barcelona-El Prat Airport,7
+2019-12-07,London Gatwick Airport,27
+2019-12-07,London Heathrow Airport,130
+2019-12-07,Munich Airport,41
+2019-12-07,Rome–Fiumicino Leonardo da Vinci International Airport,18
+2019-12-07,Zürich Airport,18
+2019-12-08,Adolfo Suárez Madrid–Barajas Airport,70
+2019-12-08,Amsterdam Airport Schiphol,76
+2019-12-08,Charles de Gaulle International Airport,89
+2019-12-08,Frankfurt am Main Airport,108
+2019-12-08,Josep Tarradellas Barcelona-El Prat Airport,45
+2019-12-08,London Gatwick Airport,44
+2019-12-08,London Heathrow Airport,141
+2019-12-08,Munich Airport,58
+2019-12-08,Rome–Fiumicino Leonardo da Vinci International Airport,31
+2019-12-08,Zürich Airport,28
+2019-12-09,Adolfo Suárez Madrid–Barajas Airport,21
+2019-12-09,Amsterdam Airport Schiphol,30
+2019-12-09,Charles de Gaulle International Airport,54
+2019-12-09,Frankfurt am Main Airport,39
+2019-12-09,Josep Tarradellas Barcelona-El Prat Airport,5
+2019-12-09,London Gatwick Airport,13
+2019-12-09,London Heathrow Airport,96
+2019-12-09,Munich Airport,13
+2019-12-09,Rome–Fiumicino Leonardo da Vinci International Airport,11
+2019-12-09,Zürich Airport,11
+2019-12-10,Adolfo Suárez Madrid–Barajas Airport,55
+2019-12-10,Amsterdam Airport Schiphol,46
+2019-12-10,Charles de Gaulle International Airport,70
+2019-12-10,Frankfurt am Main Airport,54
+2019-12-10,Josep Tarradellas Barcelona-El Prat Airport,30
+2019-12-10,London Gatwick Airport,39
+2019-12-10,London Heathrow Airport,138
+2019-12-10,Munich Airport,25
+2019-12-10,Rome–Fiumicino Leonardo da Vinci International Airport,19
+2019-12-10,Zürich Airport,15
+2019-12-11,Adolfo Suárez Madrid–Barajas Airport,43
+2019-12-11,Amsterdam Airport Schiphol,72
+2019-12-11,Charles de Gaulle International Airport,96
+2019-12-11,Frankfurt am Main Airport,118
+2019-12-11,Josep Tarradellas Barcelona-El Prat Airport,27
+2019-12-11,London Gatwick Airport,32
+2019-12-11,London Heathrow Airport,145
+2019-12-11,Munich Airport,44
+2019-12-11,Rome–Fiumicino Leonardo da Vinci International Airport,30
+2019-12-11,Zürich Airport,35
+2019-12-12,Adolfo Suárez Madrid–Barajas Airport,35
+2019-12-12,Amsterdam Airport Schiphol,37
+2019-12-12,Charles de Gaulle International Airport,44
+2019-12-12,Frankfurt am Main Airport,39
+2019-12-12,Josep Tarradellas Barcelona-El Prat Airport,18
+2019-12-12,London Gatwick Airport,25
+2019-12-12,London Heathrow Airport,58
+2019-12-12,Munich Airport,13
+2019-12-12,Rome–Fiumicino Leonardo da Vinci International Airport,18
+2019-12-12,Zürich Airport,14
+2019-12-13,Adolfo Suárez Madrid–Barajas Airport,29
+2019-12-13,Amsterdam Airport Schiphol,28
+2019-12-13,Charles de Gaulle International Airport,36
+2019-12-13,Frankfurt am Main Airport,31
+2019-12-13,Josep Tarradellas Barcelona-El Prat Airport,7
+2019-12-13,London Gatwick Airport,8
+2019-12-13,London Heathrow Airport,47
+2019-12-13,Munich Airport,12
+2019-12-13,Rome–Fiumicino Leonardo da Vinci International Airport,5
+2019-12-13,Zürich Airport,6
+2019-12-14,Adolfo Suárez Madrid–Barajas Airport,74
+2019-12-14,Amsterdam Airport Schiphol,40
+2019-12-14,Charles de Gaulle International Airport,78
+2019-12-14,Frankfurt am Main Airport,59
+2019-12-14,Josep Tarradellas Barcelona-El Prat Airport,20
+2019-12-14,London Gatwick Airport,32
+2019-12-14,London Heathrow Airport,120
+2019-12-14,Munich Airport,26
+2019-12-14,Rome–Fiumicino Leonardo da Vinci International Airport,27
+2019-12-14,Zürich Airport,25
+2019-12-15,Adolfo Suárez Madrid–Barajas Airport,138
+2019-12-15,Amsterdam Airport Schiphol,74
+2019-12-15,Charles de Gaulle International Airport,109
+2019-12-15,Frankfurt am Main Airport,95
+2019-12-15,Josep Tarradellas Barcelona-El Prat Airport,66
+2019-12-15,London Gatwick Airport,62
+2019-12-15,London Heathrow Airport,166
+2019-12-15,Munich Airport,35
+2019-12-15,Rome–Fiumicino Leonardo da Vinci International Airport,38
+2019-12-15,Zürich Airport,30
+2019-12-16,Adolfo Suárez Madrid–Barajas Airport,93
+2019-12-16,Amsterdam Airport Schiphol,114
+2019-12-16,Charles de Gaulle International Airport,153
+2019-12-16,Frankfurt am Main Airport,170
+2019-12-16,Josep Tarradellas Barcelona-El Prat Airport,78
+2019-12-16,London Gatwick Airport,104
+2019-12-16,London Heathrow Airport,258
+2019-12-16,Munich Airport,99
+2019-12-16,Rome–Fiumicino Leonardo da Vinci International Airport,92
+2019-12-16,Zürich Airport,47
+2019-12-17,Adolfo Suárez Madrid–Barajas Airport,23
+2019-12-17,Amsterdam Airport Schiphol,76
+2019-12-17,Charles de Gaulle International Airport,84
+2019-12-17,Frankfurt am Main Airport,109
+2019-12-17,Josep Tarradellas Barcelona-El Prat Airport,21
+2019-12-17,London Gatwick Airport,38
+2019-12-17,London Heathrow Airport,134
+2019-12-17,Munich Airport,43
+2019-12-17,Rome–Fiumicino Leonardo da Vinci International Airport,24
+2019-12-17,Zürich Airport,21
+2019-12-18,Adolfo Suárez Madrid–Barajas Airport,47
+2019-12-18,Amsterdam Airport Schiphol,47
+2019-12-18,Charles de Gaulle International Airport,73
+2019-12-18,Frankfurt am Main Airport,86
+2019-12-18,Josep Tarradellas Barcelona-El Prat Airport,19
+2019-12-18,London Gatwick Airport,21
+2019-12-18,London Heathrow Airport,104
+2019-12-18,Munich Airport,35
+2019-12-18,Rome–Fiumicino Leonardo da Vinci International Airport,45
+2019-12-18,Zürich Airport,28
+2019-12-19,Adolfo Suárez Madrid–Barajas Airport,38
+2019-12-19,Amsterdam Airport Schiphol,82
+2019-12-19,Charles de Gaulle International Airport,95
+2019-12-19,Frankfurt am Main Airport,139
+2019-12-19,Josep Tarradellas Barcelona-El Prat Airport,21
+2019-12-19,London Gatwick Airport,36
+2019-12-19,London Heathrow Airport,154
+2019-12-19,Munich Airport,74
+2019-12-19,Rome–Fiumicino Leonardo da Vinci International Airport,47
+2019-12-19,Zürich Airport,39
+2019-12-20,Adolfo Suárez Madrid–Barajas Airport,61
+2019-12-20,Amsterdam Airport Schiphol,55
+2019-12-20,Charles de Gaulle International Airport,73
+2019-12-20,Frankfurt am Main Airport,110
+2019-12-20,Josep Tarradellas Barcelona-El Prat Airport,27
+2019-12-20,London Gatwick Airport,23
+2019-12-20,London Heathrow Airport,100
+2019-12-20,Munich Airport,49
+2019-12-20,Rome–Fiumicino Leonardo da Vinci International Airport,30
+2019-12-20,Zürich Airport,26
+2019-12-21,Adolfo Suárez Madrid–Barajas Airport,28
+2019-12-21,Amsterdam Airport Schiphol,31
+2019-12-21,Charles de Gaulle International Airport,45
+2019-12-21,Frankfurt am Main Airport,68
+2019-12-21,Josep Tarradellas Barcelona-El Prat Airport,10
+2019-12-21,London Gatwick Airport,11
+2019-12-21,London Heathrow Airport,71
+2019-12-21,Munich Airport,31
+2019-12-21,Rome–Fiumicino Leonardo da Vinci International Airport,24
+2019-12-21,Zürich Airport,21
+2019-12-22,Adolfo Suárez Madrid–Barajas Airport,25
+2019-12-22,Amsterdam Airport Schiphol,35
+2019-12-22,Charles de Gaulle International Airport,43
+2019-12-22,Frankfurt am Main Airport,56
+2019-12-22,Josep Tarradellas Barcelona-El Prat Airport,5
+2019-12-22,London Gatwick Airport,7
+2019-12-22,London Heathrow Airport,56
+2019-12-22,Munich Airport,22
+2019-12-22,Rome–Fiumicino Leonardo da Vinci International Airport,11
+2019-12-22,Zürich Airport,14
+2019-12-23,Adolfo Suárez Madrid–Barajas Airport,40
+2019-12-23,Amsterdam Airport Schiphol,23
+2019-12-23,Charles de Gaulle International Airport,49
+2019-12-23,Frankfurt am Main Airport,44
+2019-12-23,Josep Tarradellas Barcelona-El Prat Airport,13
+2019-12-23,London Gatwick Airport,15
+2019-12-23,London Heathrow Airport,61
+2019-12-23,Munich Airport,21
+2019-12-23,Rome–Fiumicino Leonardo da Vinci International Airport,16
+2019-12-23,Zürich Airport,12
+2019-12-24,Adolfo Suárez Madrid–Barajas Airport,42
+2019-12-24,Amsterdam Airport Schiphol,25
+2019-12-24,Charles de Gaulle International Airport,28
+2019-12-24,Frankfurt am Main Airport,27
+2019-12-24,Josep Tarradellas Barcelona-El Prat Airport,8
+2019-12-24,London Gatwick Airport,6
+2019-12-24,London Heathrow Airport,40
+2019-12-24,Munich Airport,8
+2019-12-24,Rome–Fiumicino Leonardo da Vinci International Airport,15
+2019-12-24,Zürich Airport,8
+2019-12-25,Adolfo Suárez Madrid–Barajas Airport,59
+2019-12-25,Amsterdam Airport Schiphol,44
+2019-12-25,Charles de Gaulle International Airport,67
+2019-12-25,Frankfurt am Main Airport,38
+2019-12-25,Josep Tarradellas Barcelona-El Prat Airport,19
+2019-12-25,London Gatwick Airport,14
+2019-12-25,London Heathrow Airport,72
+2019-12-25,Munich Airport,11
+2019-12-25,Rome–Fiumicino Leonardo da Vinci International Airport,12
+2019-12-25,Zürich Airport,18
+2019-12-26,Adolfo Suárez Madrid–Barajas Airport,69
+2019-12-26,Amsterdam Airport Schiphol,61
+2019-12-26,Charles de Gaulle International Airport,78
+2019-12-26,Frankfurt am Main Airport,75
+2019-12-26,Josep Tarradellas Barcelona-El Prat Airport,28
+2019-12-26,London Gatwick Airport,35
+2019-12-26,London Heathrow Airport,126
+2019-12-26,Munich Airport,30
+2019-12-26,Rome–Fiumicino Leonardo da Vinci International Airport,27
+2019-12-26,Zürich Airport,15
+2019-12-27,Adolfo Suárez Madrid–Barajas Airport,39
+2019-12-27,Amsterdam Airport Schiphol,52
+2019-12-27,Charles de Gaulle International Airport,65
+2019-12-27,Frankfurt am Main Airport,57
+2019-12-27,Josep Tarradellas Barcelona-El Prat Airport,20
+2019-12-27,London Gatwick Airport,40
+2019-12-27,London Heathrow Airport,135
+2019-12-27,Munich Airport,22
+2019-12-27,Rome–Fiumicino Leonardo da Vinci International Airport,18
+2019-12-27,Zürich Airport,16
+2019-12-28,Adolfo Suárez Madrid–Barajas Airport,55
+2019-12-28,Amsterdam Airport Schiphol,56
+2019-12-28,Charles de Gaulle International Airport,86
+2019-12-28,Frankfurt am Main Airport,66
+2019-12-28,Josep Tarradellas Barcelona-El Prat Airport,35
+2019-12-28,London Gatwick Airport,49
+2019-12-28,London Heathrow Airport,154
+2019-12-28,Munich Airport,27
+2019-12-28,Rome–Fiumicino Leonardo da Vinci International Airport,15
+2019-12-28,Zürich Airport,21
+2019-12-29,Adolfo Suárez Madrid–Barajas Airport,58
+2019-12-29,Amsterdam Airport Schiphol,62
+2019-12-29,Charles de Gaulle International Airport,61
+2019-12-29,Frankfurt am Main Airport,55
+2019-12-29,Josep Tarradellas Barcelona-El Prat Airport,17
+2019-12-29,London Gatwick Airport,35
+2019-12-29,London Heathrow Airport,103
+2019-12-29,Munich Airport,17
+2019-12-29,Rome–Fiumicino Leonardo da Vinci International Airport,19
+2019-12-29,Zürich Airport,12
+2019-12-30,Adolfo Suárez Madrid–Barajas Airport,56
+2019-12-30,Amsterdam Airport Schiphol,47
+2019-12-30,Charles de Gaulle International Airport,72
+2019-12-30,Frankfurt am Main Airport,55
+2019-12-30,Josep Tarradellas Barcelona-El Prat Airport,16
+2019-12-30,London Gatwick Airport,18
+2019-12-30,London Heathrow Airport,97
+2019-12-30,Munich Airport,22
+2019-12-30,Rome–Fiumicino Leonardo da Vinci International Airport,17
+2019-12-30,Zürich Airport,19
+2019-12-31,Adolfo Suárez Madrid–Barajas Airport,33
+2019-12-31,Amsterdam Airport Schiphol,40
+2019-12-31,Charles de Gaulle International Airport,50
+2019-12-31,Frankfurt am Main Airport,33
+2019-12-31,Josep Tarradellas Barcelona-El Prat Airport,8
+2019-12-31,London Gatwick Airport,27
+2019-12-31,London Heathrow Airport,93
+2019-12-31,Munich Airport,14
+2019-12-31,Rome–Fiumicino Leonardo da Vinci International Airport,13
+2019-12-31,Zürich Airport,14
