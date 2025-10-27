@@ -30,4 +30,5 @@
 - supporting\20251017_ADS-B_Traffic_Libary_Demo.ipynb
     - Load one hour of ADS-B data from adsbexchange.com and bin into FIRs
 
-- 
+## TODO 
+- Is the sum of the gridded forcings correct? 
