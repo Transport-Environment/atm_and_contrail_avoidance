@@ -1,2 +1,4 @@
 supporting
 secrets.yml
+*.pq
+*.nc

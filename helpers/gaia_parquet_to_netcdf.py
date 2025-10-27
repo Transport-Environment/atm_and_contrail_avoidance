@@ -18,8 +18,8 @@ import pandas as pd
 import xarray as xr
 
 # FOLDER_PATH
-FOLDER_PATH_GAIA = "gaia_extracted"
-OUTPUT_PATH = "gaia_full"
+FOLDER_PATH_GAIA = "<Specify folder path that contains the .pq files>"
+OUTPUT_PATH = "<Specify folder path that to save the .netcdf outputs>"
 
 # Time dimension
 DATE_START = "2019-01-01"

@@ -1,2 +1,5 @@
 netCDF4
 cartopy
+xarray
+pandas
+geopandas

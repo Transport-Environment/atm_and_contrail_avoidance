@@ -2,12 +2,11 @@
 
 - 1_departures.ipynb: 
     - Use 2019 incoming and outbound flight schedules for Europe with contrail forcing to analyse 
-        - Contrail forcing by departure airport
-        - Contrail forcing by departure FIR 
-        - Contrail forcing by departure time of day
-        - Contrail forcing by departure month of year 
-        - Number of big hits by day and airport
-        - Number of big hits by day and FIR
+        - Contrail forcing by departure time of day and month of year 
+        - Number of big hits by day and airport/FIR
+        - Total CO2 and contrail forcing by departure airport/FIR
+
+- 2_forcing.ipynb
 
 
 - supporting\20250808_Persistent_Contrails_From_ARCO_ERA5.ipynb
