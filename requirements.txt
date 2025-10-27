@@ -3,3 +3,4 @@ cartopy
 xarray
 pandas
 geopandas
+regionmask
