@@ -2,3 +2,6 @@ supporting
 secrets.yml
 *.pq
 *.nc
+output/forcing/4_global_warming_map.csv
+output/forcing/4_global_forcing_per_distance_map.csv
+output/forcing/4_global_flight_distance_map.csv
