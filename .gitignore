@@ -5,3 +5,5 @@ secrets.yml
 output/forcing/4_global_warming_map.csv
 output/forcing/4_global_forcing_per_distance_map.csv
 output/forcing/4_global_flight_distance_map.csv
+data/airspace_capacity/airspace_capacity_2024_partial.csv
+data/issr/contrail_region_details_2024.csv
