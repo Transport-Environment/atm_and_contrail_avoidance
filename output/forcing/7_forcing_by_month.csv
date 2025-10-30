@@ -1,721 +1,3217 @@
 Month,Flight distance in 10^9 km,Contrail warming in 10^18 J,Warming per flight distance in 10^9 J/m,Region
-Jan,350.92,4.11,11.7,Africa_Middle_East
-Feb,322.31,2.49,7.72,Africa_Middle_East
-Mar,375.03,2.82,7.51,Africa_Middle_East
-Apr,373.08,2.19,5.88,Africa_Middle_East
-May,376.61,2.99,7.93,Africa_Middle_East
-Jun,406.87,1.32,3.25,Africa_Middle_East
-Jul,450.68,1.44,3.2,Africa_Middle_East
-Aug,473.0,1.45,3.07,Africa_Middle_East
-Sep,402.11,1.53,3.8,Africa_Middle_East
-Oct,385.32,2.58,6.69,Africa_Middle_East
-Nov,343.98,4.25,12.34,Africa_Middle_East
-Dec,361.08,4.05,11.22,Africa_Middle_East
-Jan,18.69,0.63,33.68,Amsterdam FIR
-Feb,17.55,0.84,47.69,Amsterdam FIR
-Mar,19.77,0.73,37.05,Amsterdam FIR
-Apr,20.91,0.12,5.67,Amsterdam FIR
-May,21.57,0.25,11.76,Amsterdam FIR
-Jun,21.69,0.17,7.92,Amsterdam FIR
-Jul,22.57,0.14,6.05,Amsterdam FIR
-Aug,22.28,0.11,4.9,Amsterdam FIR
-Sep,23.96,0.39,16.3,Amsterdam FIR
-Oct,23.63,0.88,37.13,Amsterdam FIR
-Nov,19.53,0.61,31.33,Amsterdam FIR
-Dec,18.7,0.68,36.36,Amsterdam FIR
-Jan,31.02,0.62,20.04,Arctic
-Feb,28.29,0.6,21.35,Arctic
-Mar,28.97,0.76,26.26,Arctic
-Apr,28.04,0.42,14.98,Arctic
-May,30.78,0.32,10.44,Arctic
-Jun,30.51,0.15,5.07,Arctic
-Jul,33.03,0.32,9.67,Arctic
-Aug,41.28,0.51,12.33,Arctic
-Sep,32.59,0.87,26.7,Arctic
-Oct,28.59,1.16,40.4,Arctic
-Nov,24.21,1.49,61.53,Arctic
-Dec,26.75,2.03,76.04,Arctic
-Jan,22.97,0.2,8.54,Athinai FIR
-Feb,20.7,0.22,10.65,Athinai FIR
-Mar,25.04,0.24,9.4,Athinai FIR
-Apr,32.6,0.19,5.76,Athinai FIR
-May,40.77,0.61,14.89,Athinai FIR
-Jun,48.65,0.07,1.36,Athinai FIR
-Jul,55.51,0.03,0.53,Athinai FIR
-Aug,57.29,0.0,0.0,Athinai FIR
-Sep,48.43,0.18,3.71,Athinai FIR
-Oct,41.12,0.21,5.06,Athinai FIR
-Nov,25.8,1.18,45.73,Athinai FIR
-Dec,25.78,0.48,18.65,Athinai FIR
-Jan,19.98,0.11,5.43,Barcelona FIR
-Feb,18.22,-0.0,-0.07,Barcelona FIR
-Mar,22.41,0.05,2.14,Barcelona FIR
-Apr,29.7,0.06,2.05,Barcelona FIR
-May,32.9,0.1,3.06,Barcelona FIR
-Jun,37.09,0.06,1.58,Barcelona FIR
-Jul,41.14,0.01,0.15,Barcelona FIR
-Aug,41.31,0.04,0.95,Barcelona FIR
-Sep,37.7,0.29,7.59,Barcelona FIR
-Oct,33.32,0.34,10.21,Barcelona FIR
-Nov,21.88,0.25,11.36,Barcelona FIR
-Dec,22.06,0.08,3.55,Barcelona FIR
-Jan,10.48,0.28,26.89,Beograd FIR
-Feb,9.13,0.17,18.47,Beograd FIR
-Mar,10.67,0.3,27.71,Beograd FIR
-Apr,14.73,0.27,18.61,Beograd FIR
-May,18.69,0.2,10.9,Beograd FIR
-Jun,20.87,0.23,10.86,Beograd FIR
-Jul,23.44,0.09,3.98,Beograd FIR
-Aug,24.0,0.12,5.11,Beograd FIR
-Sep,21.77,0.41,18.93,Beograd FIR
-Oct,18.84,0.39,20.69,Beograd FIR
-Nov,12.09,0.86,71.46,Beograd FIR
-Dec,11.74,0.34,28.99,Beograd FIR
-Jan,21.18,0.33,15.52,Bordeaux FIR
-Feb,19.72,0.6,30.43,Bordeaux FIR
-Mar,23.41,0.51,21.82,Bordeaux FIR
-Apr,29.69,0.27,9.02,Bordeaux FIR
-May,32.12,0.33,10.41,Bordeaux FIR
-Jun,34.54,0.28,8.23,Bordeaux FIR
-Jul,37.12,0.28,7.57,Bordeaux FIR
-Aug,36.84,0.43,11.75,Bordeaux FIR
-Sep,36.02,0.66,18.26,Bordeaux FIR
-Oct,33.37,0.69,20.57,Bordeaux FIR
-Nov,23.54,0.51,21.86,Bordeaux FIR
-Dec,22.88,0.61,26.73,Bordeaux FIR
-Jan,5.4,0.13,24.72,Bratislava  FIR
-Feb,4.6,0.21,45.38,Bratislava  FIR
-Mar,5.24,0.1,19.24,Bratislava  FIR
-Apr,5.72,0.12,21.67,Bratislava  FIR
-May,6.64,0.09,13.57,Bratislava  FIR
-Jun,7.95,0.17,21.01,Bratislava  FIR
-Jul,9.06,0.09,10.18,Bratislava  FIR
-Aug,8.73,0.2,22.53,Bratislava  FIR
-Sep,8.18,0.3,36.44,Bratislava  FIR
-Oct,7.43,0.18,23.99,Bratislava  FIR
-Nov,5.45,0.3,54.75,Bratislava  FIR
-Dec,5.24,0.21,39.98,Bratislava  FIR
-Jan,24.23,0.76,31.31,Bremen FIR
-Feb,22.5,1.0,44.43,Bremen FIR
-Mar,25.52,0.67,26.38,Bremen FIR
-Apr,26.36,0.13,4.98,Bremen FIR
-May,27.01,0.38,14.13,Bremen FIR
-Jun,27.97,0.3,10.58,Bremen FIR
-Jul,29.05,0.16,5.41,Bremen FIR
-Aug,27.75,0.15,5.59,Bremen FIR
-Sep,29.6,0.38,12.76,Bremen FIR
-Oct,29.66,1.38,46.6,Bremen FIR
-Nov,24.16,1.41,58.34,Bremen FIR
-Dec,23.53,1.25,53.17,Bremen FIR
-Jan,22.16,0.7,31.66,Brest FIR
-Feb,20.04,1.34,66.99,Brest FIR
-Mar,24.14,1.0,41.28,Brest FIR
-Apr,29.19,0.14,4.75,Brest FIR
-May,29.83,0.44,14.58,Brest FIR
-Jun,30.83,0.37,12.08,Brest FIR
-Jul,32.75,0.38,11.68,Brest FIR
-Aug,33.83,0.79,23.22,Brest FIR
-Sep,31.82,0.4,12.68,Brest FIR
-Oct,29.85,1.39,46.48,Brest FIR
-Nov,22.57,0.72,32.03,Brest FIR
-Dec,21.27,0.86,40.36,Brest FIR
-Jan,5.56,0.06,10.9,Brindisi FIR
-Feb,4.9,0.05,10.53,Brindisi FIR
-Mar,5.93,0.06,9.74,Brindisi FIR
-Apr,7.52,0.03,4.3,Brindisi FIR
-May,8.97,0.1,10.98,Brindisi FIR
-Jun,11.68,0.02,1.58,Brindisi FIR
-Jul,14.75,0.0,0.31,Brindisi FIR
-Aug,15.47,0.03,1.97,Brindisi FIR
-Sep,12.69,0.08,6.31,Brindisi FIR
-Oct,9.09,0.12,13.46,Brindisi FIR
-Nov,6.05,0.22,37.05,Brindisi FIR
-Dec,6.22,0.11,18.16,Brindisi FIR
-Jan,14.0,0.5,35.8,Brussels FIR
-Feb,13.16,0.5,37.61,Brussels FIR
-Mar,14.81,0.31,20.78,Brussels FIR
-Apr,16.12,0.14,8.58,Brussels FIR
-May,16.21,0.15,9.14,Brussels FIR
-Jun,16.28,0.15,9.21,Brussels FIR
-Jul,17.27,0.15,8.58,Brussels FIR
-Aug,17.29,0.14,7.95,Brussels FIR
-Sep,17.98,0.28,15.79,Brussels FIR
-Oct,17.53,0.47,26.91,Brussels FIR
-Nov,14.2,0.31,21.68,Brussels FIR
-Dec,14.31,0.38,26.55,Brussels FIR
-Jan,21.29,1.11,52.04,Bucarest FIR
-Feb,18.63,0.53,28.66,Bucarest FIR
-Mar,21.25,0.55,25.91,Bucarest FIR
-Apr,21.78,0.36,16.33,Bucarest FIR
-May,24.48,0.46,18.96,Bucarest FIR
-Jun,29.31,0.28,9.65,Bucarest FIR
-Jul,33.09,0.13,3.87,Bucarest FIR
-Aug,31.9,0.14,4.36,Bucarest FIR
-Sep,29.23,0.72,24.63,Bucarest FIR
-Oct,27.26,0.53,19.54,Bucarest FIR
-Nov,21.92,2.09,95.27,Bucarest FIR
-Dec,21.68,0.66,30.38,Bucarest FIR
-Jan,14.04,0.41,29.27,Budapest FIR
-Feb,12.35,0.38,30.41,Budapest FIR
-Mar,14.15,0.2,14.0,Budapest FIR
-Apr,15.91,0.31,19.33,Budapest FIR
-May,17.68,0.22,12.72,Budapest FIR
-Jun,19.81,0.28,14.0,Budapest FIR
-Jul,21.99,0.18,7.98,Budapest FIR
-Aug,21.59,0.34,15.6,Budapest FIR
-Sep,20.73,0.63,30.37,Budapest FIR
-Oct,19.09,0.38,19.96,Budapest FIR
-Nov,14.92,0.83,55.61,Budapest FIR
-Dec,15.03,0.42,27.62,Budapest FIR
-Jan,14.44,0.12,8.35,Canarias FIR
-Feb,12.8,0.04,3.25,Canarias FIR
-Mar,14.6,0.05,3.32,Canarias FIR
-Apr,13.1,0.1,7.49,Canarias FIR
-May,12.37,0.04,3.37,Canarias FIR
-Jun,12.15,0.01,0.57,Canarias FIR
-Jul,13.28,0.0,0.01,Canarias FIR
-Aug,13.97,0.0,0.26,Canarias FIR
-Sep,12.79,0.05,3.92,Canarias FIR
-Oct,13.29,0.05,4.02,Canarias FIR
-Nov,13.08,0.1,7.44,Canarias FIR
-Dec,13.9,0.06,4.43,Canarias FIR
-Jan,800.75,2.05,2.55,China
-Feb,747.58,3.58,4.79,China
-Mar,798.28,2.29,2.87,China
-Apr,744.93,3.06,4.11,China
-May,756.82,2.62,3.46,China
-Jun,712.54,2.35,3.3,China
-Jul,729.8,2.03,2.79,China
-Aug,695.95,1.42,2.04,China
-Sep,554.02,2.13,3.85,China
-Oct,617.64,2.04,3.3,China
-Nov,831.76,3.87,4.65,China
-Dec,851.97,4.0,4.7,China
-Jan,0.57,0.05,80.89,Chisinau FIR
-Feb,0.48,0.03,59.43,Chisinau FIR
-Mar,0.59,0.01,20.03,Chisinau FIR
-Apr,0.66,0.01,20.79,Chisinau FIR
-May,0.83,0.02,23.17,Chisinau FIR
-Jun,0.95,0.01,14.29,Chisinau FIR
-Jul,1.03,0.0,2.88,Chisinau FIR
-Aug,1.1,0.0,2.64,Chisinau FIR
-Sep,0.92,0.04,41.31,Chisinau FIR
-Oct,0.87,0.03,38.88,Chisinau FIR
-Nov,0.62,0.09,149.15,Chisinau FIR
-Dec,0.59,0.02,28.59,Chisinau FIR
-Jan,9.47,0.33,34.64,Copenhagen FIR
-Feb,8.93,0.34,38.53,Copenhagen FIR
-Mar,10.33,0.21,20.07,Copenhagen FIR
-Apr,10.53,0.03,2.95,Copenhagen FIR
-May,10.82,0.07,6.84,Copenhagen FIR
-Jun,11.74,0.06,5.39,Copenhagen FIR
-Jul,12.28,0.04,3.31,Copenhagen FIR
-Aug,11.83,0.05,4.56,Copenhagen FIR
-Sep,12.04,0.14,11.93,Copenhagen FIR
-Oct,12.16,0.41,34.0,Copenhagen FIR
-Nov,10.54,0.76,72.19,Copenhagen FIR
-Dec,10.17,0.45,44.5,Copenhagen FIR
-Jan,741.66,0.95,1.28,East_Asia
-Feb,696.23,2.41,3.47,East_Asia
-Mar,748.05,1.5,2.01,East_Asia
-Apr,707.29,2.75,3.89,East_Asia
-May,719.19,3.02,4.2,East_Asia
-Jun,674.26,2.24,3.32,East_Asia
-Jul,685.23,1.88,2.74,East_Asia
-Aug,653.81,1.31,2.0,East_Asia
-Sep,512.06,1.4,2.74,East_Asia
-Oct,561.2,1.31,2.34,East_Asia
-Nov,756.19,3.28,4.34,East_Asia
-Dec,779.4,2.26,2.9,East_Asia
-Jan,1054.24,37.25,35.33,Eurocontrol
-Feb,954.11,32.12,33.67,Eurocontrol
-Mar,1106.16,22.63,20.46,Eurocontrol
-Apr,1219.47,10.84,8.89,Eurocontrol
-May,1329.11,15.65,11.77,Eurocontrol
-Jun,1421.11,8.55,6.02,Eurocontrol
-Jul,1536.38,8.42,5.48,Eurocontrol
-Aug,1587.07,11.2,7.06,Eurocontrol
-Sep,1463.2,21.12,14.43,Eurocontrol
-Oct,1371.97,31.79,23.17,Eurocontrol
-Nov,1082.76,50.4,46.55,Eurocontrol
-Dec,1087.21,41.93,38.57,Eurocontrol
-Jan,590.46,13.68,23.17,Europe
-Feb,542.47,16.1,29.68,Europe
-Mar,633.97,11.99,18.92,Europe
-Apr,726.06,4.84,6.67,Europe
-May,778.94,6.84,8.78,Europe
-Jun,824.64,4.57,5.54,Europe
-Jul,887.67,5.35,6.03,Europe
-Aug,898.62,6.88,7.66,Europe
-Sep,869.27,10.7,12.31,Europe
-Oct,814.55,19.38,23.79,Europe
-Nov,624.88,20.37,32.6,Europe
-Dec,621.22,18.18,29.26,Europe
-Jan,4781.21,91.29,19.09,Global
-Feb,4374.46,72.71,16.62,Global
-Mar,4994.47,65.9,13.19,Global
-Apr,4949.35,50.13,10.13,Global
-May,5161.61,48.22,9.34,Global
-Jun,5204.69,40.58,7.8,Global
-Jul,5550.31,35.38,6.37,Global
-Aug,5762.03,44.73,7.76,Global
-Sep,5008.26,50.68,10.12,Global
-Oct,5060.83,70.09,13.85,Global
-Nov,4876.91,99.32,20.36,Global
-Dec,5129.83,109.77,21.4,Global
-Jan,5.43,0.21,38.56,Helsinki FIR
-Feb,5.22,0.21,40.01,Helsinki FIR
-Mar,5.79,0.13,21.92,Helsinki FIR
-Apr,5.1,0.03,6.79,Helsinki FIR
-May,5.36,0.01,1.97,Helsinki FIR
-Jun,5.35,0.01,2.42,Helsinki FIR
-Jul,5.23,0.01,2.13,Helsinki FIR
-Aug,5.88,0.02,3.77,Helsinki FIR
-Sep,6.37,0.09,13.9,Helsinki FIR
-Oct,6.35,0.1,15.79,Helsinki FIR
-Nov,6.03,0.51,84.93,Helsinki FIR
-Dec,6.55,0.35,53.27,Helsinki FIR
-Jan,228.03,0.91,4.01,India
-Feb,200.91,0.28,1.38,India
-Mar,212.31,0.35,1.66,India
-Apr,197.44,0.49,2.47,India
-May,203.06,0.61,3.0,India
-Jun,195.62,1.08,5.53,India
-Jul,213.41,1.57,7.36,India
-Aug,217.66,1.85,8.49,India
-Sep,197.51,1.96,9.91,India
-Oct,214.17,1.41,6.6,India
-Nov,215.35,0.8,3.74,India
-Dec,222.95,0.86,3.87,India
-Jan,39.98,1.03,25.83,Langen FIR
-Feb,37.44,0.85,22.63,Langen FIR
-Mar,42.83,0.67,15.68,Langen FIR
-Apr,47.15,0.38,8.09,Langen FIR
-May,49.26,0.51,10.37,Langen FIR
-Jun,49.17,0.25,5.13,Langen FIR
-Jul,52.12,0.49,9.37,Langen FIR
-Aug,51.21,0.5,9.84,Langen FIR
-Sep,54.95,0.76,13.83,Langen FIR
-Oct,53.17,1.29,24.23,Langen FIR
-Nov,41.67,1.47,35.16,Langen FIR
-Dec,40.48,1.01,24.97,Langen FIR
-Jan,209.9,1.71,8.13,Latin_America
-Feb,184.17,1.51,8.18,Latin_America
-Mar,197.73,1.76,8.9,Latin_America
-Apr,174.96,1.72,9.82,Latin_America
-May,175.74,1.96,11.16,Latin_America
-Jun,170.18,1.72,10.08,Latin_America
-Jul,193.19,1.4,7.24,Latin_America
-Aug,195.41,1.54,7.87,Latin_America
-Sep,174.25,1.63,9.34,Latin_America
-Oct,182.72,2.02,11.07,Latin_America
-Nov,184.53,1.91,10.35,Latin_America
-Dec,200.63,2.02,10.07,Latin_America
-Jan,25.73,0.38,14.77,Lisboa FIR
-Feb,22.78,0.53,23.15,Lisboa FIR
-Mar,26.88,0.42,15.65,Lisboa FIR
-Apr,28.37,0.43,15.29,Lisboa FIR
-May,27.17,0.48,17.58,Lisboa FIR
-Jun,27.24,0.27,9.75,Lisboa FIR
-Jul,29.56,0.0,0.06,Lisboa FIR
-Aug,31.37,0.09,2.93,Lisboa FIR
-Sep,29.11,0.07,2.39,Lisboa FIR
-Oct,29.24,0.44,15.16,Lisboa FIR
-Nov,25.51,0.51,19.88,Lisboa FIR
-Dec,26.13,0.74,28.4,Lisboa FIR
-Jan,2.49,0.04,15.81,Ljubljana FIR
-Feb,2.16,0.05,25.21,Ljubljana FIR
-Mar,2.55,0.05,17.97,Ljubljana FIR
-Apr,3.56,0.08,21.06,Ljubljana FIR
-May,4.59,0.06,12.04,Ljubljana FIR
-Jun,4.6,0.03,6.44,Ljubljana FIR
-Jul,5.05,0.06,12.58,Ljubljana FIR
-Aug,5.15,0.07,12.95,Ljubljana FIR
-Sep,4.95,0.04,8.32,Ljubljana FIR
-Oct,4.48,0.11,25.41,Ljubljana FIR
-Nov,2.7,0.15,57.17,Ljubljana FIR
-Dec,2.64,0.06,22.29,Ljubljana FIR
-Jan,53.55,1.66,31.06,London FIR
-Feb,50.97,1.14,22.35,London FIR
-Mar,58.62,1.37,23.4,London FIR
-Apr,66.38,0.26,3.95,London FIR
-May,69.13,0.27,3.83,London FIR
-Jun,70.34,-0.23,-3.23,London FIR
-Jul,73.62,0.36,4.96,London FIR
-Aug,77.84,0.26,3.39,London FIR
-Sep,79.78,0.61,7.61,London FIR
-Oct,75.3,0.96,12.81,London FIR
-Nov,59.17,1.16,19.6,London FIR
-Dec,58.93,1.15,19.52,London FIR
-Jan,45.63,0.61,13.46,Madrid FIR
-Feb,41.42,0.96,23.22,Madrid FIR
-Mar,49.25,0.71,14.35,Madrid FIR
-Apr,55.6,0.21,3.79,Madrid FIR
-May,55.58,0.73,13.08,Madrid FIR
-Jun,58.57,0.38,6.52,Madrid FIR
-Jul,62.03,0.15,2.4,Madrid FIR
-Aug,62.06,0.37,5.93,Madrid FIR
-Sep,59.74,0.36,5.96,Madrid FIR
-Oct,59.02,0.92,15.51,Madrid FIR
-Nov,48.27,0.85,17.68,Madrid FIR
-Dec,48.98,0.99,20.25,Madrid FIR
-Jan,3.82,0.01,3.65,Malta FIR
-Feb,3.44,0.03,8.22,Malta FIR
-Mar,4.25,0.0,0.34,Malta FIR
-Apr,4.47,0.01,1.85,Malta FIR
-May,4.75,0.02,3.66,Malta FIR
-Jun,5.14,0.0,0.17,Malta FIR
-Jul,5.55,0.0,0.0,Malta FIR
-Aug,5.69,0.0,0.01,Malta FIR
-Sep,4.4,0.0,0.17,Malta FIR
-Oct,4.1,0.01,2.02,Malta FIR
-Nov,4.08,0.08,19.73,Malta FIR
-Dec,4.27,0.05,11.65,Malta FIR
-Jan,27.88,0.25,8.96,Marseille FIR
-Feb,25.53,0.33,13.04,Marseille FIR
-Mar,31.33,0.26,8.41,Marseille FIR
-Apr,39.27,0.24,6.23,Marseille FIR
-May,42.77,0.23,5.3,Marseille FIR
-Jun,46.19,0.15,3.27,Marseille FIR
-Jul,50.04,0.19,3.75,Marseille FIR
-Aug,51.38,0.21,4.17,Marseille FIR
-Sep,47.68,0.47,9.94,Marseille FIR
-Oct,41.96,1.01,24.17,Marseille FIR
-Nov,29.36,0.42,14.27,Marseille FIR
-Dec,29.89,0.46,15.53,Marseille FIR
-Jan,22.87,0.21,9.05,Milano FIR
-Feb,20.94,0.37,17.5,Milano FIR
-Mar,25.12,0.31,12.23,Milano FIR
-Apr,30.9,0.31,10.07,Milano FIR
-May,35.6,0.24,6.84,Milano FIR
-Jun,39.69,0.03,0.85,Milano FIR
-Jul,43.68,0.18,4.19,Milano FIR
-Aug,43.22,0.34,7.85,Milano FIR
-Sep,40.19,0.27,6.83,Milano FIR
-Oct,35.07,0.93,26.44,Milano FIR
-Nov,25.18,0.49,19.33,Milano FIR
-Dec,25.61,0.43,16.97,Milano FIR
-Jan,24.74,0.49,19.74,Munchen FIR
-Feb,22.7,0.66,28.9,Munchen FIR
-Mar,26.24,0.48,18.13,Munchen FIR
-Apr,28.45,0.24,8.53,Munchen FIR
-May,31.4,0.37,11.63,Munchen FIR
-Jun,31.53,0.14,4.31,Munchen FIR
-Jul,33.9,0.27,8.03,Munchen FIR
-Aug,33.6,0.39,11.71,Munchen FIR
-Sep,35.19,0.5,14.21,Munchen FIR
-Oct,34.28,0.91,26.43,Munchen FIR
-Nov,26.2,1.13,43.01,Munchen FIR
-Dec,25.83,1.14,44.01,Munchen FIR
+Jan,1054.24,37.25,35.33,European Airspace
 Jan,209.68,14.36,68.46,North Atlantic
-Feb,181.52,7.3,40.22,North Atlantic
-Mar,207.15,8.16,39.4,North Atlantic
-Apr,225.78,6.48,28.69,North Atlantic
-May,260.83,4.83,18.54,North Atlantic
-Jun,269.26,6.34,23.55,North Atlantic
-Jul,285.23,5.94,20.84,North Atlantic
-Aug,368.69,9.02,24.46,North Atlantic
-Sep,278.82,7.91,28.39,North Atlantic
-Oct,247.01,7.92,32.07,North Atlantic
-Nov,194.1,9.19,47.33,North Atlantic
-Dec,201.67,10.2,50.59,North Atlantic
-Jan,2075.7,69.07,33.28,North Pacific
-Feb,1901.09,55.22,29.05,North Pacific
-Mar,2224.52,47.7,21.44,North Pacific
-Apr,2355.4,31.48,13.37,North Pacific
-May,2547.95,32.55,12.77,North Pacific
-Jun,2647.59,24.91,9.41,North Pacific
-Jul,2835.55,17.86,6.3,North Pacific
-Aug,2984.92,26.18,8.77,North Pacific
-Sep,2653.56,34.59,13.03,North Pacific
-Oct,2589.42,52.15,20.14,North Pacific
-Nov,2253.9,76.53,33.95,North Pacific
-Dec,2315.97,83.15,35.9,North Pacific
-Jan,38.64,1.19,30.84,Paris FIR
-Feb,36.65,1.41,38.47,Paris FIR
-Mar,42.4,0.76,17.96,Paris FIR
-Apr,47.41,0.18,3.8,Paris FIR
-May,48.39,0.35,7.33,Paris FIR
-Jun,50.77,0.4,7.86,Paris FIR
-Jul,54.16,0.53,9.75,Paris FIR
-Aug,53.53,0.35,6.6,Paris FIR
-Sep,53.69,0.65,12.09,Paris FIR
-Oct,50.66,1.34,26.41,Paris FIR
-Nov,39.75,0.74,18.65,Paris FIR
-Dec,39.42,0.97,24.63,Paris FIR
-Jan,11.44,0.31,26.86,Polaris FIR
-Feb,10.66,0.27,25.25,Polaris FIR
-Mar,11.97,0.09,7.94,Polaris FIR
-Apr,11.19,0.04,3.61,Polaris FIR
-May,12.88,0.01,0.41,Polaris FIR
-Jun,13.73,0.02,1.26,Polaris FIR
-Jul,14.18,0.03,2.45,Polaris FIR
-Aug,14.72,0.09,5.78,Polaris FIR
-Sep,14.45,0.1,6.69,Polaris FIR
-Oct,14.47,0.13,9.19,Polaris FIR
-Nov,13.08,0.48,36.93,Polaris FIR
-Dec,12.94,0.38,29.5,Polaris FIR
-Jan,14.8,0.28,19.11,Praha FIR
-Feb,13.06,0.58,44.31,Praha FIR
-Mar,15.21,0.48,31.3,Praha FIR
-Apr,16.27,0.15,8.96,Praha FIR
-May,17.04,0.21,12.04,Praha FIR
-Jun,18.16,0.25,13.8,Praha FIR
-Jul,20.12,0.18,8.93,Praha FIR
-Aug,19.59,0.36,18.2,Praha FIR
-Sep,19.28,0.46,23.86,Praha FIR
-Oct,18.38,0.48,26.07,Praha FIR
-Nov,14.52,0.75,51.6,Praha FIR
-Dec,14.25,0.72,50.84,Praha FIR
-Jan,7.35,0.19,25.63,Reims FIR
-Feb,7.18,0.16,22.43,Reims FIR
-Mar,8.32,0.11,13.03,Reims FIR
-Apr,9.87,0.05,4.98,Reims FIR
-May,10.92,0.07,6.8,Reims FIR
-Jun,11.39,0.07,5.96,Reims FIR
-Jul,11.83,0.19,16.13,Reims FIR
-Aug,11.84,0.19,15.89,Reims FIR
-Sep,12.13,0.19,15.32,Reims FIR
-Oct,11.41,0.29,25.67,Reims FIR
-Nov,8.12,0.18,22.47,Reims FIR
-Dec,7.94,0.19,23.67,Reims FIR
-Jan,12.67,0.83,65.55,Reykjavik FIR
-Feb,10.78,0.36,33.69,Reykjavik FIR
-Mar,12.08,0.12,9.69,Reykjavik FIR
-Apr,12.04,0.26,21.65,Reykjavik FIR
-May,14.97,0.03,2.28,Reykjavik FIR
-Jun,16.99,0.01,0.74,Reykjavik FIR
-Jul,18.01,0.2,11.15,Reykjavik FIR
-Aug,21.71,0.11,5.13,Reykjavik FIR
-Sep,16.45,0.33,20.28,Reykjavik FIR
-Oct,15.53,0.39,25.14,Reykjavik FIR
-Nov,12.46,1.43,114.45,Reykjavik FIR
-Dec,11.71,0.71,60.48,Reykjavik FIR
-Jan,4.87,0.24,48.89,Riga FIR
-Feb,4.42,0.36,80.7,Riga FIR
-Mar,5.0,0.19,37.71,Riga FIR
-Apr,5.21,0.01,2.8,Riga FIR
-May,5.68,0.09,16.68,Riga FIR
-Jun,5.65,0.05,8.24,Riga FIR
-Jul,5.98,0.02,3.25,Riga FIR
-Aug,5.83,0.09,15.63,Riga FIR
-Sep,5.8,0.19,32.29,Riga FIR
-Oct,5.71,0.31,54.97,Riga FIR
-Nov,4.75,0.86,181.23,Riga FIR
-Dec,4.74,0.51,107.02,Riga FIR
-Jan,22.02,0.18,8.37,Roma FIR
-Feb,19.98,0.17,8.44,Roma FIR
-Mar,23.18,0.11,4.73,Roma FIR
-Apr,28.38,0.1,3.57,Roma FIR
-May,31.19,0.24,7.82,Roma FIR
-Jun,34.46,0.08,2.19,Roma FIR
-Jul,39.0,0.03,0.74,Roma FIR
-Aug,40.11,0.09,2.29,Roma FIR
-Sep,34.85,0.13,3.75,Roma FIR
-Oct,30.77,0.32,10.48,Roma FIR
-Nov,23.16,0.32,13.77,Roma FIR
-Dec,23.78,0.42,17.55,Roma FIR
-Jan,21.62,1.07,49.68,Santa Maria FIR
-Feb,20.19,1.38,68.47,Santa Maria FIR
-Mar,22.0,0.67,30.66,Santa Maria FIR
-Apr,20.78,0.79,38.02,Santa Maria FIR
-May,20.74,0.68,33.01,Santa Maria FIR
-Jun,20.96,0.23,11.02,Santa Maria FIR
-Jul,25.0,0.22,8.89,Santa Maria FIR
-Aug,32.9,0.4,12.08,Santa Maria FIR
-Sep,25.45,0.43,16.75,Santa Maria FIR
-Oct,23.14,0.62,26.64,Santa Maria FIR
-Nov,21.01,0.82,39.06,Santa Maria FIR
-Dec,23.08,1.28,55.3,Santa Maria FIR
-Jan,4.62,0.16,35.59,Sarajevo FIR
-Feb,4.07,0.09,23.09,Sarajevo FIR
-Mar,4.78,0.08,17.69,Sarajevo FIR
-Apr,6.45,0.08,12.2,Sarajevo FIR
-May,8.46,0.07,8.03,Sarajevo FIR
-Jun,8.83,0.14,15.92,Sarajevo FIR
-Jul,9.87,0.08,7.83,Sarajevo FIR
-Aug,10.02,0.06,6.29,Sarajevo FIR
-Sep,9.08,0.2,21.73,Sarajevo FIR
-Oct,8.56,0.27,31.52,Sarajevo FIR
-Nov,5.25,0.35,65.72,Sarajevo FIR
-Dec,5.23,0.14,26.3,Sarajevo FIR
-Jan,9.43,0.47,49.62,Scottish FIR
-Feb,8.53,0.37,42.97,Scottish FIR
-Mar,10.03,0.12,12.25,Scottish FIR
-Apr,10.79,-0.03,-2.32,Scottish FIR
-May,11.77,0.01,0.87,Scottish FIR
-Jun,13.59,-0.01,-0.57,Scottish FIR
-Jul,14.6,0.11,7.56,Scottish FIR
-Aug,16.96,0.03,1.49,Scottish FIR
-Sep,14.5,0.19,13.09,Scottish FIR
-Oct,14.01,0.06,4.14,Scottish FIR
-Nov,11.21,0.64,56.67,Scottish FIR
-Dec,10.86,0.44,40.97,Scottish FIR
-Jan,12.83,0.88,68.87,Shannon FIR
-Feb,11.18,0.76,68.02,Shannon FIR
-Mar,12.66,0.36,28.69,Shannon FIR
-Apr,14.28,0.11,7.36,Shannon FIR
-May,16.27,0.09,5.71,Shannon FIR
-Jun,15.89,0.03,1.99,Shannon FIR
-Jul,16.46,0.19,11.66,Shannon FIR
-Aug,20.71,0.29,14.01,Shannon FIR
-Sep,16.11,0.3,18.44,Shannon FIR
-Oct,14.58,0.2,13.93,Shannon FIR
-Nov,10.9,0.25,22.81,Shannon FIR
-Dec,11.54,0.55,47.64,Shannon FIR
-Jan,45.95,6.43,140.02,Shanwick FIR
-Feb,39.83,2.63,66.07,Shanwick FIR
-Mar,44.97,2.54,56.44,Shanwick FIR
-Apr,48.46,0.67,13.83,Shanwick FIR
-May,56.74,1.68,29.67,Shanwick FIR
-Jun,58.41,0.7,11.95,Shanwick FIR
-Jul,61.68,1.35,21.93,Shanwick FIR
-Aug,82.45,1.24,15.01,Shanwick FIR
-Sep,60.79,2.24,36.8,Shanwick FIR
-Oct,52.27,1.07,20.55,Shanwick FIR
-Nov,41.53,1.78,42.96,Shanwick FIR
-Dec,44.72,3.67,81.99,Shanwick FIR
-Jan,1.3,0.02,13.06,Skopje FIR
-Feb,1.21,0.02,13.61,Skopje FIR
-Mar,1.47,0.05,33.57,Skopje FIR
-Apr,2.26,0.03,11.28,Skopje FIR
-May,3.34,0.03,7.71,Skopje FIR
-Jun,3.69,0.03,8.1,Skopje FIR
-Jul,4.08,0.01,2.97,Skopje FIR
-Aug,4.15,0.0,0.11,Skopje FIR
-Sep,3.63,0.05,14.45,Skopje FIR
-Oct,3.09,0.03,8.37,Skopje FIR
-Nov,1.6,0.16,102.85,Skopje FIR
-Dec,1.59,0.05,29.88,Skopje FIR
-Jan,15.82,0.79,49.72,Sofia FIR
-Feb,13.74,0.31,22.89,Sofia FIR
-Mar,15.66,0.42,27.11,Sofia FIR
-Apr,17.2,0.28,16.27,Sofia FIR
-May,19.48,0.22,11.33,Sofia FIR
-Jun,22.52,0.14,6.1,Sofia FIR
-Jul,25.28,0.04,1.42,Sofia FIR
-Aug,25.12,-0.0,-0.1,Sofia FIR
-Sep,23.15,0.38,16.62,Sofia FIR
-Oct,21.55,0.32,15.02,Sofia FIR
-Nov,16.73,1.5,89.55,Sofia FIR
-Dec,16.33,0.79,48.42,Sofia FIR
-Jan,339.71,4.36,12.84,Southeast_Asia
-Feb,316.25,1.65,5.21,Southeast_Asia
-Mar,346.57,3.05,8.81,Southeast_Asia
-Apr,331.8,2.2,6.62,Southeast_Asia
-May,331.64,3.18,9.59,Southeast_Asia
-Jun,322.63,3.1,9.59,Southeast_Asia
-Jul,340.53,3.8,11.15,Southeast_Asia
-Aug,352.97,4.97,14.07,Southeast_Asia
-Sep,309.81,4.11,13.25,Southeast_Asia
-Oct,321.26,4.62,14.37,Southeast_Asia
-Nov,321.62,3.65,11.36,Southeast_Asia
-Dec,336.77,3.21,9.54,Southeast_Asia
-Jan,21.84,0.84,38.31,Sweden FIR
-Feb,20.44,0.88,42.97,Sweden FIR
-Mar,23.5,0.5,21.46,Sweden FIR
-Apr,22.17,0.09,3.87,Sweden FIR
-May,24.54,0.1,4.15,Sweden FIR
-Jun,25.26,0.09,3.52,Sweden FIR
-Jul,25.23,0.11,4.4,Sweden FIR
-Aug,25.0,0.12,4.92,Sweden FIR
-Sep,26.34,0.39,14.76,Sweden FIR
-Oct,26.02,0.79,30.51,Sweden FIR
-Nov,22.54,2.09,92.52,Sweden FIR
-Dec,22.47,1.3,57.89,Sweden FIR
-Jan,9.11,0.15,16.4,Switzerland FIR
-Feb,8.76,0.16,17.88,Switzerland FIR
-Mar,10.32,0.1,10.07,Switzerland FIR
-Apr,12.07,0.02,1.95,Switzerland FIR
-May,13.48,0.12,8.69,Switzerland FIR
-Jun,14.18,0.05,3.7,Switzerland FIR
-Jul,14.94,0.17,11.2,Switzerland FIR
-Aug,14.32,0.16,11.32,Switzerland FIR
-Sep,14.41,0.16,10.83,Switzerland FIR
-Oct,13.46,0.36,26.74,Switzerland FIR
-Nov,9.94,0.2,19.96,Switzerland FIR
-Dec,9.95,0.2,20.06,Switzerland FIR
-Jan,4.21,0.18,43.89,Tallinn FIR
-Feb,3.81,0.29,75.43,Tallinn FIR
-Mar,4.4,0.13,29.24,Tallinn FIR
-Apr,4.6,0.0,0.95,Tallinn FIR
-May,4.91,0.05,11.11,Tallinn FIR
-Jun,5.06,0.03,6.43,Tallinn FIR
-Jul,5.18,0.01,2.55,Tallinn FIR
-Aug,4.78,0.07,13.73,Tallinn FIR
-Sep,5.01,0.15,30.47,Tallinn FIR
-Oct,4.79,0.16,32.45,Tallinn FIR
-Nov,4.0,0.6,149.6,Tallinn FIR
-Dec,4.0,0.41,102.34,Tallinn FIR
-Jan,1.83,0.02,13.36,Tirana FIR
-Feb,1.63,0.02,14.58,Tirana FIR
-Mar,1.97,0.06,28.97,Tirana FIR
-Apr,2.7,0.03,11.77,Tirana FIR
-May,3.61,0.03,8.99,Tirana FIR
-Jun,4.28,0.02,5.56,Tirana FIR
-Jul,4.75,0.01,1.53,Tirana FIR
-Aug,4.89,0.0,0.02,Tirana FIR
-Sep,4.12,0.04,9.51,Tirana FIR
-Oct,3.45,0.02,5.77,Tirana FIR
-Nov,2.0,0.13,66.32,Tirana FIR
-Dec,2.01,0.04,19.45,Tirana FIR
+Jan,590.46,13.68,23.17,Continental Europe
+Jan,4781.21,91.29,19.09,Global
 Jan,1178.81,12.15,10.31,USA
-Feb,1101.17,15.38,13.97,USA
-Mar,1322.9,15.12,11.43,USA
-Apr,1326.87,16.13,12.16,USA
-May,1384.79,13.17,9.51,USA
-Jun,1389.49,10.54,7.58,USA
-Jul,1463.77,4.42,3.02,USA
-Aug,1523.05,5.56,3.65,USA
-Sep,1323.69,4.11,3.1,USA
-Oct,1412.42,5.69,4.03,USA
-Nov,1343.96,13.21,9.83,USA
-Dec,1463.56,26.3,17.97,USA
-Jan,3.41,0.12,36.47,Vilnius FIR
-Feb,2.98,0.19,64.31,Vilnius FIR
-Mar,3.47,0.14,41.29,Vilnius FIR
-Apr,3.79,0.0,0.94,Vilnius FIR
-May,4.3,0.07,16.09,Vilnius FIR
-Jun,4.46,0.06,12.84,Vilnius FIR
-Jul,4.75,0.02,3.47,Vilnius FIR
-Aug,4.73,0.06,12.13,Vilnius FIR
-Sep,4.68,0.15,32.81,Vilnius FIR
-Oct,4.44,0.28,63.79,Vilnius FIR
-Nov,3.53,0.59,167.52,Vilnius FIR
-Dec,3.51,0.33,92.8,Vilnius FIR
+Jan,741.66,0.95,1.28,East Asia
+Jan,339.71,4.36,12.84,Southeast Asia
+Jan,209.9,1.71,8.13,Latin America
+Jan,350.92,4.11,11.7,Africa & Middle East
+Jan,800.75,2.05,2.55,China
+Jan,228.03,0.91,4.01,India
+Jan,2075.7,69.07,33.28,North Pacific
+Jan,31.02,0.62,20.04,Arctic
+Jan,0.45,0.0,3.44,Honiara FIR
+Jan,0.13,-0.0,-3.19,Nauru FIR
+Jan,2.14,0.03,12.82,Port Moresby FIR
+Jan,11.77,0.19,16.07,Nuuk FIR
+Jan,12.67,0.83,65.55,Reykjavik FIR
+Jan,30.74,0.69,22.47,Edmonton FIR
+Jan,12.85,0.42,32.57,Moncton FIR
+Jan,69.2,3.79,54.84,Gander FIR
+Jan,25.73,0.2,7.82,Montreal FIR
+Jan,11.63,0.44,37.65,Vancouver FIR
+Jan,21.25,0.33,15.39,Winnipeg FIR
+Jan,19.12,0.18,9.31,Toronto FIR
+Jan,12.6,0.07,5.7,Alger FIR
+Jan,3.08,0.06,19.94,Accra FIR
+Jan,3.83,0.09,22.67,Kano FIR
+Jan,4.13,0.16,37.9,Niamey FIR
+Jan,2.55,0.01,4.43,Tunis FIR
+Jan,14.0,0.5,35.8,Brussels FIR
+Jan,39.98,1.03,25.83,Langen FIR
+Jan,24.74,0.49,19.74,Munchen FIR
+Jan,24.23,0.76,31.31,Bremen FIR
+Jan,4.21,0.18,43.89,Tallinn FIR
+Jan,5.43,0.21,38.56,Helsinki FIR
+Jan,45.95,6.43,140.02,Shanwick FIR
+Jan,9.43,0.47,49.62,Scottish FIR
+Jan,53.55,1.66,31.06,London FIR
+Jan,18.69,0.63,33.68,Amsterdam FIR
+Jan,12.83,0.88,68.87,Shannon FIR
+Jan,9.47,0.33,34.64,Copenhagen FIR
+Jan,1.12,0.05,41.36,Bodo Oceanic FIR
+Jan,11.44,0.31,26.86,Polaris FIR
 Jan,26.48,0.67,25.16,Warszawa FIR
-Feb,22.96,1.15,50.15,Warszawa FIR
-Mar,26.02,1.04,40.02,Warszawa FIR
-Apr,28.39,0.27,9.62,Warszawa FIR
-May,31.64,0.43,13.66,Warszawa FIR
-Jun,34.66,0.47,13.65,Warszawa FIR
-Jul,38.04,0.3,7.76,Warszawa FIR
-Aug,37.1,0.5,13.58,Warszawa FIR
-Sep,36.64,1.14,31.04,Warszawa FIR
-Oct,34.57,1.64,47.37,Warszawa FIR
-Nov,27.65,2.31,83.55,Warszawa FIR
-Dec,27.2,1.7,62.61,Warszawa FIR
-Jan,16.4,0.26,15.7,Wien FIR
-Feb,14.95,0.47,31.64,Wien FIR
-Mar,17.49,0.3,16.99,Wien FIR
-Apr,20.53,0.26,12.78,Wien FIR
-May,23.46,0.24,10.36,Wien FIR
-Jun,23.87,0.23,9.43,Wien FIR
-Jul,25.51,0.25,9.65,Wien FIR
-Aug,25.84,0.33,12.69,Wien FIR
-Sep,26.39,0.55,20.91,Wien FIR
-Oct,24.83,0.62,24.93,Wien FIR
-Nov,18.34,0.71,38.93,Wien FIR
-Dec,18.4,0.42,22.6,Wien FIR
+Jan,21.84,0.84,38.31,Sweden FIR
+Jan,4.87,0.24,48.89,Riga FIR
+Jan,3.41,0.12,36.47,Vilnius FIR
+Jan,2.43,0.0,1.08,Cape Town FIR
+Jan,6.19,0.0,0.63,Johannesburg FIR
+Jan,0.98,0.01,10.63,Johannesburg Oceanic FIR
+Jan,1.55,0.02,12.28,Gaborone FIR
+Jan,3.48,0.17,49.92,Brazzaville FIR
+Jan,1.56,0.04,25.17,Mauritius FIR
+Jan,0.93,0.05,49.19,Lusaka FIR
+Jan,2.34,0.02,7.48,Antananarivo FIR
+Jan,3.03,0.16,53.25,Luanda FIR
+Jan,1.65,0.02,10.55,Beira FIR
+Jan,2.15,0.03,15.42,Seychelles FIR
+Jan,2.86,0.14,47.89,N'Djamena FIR
+Jan,1.25,0.01,9.85,Harare FIR
+Jan,0.5,0.01,16.03,Lilongwe FIR
+Jan,1.28,0.01,6.48,Windhoek FIR
+Jan,2.12,0.16,73.66,Kinshasa FIR
+Jan,14.44,0.12,8.35,Canarias FIR
+Jan,0.55,0.01,25.43,Roberts FIR
+Jan,23.76,0.11,4.68,Casablanca FIR
+Jan,13.82,0.78,56.43,Dakar FIR
+Jan,4.35,0.15,34.41,Sal Oceanic FIR
+Jan,4.9,0.01,1.66,Addis Abeba FIR
+Jan,0.03,0.0,25.62,Bujumbura FIR
+Jan,5.26,0.03,6.15,Mogadishu FIR/UIR
+Jan,21.38,0.16,7.56,Cairo FIR
+Jan,0.61,0.01,11.92,Asmara FIR
+Jan,3.87,0.01,2.33,Nairobi FIR
+Jan,2.25,0.01,3.33,Tripoli FIR
+Jan,0.05,0.0,2.27,Kigali FIR
+Jan,7.08,0.19,26.23,Khartoum FIR
+Jan,2.61,0.04,14.88,Dar-Es-Salaam FIR
+Jan,0.42,0.0,0.53,Entebbe FIR
+Jan,68.15,0.32,4.7,Albuquerque FIR
+Jan,99.4,1.46,14.72,Oakland Oceanic FIR
+Jan,46.18,0.49,10.53,Chicago FIR
+Jan,34.11,0.57,16.61,Boston FIR
+Jan,76.36,0.48,6.24,Washington FIR
+Jan,76.22,0.72,9.51,Denver FIR
+Jan,52.46,0.25,4.74,Fort Worth FIR
+Jan,53.7,0.4,7.5,Houston FIR
+Jan,45.29,0.53,11.79,Indianapolis FIR
+Jan,76.72,0.82,10.7,Jacksonville FIR
+Jan,60.12,0.89,14.75,Kansas City FIR
+Jan,62.73,0.27,4.34,Los Angeles FIR
+Jan,54.04,1.17,21.56,Salt Lake City FIR
+Jan,66.13,0.35,5.28,Miami FIR/UIR
+Jan,52.83,0.46,8.63,Memphis FIR
+Jan,52.14,0.78,15.05,Minneapolis FIR
+Jan,33.75,0.28,8.19,New York FIR
+Jan,42.66,0.46,10.75,Oakland FIR
+Jan,36.78,0.5,13.54,Cleveland FIR
+Jan,35.21,0.66,18.75,Seattle FIR
+Jan,59.67,0.33,5.6,Atlanta FIR
+Jan,49.08,2.34,47.67,New York Oceanic FIR
+Jan,1.83,0.02,13.36,Tirana FIR
+Jan,15.82,0.79,49.72,Sofia FIR
+Jan,10.08,0.01,0.91,Nicosia FIR
 Jan,8.51,0.22,25.49,Zagreb FIR
+Jan,19.98,0.11,5.43,Barcelona FIR
+Jan,45.63,0.61,13.46,Madrid FIR
+Jan,21.18,0.33,15.52,Bordeaux FIR
+Jan,7.35,0.19,25.63,Reims FIR
+Jan,38.64,1.19,30.84,Paris FIR
+Jan,27.88,0.25,8.96,Marseille FIR
+Jan,22.16,0.7,31.66,Brest FIR
+Jan,22.97,0.2,8.54,Athinai FIR
+Jan,14.04,0.41,29.27,Budapest FIR
+Jan,5.56,0.06,10.9,Brindisi FIR
+Jan,22.87,0.21,9.05,Milano FIR
+Jan,22.02,0.18,8.37,Roma FIR
+Jan,2.49,0.04,15.81,Ljubljana FIR
+Jan,14.8,0.28,19.11,Praha FIR
+Jan,1.75,0.0,0.48,Tel-Aviv FIR
+Jan,3.82,0.01,3.65,Malta FIR
+Jan,16.4,0.26,15.7,Wien FIR
+Jan,25.73,0.38,14.77,Lisboa FIR
+Jan,21.62,1.07,49.68,Santa Maria FIR
+Jan,4.62,0.16,35.59,Sarajevo FIR
+Jan,21.29,1.11,52.04,Bucarest FIR
+Jan,9.11,0.15,16.4,Switzerland FIR
+Jan,56.16,1.23,21.97,Ankara FIR
+Jan,23.48,0.39,16.71,Istanbul FIR
+Jan,0.57,0.05,80.89,Chisinau FIR
+Jan,1.3,0.02,13.06,Skopje FIR
+Jan,10.48,0.28,26.89,Beograd FIR
+Jan,5.4,0.13,24.72,Bratislava  FIR
+Jan,3.6,0.0,0.03,Santo Domingo FIR
+Jan,13.91,0.02,1.78,Central America FIR
+Jan,6.5,0.0,0.26,Kingston FIR
+Jan,0.22,0.0,2.26,Oceanica Mazatlan FIR
+Jan,76.16,0.64,8.37,Mexico FIR
+Jan,10.05,0.0,0.34,Panama FIR
+Jan,0.9,0.0,0.0,Port-Au-Prince FIR
+Jan,12.21,0.04,3.14,Habana FIR/UIR
+Jan,6.31,0.05,7.47,Nadi FIR
+Jan,1.7,0.01,5.53,Tahiti Oceanic FIR
+Jan,9.95,-0.01,-0.78,New Zealand FIR
+Jan,10.1,0.1,9.86,Auckland Oceanic FIR
+Jan,7.03,0.07,10.62,Kabul FIR
+Jan,16.29,0.07,4.2,Bahrain FIR
+Jan,47.96,0.76,15.88,Jeddah FIR
+Jan,44.72,0.26,5.81,Tehran FIR
+Jan,1.6,0.02,11.78,Amman FIR
+Jan,4.45,0.02,5.1,Kuwait FIR
+Jan,0.54,0.0,0.76,Beirut FIR
+Jan,15.51,0.04,2.89,Emirates FIR
+Jan,28.22,0.2,7.2,Muscat FIR
+Jan,19.62,0.09,4.57,Karachi FIR
+Jan,7.45,0.06,7.42,Lahore FIR
+Jan,17.04,0.21,12.17,Baghdad FIR
+Jan,1.58,0.01,8.14,Damascus FIR
+Jan,3.25,0.03,9.35,Sanaa FIR
+Jan,31.44,0.77,24.46,Alaska FIR
+Jan,34.56,0.02,0.45,Taipei FIR
+Jan,151.92,0.04,0.29,Fukuoka FIR
+Jan,36.68,0.01,0.24,Incheon FIR
+Jan,46.9,0.4,8.49,Manila FIR
+Jan,4.64,0.02,3.69,Cordoba FIR
+Jan,6.58,0.01,1.08,Ezeiza FIR
+Jan,1.83,0.0,0.65,Mendoza FIR
+Jan,1.94,0.01,3.1,Resistencia FIR
+Jan,1.8,0.0,2.7,Comodoro Rivadavia FIR
+Jan,7.68,0.14,18.27,Atlantico FIR
+Jan,18.1,0.48,26.55,Amazonica FIR
+Jan,27.77,0.18,6.43,Brasilia FIR
+Jan,27.01,0.08,2.81,Curitiba FIR
+Jan,27.55,0.35,12.67,Recife FIR
+Jan,0.48,0.0,8.62,Punta Arenas FIR
+Jan,7.14,0.0,0.2,Santiago FIR
+Jan,7.37,0.04,5.33,Antofagasta FIR
+Jan,0.76,0.02,21.75,Isla De Pascua FIR
+Jan,2.04,0.01,3.05,Puerto Montt FIR
+Jan,4.29,0.01,3.15,Guayaquil FIR/UIR
+Jan,1.22,0.01,6.76,Asuncion FIR/UIR
+Jan,7.33,0.0,0.44,Barranquilla FIR
+Jan,15.64,0.09,5.59,Bogota FIR
+Jan,3.57,0.07,19.78,La Paz FIR
+Jan,0.81,0.01,12.56,Paramaribo FIR
+Jan,0.65,0.03,40.58,Cayenne FIR
+Jan,16.42,0.24,14.44,Lima FIR
+Jan,2.33,0.0,0.59,Montevideo FIR
+Jan,3.1,0.02,6.12,Maiquetia FIR
+Jan,1.37,0.01,7.18,Georgetown FIR
+Jan,9.03,0.01,0.95,San Juan Oceanic FIR/UIR
+Jan,2.64,0.0,0.08,Curacao FIR
+Jan,6.79,0.05,7.41,Piarco FIR
+Jan,4.29,0.36,83.92,Almaty FIR
+Jan,5.52,1.06,192.8,Nur-Sultan FIR
+Jan,5.69,0.44,77.19,Shymkent FIR
+Jan,9.8,2.05,209.58,Aktobe FIR
+Jan,5.17,0.13,25.42,Baku FIR
+Jan,0.43,0.02,53.37,Bishkek FIR
+Jan,0.37,0.02,52.9,Osh FIR
+Jan,1.0,0.02,15.25,Yerevan FIR
+Jan,7.07,0.2,28.44,Yakutsk FIR
+Jan,2.85,0.13,44.07,Tibilisi FIR
+Jan,12.94,0.22,17.28,Khabarovsk FIR
+Jan,8.44,0.24,28.09,Magadan FIR
+Jan,7.39,0.29,39.2,Petropavlovsk-Kamchatsky FIR
+Jan,7.11,0.29,40.18,Irkutsk FIR
+Jan,3.23,0.18,55.76,Kiev FIR
+Jan,0.84,0.13,152.69,Dnipro FIR
+Jan,1.73,0.15,86.26,Simferopol FIR
+Jan,3.13,0.15,48.19,Lvov FIR
+Jan,1.51,0.12,78.84,Odessa FIR
+Jan,2.47,0.14,57.0,Arkhangelsk FIR
+Jan,1.3,0.24,182.48,Kotlas FIR
+Jan,8.77,0.53,60.94,Sankt-Peterburg FIR
+Jan,2.34,0.07,28.52,Murmansk FIR
+Jan,4.65,0.79,169.31,Vologda FIR
+Jan,1.16,0.03,22.05,Kaliningrad FIR
+Jan,10.95,0.61,55.51,Minsk FIR
+Jan,12.89,1.27,98.87,Krasnoyarsk FIR
+Jan,14.52,3.41,235.1,Novosibirsk FIR
+Jan,19.07,3.09,161.74,Rostov-Na-Donu FIR
+Jan,14.79,2.34,158.13,Yekaterinburg FIR
+Jan,11.42,1.62,142.31,Tyumen FIR
+Jan,2.51,0.06,23.89,Ashgabat FIR
+Jan,2.57,0.06,24.66,Turkmenbashi FIR
+Jan,0.47,0.01,28.18,Dashoguz FIR
+Jan,1.5,0.02,16.31,Turkmenabat FIR
+Jan,0.47,0.01,27.9,Dushanbe FIR
+Jan,2.11,0.09,42.39,Samarkand FIR
+Jan,3.07,0.15,49.8,Tashkent FIR
+Jan,45.81,4.33,94.47,Moscow FIR
+Jan,5.13,0.8,155.22,Syktyvkar FIR
+Jan,14.3,2.19,153.18,Samara FIR
+Jan,75.36,0.09,1.17,Mumbai FIR
+Jan,8.6,0.19,22.51,Colombo FIR
+Jan,5.09,0.05,9.31,Phnom Penh FIR
+Jan,43.09,0.09,2.05,Kolkata FIR
+Jan,4.83,-0.0,-0.0,Dhaka FIR
+Jan,30.28,0.09,3.1,Hong Kong FIR
+Jan,29.48,0.02,0.68,Delhi FIR
+Jan,9.52,0.11,11.12,Vientiane FIR
+Jan,1.09,0.0,0.81,Kathmandu FIR
+Jan,62.97,0.57,9.0,Chennai FIR
+Jan,1.48,0.02,15.06,Male FIR
+Jan,46.99,0.42,9.0,Bangkok FIR
+Jan,36.02,0.69,19.03,Ho Chi Minh FIR
+Jan,13.17,0.04,2.89,Hanoi FIR
+Jan,19.18,0.18,9.38,Yangon FIR
+Jan,38.28,0.6,15.73,U-Jung Pandang FIR
+Jan,7.79,0.07,8.44,Kota Kinabalu FIR
+Jan,44.45,0.53,11.9,Jakarta FIR
+Jan,27.46,0.37,13.45,Kuala Lumpur FIR
+Jan,25.89,0.44,17.01,Singapore FIR
+Jan,59.05,0.21,3.49,Brisbane FIR
+Jan,70.74,0.2,2.86,Melbourne FIR
+Jan,38.48,0.08,1.96,Beijing FIR
+Jan,110.54,0.06,0.58,Guangzhou FIR
+Jan,51.08,0.0,0.01,Wuhan FIR
+Jan,17.15,0.2,11.5,Sanya FIR
+Jan,2.52,-0.0,-0.07,Pyongyang FIR
+Jan,26.05,0.08,2.97,Lanzhou FIR
+Jan,13.75,0.24,17.52,Ulaanbaatar FIR
+Jan,58.91,0.03,0.56,Kunming FIR
+Jan,139.84,0.03,0.19,Shanghai FIR
+Jan,9.24,0.32,34.94,Urumqi FIR
+Jan,19.68,0.04,2.25,Shenyang FIR
+Feb,954.11,32.12,33.67,European Airspace
+Feb,181.52,7.3,40.22,North Atlantic
+Feb,542.47,16.1,29.68,Continental Europe
+Feb,4374.46,72.71,16.62,Global
+Feb,1101.17,15.38,13.97,USA
+Feb,696.23,2.41,3.47,East Asia
+Feb,316.25,1.65,5.21,Southeast Asia
+Feb,184.17,1.51,8.18,Latin America
+Feb,322.31,2.49,7.72,Africa & Middle East
+Feb,747.58,3.58,4.79,China
+Feb,200.91,0.28,1.38,India
+Feb,1901.09,55.22,29.05,North Pacific
+Feb,28.29,0.6,21.35,Arctic
+Feb,0.39,0.0,1.59,Honiara FIR
+Feb,0.13,-0.0,-5.42,Nauru FIR
+Feb,2.0,0.08,38.08,Port Moresby FIR
+Feb,8.96,0.26,28.49,Nuuk FIR
+Feb,10.78,0.36,33.69,Reykjavik FIR
+Feb,28.34,0.32,11.12,Edmonton FIR
+Feb,10.69,0.26,24.36,Moncton FIR
+Feb,59.22,1.0,16.91,Gander FIR
+Feb,22.03,0.31,13.89,Montreal FIR
+Feb,10.19,0.08,8.2,Vancouver FIR
+Feb,17.98,0.5,27.64,Winnipeg FIR
+Feb,17.32,0.32,18.23,Toronto FIR
+Feb,12.22,0.06,4.94,Alger FIR
+Feb,2.91,0.04,13.92,Accra FIR
+Feb,3.62,0.06,15.64,Kano FIR
+Feb,3.97,0.08,19.39,Niamey FIR
+Feb,2.34,0.01,3.86,Tunis FIR
+Feb,13.16,0.5,37.61,Brussels FIR
+Feb,37.44,0.85,22.63,Langen FIR
+Feb,22.7,0.66,28.9,Munchen FIR
+Feb,22.5,1.0,44.43,Bremen FIR
+Feb,3.81,0.29,75.43,Tallinn FIR
+Feb,5.22,0.21,40.01,Helsinki FIR
+Feb,39.83,2.63,66.07,Shanwick FIR
+Feb,8.53,0.37,42.97,Scottish FIR
+Feb,50.97,1.14,22.35,London FIR
+Feb,17.55,0.84,47.69,Amsterdam FIR
+Feb,11.18,0.76,68.02,Shannon FIR
+Feb,8.93,0.34,38.53,Copenhagen FIR
+Feb,0.89,0.02,26.72,Bodo Oceanic FIR
+Feb,10.66,0.27,25.25,Polaris FIR
+Feb,22.96,1.15,50.15,Warszawa FIR
+Feb,20.44,0.88,42.97,Sweden FIR
+Feb,4.42,0.36,80.7,Riga FIR
+Feb,2.98,0.19,64.31,Vilnius FIR
+Feb,2.15,0.0,2.2,Cape Town FIR
+Feb,5.92,0.01,2.21,Johannesburg FIR
+Feb,0.86,0.01,11.26,Johannesburg Oceanic FIR
+Feb,1.76,0.02,10.12,Gaborone FIR
+Feb,3.44,0.18,50.83,Brazzaville FIR
+Feb,1.43,0.04,24.72,Mauritius FIR
+Feb,1.02,0.03,32.46,Lusaka FIR
+Feb,2.25,0.01,3.62,Antananarivo FIR
+Feb,3.52,0.14,38.85,Luanda FIR
+Feb,1.69,0.01,8.37,Beira FIR
+Feb,2.05,0.02,12.11,Seychelles FIR
+Feb,3.03,0.07,22.03,N'Djamena FIR
+Feb,1.32,0.01,6.87,Harare FIR
+Feb,0.49,0.01,16.5,Lilongwe FIR
+Feb,1.3,0.0,3.81,Windhoek FIR
+Feb,2.34,0.12,50.47,Kinshasa FIR
+Feb,12.8,0.04,3.25,Canarias FIR
+Feb,0.53,0.01,15.78,Roberts FIR
+Feb,20.37,0.07,3.34,Casablanca FIR
+Feb,12.7,0.35,27.8,Dakar FIR
+Feb,3.94,0.08,20.58,Sal Oceanic FIR
+Feb,4.75,0.02,3.44,Addis Abeba FIR
+Feb,0.02,0.0,42.42,Bujumbura FIR
+Feb,5.08,0.01,2.34,Mogadishu FIR/UIR
+Feb,19.78,0.03,1.39,Cairo FIR
+Feb,0.56,0.0,4.25,Asmara FIR
+Feb,3.89,0.01,3.02,Nairobi FIR
+Feb,2.63,0.01,2.15,Tripoli FIR
+Feb,0.05,0.0,23.67,Kigali FIR
+Feb,6.66,0.05,7.4,Khartoum FIR
+Feb,2.65,0.04,14.36,Dar-Es-Salaam FIR
+Feb,0.41,0.0,9.45,Entebbe FIR
+Feb,63.16,0.56,8.82,Albuquerque FIR
+Feb,85.84,1.84,21.39,Oakland Oceanic FIR
+Feb,44.07,0.8,18.06,Chicago FIR
+Feb,31.64,0.53,16.64,Boston FIR
+Feb,72.79,0.86,11.85,Washington FIR
+Feb,69.92,1.15,16.5,Denver FIR
+Feb,48.45,0.53,10.88,Fort Worth FIR
+Feb,51.93,0.73,14.02,Houston FIR
+Feb,43.54,0.41,9.51,Indianapolis FIR
+Feb,75.69,1.34,17.66,Jacksonville FIR
+Feb,55.58,1.38,24.86,Kansas City FIR
+Feb,57.0,0.24,4.18,Los Angeles FIR
+Feb,49.2,0.85,17.21,Salt Lake City FIR
+Feb,62.22,0.15,2.47,Miami FIR/UIR
+Feb,48.78,0.51,10.53,Memphis FIR
+Feb,47.68,1.68,35.31,Minneapolis FIR
+Feb,32.45,0.36,11.01,New York FIR
+Feb,38.67,0.27,6.98,Oakland FIR
+Feb,35.46,0.64,18.15,Cleveland FIR
+Feb,30.9,0.38,12.21,Seattle FIR
+Feb,58.4,0.59,10.16,Atlanta FIR
+Feb,46.24,1.76,38.04,New York Oceanic FIR
+Feb,1.63,0.02,14.58,Tirana FIR
+Feb,13.74,0.31,22.89,Sofia FIR
+Feb,8.86,0.04,4.27,Nicosia FIR
 Feb,7.55,0.18,24.38,Zagreb FIR
-Mar,9.07,0.14,15.59,Zagreb FIR
+Feb,18.22,-0.0,-0.07,Barcelona FIR
+Feb,41.42,0.96,23.22,Madrid FIR
+Feb,19.72,0.6,30.43,Bordeaux FIR
+Feb,7.18,0.16,22.43,Reims FIR
+Feb,36.65,1.41,38.47,Paris FIR
+Feb,25.53,0.33,13.04,Marseille FIR
+Feb,20.04,1.34,66.99,Brest FIR
+Feb,20.7,0.22,10.65,Athinai FIR
+Feb,12.35,0.38,30.41,Budapest FIR
+Feb,4.9,0.05,10.53,Brindisi FIR
+Feb,20.94,0.37,17.5,Milano FIR
+Feb,19.98,0.17,8.44,Roma FIR
+Feb,2.16,0.05,25.21,Ljubljana FIR
+Feb,13.06,0.58,44.31,Praha FIR
+Feb,1.51,0.0,0.56,Tel-Aviv FIR
+Feb,3.44,0.03,8.22,Malta FIR
+Feb,14.95,0.47,31.64,Wien FIR
+Feb,22.78,0.53,23.15,Lisboa FIR
+Feb,20.19,1.38,68.47,Santa Maria FIR
+Feb,4.07,0.09,23.09,Sarajevo FIR
+Feb,18.63,0.53,28.66,Bucarest FIR
+Feb,8.76,0.16,17.88,Switzerland FIR
+Feb,50.04,0.9,18.06,Ankara FIR
+Feb,20.84,0.28,13.35,Istanbul FIR
+Feb,0.48,0.03,59.43,Chisinau FIR
+Feb,1.21,0.02,13.61,Skopje FIR
+Feb,9.13,0.17,18.47,Beograd FIR
+Feb,4.6,0.21,45.38,Bratislava  FIR
+Feb,3.36,0.0,0.04,Santo Domingo FIR
+Feb,12.77,0.01,0.57,Central America FIR
+Feb,5.98,0.0,0.0,Kingston FIR
+Feb,0.19,0.0,1.26,Oceanica Mazatlan FIR
+Feb,68.25,0.26,3.8,Mexico FIR
+Feb,8.83,0.01,1.2,Panama FIR
+Feb,0.82,0.0,0.0,Port-Au-Prince FIR
+Feb,11.24,0.0,0.07,Habana FIR/UIR
+Feb,4.62,0.03,7.36,Nadi FIR
+Feb,1.44,0.01,7.58,Tahiti Oceanic FIR
+Feb,9.31,-0.0,-0.39,New Zealand FIR
+Feb,8.09,0.09,11.28,Auckland Oceanic FIR
+Feb,6.1,0.07,10.69,Kabul FIR
+Feb,14.69,0.0,0.17,Bahrain FIR
+Feb,43.26,0.02,0.57,Jeddah FIR
+Feb,39.92,0.09,2.34,Tehran FIR
+Feb,1.45,0.0,1.23,Amman FIR
+Feb,3.97,0.0,0.84,Kuwait FIR
+Feb,0.46,0.0,1.24,Beirut FIR
+Feb,13.76,0.0,0.01,Emirates FIR
+Feb,24.8,0.0,0.03,Muscat FIR
+Feb,16.55,0.03,2.07,Karachi FIR
+Feb,6.42,0.04,6.01,Lahore FIR
+Feb,15.32,0.03,1.97,Baghdad FIR
+Feb,1.61,0.01,4.73,Damascus FIR
+Feb,3.15,0.0,0.23,Sanaa FIR
+Feb,27.39,1.15,42.04,Alaska FIR
+Feb,31.54,0.01,0.25,Taipei FIR
+Feb,135.3,0.43,3.17,Fukuoka FIR
+Feb,32.95,0.18,5.38,Incheon FIR
+Feb,43.83,0.11,2.61,Manila FIR
+Feb,4.18,0.01,2.24,Cordoba FIR
+Feb,5.74,0.0,0.32,Ezeiza FIR
+Feb,1.61,0.0,0.37,Mendoza FIR
+Feb,1.68,0.01,3.48,Resistencia FIR
+Feb,1.44,0.0,0.84,Comodoro Rivadavia FIR
+Feb,6.91,0.15,21.76,Atlantico FIR
+Feb,15.8,0.39,24.74,Amazonica FIR
+Feb,23.76,0.22,9.4,Brasilia FIR
+Feb,23.35,0.07,2.88,Curitiba FIR
+Feb,22.03,0.37,16.83,Recife FIR
+Feb,0.75,0.01,7.96,Punta Arenas FIR
+Feb,6.69,0.0,0.43,Santiago FIR
+Feb,6.95,0.02,2.75,Antofagasta FIR
+Feb,0.61,0.02,27.71,Isla De Pascua FIR
+Feb,1.95,0.0,0.35,Puerto Montt FIR
+Feb,4.12,0.03,6.57,Guayaquil FIR/UIR
+Feb,1.06,0.01,4.87,Asuncion FIR/UIR
+Feb,6.62,0.02,2.63,Barranquilla FIR
+Feb,13.47,0.09,6.58,Bogota FIR
+Feb,3.48,0.06,16.95,La Paz FIR
+Feb,0.84,0.01,8.19,Paramaribo FIR
+Feb,0.56,0.0,8.84,Cayenne FIR
+Feb,15.35,0.14,8.92,Lima FIR
+Feb,1.89,0.0,0.81,Montevideo FIR
+Feb,2.6,0.02,8.29,Maiquetia FIR
+Feb,1.32,0.01,8.15,Georgetown FIR
+Feb,8.18,0.0,0.07,San Juan Oceanic FIR/UIR
+Feb,2.48,0.0,0.14,Curacao FIR
+Feb,6.34,0.04,6.25,Piarco FIR
+Feb,3.53,0.42,118.27,Almaty FIR
+Feb,4.71,0.65,138.35,Nur-Sultan FIR
+Feb,4.82,0.49,100.98,Shymkent FIR
+Feb,8.29,0.69,82.97,Aktobe FIR
+Feb,4.48,0.05,10.23,Baku FIR
+Feb,0.36,0.03,72.62,Bishkek FIR
+Feb,0.31,0.02,60.45,Osh FIR
+Feb,0.9,0.0,5.02,Yerevan FIR
+Feb,7.72,0.24,30.88,Yakutsk FIR
+Feb,2.45,0.05,20.44,Tibilisi FIR
+Feb,12.45,0.02,1.87,Khabarovsk FIR
+Feb,9.19,0.19,20.89,Magadan FIR
+Feb,5.38,0.01,2.03,Petropavlovsk-Kamchatsky FIR
+Feb,6.7,0.15,22.34,Irkutsk FIR
+Feb,2.82,0.2,71.28,Kiev FIR
+Feb,0.65,0.07,111.28,Dnipro FIR
+Feb,1.38,0.09,61.94,Simferopol FIR
+Feb,2.71,0.2,75.65,Lvov FIR
+Feb,1.29,0.11,87.58,Odessa FIR
+Feb,2.58,0.06,24.66,Arkhangelsk FIR
+Feb,1.21,0.08,65.68,Kotlas FIR
+Feb,8.03,0.63,78.06,Sankt-Peterburg FIR
+Feb,1.85,0.02,8.67,Murmansk FIR
+Feb,4.27,0.29,66.83,Vologda FIR
+Feb,1.0,0.06,58.37,Kaliningrad FIR
+Feb,9.12,0.78,85.49,Minsk FIR
+Feb,12.15,0.76,62.81,Krasnoyarsk FIR
+Feb,13.6,1.15,84.78,Novosibirsk FIR
+Feb,16.33,1.47,89.92,Rostov-Na-Donu FIR
+Feb,13.51,1.03,75.9,Yekaterinburg FIR
+Feb,10.89,0.7,64.73,Tyumen FIR
+Feb,2.24,0.02,7.04,Ashgabat FIR
+Feb,2.27,0.03,14.12,Turkmenbashi FIR
+Feb,0.46,0.02,34.58,Dashoguz FIR
+Feb,1.37,0.02,12.75,Turkmenabat FIR
+Feb,0.39,0.01,19.33,Dushanbe FIR
+Feb,1.7,0.06,36.29,Samarkand FIR
+Feb,2.66,0.14,51.43,Tashkent FIR
+Feb,39.94,3.97,99.39,Moscow FIR
+Feb,4.83,0.29,59.46,Syktyvkar FIR
+Feb,12.3,1.55,126.33,Samara FIR
+Feb,67.51,0.04,0.52,Mumbai FIR
+Feb,8.28,0.11,12.86,Colombo FIR
+Feb,4.9,-0.0,-0.0,Phnom Penh FIR
+Feb,37.99,0.04,1.17,Kolkata FIR
+Feb,4.05,0.0,0.54,Dhaka FIR
+Feb,27.91,0.0,0.0,Hong Kong FIR
+Feb,26.2,0.06,2.16,Delhi FIR
+Feb,9.04,0.01,0.71,Vientiane FIR
+Feb,1.11,0.0,3.87,Kathmandu FIR
+Feb,55.36,0.07,1.19,Chennai FIR
+Feb,1.26,0.01,4.32,Male FIR
+Feb,43.71,0.02,0.51,Bangkok FIR
+Feb,35.16,0.08,2.18,Ho Chi Minh FIR
+Feb,12.77,0.0,0.38,Hanoi FIR
+Feb,16.73,0.0,0.14,Yangon FIR
+Feb,36.23,0.72,19.99,U-Jung Pandang FIR
+Feb,7.33,0.05,6.21,Kota Kinabalu FIR
+Feb,39.3,0.42,10.57,Jakarta FIR
+Feb,25.27,0.11,4.44,Kuala Lumpur FIR
+Feb,24.24,0.2,8.26,Singapore FIR
+Feb,52.39,0.18,3.43,Brisbane FIR
+Feb,66.04,0.12,1.76,Melbourne FIR
+Feb,39.5,0.42,10.61,Beijing FIR
+Feb,103.56,0.13,1.24,Guangzhou FIR
+Feb,48.93,0.28,5.65,Wuhan FIR
+Feb,15.96,0.0,0.0,Sanya FIR
+Feb,2.11,0.01,4.36,Pyongyang FIR
+Feb,23.6,0.35,14.87,Lanzhou FIR
+Feb,12.77,0.11,8.26,Ulaanbaatar FIR
+Feb,53.06,0.12,2.34,Kunming FIR
+Feb,133.96,0.5,3.72,Shanghai FIR
+Feb,8.13,0.18,22.43,Urumqi FIR
+Feb,23.15,0.19,8.28,Shenyang FIR
+Mar,1072.09,22.32,20.82,European Airspace
+Mar,200.69,7.85,39.13,North Atlantic
+Mar,614.15,11.97,19.49,Continental Europe
+Mar,4994.48,64.2,12.85,Global
+Mar,1281.49,14.42,11.26,USA
+Mar,725.18,1.48,2.04,East Asia
+Mar,335.94,2.99,8.9,Southeast Asia
+Mar,191.49,1.7,8.89,Latin America
+Mar,518.34,2.74,5.29,Africa & Middle East
+Mar,773.91,2.27,2.93,China
+Mar,205.7,0.35,1.69,India
+Mar,2155.66,46.64,21.64,North Pacific
+Mar,28.05,0.74,26.36,Arctic
+Mar,0.45,0.0,7.46,Honiara FIR
+Mar,0.12,-0.0,-2.59,Nauru FIR
+Mar,2.38,0.04,16.62,Port Moresby FIR
+Mar,9.43,0.2,21.11,Nuuk FIR
+Mar,11.76,0.1,8.31,Reykjavik FIR
+Mar,29.96,0.75,25.11,Edmonton FIR
+Mar,12.9,0.52,40.39,Moncton FIR
+Mar,64.96,2.47,38.03,Gander FIR
+Mar,23.18,0.47,20.13,Montreal FIR
+Mar,11.64,0.2,17.02,Vancouver FIR
+Mar,20.31,0.55,27.02,Winnipeg FIR
+Mar,20.73,0.26,12.51,Toronto FIR
+Mar,13.99,0.05,3.85,Alger FIR
+Mar,157.91,0.07,0.47,Accra FIR
+Mar,4.44,0.11,23.91,Kano FIR
+Mar,4.42,0.08,18.64,Niamey FIR
+Mar,2.74,0.0,1.51,Tunis FIR
+Mar,14.38,0.31,21.4,Brussels FIR
+Mar,41.47,0.67,16.2,Langen FIR
+Mar,25.42,0.48,18.72,Munchen FIR
+Mar,24.7,0.67,27.25,Bremen FIR
+Mar,4.27,0.13,30.32,Tallinn FIR
+Mar,5.61,0.13,22.52,Helsinki FIR
+Mar,43.52,2.3,52.78,Shanwick FIR
+Mar,9.73,0.11,11.45,Scottish FIR
+Mar,56.69,1.37,24.21,London FIR
+Mar,19.14,0.73,38.27,Amsterdam FIR
+Mar,12.25,0.36,29.42,Shannon FIR
+Mar,10.0,0.21,20.73,Copenhagen FIR
+Mar,0.79,0.0,5.93,Bodo Oceanic FIR
+Mar,11.57,0.09,8.17,Polaris FIR
+Mar,25.21,1.04,41.3,Warszawa FIR
+Mar,22.75,0.5,22.13,Sweden FIR
+Mar,4.85,0.19,38.86,Riga FIR
+Mar,3.36,0.14,42.64,Vilnius FIR
+Mar,2.07,0.01,6.32,Cape Town FIR
+Mar,6.33,0.01,2.27,Johannesburg FIR
+Mar,0.85,0.02,18.11,Johannesburg Oceanic FIR
+Mar,2.1,0.0,1.33,Gaborone FIR
+Mar,4.04,0.23,56.84,Brazzaville FIR
+Mar,1.54,0.04,26.41,Mauritius FIR
+Mar,1.21,0.03,21.24,Lusaka FIR
+Mar,2.39,0.02,10.03,Antananarivo FIR
+Mar,4.04,0.16,39.27,Luanda FIR
+Mar,1.84,0.02,12.99,Beira FIR
+Mar,2.36,0.03,13.11,Seychelles FIR
+Mar,3.51,0.09,25.17,N'Djamena FIR
+Mar,1.51,0.0,2.91,Harare FIR
+Mar,0.54,0.02,28.93,Lilongwe FIR
+Mar,1.48,0.0,2.05,Windhoek FIR
+Mar,2.98,0.17,56.36,Kinshasa FIR
+Mar,14.21,0.05,3.39,Canarias FIR
+Mar,0.59,0.0,5.53,Roberts FIR
+Mar,23.22,0.04,1.63,Casablanca FIR
+Mar,13.91,0.16,11.74,Dakar FIR
+Mar,4.27,0.06,15.21,Sal Oceanic FIR
+Mar,5.11,0.01,1.83,Addis Abeba FIR
+Mar,0.03,0.0,43.12,Bujumbura FIR
+Mar,5.54,0.01,2.02,Mogadishu FIR/UIR
+Mar,22.29,0.04,1.84,Cairo FIR
+Mar,0.62,0.0,0.77,Asmara FIR
+Mar,4.08,0.01,3.61,Nairobi FIR
+Mar,2.98,0.01,3.35,Tripoli FIR
+Mar,0.05,0.0,17.88,Kigali FIR
+Mar,6.91,0.02,3.33,Khartoum FIR
+Mar,2.84,0.06,20.37,Dar-Es-Salaam FIR
+Mar,0.48,0.0,3.93,Entebbe FIR
+Mar,71.61,0.44,6.18,Albuquerque FIR
+Mar,96.67,1.55,16.03,Oakland Oceanic FIR
+Mar,54.34,0.68,12.53,Chicago FIR
+Mar,35.94,0.73,20.27,Boston FIR
+Mar,84.28,0.79,9.34,Washington FIR
+Mar,83.15,1.7,20.39,Denver FIR
+Mar,55.78,0.4,7.09,Fort Worth FIR
+Mar,59.02,0.38,6.49,Houston FIR
+Mar,51.6,0.39,7.53,Indianapolis FIR
+Mar,87.73,0.37,4.18,Jacksonville FIR
+Mar,64.04,1.02,15.85,Kansas City FIR
+Mar,66.15,0.14,2.08,Los Angeles FIR
+Mar,56.47,1.71,30.24,Salt Lake City FIR
+Mar,70.7,0.19,2.64,Miami FIR/UIR
+Mar,58.05,0.65,11.23,Memphis FIR
+Mar,57.63,1.52,26.45,Minneapolis FIR
+Mar,37.39,0.27,7.2,New York FIR
+Mar,44.71,0.26,5.91,Oakland FIR
+Mar,42.77,0.48,11.14,Cleveland FIR
+Mar,37.45,0.51,13.52,Seattle FIR
+Mar,68.23,0.34,5.03,Atlanta FIR
+Mar,48.69,1.58,32.4,New York Oceanic FIR
+Mar,1.91,0.06,29.48,Tirana FIR
+Mar,15.19,0.42,27.94,Sofia FIR
+Mar,10.13,0.02,1.71,Nicosia FIR
+Mar,8.78,0.14,16.14,Zagreb FIR
+Mar,21.69,0.05,2.21,Barcelona FIR
+Mar,47.8,0.71,14.77,Madrid FIR
+Mar,22.7,0.51,22.5,Bordeaux FIR
+Mar,8.06,0.11,13.45,Reims FIR
+Mar,41.11,0.76,18.52,Paris FIR
+Mar,30.31,0.26,8.72,Marseille FIR
+Mar,23.41,1.0,42.57,Brest FIR
+Mar,24.29,0.23,9.66,Athinai FIR
+Mar,13.74,0.2,14.4,Budapest FIR
+Mar,5.76,0.06,10.07,Brindisi FIR
+Mar,24.31,0.31,12.64,Milano FIR
+Mar,22.45,0.11,4.75,Roma FIR
+Mar,2.47,0.05,18.49,Ljubljana FIR
+Mar,14.71,0.48,32.36,Praha FIR
+Mar,1.72,0.0,0.06,Tel-Aviv FIR
+Mar,4.1,0.0,0.35,Malta FIR
+Mar,16.96,0.3,17.54,Wien FIR
+Mar,26.09,0.42,16.12,Lisboa FIR
+Mar,21.34,0.66,31.04,Santa Maria FIR
+Mar,4.64,0.08,18.14,Sarajevo FIR
+Mar,20.64,0.55,26.63,Bucarest FIR
+Mar,9.99,0.1,10.4,Switzerland FIR
+Mar,55.0,0.88,16.09,Ankara FIR
+Mar,23.29,0.17,7.46,Istanbul FIR
+Mar,0.57,0.01,20.77,Chisinau FIR
+Mar,1.43,0.05,34.44,Skopje FIR
+Mar,10.35,0.29,28.5,Beograd FIR
+Mar,5.08,0.1,19.93,Bratislava  FIR
+Mar,3.65,0.0,0.89,Santo Domingo FIR
+Mar,13.84,0.04,2.67,Central America FIR
+Mar,6.3,0.0,0.47,Kingston FIR
+Mar,0.26,-0.0,-0.66,Oceanica Mazatlan FIR
+Mar,76.77,0.35,4.53,Mexico FIR
+Mar,9.56,0.02,2.46,Panama FIR
+Mar,0.78,0.0,1.43,Port-Au-Prince FIR
+Mar,12.03,0.03,2.32,Habana FIR/UIR
+Mar,5.14,0.07,13.19,Nadi FIR
+Mar,1.54,0.01,8.99,Tahiti Oceanic FIR
+Mar,9.93,0.04,3.67,New Zealand FIR
+Mar,8.39,0.19,22.98,Auckland Oceanic FIR
+Mar,2.34,0.01,5.55,Kabul FIR
+Mar,15.86,0.04,2.71,Bahrain FIR
+Mar,46.61,0.1,2.06,Jeddah FIR
+Mar,49.07,0.2,3.98,Tehran FIR
+Mar,1.52,0.0,1.11,Amman FIR
+Mar,4.25,0.01,1.86,Kuwait FIR
+Mar,0.46,0.0,0.05,Beirut FIR
+Mar,15.72,0.01,0.69,Emirates FIR
+Mar,34.1,0.03,0.98,Muscat FIR
+Mar,7.33,0.03,3.48,Karachi FIR
+Mar,4.5,0.02,5.11,Lahore FIR
+Mar,16.73,0.05,2.85,Baghdad FIR
+Mar,2.28,0.01,4.14,Damascus FIR
+Mar,3.53,0.0,0.86,Sanaa FIR
+Mar,33.74,1.03,30.5,Alaska FIR
+Mar,33.81,0.01,0.38,Taipei FIR
+Mar,150.78,0.34,2.23,Fukuoka FIR
+Mar,35.54,-0.0,-0.04,Incheon FIR
+Mar,45.78,0.21,4.58,Manila FIR
+Mar,4.49,0.0,0.37,Cordoba FIR
+Mar,6.02,0.01,1.51,Ezeiza FIR
+Mar,1.62,0.0,0.82,Mendoza FIR
+Mar,1.71,0.0,0.18,Resistencia FIR
+Mar,1.23,0.01,4.99,Comodoro Rivadavia FIR
+Mar,7.45,0.2,26.43,Atlantico FIR
+Mar,16.27,0.42,25.54,Amazonica FIR
+Mar,24.38,0.25,10.43,Brasilia FIR
+Mar,23.98,0.06,2.59,Curitiba FIR
+Mar,23.14,0.31,13.3,Recife FIR
+Mar,0.62,0.02,25.02,Punta Arenas FIR
+Mar,6.74,0.0,0.66,Santiago FIR
+Mar,7.5,0.02,2.31,Antofagasta FIR
+Mar,0.6,0.01,22.9,Isla De Pascua FIR
+Mar,1.56,0.0,2.55,Puerto Montt FIR
+Mar,4.66,0.04,9.55,Guayaquil FIR/UIR
+Mar,1.1,0.0,3.09,Asuncion FIR/UIR
+Mar,6.86,0.05,6.78,Barranquilla FIR
+Mar,14.28,0.12,8.53,Bogota FIR
+Mar,3.81,0.07,17.59,La Paz FIR
+Mar,0.93,0.01,11.51,Paramaribo FIR
+Mar,0.62,0.0,5.79,Cayenne FIR
+Mar,16.27,0.19,11.97,Lima FIR
+Mar,1.86,0.0,2.11,Montevideo FIR
+Mar,2.16,0.03,15.21,Maiquetia FIR
+Mar,1.54,0.02,16.11,Georgetown FIR
+Mar,8.95,0.04,4.9,San Juan Oceanic FIR/UIR
+Mar,2.33,0.02,9.06,Curacao FIR
+Mar,6.92,0.06,8.84,Piarco FIR
+Mar,4.73,0.21,45.27,Almaty FIR
+Mar,5.82,0.41,69.99,Nur-Sultan FIR
+Mar,5.14,0.16,31.98,Shymkent FIR
+Mar,7.54,0.65,86.61,Aktobe FIR
+Mar,4.32,0.12,28.36,Baku FIR
+Mar,0.5,0.02,33.55,Bishkek FIR
+Mar,0.4,0.01,30.74,Osh FIR
+Mar,0.96,0.02,16.53,Yerevan FIR
+Mar,7.99,0.09,11.79,Yakutsk FIR
+Mar,1.95,0.05,27.36,Tibilisi FIR
+Mar,13.46,0.07,5.57,Khabarovsk FIR
+Mar,9.47,0.3,31.96,Magadan FIR
+Mar,7.37,0.12,16.38,Petropavlovsk-Kamchatsky FIR
+Mar,7.5,0.06,7.47,Irkutsk FIR
+Mar,3.17,0.08,25.15,Kiev FIR
+Mar,0.94,0.03,35.68,Dnipro FIR
+Mar,1.57,0.05,30.38,Simferopol FIR
+Mar,3.06,0.11,34.58,Lvov FIR
+Mar,1.44,0.04,29.38,Odessa FIR
+Mar,2.56,0.1,39.59,Arkhangelsk FIR
+Mar,1.33,0.07,51.46,Kotlas FIR
+Mar,8.91,0.28,31.04,Sankt-Peterburg FIR
+Mar,1.88,0.02,12.27,Murmansk FIR
+Mar,4.84,0.28,57.16,Vologda FIR
+Mar,1.18,0.05,39.89,Kaliningrad FIR
+Mar,10.16,0.57,56.38,Minsk FIR
+Mar,13.92,0.47,33.69,Krasnoyarsk FIR
+Mar,16.74,1.09,64.93,Novosibirsk FIR
+Mar,19.1,0.98,51.38,Rostov-Na-Donu FIR
+Mar,15.73,0.96,61.26,Yekaterinburg FIR
+Mar,12.1,1.13,93.3,Tyumen FIR
+Mar,0.81,0.01,15.93,Ashgabat FIR
+Mar,1.05,0.03,29.95,Turkmenbashi FIR
+Mar,0.56,0.01,19.06,Dashoguz FIR
+Mar,0.94,0.01,6.76,Turkmenabat FIR
+Mar,0.37,0.0,12.34,Dushanbe FIR
+Mar,1.05,0.01,10.01,Samarkand FIR
+Mar,2.67,0.07,25.81,Tashkent FIR
+Mar,44.47,1.63,36.64,Moscow FIR
+Mar,5.3,0.34,63.4,Syktyvkar FIR
+Mar,13.52,0.84,61.9,Samara FIR
+Mar,89.43,0.02,0.27,Mumbai FIR
+Mar,8.69,0.23,26.71,Colombo FIR
+Mar,5.31,0.02,3.2,Phnom Penh FIR
+Mar,34.81,0.01,0.34,Kolkata FIR
+Mar,4.33,0.0,0.0,Dhaka FIR
+Mar,29.29,0.04,1.29,Hong Kong FIR
+Mar,20.55,0.02,0.74,Delhi FIR
+Mar,9.95,0.05,4.95,Vientiane FIR
+Mar,1.03,0.0,0.04,Kathmandu FIR
+Mar,64.89,0.28,4.38,Chennai FIR
+Mar,1.48,0.03,20.61,Male FIR
+Mar,46.03,0.14,3.1,Bangkok FIR
+Mar,37.14,0.2,5.27,Ho Chi Minh FIR
+Mar,13.57,0.02,1.4,Hanoi FIR
+Mar,17.48,0.04,2.33,Yangon FIR
+Mar,39.23,0.77,19.51,U-Jung Pandang FIR
+Mar,7.57,0.08,9.92,Kota Kinabalu FIR
+Mar,43.42,0.7,16.08,Jakarta FIR
+Mar,26.09,0.22,8.49,Kuala Lumpur FIR
+Mar,26.07,0.36,13.82,Singapore FIR
+Mar,55.55,0.41,7.33,Brisbane FIR
+Mar,70.93,0.57,8.06,Melbourne FIR
+Mar,44.16,0.45,10.16,Beijing FIR
+Mar,104.42,0.07,0.65,Guangzhou FIR
+Mar,44.0,0.12,2.78,Wuhan FIR
+Mar,16.98,0.06,3.38,Sanya FIR
+Mar,2.13,-0.01,-6.85,Pyongyang FIR
+Mar,22.91,0.27,11.72,Lanzhou FIR
+Mar,15.76,0.15,9.32,Ulaanbaatar FIR
+Mar,54.19,0.05,0.98,Kunming FIR
+Mar,137.06,0.25,1.85,Shanghai FIR
+Mar,10.02,0.29,28.96,Urumqi FIR
+Mar,24.96,0.05,2.01,Shenyang FIR
+Apr,1219.47,10.84,8.89,European Airspace
+Apr,225.78,6.48,28.69,North Atlantic
+Apr,726.06,4.84,6.67,Continental Europe
+Apr,4949.35,50.13,10.13,Global
+Apr,1326.87,16.13,12.16,USA
+Apr,707.29,2.75,3.89,East Asia
+Apr,331.8,2.2,6.62,Southeast Asia
+Apr,174.96,1.72,9.82,Latin America
+Apr,373.08,2.19,5.88,Africa & Middle East
+Apr,744.93,3.06,4.11,China
+Apr,197.44,0.49,2.47,India
+Apr,2355.4,31.48,13.37,North Pacific
+Apr,28.04,0.42,14.98,Arctic
+Apr,0.33,0.0,0.9,Honiara FIR
+Apr,0.09,-0.0,-4.25,Nauru FIR
+Apr,1.89,0.04,20.5,Port Moresby FIR
+Apr,9.89,0.22,22.28,Nuuk FIR
+Apr,12.04,0.26,21.65,Reykjavik FIR
+Apr,30.55,0.35,11.51,Edmonton FIR
+Apr,14.58,0.93,63.76,Moncton FIR
+Apr,74.04,2.57,34.67,Gander FIR
+Apr,26.87,0.52,19.48,Montreal FIR
+Apr,10.89,0.08,6.92,Vancouver FIR
+Apr,22.15,0.27,12.09,Winnipeg FIR
+Apr,24.27,0.24,10.05,Toronto FIR
+Apr,13.25,0.11,8.34,Alger FIR
+Apr,2.63,0.06,23.28,Accra FIR
+Apr,3.95,0.06,15.52,Kano FIR
+Apr,3.86,0.05,11.7,Niamey FIR
+Apr,3.17,0.01,3.77,Tunis FIR
+Apr,16.12,0.14,8.58,Brussels FIR
+Apr,47.15,0.38,8.09,Langen FIR
+Apr,28.45,0.24,8.53,Munchen FIR
+Apr,26.36,0.13,4.98,Bremen FIR
+Apr,4.6,0.0,0.95,Tallinn FIR
+Apr,5.1,0.03,6.79,Helsinki FIR
+Apr,48.46,0.67,13.83,Shanwick FIR
+Apr,10.79,-0.03,-2.32,Scottish FIR
+Apr,66.38,0.26,3.95,London FIR
+Apr,20.91,0.12,5.67,Amsterdam FIR
+Apr,14.28,0.11,7.36,Shannon FIR
+Apr,10.53,0.03,2.95,Copenhagen FIR
+Apr,0.77,0.0,1.55,Bodo Oceanic FIR
+Apr,11.19,0.04,3.61,Polaris FIR
+Apr,28.39,0.27,9.62,Warszawa FIR
+Apr,22.17,0.09,3.87,Sweden FIR
+Apr,5.21,0.01,2.8,Riga FIR
+Apr,3.79,0.0,0.94,Vilnius FIR
+Apr,2.18,0.02,8.82,Cape Town FIR
+Apr,6.39,0.04,5.85,Johannesburg FIR
+Apr,0.77,0.04,47.67,Johannesburg Oceanic FIR
+Apr,1.69,0.01,8.24,Gaborone FIR
+Apr,3.21,0.13,39.0,Brazzaville FIR
+Apr,1.31,0.03,24.02,Mauritius FIR
+Apr,0.97,0.03,27.49,Lusaka FIR
+Apr,2.01,0.01,5.41,Antananarivo FIR
+Apr,3.03,0.08,25.7,Luanda FIR
+Apr,1.61,0.02,12.78,Beira FIR
+Apr,1.92,0.01,5.92,Seychelles FIR
+Apr,2.92,0.05,17.6,N'Djamena FIR
+Apr,1.29,0.02,15.43,Harare FIR
+Apr,0.5,0.01,21.32,Lilongwe FIR
+Apr,0.99,0.0,3.37,Windhoek FIR
+Apr,2.35,0.09,40.05,Kinshasa FIR
+Apr,13.1,0.1,7.49,Canarias FIR
+Apr,0.58,0.01,13.54,Roberts FIR
+Apr,22.88,0.13,5.54,Casablanca FIR
+Apr,12.28,0.21,17.12,Dakar FIR
+Apr,3.85,0.13,34.35,Sal Oceanic FIR
+Apr,4.37,0.03,6.51,Addis Abeba FIR
+Apr,0.02,0.0,51.67,Bujumbura FIR
+Apr,4.72,0.01,1.95,Mogadishu FIR/UIR
+Apr,22.12,0.04,2.03,Cairo FIR
+Apr,0.67,0.0,0.14,Asmara FIR
+Apr,3.55,0.02,6.98,Nairobi FIR
+Apr,2.61,0.01,3.4,Tripoli FIR
+Apr,0.05,0.0,19.34,Kigali FIR
+Apr,5.26,0.02,3.69,Khartoum FIR
+Apr,2.45,0.04,16.88,Dar-Es-Salaam FIR
+Apr,0.45,0.01,18.5,Entebbe FIR
+Apr,70.5,0.34,4.86,Albuquerque FIR
+Apr,92.68,2.18,23.53,Oakland Oceanic FIR
+Apr,58.1,0.71,12.17,Chicago FIR
+Apr,42.12,0.81,19.23,Boston FIR
+Apr,89.32,0.57,6.38,Washington FIR
+Apr,82.9,1.58,19.12,Denver FIR
+Apr,56.02,0.45,7.97,Fort Worth FIR
+Apr,58.28,0.3,5.15,Houston FIR
+Apr,56.89,0.63,11.05,Indianapolis FIR
+Apr,86.44,0.57,6.54,Jacksonville FIR
+Apr,68.32,1.41,20.7,Kansas City FIR
+Apr,67.75,0.51,7.48,Los Angeles FIR
+Apr,57.23,1.75,30.66,Salt Lake City FIR
+Apr,65.97,0.25,3.83,Miami FIR/UIR
+Apr,59.96,0.78,12.98,Memphis FIR
+Apr,59.1,1.78,30.04,Minneapolis FIR
+Apr,42.93,0.2,4.67,New York FIR
+Apr,47.12,0.47,10.06,Oakland FIR
+Apr,50.2,0.36,7.15,Cleveland FIR
+Apr,37.05,0.78,21.01,Seattle FIR
+Apr,71.28,0.61,8.59,Atlanta FIR
+Apr,43.66,1.63,37.23,New York Oceanic FIR
+Apr,2.7,0.03,11.77,Tirana FIR
+Apr,17.2,0.28,16.27,Sofia FIR
+Apr,12.0,0.02,1.75,Nicosia FIR
 Apr,12.92,0.25,19.24,Zagreb FIR
-May,17.05,0.18,10.49,Zagreb FIR
-Jun,19.73,0.15,7.55,Zagreb FIR
-Jul,21.41,0.17,8.08,Zagreb FIR
+Apr,29.7,0.06,2.05,Barcelona FIR
+Apr,55.6,0.21,3.79,Madrid FIR
+Apr,29.69,0.27,9.02,Bordeaux FIR
+Apr,9.87,0.05,4.98,Reims FIR
+Apr,47.41,0.18,3.8,Paris FIR
+Apr,39.27,0.24,6.23,Marseille FIR
+Apr,29.19,0.14,4.75,Brest FIR
+Apr,32.6,0.19,5.76,Athinai FIR
+Apr,15.91,0.31,19.33,Budapest FIR
+Apr,7.52,0.03,4.3,Brindisi FIR
+Apr,30.9,0.31,10.07,Milano FIR
+Apr,28.38,0.1,3.57,Roma FIR
+Apr,3.56,0.08,21.06,Ljubljana FIR
+Apr,16.27,0.15,8.96,Praha FIR
+Apr,1.97,0.0,0.07,Tel-Aviv FIR
+Apr,4.47,0.01,1.85,Malta FIR
+Apr,20.53,0.26,12.78,Wien FIR
+Apr,28.37,0.43,15.29,Lisboa FIR
+Apr,20.78,0.79,38.02,Santa Maria FIR
+Apr,6.45,0.08,12.2,Sarajevo FIR
+Apr,21.78,0.36,16.33,Bucarest FIR
+Apr,12.07,0.02,1.95,Switzerland FIR
+Apr,57.8,0.3,5.14,Ankara FIR
+Apr,27.3,0.15,5.34,Istanbul FIR
+Apr,0.66,0.01,20.79,Chisinau FIR
+Apr,2.26,0.03,11.28,Skopje FIR
+Apr,14.73,0.27,18.61,Beograd FIR
+Apr,5.72,0.12,21.67,Bratislava  FIR
+Apr,3.26,0.01,2.13,Santo Domingo FIR
+Apr,13.23,0.11,8.02,Central America FIR
+Apr,6.09,0.05,7.67,Kingston FIR
+Apr,0.17,0.0,14.45,Oceanica Mazatlan FIR
+Apr,79.09,0.36,4.58,Mexico FIR
+Apr,9.61,0.14,14.91,Panama FIR
+Apr,0.69,0.0,5.97,Port-Au-Prince FIR
+Apr,11.53,0.08,7.0,Habana FIR/UIR
+Apr,5.89,0.1,16.53,Nadi FIR
+Apr,1.49,0.02,10.29,Tahiti Oceanic FIR
+Apr,9.8,0.03,2.96,New Zealand FIR
+Apr,7.92,0.14,17.65,Auckland Oceanic FIR
+Apr,2.22,0.05,23.7,Kabul FIR
+Apr,15.21,0.03,1.98,Bahrain FIR
+Apr,47.32,0.08,1.73,Jeddah FIR
+Apr,48.09,0.29,6.04,Tehran FIR
+Apr,1.69,0.0,1.49,Amman FIR
+Apr,4.07,0.01,2.5,Kuwait FIR
+Apr,0.62,0.0,0.46,Beirut FIR
+Apr,14.79,0.02,1.49,Emirates FIR
+Apr,31.68,0.12,3.76,Muscat FIR
+Apr,9.46,0.1,10.1,Karachi FIR
+Apr,4.41,0.06,13.09,Lahore FIR
+Apr,17.43,0.05,2.83,Baghdad FIR
+Apr,1.93,0.01,4.31,Damascus FIR
+Apr,3.06,0.0,0.3,Sanaa FIR
+Apr,32.41,0.38,11.57,Alaska FIR
+Apr,34.7,0.2,5.8,Taipei FIR
+Apr,155.14,1.21,7.79,Fukuoka FIR
+Apr,36.27,0.11,2.91,Incheon FIR
+Apr,46.51,0.21,4.44,Manila FIR
+Apr,3.88,0.02,4.19,Cordoba FIR
+Apr,5.55,0.03,4.52,Ezeiza FIR
+Apr,1.44,0.01,9.65,Mendoza FIR
+Apr,1.47,0.01,4.36,Resistencia FIR
+Apr,1.03,0.02,17.46,Comodoro Rivadavia FIR
+Apr,6.31,0.12,19.07,Atlantico FIR
+Apr,14.49,0.36,24.97,Amazonica FIR
+Apr,22.71,0.14,6.06,Brasilia FIR
+Apr,21.7,0.07,3.05,Curitiba FIR
+Apr,20.56,0.21,10.28,Recife FIR
+Apr,0.47,0.01,30.58,Punta Arenas FIR
+Apr,5.86,0.0,0.83,Santiago FIR
+Apr,6.57,0.0,0.59,Antofagasta FIR
+Apr,0.64,0.03,45.93,Isla De Pascua FIR
+Apr,1.22,0.02,18.41,Puerto Montt FIR
+Apr,4.56,0.01,2.91,Guayaquil FIR/UIR
+Apr,0.99,0.01,6.7,Asuncion FIR/UIR
+Apr,6.79,0.12,17.46,Barranquilla FIR
+Apr,13.86,0.08,5.78,Bogota FIR
+Apr,3.5,0.08,22.61,La Paz FIR
+Apr,0.74,0.01,17.52,Paramaribo FIR
+Apr,0.53,0.01,16.79,Cayenne FIR
+Apr,15.02,0.18,11.77,Lima FIR
+Apr,1.58,0.01,4.46,Montevideo FIR
+Apr,1.78,0.04,23.15,Maiquetia FIR
+Apr,1.37,0.02,13.24,Georgetown FIR
+Apr,7.42,0.06,8.01,San Juan Oceanic FIR/UIR
+Apr,2.15,0.04,20.06,Curacao FIR
+Apr,5.79,0.08,14.6,Piarco FIR
+Apr,4.33,0.07,16.67,Almaty FIR
+Apr,5.48,0.06,10.3,Nur-Sultan FIR
+Apr,4.84,0.1,21.44,Shymkent FIR
+Apr,6.95,0.11,16.42,Aktobe FIR
+Apr,3.88,0.02,5.56,Baku FIR
+Apr,0.45,0.01,29.5,Bishkek FIR
+Apr,0.36,0.01,39.39,Osh FIR
+Apr,0.78,0.01,7.36,Yerevan FIR
+Apr,7.61,0.12,15.62,Yakutsk FIR
+Apr,2.05,0.03,15.25,Tibilisi FIR
+Apr,12.58,0.11,8.79,Khabarovsk FIR
+Apr,7.98,0.27,33.7,Magadan FIR
+Apr,8.23,0.13,16.2,Petropavlovsk-Kamchatsky FIR
+Apr,7.48,0.05,7.26,Irkutsk FIR
+Apr,3.66,0.06,17.2,Kiev FIR
+Apr,1.11,0.07,59.36,Dnipro FIR
+Apr,2.07,0.07,35.57,Simferopol FIR
+Apr,3.6,0.06,18.03,Lvov FIR
+Apr,1.74,0.04,22.38,Odessa FIR
+Apr,2.51,0.07,29.26,Arkhangelsk FIR
+Apr,1.3,0.04,33.95,Kotlas FIR
+Apr,8.63,0.2,22.95,Sankt-Peterburg FIR
+Apr,1.75,0.02,10.94,Murmansk FIR
+Apr,4.76,0.13,27.92,Vologda FIR
+Apr,1.23,0.0,3.34,Kaliningrad FIR
+Apr,10.78,0.03,3.16,Minsk FIR
+Apr,13.17,0.14,10.64,Krasnoyarsk FIR
+Apr,15.3,0.3,19.59,Novosibirsk FIR
+Apr,21.01,0.88,42.0,Rostov-Na-Donu FIR
+Apr,14.96,0.28,18.86,Yekaterinburg FIR
+Apr,11.82,0.14,11.69,Tyumen FIR
+Apr,0.84,0.02,19.84,Ashgabat FIR
+Apr,1.06,0.02,17.71,Turkmenbashi FIR
+Apr,0.49,0.01,21.33,Dashoguz FIR
+Apr,0.81,0.02,25.19,Turkmenabat FIR
+Apr,0.28,0.01,19.54,Dushanbe FIR
+Apr,1.03,0.03,29.98,Samarkand FIR
+Apr,2.67,0.06,22.38,Tashkent FIR
+Apr,46.43,0.91,19.7,Moscow FIR
+Apr,5.23,0.12,22.05,Syktyvkar FIR
+Apr,14.23,0.38,26.93,Samara FIR
+Apr,84.45,0.13,1.55,Mumbai FIR
+Apr,8.0,0.12,14.46,Colombo FIR
+Apr,5.55,0.03,6.06,Phnom Penh FIR
+Apr,33.99,0.01,0.25,Kolkata FIR
+Apr,4.35,0.0,0.13,Dhaka FIR
+Apr,29.63,0.05,1.62,Hong Kong FIR
+Apr,20.32,0.03,1.6,Delhi FIR
+Apr,9.49,0.05,4.83,Vientiane FIR
+Apr,0.9,0.0,0.98,Kathmandu FIR
+Apr,59.97,0.26,4.4,Chennai FIR
+Apr,1.21,0.01,12.33,Male FIR
+Apr,44.85,0.3,6.77,Bangkok FIR
+Apr,37.8,0.25,6.7,Ho Chi Minh FIR
+Apr,13.97,0.02,1.11,Hanoi FIR
+Apr,16.68,0.03,2.09,Yangon FIR
+Apr,37.58,0.44,11.72,U-Jung Pandang FIR
+Apr,7.67,0.07,8.56,Kota Kinabalu FIR
+Apr,43.49,0.34,7.77,Jakarta FIR
+Apr,25.76,0.16,6.09,Kuala Lumpur FIR
+Apr,25.89,0.21,7.95,Singapore FIR
+Apr,54.96,0.3,5.52,Brisbane FIR
+Apr,66.39,0.47,7.05,Melbourne FIR
+Apr,41.38,0.22,5.39,Beijing FIR
+Apr,99.32,0.05,0.45,Guangzhou FIR
+Apr,38.51,0.2,5.3,Wuhan FIR
+Apr,16.41,0.05,3.33,Sanya FIR
+Apr,1.82,0.01,5.1,Pyongyang FIR
+Apr,18.8,0.31,16.46,Lanzhou FIR
+Apr,14.02,0.17,11.77,Ulaanbaatar FIR
+Apr,43.55,0.1,2.3,Kunming FIR
+Apr,138.8,0.32,2.3,Shanghai FIR
+Apr,8.82,0.32,36.17,Urumqi FIR
+Apr,25.59,0.05,2.05,Shenyang FIR
+May,1288.18,15.22,11.82,European Airspace
+May,252.38,4.68,18.55,North Atlantic
+May,755.56,6.68,8.84,Continental Europe
+May,5161.62,46.79,9.06,Global
+May,1337.86,12.7,9.49,USA
+May,696.14,3.0,4.31,East Asia
+May,320.94,3.06,9.55,Southeast Asia
+May,169.73,1.89,11.13,Latin America
+May,531.8,2.86,5.37,Africa & Middle East
+May,732.48,2.58,3.52,China
+May,196.36,0.6,3.03,India
+May,2465.76,31.62,12.82,North Pacific
+May,29.73,0.31,10.43,Arctic
+May,0.28,0.0,14.58,Honiara FIR
+May,0.09,-0.0,-6.1,Nauru FIR
+May,1.74,0.04,21.69,Port Moresby FIR
+May,11.2,0.24,21.33,Nuuk FIR
+May,14.47,0.04,2.44,Reykjavik FIR
+May,34.22,0.41,11.92,Edmonton FIR
+May,16.57,0.43,25.77,Moncton FIR
+May,86.06,0.62,7.21,Gander FIR
+May,31.14,0.39,12.5,Montreal FIR
+May,12.77,0.26,20.69,Vancouver FIR
+May,25.88,0.06,2.36,Winnipeg FIR
+May,25.81,0.37,14.26,Toronto FIR
+May,12.36,0.06,4.66,Alger FIR
+May,169.73,0.05,0.27,Accra FIR
+May,3.77,0.07,18.51,Kano FIR
+May,3.73,0.05,13.62,Niamey FIR
+May,3.11,0.01,2.72,Tunis FIR
+May,15.66,0.15,9.45,Brussels FIR
+May,47.62,0.51,10.72,Langen FIR
+May,30.35,0.37,12.04,Munchen FIR
+May,26.14,0.38,14.62,Bremen FIR
+May,4.76,0.05,11.03,Tallinn FIR
+May,5.18,0.01,2.1,Helsinki FIR
+May,54.85,1.67,30.52,Shanwick FIR
+May,11.42,0.01,0.9,Scottish FIR
+May,66.94,0.26,3.96,London FIR
+May,20.88,0.25,12.16,Amsterdam FIR
+May,15.72,0.09,5.91,Shannon FIR
+May,10.45,0.07,7.04,Copenhagen FIR
+May,0.87,0.0,0.69,Bodo Oceanic FIR
+May,12.41,0.0,0.38,Polaris FIR
+May,30.65,0.43,14.14,Warszawa FIR
+May,23.71,0.1,4.39,Sweden FIR
+May,5.5,0.09,17.23,Riga FIR
+May,4.15,0.07,16.69,Vilnius FIR
+May,2.04,0.04,18.53,Cape Town FIR
+May,6.13,0.02,3.63,Johannesburg FIR
+May,0.71,0.02,29.84,Johannesburg Oceanic FIR
+May,1.68,0.0,0.3,Gaborone FIR
+May,3.19,0.13,39.42,Brazzaville FIR
+May,1.17,0.01,11.39,Mauritius FIR
+May,0.97,0.0,3.25,Lusaka FIR
+May,1.65,0.0,1.63,Antananarivo FIR
+May,2.74,0.04,16.02,Luanda FIR
+May,1.38,0.0,1.68,Beira FIR
+May,1.54,0.02,14.16,Seychelles FIR
+May,2.69,0.08,31.11,N'Djamena FIR
+May,1.2,0.0,0.07,Harare FIR
+May,0.46,0.0,3.93,Lilongwe FIR
+May,0.86,0.0,1.67,Windhoek FIR
+May,2.25,0.17,73.67,Kinshasa FIR
+May,11.99,0.04,3.48,Canarias FIR
+May,0.58,0.02,27.9,Roberts FIR
+May,19.61,0.06,2.94,Casablanca FIR
+May,11.85,0.14,11.77,Dakar FIR
+May,3.97,0.03,8.02,Sal Oceanic FIR
+May,4.0,0.03,7.58,Addis Abeba FIR
+May,0.03,0.0,14.36,Bujumbura FIR
+May,4.03,0.05,12.11,Mogadishu FIR/UIR
+May,20.56,0.09,4.43,Cairo FIR
+May,0.57,0.0,0.24,Asmara FIR
+May,3.13,0.02,5.28,Nairobi FIR
+May,2.54,0.01,5.31,Tripoli FIR
+May,0.04,0.0,21.89,Kigali FIR
+May,4.85,0.02,4.77,Khartoum FIR
+May,2.15,0.02,7.0,Dar-Es-Salaam FIR
+May,0.38,0.01,16.38,Entebbe FIR
+May,72.1,0.28,3.93,Albuquerque FIR
+May,89.08,1.36,15.25,Oakland Oceanic FIR
+May,60.47,0.77,12.77,Chicago FIR
+May,44.4,0.63,14.28,Boston FIR
+May,82.4,0.81,9.88,Washington FIR
+May,87.4,1.01,11.57,Denver FIR
+May,60.68,0.36,5.88,Fort Worth FIR
+May,61.29,0.23,3.82,Houston FIR
+May,56.53,0.97,17.12,Indianapolis FIR
+May,74.58,0.36,4.78,Jacksonville FIR
+May,65.11,0.82,12.65,Kansas City FIR
+May,69.2,0.1,1.46,Los Angeles FIR
+May,62.0,1.39,22.41,Salt Lake City FIR
+May,58.61,0.12,2.05,Miami FIR/UIR
+May,62.37,0.58,9.26,Memphis FIR
+May,67.78,0.98,14.45,Minneapolis FIR
+May,42.41,0.34,8.04,New York FIR
+May,48.54,0.16,3.31,Oakland FIR
+May,49.65,0.9,18.18,Cleveland FIR
+May,40.65,0.47,11.6,Seattle FIR
+May,69.85,0.43,6.14,Atlanta FIR
+May,40.26,1.19,29.63,New York Oceanic FIR
+May,3.5,0.03,8.83,Tirana FIR
+May,18.88,0.21,11.15,Sofia FIR
+May,12.08,0.11,9.22,Nicosia FIR
+May,16.55,0.17,10.57,Zagreb FIR
+May,32.04,0.1,3.09,Barcelona FIR
+May,53.94,0.7,12.99,Madrid FIR
+May,31.42,0.33,10.57,Bordeaux FIR
+May,10.61,0.07,6.99,Reims FIR
+May,47.2,0.35,7.5,Paris FIR
+May,41.76,0.16,3.92,Marseille FIR
+May,29.13,0.44,14.98,Brest FIR
+May,39.52,0.57,14.3,Athinai FIR
+May,17.1,0.22,12.94,Budapest FIR
+May,8.71,0.1,11.27,Brindisi FIR
+May,34.48,0.24,6.97,Milano FIR
+May,30.17,0.21,7.07,Roma FIR
+May,4.46,0.06,12.39,Ljubljana FIR
+May,16.49,0.21,12.43,Praha FIR
+May,1.9,0.0,0.43,Tel-Aviv FIR
+May,4.59,0.02,3.73,Malta FIR
+May,22.71,0.24,10.7,Wien FIR
+May,26.34,0.46,17.38,Lisboa FIR
+May,20.1,0.63,31.38,Santa Maria FIR
+May,8.22,0.07,8.01,Sarajevo FIR
+May,23.7,0.46,19.26,Bucarest FIR
+May,13.06,0.12,8.95,Switzerland FIR
+May,59.24,0.52,8.76,Ankara FIR
+May,30.86,0.27,8.66,Istanbul FIR
+May,0.81,0.02,23.9,Chisinau FIR
+May,3.24,0.02,7.64,Skopje FIR
+May,18.12,0.21,11.37,Beograd FIR
+May,6.43,0.09,13.74,Bratislava  FIR
+May,3.11,0.01,3.37,Santo Domingo FIR
+May,12.77,0.07,5.3,Central America FIR
+May,5.75,0.06,11.02,Kingston FIR
+May,0.16,0.0,2.85,Oceanica Mazatlan FIR
+May,76.14,0.16,2.11,Mexico FIR
+May,8.79,0.06,7.09,Panama FIR
+May,0.61,0.01,8.23,Port-Au-Prince FIR
+May,10.7,0.05,4.38,Habana FIR/UIR
+May,5.42,0.09,16.1,Nadi FIR
+May,1.22,0.01,4.75,Tahiti Oceanic FIR
+May,8.98,0.03,3.87,New Zealand FIR
+May,7.27,0.14,18.75,Auckland Oceanic FIR
+May,2.38,0.01,5.23,Kabul FIR
+May,14.35,0.01,0.47,Bahrain FIR
+May,46.37,0.03,0.59,Jeddah FIR
+May,42.9,0.17,3.85,Tehran FIR
+May,1.56,0.0,1.0,Amman FIR
+May,4.07,0.0,0.98,Kuwait FIR
+May,0.7,0.0,2.78,Beirut FIR
+May,13.61,0.0,0.25,Emirates FIR
+May,29.41,0.0,0.16,Muscat FIR
+May,9.89,0.0,0.37,Karachi FIR
+May,4.22,0.01,1.6,Lahore FIR
+May,17.21,0.08,4.46,Baghdad FIR
+May,2.45,0.02,8.16,Damascus FIR
+May,2.77,0.0,1.72,Sanaa FIR
+May,33.92,0.44,13.04,Alaska FIR
+May,34.77,0.13,3.85,Taipei FIR
+May,156.56,1.14,7.31,Fukuoka FIR
+May,37.33,0.15,4.09,Incheon FIR
+May,45.78,0.44,9.56,Manila FIR
+May,3.87,0.05,12.55,Cordoba FIR
+May,5.34,0.06,11.6,Ezeiza FIR
+May,1.43,0.02,15.01,Mendoza FIR
+May,1.55,0.03,20.03,Resistencia FIR
+May,0.92,0.03,32.58,Comodoro Rivadavia FIR
+May,6.14,0.13,21.0,Atlantico FIR
+May,14.72,0.31,21.08,Amazonica FIR
+May,21.63,0.19,8.8,Brasilia FIR
+May,20.28,0.15,7.59,Curitiba FIR
+May,19.03,0.2,10.56,Recife FIR
+May,0.35,0.01,36.83,Punta Arenas FIR
+May,5.63,0.03,6.02,Santiago FIR
+May,6.33,0.06,8.81,Antofagasta FIR
+May,0.59,0.03,52.01,Isla De Pascua FIR
+May,1.0,0.02,21.32,Puerto Montt FIR
+May,4.42,0.04,10.15,Guayaquil FIR/UIR
+May,1.02,0.01,10.46,Asuncion FIR/UIR
+May,6.82,0.07,10.63,Barranquilla FIR
+May,14.7,0.1,7.02,Bogota FIR
+May,3.48,0.05,14.29,La Paz FIR
+May,0.72,0.01,20.5,Paramaribo FIR
+May,0.52,0.02,36.3,Cayenne FIR
+May,15.27,0.12,7.95,Lima FIR
+May,1.54,0.01,5.84,Montevideo FIR
+May,1.78,0.05,29.04,Maiquetia FIR
+May,1.36,0.03,20.39,Georgetown FIR
+May,6.99,0.1,14.75,San Juan Oceanic FIR/UIR
+May,1.98,0.06,30.44,Curacao FIR
+May,5.35,0.12,22.51,Piarco FIR
+May,4.26,0.05,11.81,Almaty FIR
+May,5.45,0.05,9.15,Nur-Sultan FIR
+May,4.94,0.07,14.53,Shymkent FIR
+May,7.28,0.21,28.63,Aktobe FIR
+May,3.83,0.07,18.02,Baku FIR
+May,0.43,0.01,23.25,Bishkek FIR
+May,0.35,0.01,24.07,Osh FIR
+May,0.73,0.01,13.35,Yerevan FIR
+May,8.54,0.03,3.7,Yakutsk FIR
+May,2.23,0.03,14.78,Tibilisi FIR
+May,12.77,0.12,9.17,Khabarovsk FIR
+May,8.21,0.07,8.85,Magadan FIR
+May,8.8,0.14,15.42,Petropavlovsk-Kamchatsky FIR
+May,7.38,0.03,3.99,Irkutsk FIR
+May,4.51,0.1,23.19,Kiev FIR
+May,1.6,0.05,28.48,Dnipro FIR
+May,2.82,0.03,10.33,Simferopol FIR
+May,4.36,0.13,29.62,Lvov FIR
+May,2.32,0.04,17.58,Odessa FIR
+May,2.64,0.04,15.94,Arkhangelsk FIR
+May,1.35,0.02,17.08,Kotlas FIR
+May,9.21,0.22,23.76,Sankt-Peterburg FIR
+May,1.36,0.01,3.99,Murmansk FIR
+May,5.02,0.15,30.02,Vologda FIR
+May,1.31,0.01,8.86,Kaliningrad FIR
+May,11.64,0.35,29.73,Minsk FIR
+May,13.0,0.1,7.41,Krasnoyarsk FIR
+May,15.74,0.12,7.69,Novosibirsk FIR
+May,26.46,0.61,22.88,Rostov-Na-Donu FIR
+May,15.76,0.42,26.61,Yekaterinburg FIR
+May,12.4,0.22,17.85,Tyumen FIR
+May,0.9,0.02,24.21,Ashgabat FIR
+May,1.16,0.03,28.49,Turkmenbashi FIR
+May,0.49,0.02,32.03,Dashoguz FIR
+May,0.85,0.01,16.38,Turkmenabat FIR
+May,0.3,0.0,9.02,Dushanbe FIR
+May,1.07,0.01,12.23,Samarkand FIR
+May,2.82,0.06,21.92,Tashkent FIR
+May,50.31,1.56,30.92,Moscow FIR
+May,5.55,0.15,27.21,Syktyvkar FIR
+May,15.68,0.45,29.02,Samara FIR
+May,83.96,0.07,0.8,Mumbai FIR
+May,7.45,0.13,17.71,Colombo FIR
+May,5.79,0.04,6.29,Phnom Penh FIR
+May,33.44,0.03,0.94,Kolkata FIR
+May,4.26,0.0,0.4,Dhaka FIR
+May,28.89,0.16,5.4,Hong Kong FIR
+May,21.35,0.0,0.1,Delhi FIR
+May,9.45,0.06,6.21,Vientiane FIR
+May,0.89,0.0,0.02,Kathmandu FIR
+May,58.97,0.44,7.39,Chennai FIR
+May,1.08,0.02,14.26,Male FIR
+May,43.51,0.31,7.03,Bangkok FIR
+May,37.35,0.36,9.7,Ho Chi Minh FIR
+May,14.17,0.02,1.12,Hanoi FIR
+May,15.44,0.14,8.95,Yangon FIR
+May,34.71,0.38,10.89,U-Jung Pandang FIR
+May,7.46,0.07,9.11,Kota Kinabalu FIR
+May,40.71,0.54,13.33,Jakarta FIR
+May,25.06,0.14,5.57,Kuala Lumpur FIR
+May,24.98,0.19,7.54,Singapore FIR
+May,51.09,0.25,4.94,Brisbane FIR
+May,62.78,0.24,3.87,Melbourne FIR
+May,37.98,0.26,6.93,Beijing FIR
+May,96.16,0.08,0.83,Guangzhou FIR
+May,33.94,0.08,2.47,Wuhan FIR
+May,16.57,0.11,6.54,Sanya FIR
+May,1.99,0.0,2.46,Pyongyang FIR
+May,18.05,0.12,6.49,Lanzhou FIR
+May,13.72,0.17,12.26,Ulaanbaatar FIR
+May,43.62,0.02,0.42,Kunming FIR
+May,137.59,0.16,1.2,Shanghai FIR
+May,8.22,0.11,13.92,Urumqi FIR
+May,23.85,0.39,16.46,Shenyang FIR
+Jun,1374.76,8.32,6.05,European Airspace
+Jun,260.68,6.06,23.26,North Atlantic
+Jun,797.53,4.51,5.65,Continental Europe
+Jun,5204.7,39.27,7.55,Global
+Jun,1341.34,10.18,7.59,USA
+Jun,651.92,2.18,3.35,East Asia
+Jun,312.1,3.04,9.74,Southeast Asia
+Jun,164.34,1.65,10.05,Latin America
+Jun,567.35,1.31,2.31,Africa & Middle East
+Jun,689.08,2.27,3.29,China
+Jun,189.37,1.03,5.42,India
+Jun,2559.19,24.05,9.4,North Pacific
+Jun,29.5,0.14,4.9,Arctic
+Jun,0.27,0.0,12.41,Honiara FIR
+Jun,0.09,0.0,0.35,Nauru FIR
+Jun,1.65,0.03,15.47,Port Moresby FIR
+Jun,12.58,0.18,14.2,Nuuk FIR
+Jun,16.35,0.01,0.77,Reykjavik FIR
+Jun,35.89,0.42,11.71,Edmonton FIR
+Jun,17.74,0.77,43.14,Moncton FIR
+Jun,89.47,3.06,34.24,Gander FIR
+Jun,32.76,0.35,10.68,Montreal FIR
+Jun,14.75,0.2,13.62,Vancouver FIR
+Jun,27.55,0.43,15.45,Winnipeg FIR
+Jun,26.61,0.28,10.57,Toronto FIR
+Jun,12.98,0.03,2.06,Alger FIR
+Jun,176.24,0.03,0.18,Accra FIR
+Jun,3.85,0.05,12.02,Kano FIR
+Jun,3.69,0.05,14.64,Niamey FIR
+Jun,3.66,0.01,2.21,Tunis FIR
+Jun,15.75,0.15,9.49,Brussels FIR
+Jun,47.59,0.25,5.23,Langen FIR
+Jun,30.5,0.14,4.45,Munchen FIR
+Jun,27.03,0.3,10.95,Bremen FIR
+Jun,4.9,0.03,6.44,Tallinn FIR
+Jun,5.18,0.01,2.45,Helsinki FIR
+Jun,56.65,0.65,11.41,Shanwick FIR
+Jun,13.13,-0.01,-0.59,Scottish FIR
+Jun,68.0,-0.23,-3.34,London FIR
+Jun,20.95,0.17,8.2,Amsterdam FIR
+Jun,15.37,0.03,2.06,Shannon FIR
+Jun,11.34,0.06,5.58,Copenhagen FIR
+Jun,0.92,0.0,0.01,Bodo Oceanic FIR
+Jun,13.24,0.02,1.2,Polaris FIR
+Jun,33.53,0.47,14.03,Warszawa FIR
+Jun,24.39,0.09,3.64,Sweden FIR
+Jun,5.46,0.04,7.89,Riga FIR
+Jun,4.31,0.05,12.65,Vilnius FIR
+Jun,2.25,0.01,4.52,Cape Town FIR
+Jun,5.99,0.01,1.41,Johannesburg FIR
+Jun,0.69,0.02,27.66,Johannesburg Oceanic FIR
+Jun,1.64,0.0,1.65,Gaborone FIR
+Jun,3.12,0.11,34.66,Brazzaville FIR
+Jun,1.22,0.02,17.11,Mauritius FIR
+Jun,1.0,0.0,0.49,Lusaka FIR
+Jun,1.7,0.0,1.48,Antananarivo FIR
+Jun,2.57,0.0,0.56,Luanda FIR
+Jun,1.43,0.0,0.15,Beira FIR
+Jun,1.57,0.07,46.97,Seychelles FIR
+Jun,2.73,0.05,16.62,N'Djamena FIR
+Jun,1.22,0.0,0.36,Harare FIR
+Jun,0.47,0.0,0.25,Lilongwe FIR
+Jun,0.81,0.0,4.34,Windhoek FIR
+Jun,2.27,0.07,29.06,Kinshasa FIR
+Jun,11.78,0.01,0.59,Canarias FIR
+Jun,0.59,0.02,33.31,Roberts FIR
+Jun,20.32,0.03,1.28,Casablanca FIR
+Jun,11.67,0.18,15.04,Dakar FIR
+Jun,3.92,0.02,4.34,Sal Oceanic FIR
+Jun,5.1,0.06,12.72,Addis Abeba FIR
+Jun,0.03,0.0,10.3,Bujumbura FIR
+Jun,4.58,0.14,29.99,Mogadishu FIR/UIR
+Jun,23.01,0.0,0.13,Cairo FIR
+Jun,0.61,0.0,2.07,Asmara FIR
+Jun,3.5,0.04,11.75,Nairobi FIR
+Jun,2.27,0.0,0.23,Tripoli FIR
+Jun,0.05,0.0,12.45,Kigali FIR
+Jun,5.58,0.05,8.59,Khartoum FIR
+Jun,2.44,0.01,4.63,Dar-Es-Salaam FIR
+Jun,0.44,0.01,15.83,Entebbe FIR
+Jun,69.47,0.2,2.9,Albuquerque FIR
+Jun,90.04,1.7,18.92,Oakland Oceanic FIR
+Jun,63.32,0.73,11.47,Chicago FIR
+Jun,46.73,0.91,19.39,Boston FIR
+Jun,78.77,0.54,6.8,Washington FIR
+Jun,89.87,0.73,8.15,Denver FIR
+Jun,60.25,0.15,2.48,Fort Worth FIR
+Jun,59.6,0.07,1.16,Houston FIR
+Jun,56.9,0.55,9.72,Indianapolis FIR
+Jun,70.37,0.46,6.57,Jacksonville FIR
+Jun,67.5,0.66,9.74,Kansas City FIR
+Jun,67.92,0.18,2.67,Los Angeles FIR
+Jun,65.36,1.02,15.56,Salt Lake City FIR
+Jun,56.74,0.22,3.88,Miami FIR/UIR
+Jun,60.85,0.3,5.01,Memphis FIR
+Jun,70.84,0.81,11.37,Minneapolis FIR
+Jun,42.39,0.31,7.32,New York FIR
+Jun,48.88,0.25,5.2,Oakland FIR
+Jun,52.23,0.61,11.64,Cleveland FIR
+Jun,42.39,0.26,6.07,Seattle FIR
+Jun,67.46,0.27,4.04,Atlanta FIR
+Jun,40.38,1.13,27.98,New York Oceanic FIR
+Jun,4.15,0.02,5.73,Tirana FIR
+Jun,21.77,0.13,6.18,Sofia FIR
+Jun,13.07,0.02,1.29,Nicosia FIR
+Jun,19.1,0.15,7.8,Zagreb FIR
+Jun,35.85,0.04,1.23,Barcelona FIR
+Jun,56.6,0.38,6.72,Madrid FIR
+Jun,33.41,0.28,8.23,Bordeaux FIR
+Jun,11.03,0.06,5.78,Reims FIR
+Jun,49.09,0.39,7.9,Paris FIR
+Jun,44.63,0.15,3.39,Marseille FIR
+Jun,29.82,0.37,12.5,Brest FIR
+Jun,47.11,0.07,1.38,Athinai FIR
+Jun,19.15,0.27,14.2,Budapest FIR
+Jun,11.32,0.02,1.64,Brindisi FIR
+Jun,38.42,0.02,0.64,Milano FIR
+Jun,33.32,0.07,2.22,Roma FIR
+Jun,4.46,0.03,6.66,Ljubljana FIR
+Jun,17.56,0.25,14.17,Praha FIR
+Jun,2.01,-0.0,-0.0,Tel-Aviv FIR
+Jun,5.0,0.0,0.2,Malta FIR
+Jun,23.14,0.22,9.64,Wien FIR
+Jun,26.34,0.27,10.09,Lisboa FIR
+Jun,20.21,0.21,10.48,Santa Maria FIR
+Jun,8.55,0.14,16.44,Sarajevo FIR
+Jun,28.32,0.28,9.81,Bucarest FIR
+Jun,13.73,0.05,3.8,Switzerland FIR
+Jun,63.07,0.15,2.44,Ankara FIR
+Jun,35.09,0.06,1.6,Istanbul FIR
+Jun,0.92,0.01,12.92,Chisinau FIR
+Jun,3.58,0.03,8.32,Skopje FIR
+Jun,20.23,0.22,10.87,Beograd FIR
+Jun,7.68,0.17,21.67,Bratislava  FIR
+Jun,3.15,0.0,1.3,Santo Domingo FIR
+Jun,12.82,0.06,4.91,Central America FIR
+Jun,5.62,0.05,8.77,Kingston FIR
+Jun,0.17,0.0,8.01,Oceanica Mazatlan FIR
+Jun,73.43,0.17,2.3,Mexico FIR
+Jun,8.37,0.05,5.5,Panama FIR
+Jun,0.63,0.0,3.25,Port-Au-Prince FIR
+Jun,10.52,0.06,6.12,Habana FIR/UIR
+Jun,5.36,0.09,16.42,Nadi FIR
+Jun,1.37,0.01,6.56,Tahiti Oceanic FIR
+Jun,8.49,0.03,3.85,New Zealand FIR
+Jun,7.23,0.16,22.02,Auckland Oceanic FIR
+Jun,1.71,-0.0,-0.0,Kabul FIR
+Jun,16.31,0.0,0.11,Bahrain FIR
+Jun,47.75,0.02,0.39,Jeddah FIR
+Jun,39.48,0.01,0.16,Tehran FIR
+Jun,1.8,0.0,0.04,Amman FIR
+Jun,4.93,0.0,0.0,Kuwait FIR
+Jun,0.85,0.0,0.53,Beirut FIR
+Jun,14.47,0.0,0.06,Emirates FIR
+Jun,28.57,0.03,1.21,Muscat FIR
+Jun,13.02,0.0,0.03,Karachi FIR
+Jun,3.7,0.0,0.01,Lahore FIR
+Jun,19.07,0.0,0.11,Baghdad FIR
+Jun,3.22,0.0,1.38,Damascus FIR
+Jun,2.97,0.05,16.16,Sanaa FIR
+Jun,34.04,0.73,21.45,Alaska FIR
+Jun,33.37,0.18,5.29,Taipei FIR
+Jun,146.89,1.21,8.22,Fukuoka FIR
+Jun,35.26,0.06,1.62,Incheon FIR
+Jun,42.19,0.31,7.36,Manila FIR
+Jun,3.89,0.12,30.22,Cordoba FIR
+Jun,5.16,0.09,17.29,Ezeiza FIR
+Jun,1.38,0.02,13.53,Mendoza FIR
+Jun,1.55,0.07,48.16,Resistencia FIR
+Jun,0.82,0.01,13.88,Comodoro Rivadavia FIR
+Jun,5.98,0.07,11.33,Atlantico FIR
+Jun,13.98,0.24,16.87,Amazonica FIR
+Jun,20.61,0.04,2.06,Brasilia FIR
+Jun,19.52,0.19,9.81,Curitiba FIR
+Jun,18.59,0.08,4.32,Recife FIR
+Jun,0.33,0.01,40.22,Punta Arenas FIR
+Jun,5.29,0.02,2.91,Santiago FIR
+Jun,5.89,0.05,8.08,Antofagasta FIR
+Jun,0.57,0.04,70.5,Isla De Pascua FIR
+Jun,0.92,0.01,12.26,Puerto Montt FIR
+Jun,4.35,0.01,1.69,Guayaquil FIR/UIR
+Jun,1.08,0.02,16.97,Asuncion FIR/UIR
+Jun,6.79,0.1,14.74,Barranquilla FIR
+Jun,14.96,0.09,6.19,Bogota FIR
+Jun,3.33,0.05,13.88,La Paz FIR
+Jun,0.69,0.02,28.61,Paramaribo FIR
+Jun,0.52,0.01,19.89,Cayenne FIR
+Jun,14.66,0.04,2.53,Lima FIR
+Jun,1.55,0.05,29.78,Montevideo FIR
+Jun,1.7,0.06,35.79,Maiquetia FIR
+Jun,1.26,0.05,36.9,Georgetown FIR
+Jun,7.42,0.05,6.48,San Juan Oceanic FIR/UIR
+Jun,1.94,0.05,23.43,Curacao FIR
+Jun,5.34,0.18,33.27,Piarco FIR
+Jun,3.56,0.07,18.82,Almaty FIR
+Jun,5.38,0.05,9.31,Nur-Sultan FIR
+Jun,4.24,0.04,9.76,Shymkent FIR
+Jun,6.67,0.1,14.64,Aktobe FIR
+Jun,3.63,0.02,5.95,Baku FIR
+Jun,0.48,0.01,29.41,Bishkek FIR
+Jun,0.35,0.0,12.34,Osh FIR
+Jun,0.78,0.0,5.62,Yerevan FIR
+Jun,8.77,-0.02,-1.87,Yakutsk FIR
+Jun,2.34,0.02,8.18,Tibilisi FIR
+Jun,13.32,0.22,16.69,Khabarovsk FIR
+Jun,8.22,0.11,13.22,Magadan FIR
+Jun,7.97,0.2,24.49,Petropavlovsk-Kamchatsky FIR
+Jun,7.0,0.07,10.2,Irkutsk FIR
+Jun,4.92,0.03,6.98,Kiev FIR
+Jun,1.4,0.02,16.76,Dnipro FIR
+Jun,2.62,0.01,2.71,Simferopol FIR
+Jun,4.77,0.09,19.36,Lvov FIR
+Jun,2.43,0.02,8.22,Odessa FIR
+Jun,2.61,0.01,3.94,Arkhangelsk FIR
+Jun,1.32,0.01,5.46,Kotlas FIR
+Jun,9.38,0.09,9.97,Sankt-Peterburg FIR
+Jun,1.04,0.0,2.22,Murmansk FIR
+Jun,5.12,0.1,18.83,Vologda FIR
+Jun,1.23,0.02,14.22,Kaliningrad FIR
+Jun,12.89,0.21,16.09,Minsk FIR
+Jun,12.48,0.1,8.26,Krasnoyarsk FIR
+Jun,16.45,0.12,7.23,Novosibirsk FIR
+Jun,29.36,0.44,14.99,Rostov-Na-Donu FIR
+Jun,17.05,0.15,8.61,Yekaterinburg FIR
+Jun,12.63,0.05,3.57,Tyumen FIR
+Jun,0.78,0.0,0.18,Ashgabat FIR
+Jun,1.01,0.0,2.87,Turkmenbashi FIR
+Jun,0.43,0.0,3.1,Dashoguz FIR
+Jun,0.73,0.0,0.17,Turkmenabat FIR
+Jun,0.23,0.0,2.18,Dushanbe FIR
+Jun,0.97,0.0,1.25,Samarkand FIR
+Jun,2.7,0.01,4.55,Tashkent FIR
+Jun,51.05,0.61,11.88,Moscow FIR
+Jun,5.4,0.03,5.21,Syktyvkar FIR
+Jun,17.61,0.26,14.92,Samara FIR
+Jun,80.33,0.26,3.23,Mumbai FIR
+Jun,7.42,0.37,49.37,Colombo FIR
+Jun,5.3,0.03,5.39,Phnom Penh FIR
+Jun,32.59,0.08,2.54,Kolkata FIR
+Jun,4.17,0.01,2.41,Dhaka FIR
+Jun,27.85,0.07,2.35,Hong Kong FIR
+Jun,20.43,0.0,0.03,Delhi FIR
+Jun,8.72,0.05,5.9,Vientiane FIR
+Jun,0.73,0.0,0.01,Kathmandu FIR
+Jun,55.88,0.72,12.88,Chennai FIR
+Jun,1.1,0.03,26.05,Male FIR
+Jun,40.96,0.23,5.5,Bangkok FIR
+Jun,36.42,0.44,12.08,Ho Chi Minh FIR
+Jun,13.89,0.02,1.44,Hanoi FIR
+Jun,14.01,0.12,8.25,Yangon FIR
+Jun,34.02,0.23,6.85,U-Jung Pandang FIR
+Jun,7.57,0.08,10.77,Kota Kinabalu FIR
+Jun,43.09,0.54,12.49,Jakarta FIR
+Jun,25.33,0.22,8.49,Kuala Lumpur FIR
+Jun,24.51,0.41,16.8,Singapore FIR
+Jun,50.48,0.1,1.98,Brisbane FIR
+Jun,61.04,0.24,3.93,Melbourne FIR
+Jun,29.04,0.11,3.65,Beijing FIR
+Jun,90.0,0.08,0.88,Guangzhou FIR
+Jun,30.74,0.04,1.41,Wuhan FIR
+Jun,15.43,0.04,2.44,Sanya FIR
+Jun,1.84,0.01,6.11,Pyongyang FIR
+Jun,16.13,0.06,3.55,Lanzhou FIR
+Jun,13.21,0.19,14.33,Ulaanbaatar FIR
+Jun,40.31,0.03,0.76,Kunming FIR
+Jun,134.27,0.1,0.75,Shanghai FIR
+Jun,7.6,0.15,19.24,Urumqi FIR
+Jun,23.74,0.21,8.73,Shenyang FIR
+Jul,5550.32,34.23,6.17,Global
+Jul,611.81,1.42,2.31,Africa & Middle East
+Jul,177.98,0.07,0.42,Accra FIR
+Jul,1487.37,8.32,5.6,European Airspace
+Jul,275.98,5.69,20.61,North Atlantic
+Jul,859.07,5.31,6.18,Continental Europe
+Jul,1419.03,4.26,3.0,USA
+Jul,662.19,1.83,2.77,East Asia
+Jul,329.77,3.61,10.94,Southeast Asia
+Jul,187.14,1.36,7.28,Latin America
+Jul,705.54,1.99,2.82,China
+Jul,206.91,1.51,7.32,India
+Jul,2746.31,17.35,6.32,North Pacific
+Jul,31.87,0.32,10.0,Arctic
+Jul,0.31,0.01,16.91,Honiara FIR
+Jul,0.11,0.0,2.18,Nauru FIR
+Jul,1.88,0.06,30.05,Port Moresby FIR
+Jul,13.33,0.32,23.76,Nuuk FIR
+Jul,17.49,0.2,11.41,Reykjavik FIR
+Jul,38.42,0.56,14.57,Edmonton FIR
+Jul,19.16,0.39,20.28,Moncton FIR
+Jul,93.99,2.59,27.58,Gander FIR
+Jul,35.18,0.49,13.91,Montreal FIR
+Jul,16.79,0.22,13.4,Vancouver FIR
+Jul,30.1,0.27,9.05,Winnipeg FIR
+Jul,28.99,0.12,4.12,Toronto FIR
+Jul,14.16,0.0,0.06,Alger FIR
+Jul,4.4,0.11,25.61,Kano FIR
+Jul,4.35,0.07,17.08,Niamey FIR
+Jul,4.12,0.0,0.02,Tunis FIR
+Jul,16.71,0.15,8.88,Brussels FIR
+Jul,50.49,0.49,9.67,Langen FIR
+Jul,32.86,0.27,8.18,Munchen FIR
+Jul,28.06,0.16,5.6,Bremen FIR
+Jul,5.02,0.01,2.64,Tallinn FIR
+Jul,5.06,0.01,2.18,Helsinki FIR
+Jul,59.73,1.34,22.44,Shanwick FIR
+Jul,14.18,0.11,7.78,Scottish FIR
+Jul,71.2,0.36,5.13,London FIR
+Jul,21.83,0.14,6.25,Amsterdam FIR
+Jul,15.84,0.19,12.08,Shannon FIR
+Jul,11.86,0.04,3.42,Copenhagen FIR
+Jul,0.92,0.0,2.43,Bodo Oceanic FIR
+Jul,13.71,0.03,2.53,Polaris FIR
+Jul,36.77,0.27,7.41,Warszawa FIR
+Jul,24.37,0.11,4.54,Sweden FIR
+Jul,5.78,0.02,3.36,Riga FIR
+Jul,4.6,0.02,3.59,Vilnius FIR
+Jul,2.26,0.0,1.62,Cape Town FIR
+Jul,6.37,0.0,0.05,Johannesburg FIR
+Jul,0.82,0.01,14.33,Johannesburg Oceanic FIR
+Jul,1.81,0.0,0.0,Gaborone FIR
+Jul,3.31,0.23,68.87,Brazzaville FIR
+Jul,1.42,0.01,7.89,Mauritius FIR
+Jul,1.09,0.0,0.03,Lusaka FIR
+Jul,2.04,0.0,0.68,Antananarivo FIR
+Jul,2.73,0.01,4.24,Luanda FIR
+Jul,1.53,-0.0,-0.0,Beira FIR
+Jul,1.88,0.16,82.88,Seychelles FIR
+Jul,3.33,0.11,32.1,N'Djamena FIR
+Jul,1.28,0.0,0.0,Harare FIR
+Jul,0.5,0.0,0.0,Lilongwe FIR
+Jul,0.83,0.0,0.0,Windhoek FIR
+Jul,2.37,0.11,48.38,Kinshasa FIR
+Jul,12.85,0.0,0.0,Canarias FIR
+Jul,0.59,0.02,36.62,Roberts FIR
+Jul,22.19,0.0,0.04,Casablanca FIR
+Jul,12.6,0.17,13.39,Dakar FIR
+Jul,4.38,0.02,3.46,Sal Oceanic FIR
+Jul,5.9,0.15,25.17,Addis Abeba FIR
+Jul,0.03,0.0,3.22,Bujumbura FIR
+Jul,5.08,0.27,53.53,Mogadishu FIR/UIR
+Jul,24.15,0.0,0.04,Cairo FIR
+Jul,0.69,0.0,3.77,Asmara FIR
+Jul,4.02,0.05,13.58,Nairobi FIR
+Jul,2.49,0.0,0.01,Tripoli FIR
+Jul,0.05,0.0,7.99,Kigali FIR
+Jul,6.34,0.08,12.49,Khartoum FIR
+Jul,2.95,0.01,1.99,Dar-Es-Salaam FIR
+Jul,0.49,0.01,10.84,Entebbe FIR
+Jul,72.16,0.25,3.46,Albuquerque FIR
+Jul,94.68,1.62,17.12,Oakland Oceanic FIR
+Jul,68.34,0.11,1.59,Chicago FIR
+Jul,52.08,0.39,7.41,Boston FIR
+Jul,80.97,0.17,2.05,Washington FIR
+Jul,94.63,0.27,2.81,Denver FIR
+Jul,62.86,0.08,1.2,Fort Worth FIR
+Jul,59.97,0.13,2.22,Houston FIR
+Jul,61.46,0.13,2.05,Indianapolis FIR
+Jul,73.84,0.32,4.33,Jacksonville FIR
+Jul,73.2,0.16,2.16,Kansas City FIR
+Jul,70.75,0.06,0.91,Los Angeles FIR
+Jul,71.01,0.33,4.69,Salt Lake City FIR
+Jul,58.96,0.12,2.0,Miami FIR/UIR
+Jul,63.55,0.19,3.03,Memphis FIR
+Jul,75.9,0.23,3.02,Minneapolis FIR
+Jul,44.0,0.13,3.06,New York FIR
+Jul,51.9,0.1,1.92,Oakland FIR
+Jul,54.26,0.2,3.75,Cleveland FIR
+Jul,45.36,0.13,2.91,Seattle FIR
+Jul,70.55,0.19,2.76,Atlanta FIR
+Jul,45.26,0.54,11.96,New York Oceanic FIR
+Jul,4.6,0.01,1.58,Tirana FIR
+Jul,24.51,0.04,1.46,Sofia FIR
+Jul,15.17,0.0,0.0,Nicosia FIR
+Jul,20.73,0.17,8.32,Zagreb FIR
+Jul,39.82,0.01,0.15,Barcelona FIR
+Jul,60.0,0.15,2.48,Madrid FIR
+Jul,35.94,0.28,7.8,Bordeaux FIR
+Jul,11.43,0.19,16.69,Reims FIR
+Jul,52.36,0.53,10.07,Paris FIR
+Jul,48.47,0.19,3.87,Marseille FIR
+Jul,31.7,0.38,12.06,Brest FIR
+Jul,53.87,0.03,0.55,Athinai FIR
+Jul,21.32,0.16,7.64,Budapest FIR
+Jul,14.3,0.0,0.32,Brindisi FIR
+Jul,42.22,0.18,4.33,Milano FIR
+Jul,37.75,0.03,0.77,Roma FIR
+Jul,4.91,0.06,12.89,Ljubljana FIR
+Jul,19.51,0.17,8.94,Praha FIR
+Jul,2.3,0.0,0.0,Tel-Aviv FIR
+Jul,5.39,0.0,0.0,Malta FIR
+Jul,24.74,0.25,10.0,Wien FIR
+Jul,28.59,0.0,0.07,Lisboa FIR
+Jul,24.21,0.21,8.87,Santa Maria FIR
+Jul,9.58,0.08,8.06,Sarajevo FIR
+Jul,32.03,0.13,3.99,Bucarest FIR
+Jul,14.46,0.17,11.56,Switzerland FIR
+Jul,67.5,0.02,0.31,Ankara FIR
+Jul,38.64,0.02,0.56,Istanbul FIR
+Jul,1.0,0.0,2.97,Chisinau FIR
+Jul,3.96,0.01,3.06,Skopje FIR
+Jul,22.77,0.09,4.09,Beograd FIR
+Jul,8.79,0.08,9.56,Bratislava  FIR
+Jul,3.37,0.01,1.96,Santo Domingo FIR
+Jul,13.62,0.1,7.48,Central America FIR
+Jul,6.06,0.05,7.63,Kingston FIR
+Jul,0.18,0.0,11.26,Oceanica Mazatlan FIR
+Jul,78.99,0.29,3.66,Mexico FIR
+Jul,8.92,0.11,12.39,Panama FIR
+Jul,0.65,0.0,4.54,Port-Au-Prince FIR
+Jul,11.33,0.04,3.77,Habana FIR/UIR
+Jul,5.65,0.08,14.76,Nadi FIR
+Jul,1.55,0.0,3.12,Tahiti Oceanic FIR
+Jul,9.78,0.16,16.61,New Zealand FIR
+Jul,8.23,0.21,25.43,Auckland Oceanic FIR
+Jul,3.57,0.0,0.0,Kabul FIR
+Jul,17.46,0.0,0.0,Bahrain FIR
+Jul,54.73,0.01,0.22,Jeddah FIR
+Jul,39.76,0.0,0.02,Tehran FIR
+Jul,2.05,0.0,0.0,Amman FIR
+Jul,5.35,0.0,0.0,Kuwait FIR
+Jul,0.97,0.0,0.0,Beirut FIR
+Jul,15.44,0.0,0.12,Emirates FIR
+Jul,30.87,0.06,1.9,Muscat FIR
+Jul,17.4,0.01,0.48,Karachi FIR
+Jul,4.67,0.0,0.07,Lahore FIR
+Jul,21.26,0.0,0.0,Baghdad FIR
+Jul,3.41,0.0,0.0,Damascus FIR
+Jul,3.56,0.06,17.76,Sanaa FIR
+Jul,36.7,1.13,30.77,Alaska FIR
+Jul,34.75,0.15,4.33,Taipei FIR
+Jul,156.06,0.86,5.49,Fukuoka FIR
+Jul,36.57,0.08,2.3,Incheon FIR
+Jul,44.57,0.38,8.42,Manila FIR
+Jul,4.29,0.09,21.86,Cordoba FIR
+Jul,6.66,0.09,13.0,Ezeiza FIR
+Jul,1.6,0.02,10.18,Mendoza FIR
+Jul,1.8,0.04,21.93,Resistencia FIR
+Jul,1.13,0.03,22.25,Comodoro Rivadavia FIR
+Jul,6.13,0.06,9.67,Atlantico FIR
+Jul,15.35,0.1,6.82,Amazonica FIR
+Jul,24.01,0.08,3.3,Brasilia FIR
+Jul,22.47,0.17,7.73,Curitiba FIR
+Jul,23.37,0.04,1.87,Recife FIR
+Jul,0.41,0.01,36.8,Punta Arenas FIR
+Jul,6.38,0.03,4.81,Santiago FIR
+Jul,6.93,0.04,5.47,Antofagasta FIR
+Jul,0.58,0.02,40.9,Isla De Pascua FIR
+Jul,1.13,0.02,17.81,Puerto Montt FIR
+Jul,4.61,0.02,3.97,Guayaquil FIR/UIR
+Jul,1.22,0.01,5.04,Asuncion FIR/UIR
+Jul,7.19,0.07,9.8,Barranquilla FIR
+Jul,15.78,0.13,8.01,Bogota FIR
+Jul,3.63,0.01,1.83,La Paz FIR
+Jul,0.77,0.01,12.15,Paramaribo FIR
+Jul,0.61,0.01,16.55,Cayenne FIR
+Jul,16.11,0.02,1.3,Lima FIR
+Jul,1.74,0.04,20.44,Montevideo FIR
+Jul,1.85,0.05,26.56,Maiquetia FIR
+Jul,1.34,0.02,17.93,Georgetown FIR
+Jul,8.03,0.07,8.42,San Juan Oceanic FIR/UIR
+Jul,2.13,0.03,13.65,Curacao FIR
+Jul,5.94,0.1,16.83,Piarco FIR
+Jul,4.77,0.01,1.36,Almaty FIR
+Jul,6.41,0.03,3.94,Nur-Sultan FIR
+Jul,5.26,0.0,0.19,Shymkent FIR
+Jul,8.32,0.03,4.01,Aktobe FIR
+Jul,4.7,0.0,0.0,Baku FIR
+Jul,0.42,0.0,0.0,Bishkek FIR
+Jul,0.36,0.0,0.0,Osh FIR
+Jul,1.02,0.0,0.0,Yerevan FIR
+Jul,9.05,0.03,3.52,Yakutsk FIR
+Jul,2.78,0.0,0.0,Tibilisi FIR
+Jul,13.39,0.26,19.74,Khabarovsk FIR
+Jul,7.98,0.2,25.14,Magadan FIR
+Jul,8.34,0.25,29.86,Petropavlovsk-Kamchatsky FIR
+Jul,7.9,0.16,19.65,Irkutsk FIR
+Jul,5.1,0.03,5.24,Kiev FIR
+Jul,1.49,0.02,15.16,Dnipro FIR
+Jul,2.97,0.01,1.89,Simferopol FIR
+Jul,5.21,0.02,4.33,Lvov FIR
+Jul,2.55,0.01,3.57,Odessa FIR
+Jul,2.57,0.04,14.76,Arkhangelsk FIR
+Jul,1.41,0.01,4.16,Kotlas FIR
+Jul,9.46,0.05,4.97,Sankt-Peterburg FIR
+Jul,1.24,0.01,4.61,Murmansk FIR
+Jul,5.23,0.03,5.05,Vologda FIR
+Jul,1.35,0.0,3.3,Kaliningrad FIR
+Jul,13.69,0.05,3.38,Minsk FIR
+Jul,13.57,0.16,11.66,Krasnoyarsk FIR
+Jul,17.81,0.1,5.85,Novosibirsk FIR
+Jul,31.0,0.14,4.43,Rostov-Na-Donu FIR
+Jul,18.07,0.18,10.0,Yekaterinburg FIR
+Jul,12.88,0.19,14.85,Tyumen FIR
+Jul,1.43,0.0,0.0,Ashgabat FIR
+Jul,1.64,0.0,0.0,Turkmenbashi FIR
+Jul,0.5,0.0,0.0,Dashoguz FIR
+Jul,1.04,0.0,0.0,Turkmenabat FIR
+Jul,0.29,0.0,0.0,Dushanbe FIR
+Jul,1.33,0.0,0.0,Samarkand FIR
+Jul,3.01,0.0,0.06,Tashkent FIR
+Jul,55.07,0.51,9.25,Moscow FIR
+Jul,5.67,0.07,12.85,Syktyvkar FIR
+Jul,19.56,0.25,12.68,Samara FIR
+Jul,82.18,0.57,6.94,Mumbai FIR
+Jul,8.18,0.32,38.88,Colombo FIR
+Jul,5.87,0.03,4.35,Phnom Penh FIR
+Jul,36.74,0.14,3.74,Kolkata FIR
+Jul,4.58,0.01,3.06,Dhaka FIR
+Jul,29.58,0.13,4.38,Hong Kong FIR
+Jul,25.07,0.01,0.27,Delhi FIR
+Jul,9.47,0.06,6.58,Vientiane FIR
+Jul,0.82,0.0,0.08,Kathmandu FIR
+Jul,57.83,0.93,16.09,Chennai FIR
+Jul,1.17,0.03,28.88,Male FIR
+Jul,43.36,0.26,5.96,Bangkok FIR
+Jul,37.41,0.41,10.94,Ho Chi Minh FIR
+Jul,14.68,0.03,1.95,Hanoi FIR
+Jul,15.52,0.19,12.13,Yangon FIR
+Jul,35.63,0.46,12.93,U-Jung Pandang FIR
+Jul,7.7,0.07,9.32,Kota Kinabalu FIR
+Jul,45.59,0.52,11.42,Jakarta FIR
+Jul,26.94,0.34,12.6,Kuala Lumpur FIR
+Jul,25.43,0.42,16.35,Singapore FIR
+Jul,57.45,0.24,4.1,Brisbane FIR
+Jul,67.68,0.15,2.18,Melbourne FIR
+Jul,29.27,0.05,1.66,Beijing FIR
+Jul,89.15,0.08,0.85,Guangzhou FIR
+Jul,28.63,0.04,1.54,Wuhan FIR
+Jul,16.63,0.08,4.72,Sanya FIR
+Jul,1.85,0.01,3.85,Pyongyang FIR
+Jul,15.26,0.02,1.58,Lanzhou FIR
+Jul,14.48,0.18,12.43,Ulaanbaatar FIR
+Jul,36.77,0.06,1.67,Kunming FIR
+Jul,134.49,0.08,0.61,Shanghai FIR
+Jul,7.48,0.02,3.24,Urumqi FIR
+Jul,22.96,0.09,3.97,Shenyang FIR
+Aug,1587.07,11.2,7.06,European Airspace
+Aug,368.69,9.02,24.46,North Atlantic
+Aug,898.62,6.88,7.66,Continental Europe
+Aug,5762.03,44.73,7.76,Global
+Aug,1523.05,5.56,3.65,USA
+Aug,653.81,1.31,2.0,East Asia
+Aug,352.97,4.97,14.07,Southeast Asia
+Aug,195.41,1.54,7.87,Latin America
+Aug,473.0,1.45,3.07,Africa & Middle East
+Aug,695.95,1.42,2.04,China
+Aug,217.66,1.85,8.49,India
+Aug,2984.92,26.18,8.77,North Pacific
+Aug,41.28,0.51,12.33,Arctic
+Aug,0.43,0.01,19.31,Honiara FIR
+Aug,0.14,0.0,6.6,Nauru FIR
+Aug,2.45,0.03,13.37,Port Moresby FIR
+Aug,19.51,0.26,13.18,Nuuk FIR
+Aug,21.71,0.11,5.13,Reykjavik FIR
+Aug,47.07,0.95,20.26,Edmonton FIR
+Aug,25.16,1.01,40.18,Moncton FIR
+Aug,126.12,4.37,34.69,Gander FIR
+Aug,47.73,0.95,19.93,Montreal FIR
+Aug,18.18,0.27,15.06,Vancouver FIR
+Aug,37.93,0.96,25.33,Winnipeg FIR
+Aug,33.21,0.26,7.9,Toronto FIR
+Aug,15.82,0.01,0.83,Alger FIR
+Aug,3.1,0.06,18.74,Accra FIR
+Aug,4.93,0.11,22.57,Kano FIR
+Aug,5.13,0.11,21.53,Niamey FIR
+Aug,4.25,-0.0,-0.04,Tunis FIR
+Aug,17.29,0.14,7.95,Brussels FIR
+Aug,51.21,0.5,9.84,Langen FIR
+Aug,33.6,0.39,11.71,Munchen FIR
+Aug,27.75,0.15,5.59,Bremen FIR
+Aug,4.78,0.07,13.73,Tallinn FIR
+Aug,5.88,0.02,3.77,Helsinki FIR
+Aug,82.45,1.24,15.01,Shanwick FIR
+Aug,16.96,0.03,1.49,Scottish FIR
+Aug,77.84,0.26,3.39,London FIR
+Aug,22.28,0.11,4.9,Amsterdam FIR
+Aug,20.71,0.29,14.01,Shannon FIR
+Aug,11.83,0.05,4.56,Copenhagen FIR
+Aug,1.24,0.02,16.61,Bodo Oceanic FIR
+Aug,14.72,0.09,5.78,Polaris FIR
+Aug,37.1,0.5,13.58,Warszawa FIR
+Aug,25.0,0.12,4.92,Sweden FIR
+Aug,5.83,0.09,15.63,Riga FIR
+Aug,4.73,0.06,12.13,Vilnius FIR
+Aug,2.22,0.0,0.06,Cape Town FIR
+Aug,6.3,0.0,0.0,Johannesburg FIR
+Aug,0.64,0.0,4.9,Johannesburg Oceanic FIR
+Aug,1.91,-0.0,-0.0,Gaborone FIR
+Aug,3.81,0.2,52.45,Brazzaville FIR
+Aug,1.53,0.02,12.59,Mauritius FIR
+Aug,1.11,0.0,0.88,Lusaka FIR
+Aug,2.39,0.01,2.59,Antananarivo FIR
+Aug,3.23,0.02,7.25,Luanda FIR
+Aug,1.8,0.0,0.46,Beira FIR
+Aug,2.2,0.16,72.83,Seychelles FIR
+Aug,3.62,0.11,29.38,N'Djamena FIR
+Aug,1.35,0.0,0.0,Harare FIR
+Aug,0.52,0.0,0.83,Lilongwe FIR
+Aug,1.02,-0.0,-0.0,Windhoek FIR
+Aug,2.52,0.09,34.62,Kinshasa FIR
+Aug,13.97,0.0,0.26,Canarias FIR
+Aug,0.7,0.03,40.04,Roberts FIR
+Aug,24.02,0.01,0.29,Casablanca FIR
+Aug,14.09,0.23,15.97,Dakar FIR
+Aug,4.66,0.02,5.08,Sal Oceanic FIR
+Aug,6.58,0.12,18.67,Addis Abeba FIR
+Aug,0.04,0.0,8.22,Bujumbura FIR
+Aug,5.97,0.14,24.13,Mogadishu FIR/UIR
+Aug,27.58,-0.0,-0.0,Cairo FIR
+Aug,0.7,0.0,5.31,Asmara FIR
+Aug,4.79,0.06,11.79,Nairobi FIR
+Aug,3.39,0.0,0.17,Tripoli FIR
+Aug,0.06,0.0,4.15,Kigali FIR
+Aug,8.56,0.09,10.4,Khartoum FIR
+Aug,3.14,0.02,7.0,Dar-Es-Salaam FIR
+Aug,0.63,0.01,20.33,Entebbe FIR
+Aug,75.8,0.3,3.94,Albuquerque FIR
+Aug,110.97,1.49,13.43,Oakland Oceanic FIR
+Aug,71.74,0.12,1.69,Chicago FIR
+Aug,60.71,0.38,6.22,Boston FIR
+Aug,87.64,0.2,2.26,Washington FIR
+Aug,100.3,0.35,3.49,Denver FIR
+Aug,69.01,0.13,1.9,Fort Worth FIR
+Aug,63.17,0.16,2.58,Houston FIR
+Aug,64.61,0.18,2.74,Indianapolis FIR
+Aug,75.93,0.28,3.64,Jacksonville FIR
+Aug,70.89,0.31,4.42,Kansas City FIR
+Aug,76.94,0.07,0.91,Los Angeles FIR
+Aug,77.76,0.44,5.62,Salt Lake City FIR
+Aug,61.26,0.18,3.0,Miami FIR/UIR
+Aug,68.67,0.17,2.47,Memphis FIR
+Aug,82.41,0.4,4.88,Minneapolis FIR
+Aug,48.61,0.12,2.51,New York FIR
+Aug,57.34,0.05,0.92,Oakland FIR
+Aug,57.63,0.15,2.65,Cleveland FIR
+Aug,49.32,0.26,5.21,Seattle FIR
+Aug,74.76,0.14,1.91,Atlanta FIR
+Aug,62.21,1.09,17.58,New York Oceanic FIR
+Aug,4.89,0.0,0.02,Tirana FIR
+Aug,25.12,-0.0,-0.1,Sofia FIR
+Aug,16.21,0.0,0.0,Nicosia FIR
 Aug,21.89,0.18,8.38,Zagreb FIR
+Aug,41.31,0.04,0.95,Barcelona FIR
+Aug,62.06,0.37,5.93,Madrid FIR
+Aug,36.84,0.43,11.75,Bordeaux FIR
+Aug,11.84,0.19,15.89,Reims FIR
+Aug,53.53,0.35,6.6,Paris FIR
+Aug,51.38,0.21,4.17,Marseille FIR
+Aug,33.83,0.79,23.22,Brest FIR
+Aug,57.29,0.0,0.0,Athinai FIR
+Aug,21.59,0.34,15.6,Budapest FIR
+Aug,15.47,0.03,1.97,Brindisi FIR
+Aug,43.22,0.34,7.85,Milano FIR
+Aug,40.11,0.09,2.29,Roma FIR
+Aug,5.15,0.07,12.95,Ljubljana FIR
+Aug,19.59,0.36,18.2,Praha FIR
+Aug,2.46,0.0,0.0,Tel-Aviv FIR
+Aug,5.69,0.0,0.01,Malta FIR
+Aug,25.84,0.33,12.69,Wien FIR
+Aug,31.37,0.09,2.93,Lisboa FIR
+Aug,32.9,0.4,12.08,Santa Maria FIR
+Aug,10.02,0.06,6.29,Sarajevo FIR
+Aug,31.9,0.14,4.36,Bucarest FIR
+Aug,14.32,0.16,11.32,Switzerland FIR
+Aug,68.43,0.0,0.0,Ankara FIR
+Aug,40.25,-0.0,-0.0,Istanbul FIR
+Aug,1.1,0.0,2.64,Chisinau FIR
+Aug,4.15,0.0,0.11,Skopje FIR
+Aug,24.0,0.12,5.11,Beograd FIR
+Aug,8.73,0.2,22.53,Bratislava  FIR
+Aug,3.53,0.02,4.97,Santo Domingo FIR
+Aug,14.73,0.12,8.06,Central America FIR
+Aug,6.76,0.06,9.45,Kingston FIR
+Aug,0.17,0.0,12.91,Oceanica Mazatlan FIR
+Aug,80.63,0.25,3.16,Mexico FIR
+Aug,9.81,0.1,9.97,Panama FIR
+Aug,0.8,0.0,5.21,Port-Au-Prince FIR
+Aug,12.01,0.07,5.57,Habana FIR/UIR
+Aug,5.9,0.05,8.64,Nadi FIR
+Aug,1.4,0.0,0.66,Tahiti Oceanic FIR
+Aug,9.58,0.01,1.15,New Zealand FIR
+Aug,7.76,0.06,8.01,Auckland Oceanic FIR
+Aug,5.41,0.0,0.03,Kabul FIR
+Aug,17.88,0.0,0.15,Bahrain FIR
+Aug,57.62,0.0,0.08,Jeddah FIR
+Aug,39.47,0.0,0.06,Tehran FIR
+Aug,2.31,0.0,0.0,Amman FIR
+Aug,5.65,0.0,0.0,Kuwait FIR
+Aug,1.12,0.0,0.0,Beirut FIR
+Aug,16.2,0.0,0.16,Emirates FIR
+Aug,31.21,0.04,1.39,Muscat FIR
+Aug,19.36,0.01,0.61,Karachi FIR
+Aug,6.02,0.0,0.07,Lahore FIR
+Aug,23.09,0.0,0.0,Baghdad FIR
+Aug,3.97,0.0,0.0,Damascus FIR
+Aug,4.04,0.03,8.5,Sanaa FIR
+Aug,42.18,1.51,35.86,Alaska FIR
+Aug,37.04,0.09,2.41,Taipei FIR
+Aug,172.08,0.88,5.09,Fukuoka FIR
+Aug,38.12,0.02,0.62,Incheon FIR
+Aug,48.67,0.51,10.4,Manila FIR
+Aug,4.5,0.04,9.11,Cordoba FIR
+Aug,6.62,0.06,9.75,Ezeiza FIR
+Aug,1.61,0.02,10.62,Mendoza FIR
+Aug,1.68,0.01,8.63,Resistencia FIR
+Aug,1.1,0.01,12.85,Comodoro Rivadavia FIR
+Aug,6.11,0.06,10.18,Atlantico FIR
+Aug,17.14,0.18,10.54,Amazonica FIR
+Aug,23.94,0.21,8.86,Brasilia FIR
+Aug,23.12,0.06,2.55,Curitiba FIR
+Aug,22.06,0.23,10.44,Recife FIR
+Aug,0.29,0.0,12.93,Punta Arenas FIR
+Aug,5.91,0.02,3.29,Santiago FIR
+Aug,6.9,0.03,4.09,Antofagasta FIR
+Aug,0.4,0.02,58.05,Isla De Pascua FIR
+Aug,0.92,0.01,6.42,Puerto Montt FIR
+Aug,5.21,0.02,4.62,Guayaquil FIR/UIR
+Aug,1.19,0.0,0.13,Asuncion FIR/UIR
+Aug,7.97,0.12,15.11,Barranquilla FIR
+Aug,16.9,0.13,7.83,Bogota FIR
+Aug,4.01,0.0,1.09,La Paz FIR
+Aug,0.83,0.01,15.55,Paramaribo FIR
+Aug,0.7,0.01,14.66,Cayenne FIR
+Aug,18.27,0.02,1.25,Lima FIR
+Aug,1.66,0.01,8.21,Montevideo FIR
+Aug,3.08,0.07,23.29,Maiquetia FIR
+Aug,1.44,0.03,20.95,Georgetown FIR
+Aug,9.32,0.11,11.53,San Juan Oceanic FIR/UIR
+Aug,2.49,0.03,12.48,Curacao FIR
+Aug,7.31,0.08,10.73,Piarco FIR
+Aug,4.58,0.01,2.42,Almaty FIR
+Aug,7.05,0.04,6.18,Nur-Sultan FIR
+Aug,4.94,0.0,0.42,Shymkent FIR
+Aug,9.32,0.05,4.85,Aktobe FIR
+Aug,4.72,-0.0,-0.0,Baku FIR
+Aug,0.48,-0.0,-0.0,Bishkek FIR
+Aug,0.42,0.0,0.0,Osh FIR
+Aug,1.06,0.0,0.0,Yerevan FIR
+Aug,10.71,0.1,9.66,Yakutsk FIR
+Aug,2.8,0.0,0.21,Tibilisi FIR
+Aug,14.77,0.34,23.14,Khabarovsk FIR
+Aug,10.54,0.37,34.79,Magadan FIR
+Aug,7.19,0.2,27.43,Petropavlovsk-Kamchatsky FIR
+Aug,9.21,0.15,16.33,Irkutsk FIR
+Aug,5.66,0.04,6.58,Kiev FIR
+Aug,2.02,0.03,12.48,Dnipro FIR
+Aug,3.69,0.0,0.87,Simferopol FIR
+Aug,5.72,0.1,17.99,Lvov FIR
+Aug,2.83,0.0,1.16,Odessa FIR
+Aug,3.05,0.03,8.9,Arkhangelsk FIR
+Aug,1.43,0.05,31.92,Kotlas FIR
+Aug,9.82,0.17,17.59,Sankt-Peterburg FIR
+Aug,1.71,0.01,7.22,Murmansk FIR
+Aug,5.27,0.17,31.37,Vologda FIR
+Aug,1.46,0.02,10.38,Kaliningrad FIR
+Aug,14.29,0.22,15.65,Minsk FIR
+Aug,14.97,0.16,10.7,Krasnoyarsk FIR
+Aug,18.12,0.18,10.15,Novosibirsk FIR
+Aug,32.96,0.37,11.35,Rostov-Na-Donu FIR
+Aug,19.3,0.52,27.02,Yekaterinburg FIR
+Aug,14.38,0.27,18.45,Tyumen FIR
+Aug,1.78,0.0,0.0,Ashgabat FIR
+Aug,1.99,0.0,0.0,Turkmenbashi FIR
+Aug,0.6,0.0,0.01,Dashoguz FIR
+Aug,1.35,0.0,0.0,Turkmenabat FIR
+Aug,0.49,0.0,0.0,Dushanbe FIR
+Aug,1.51,0.0,0.0,Samarkand FIR
+Aug,3.19,0.0,0.45,Tashkent FIR
+Aug,56.9,0.77,13.47,Moscow FIR
+Aug,6.18,0.14,21.96,Syktyvkar FIR
+Aug,20.11,0.49,24.45,Samara FIR
+Aug,78.3,0.58,7.38,Mumbai FIR
+Aug,8.13,0.59,72.47,Colombo FIR
+Aug,6.01,0.03,4.31,Phnom Penh FIR
+Aug,40.42,0.27,6.78,Kolkata FIR
+Aug,5.05,0.02,4.78,Dhaka FIR
+Aug,30.6,-0.02,-0.78,Hong Kong FIR
+Aug,28.86,0.02,0.72,Delhi FIR
+Aug,9.77,0.06,6.61,Vientiane FIR
+Aug,1.14,0.0,2.62,Kathmandu FIR
+Aug,58.41,0.95,16.26,Chennai FIR
+Aug,1.43,0.05,34.1,Male FIR
+Aug,46.51,0.3,6.36,Bangkok FIR
+Aug,39.6,0.54,13.51,Ho Chi Minh FIR
+Aug,14.33,0.02,1.25,Hanoi FIR
+Aug,17.52,0.23,13.0,Yangon FIR
+Aug,38.9,0.33,8.51,U-Jung Pandang FIR
+Aug,8.52,0.18,21.17,Kota Kinabalu FIR
+Aug,47.88,0.98,20.42,Jakarta FIR
+Aug,28.99,0.43,14.95,Kuala Lumpur FIR
+Aug,28.1,0.66,23.65,Singapore FIR
+Aug,58.18,0.03,0.44,Brisbane FIR
+Aug,70.19,0.27,3.88,Melbourne FIR
+Aug,27.55,0.02,0.83,Beijing FIR
+Aug,82.27,0.06,0.72,Guangzhou FIR
+Aug,23.69,0.02,0.8,Wuhan FIR
+Aug,17.7,0.04,2.16,Sanya FIR
+Aug,2.6,0.01,2.49,Pyongyang FIR
+Aug,14.06,0.02,1.58,Lanzhou FIR
+Aug,14.94,0.08,5.03,Ulaanbaatar FIR
+Aug,30.32,0.04,1.42,Kunming FIR
+Aug,120.78,0.07,0.54,Shanghai FIR
+Aug,7.75,0.01,0.95,Urumqi FIR
+Aug,26.55,0.12,4.36,Shenyang FIR
+Sep,1463.2,21.12,14.43,European Airspace
+Sep,278.82,7.91,28.39,North Atlantic
+Sep,869.27,10.7,12.31,Continental Europe
+Sep,5008.26,50.68,10.12,Global
+Sep,1323.69,4.11,3.1,USA
+Sep,512.06,1.4,2.74,East Asia
+Sep,309.81,4.11,13.25,Southeast Asia
+Sep,174.25,1.63,9.34,Latin America
+Sep,402.11,1.53,3.8,Africa & Middle East
+Sep,554.02,2.13,3.85,China
+Sep,197.51,1.96,9.91,India
+Sep,2653.56,34.59,13.03,North Pacific
+Sep,32.59,0.87,26.7,Arctic
+Sep,0.33,0.01,15.17,Honiara FIR
+Sep,0.1,0.0,11.33,Nauru FIR
+Sep,1.88,0.03,14.74,Port Moresby FIR
+Sep,14.64,0.22,14.84,Nuuk FIR
+Sep,16.45,0.33,20.28,Reykjavik FIR
+Sep,35.19,0.7,19.94,Edmonton FIR
+Sep,18.97,0.47,24.92,Moncton FIR
+Sep,92.35,3.46,37.45,Gander FIR
+Sep,34.31,0.53,15.58,Montreal FIR
+Sep,14.36,0.26,18.18,Vancouver FIR
+Sep,29.29,0.62,21.25,Winnipeg FIR
+Sep,27.5,0.26,9.45,Toronto FIR
+Sep,13.3,0.09,6.53,Alger FIR
+Sep,2.52,0.04,14.92,Accra FIR
+Sep,3.71,0.07,18.93,Kano FIR
+Sep,3.8,0.04,11.41,Niamey FIR
+Sep,3.58,0.02,5.97,Tunis FIR
+Sep,17.98,0.28,15.79,Brussels FIR
+Sep,54.95,0.76,13.83,Langen FIR
+Sep,35.19,0.5,14.21,Munchen FIR
+Sep,29.6,0.38,12.76,Bremen FIR
+Sep,5.01,0.15,30.47,Tallinn FIR
+Sep,6.37,0.09,13.9,Helsinki FIR
+Sep,60.79,2.24,36.8,Shanwick FIR
+Sep,14.5,0.19,13.09,Scottish FIR
+Sep,79.78,0.61,7.61,London FIR
+Sep,23.96,0.39,16.3,Amsterdam FIR
+Sep,16.11,0.3,18.44,Shannon FIR
+Sep,12.04,0.14,11.93,Copenhagen FIR
+Sep,1.16,0.02,19.96,Bodo Oceanic FIR
+Sep,14.45,0.1,6.69,Polaris FIR
+Sep,36.64,1.14,31.04,Warszawa FIR
+Sep,26.34,0.39,14.76,Sweden FIR
+Sep,5.8,0.19,32.29,Riga FIR
+Sep,4.68,0.15,32.81,Vilnius FIR
+Sep,2.97,0.01,4.02,Cape Town FIR
+Sep,7.15,0.02,2.87,Johannesburg FIR
+Sep,0.76,0.01,16.91,Johannesburg Oceanic FIR
+Sep,1.8,0.0,2.73,Gaborone FIR
+Sep,3.15,0.15,47.35,Brazzaville FIR
+Sep,1.5,0.03,20.86,Mauritius FIR
+Sep,1.02,0.0,2.28,Lusaka FIR
+Sep,2.0,0.0,0.82,Antananarivo FIR
+Sep,2.91,0.04,13.28,Luanda FIR
+Sep,1.8,0.0,0.37,Beira FIR
+Sep,1.94,0.08,42.46,Seychelles FIR
+Sep,2.9,0.07,23.75,N'Djamena FIR
+Sep,1.19,0.0,0.04,Harare FIR
+Sep,0.49,0.0,0.25,Lilongwe FIR
+Sep,1.0,0.0,3.71,Windhoek FIR
+Sep,2.13,0.09,44.56,Kinshasa FIR
+Sep,12.79,0.05,3.92,Canarias FIR
+Sep,0.55,0.02,29.58,Roberts FIR
+Sep,21.39,0.07,3.07,Casablanca FIR
+Sep,12.81,0.23,17.97,Dakar FIR
+Sep,4.3,0.04,9.1,Sal Oceanic FIR
+Sep,5.01,0.06,11.59,Addis Abeba FIR
+Sep,0.03,0.0,25.79,Bujumbura FIR
+Sep,5.38,0.08,14.99,Mogadishu FIR/UIR
+Sep,21.35,0.0,0.03,Cairo FIR
+Sep,0.57,0.0,5.96,Asmara FIR
+Sep,3.93,0.01,2.64,Nairobi FIR
+Sep,1.99,0.0,0.06,Tripoli FIR
+Sep,0.06,0.0,4.2,Kigali FIR
+Sep,7.51,0.09,11.81,Khartoum FIR
+Sep,2.97,0.01,3.45,Dar-Es-Salaam FIR
+Sep,0.48,0.01,21.52,Entebbe FIR
+Sep,68.3,0.09,1.26,Albuquerque FIR
+Sep,90.73,1.16,12.77,Oakland Oceanic FIR
+Sep,60.75,0.24,3.94,Chicago FIR
+Sep,49.85,0.2,3.91,Boston FIR
+Sep,80.63,0.19,2.37,Washington FIR
+Sep,87.34,0.29,3.28,Denver FIR
+Sep,60.97,0.07,1.1,Fort Worth FIR
+Sep,55.66,0.05,0.93,Houston FIR
+Sep,63.05,0.12,1.84,Indianapolis FIR
+Sep,62.5,0.11,1.83,Jacksonville FIR
+Sep,71.68,0.24,3.41,Kansas City FIR
+Sep,68.81,0.02,0.35,Los Angeles FIR
+Sep,63.44,0.5,7.88,Salt Lake City FIR
+Sep,45.19,0.08,1.69,Miami FIR/UIR
+Sep,63.44,0.04,0.7,Memphis FIR
+Sep,66.13,0.55,8.28,Minneapolis FIR
+Sep,45.27,0.07,1.49,New York FIR
+Sep,49.24,0.02,0.49,Oakland FIR
+Sep,52.31,0.18,3.42,Cleveland FIR
+Sep,41.4,0.18,4.4,Seattle FIR
+Sep,67.8,0.03,0.48,Atlanta FIR
+Sep,44.76,0.7,15.72,New York Oceanic FIR
+Sep,4.12,0.04,9.51,Tirana FIR
+Sep,23.15,0.38,16.62,Sofia FIR
+Sep,13.3,0.0,0.0,Nicosia FIR
 Sep,18.82,0.27,14.59,Zagreb FIR
-Oct,16.77,0.47,27.86,Zagreb FIR
+Sep,37.7,0.29,7.59,Barcelona FIR
+Sep,59.74,0.36,5.96,Madrid FIR
+Sep,36.02,0.66,18.26,Bordeaux FIR
+Sep,12.13,0.19,15.32,Reims FIR
+Sep,53.69,0.65,12.09,Paris FIR
+Sep,47.68,0.47,9.94,Marseille FIR
+Sep,31.82,0.4,12.68,Brest FIR
+Sep,48.43,0.18,3.71,Athinai FIR
+Sep,20.73,0.63,30.37,Budapest FIR
+Sep,12.69,0.08,6.31,Brindisi FIR
+Sep,40.19,0.27,6.83,Milano FIR
+Sep,34.85,0.13,3.75,Roma FIR
+Sep,4.95,0.04,8.32,Ljubljana FIR
+Sep,19.28,0.46,23.86,Praha FIR
+Sep,2.05,0.0,0.0,Tel-Aviv FIR
+Sep,4.4,0.0,0.17,Malta FIR
+Sep,26.39,0.55,20.91,Wien FIR
+Sep,29.11,0.07,2.39,Lisboa FIR
+Sep,25.45,0.43,16.75,Santa Maria FIR
+Sep,9.08,0.2,21.73,Sarajevo FIR
+Sep,29.23,0.72,24.63,Bucarest FIR
+Sep,14.41,0.16,10.83,Switzerland FIR
+Sep,63.7,0.05,0.76,Ankara FIR
+Sep,36.19,0.11,2.93,Istanbul FIR
+Sep,0.92,0.04,41.31,Chisinau FIR
+Sep,3.63,0.05,14.45,Skopje FIR
+Sep,21.77,0.41,18.93,Beograd FIR
+Sep,8.18,0.3,36.44,Bratislava  FIR
+Sep,2.64,0.01,5.26,Santo Domingo FIR
+Sep,11.66,0.11,9.27,Central America FIR
+Sep,5.07,0.04,7.59,Kingston FIR
+Sep,0.15,0.0,2.89,Oceanica Mazatlan FIR
+Sep,58.53,0.12,1.98,Mexico FIR
+Sep,7.71,0.1,12.45,Panama FIR
+Sep,0.56,0.0,8.48,Port-Au-Prince FIR
+Sep,8.81,0.04,4.61,Habana FIR/UIR
+Sep,5.98,0.08,14.17,Nadi FIR
+Sep,1.13,0.0,1.8,Tahiti Oceanic FIR
+Sep,9.41,0.01,1.2,New Zealand FIR
+Sep,7.66,0.07,9.78,Auckland Oceanic FIR
+Sep,5.43,0.0,0.0,Kabul FIR
+Sep,16.87,0.0,0.12,Bahrain FIR
+Sep,45.95,0.12,2.51,Jeddah FIR
+Sep,32.68,0.0,0.04,Tehran FIR
+Sep,1.64,0.0,0.0,Amman FIR
+Sep,5.04,0.0,0.44,Kuwait FIR
+Sep,0.83,0.0,0.0,Beirut FIR
+Sep,14.36,0.01,0.81,Emirates FIR
+Sep,28.37,0.15,5.21,Muscat FIR
+Sep,17.53,0.02,1.06,Karachi FIR
+Sep,5.7,0.0,0.03,Lahore FIR
+Sep,20.38,0.0,0.03,Baghdad FIR
+Sep,1.71,0.0,0.0,Damascus FIR
+Sep,3.48,0.06,17.87,Sanaa FIR
+Sep,32.43,0.7,21.68,Alaska FIR
+Sep,33.63,0.11,3.19,Taipei FIR
+Sep,148.38,0.71,4.79,Fukuoka FIR
+Sep,32.5,0.07,2.3,Incheon FIR
+Sep,41.88,0.5,11.91,Manila FIR
+Sep,3.87,0.02,5.45,Cordoba FIR
+Sep,5.59,0.02,3.87,Ezeiza FIR
+Sep,1.49,0.0,1.04,Mendoza FIR
+Sep,1.55,0.01,5.38,Resistencia FIR
+Sep,0.97,-0.0,-4.1,Comodoro Rivadavia FIR
+Sep,6.49,0.02,3.75,Atlantico FIR
+Sep,15.15,0.31,20.46,Amazonica FIR
+Sep,23.12,0.05,2.18,Brasilia FIR
+Sep,23.02,0.16,6.97,Curitiba FIR
+Sep,21.29,0.09,4.35,Recife FIR
+Sep,0.26,0.0,18.07,Punta Arenas FIR
+Sep,5.68,0.01,2.31,Santiago FIR
+Sep,6.25,0.01,0.96,Antofagasta FIR
+Sep,0.38,0.03,89.59,Isla De Pascua FIR
+Sep,0.96,0.0,1.18,Puerto Montt FIR
+Sep,3.99,0.07,16.47,Guayaquil FIR/UIR
+Sep,1.05,0.01,10.88,Asuncion FIR/UIR
+Sep,6.33,0.12,19.3,Barranquilla FIR
+Sep,13.76,0.2,14.53,Bogota FIR
+Sep,3.3,0.06,18.14,La Paz FIR
+Sep,0.69,0.01,12.27,Paramaribo FIR
+Sep,0.69,0.01,17.76,Cayenne FIR
+Sep,14.98,0.15,9.93,Lima FIR
+Sep,1.59,0.02,10.15,Montevideo FIR
+Sep,2.53,0.08,29.77,Maiquetia FIR
+Sep,1.15,0.02,17.89,Georgetown FIR
+Sep,6.56,0.1,15.82,San Juan Oceanic FIR/UIR
+Sep,2.02,0.03,16.52,Curacao FIR
+Sep,5.62,0.09,15.48,Piarco FIR
+Sep,4.3,0.06,14.5,Almaty FIR
+Sep,6.03,0.12,19.33,Nur-Sultan FIR
+Sep,4.51,0.06,13.23,Shymkent FIR
+Sep,8.07,0.14,17.55,Aktobe FIR
+Sep,4.73,0.0,0.59,Baku FIR
+Sep,0.44,0.0,6.71,Bishkek FIR
+Sep,0.39,0.0,4.32,Osh FIR
+Sep,0.89,0.0,1.37,Yerevan FIR
+Sep,8.65,0.14,16.06,Yakutsk FIR
+Sep,2.7,0.02,7.9,Tibilisi FIR
+Sep,13.34,0.11,8.25,Khabarovsk FIR
+Sep,8.03,0.24,29.89,Magadan FIR
+Sep,5.71,0.15,26.68,Petropavlovsk-Kamchatsky FIR
+Sep,7.6,0.19,25.23,Irkutsk FIR
+Sep,4.77,0.19,39.68,Kiev FIR
+Sep,1.06,0.03,31.27,Dnipro FIR
+Sep,2.17,0.02,9.11,Simferopol FIR
+Sep,5.0,0.2,40.51,Lvov FIR
+Sep,2.3,0.04,18.81,Odessa FIR
+Sep,2.65,0.14,52.01,Arkhangelsk FIR
+Sep,1.38,0.08,56.78,Kotlas FIR
+Sep,9.12,0.44,48.2,Sankt-Peterburg FIR
+Sep,1.65,0.06,39.3,Murmansk FIR
+Sep,5.06,0.27,53.86,Vologda FIR
+Sep,1.34,0.04,32.71,Kaliningrad FIR
+Sep,13.79,0.83,59.86,Minsk FIR
+Sep,14.23,0.51,35.89,Krasnoyarsk FIR
+Sep,17.07,0.63,37.12,Novosibirsk FIR
+Sep,28.03,0.61,21.88,Rostov-Na-Donu FIR
+Sep,17.46,0.73,41.73,Yekaterinburg FIR
+Sep,13.21,0.64,48.21,Tyumen FIR
+Sep,1.92,0.0,0.24,Ashgabat FIR
+Sep,2.08,0.0,0.93,Turkmenbashi FIR
+Sep,0.45,0.0,0.99,Dashoguz FIR
+Sep,1.19,0.0,0.02,Turkmenabat FIR
+Sep,0.3,0.0,0.03,Dushanbe FIR
+Sep,1.53,0.0,1.39,Samarkand FIR
+Sep,2.77,0.02,6.03,Tashkent FIR
+Sep,52.9,1.59,29.99,Moscow FIR
+Sep,5.79,0.32,55.8,Syktyvkar FIR
+Sep,18.06,0.52,28.61,Samara FIR
+Sep,70.58,0.86,12.19,Mumbai FIR
+Sep,7.94,0.49,61.22,Colombo FIR
+Sep,5.19,0.04,6.87,Phnom Penh FIR
+Sep,37.44,0.34,9.03,Kolkata FIR
+Sep,4.88,0.04,7.61,Dhaka FIR
+Sep,26.54,0.07,2.46,Hong Kong FIR
+Sep,26.97,0.03,1.09,Delhi FIR
+Sep,8.17,0.04,4.93,Vientiane FIR
+Sep,0.87,0.0,2.47,Kathmandu FIR
+Sep,51.6,0.89,17.22,Chennai FIR
+Sep,1.34,0.03,23.61,Male FIR
+Sep,41.92,0.27,6.43,Bangkok FIR
+Sep,33.53,0.39,11.58,Ho Chi Minh FIR
+Sep,11.46,0.01,0.69,Hanoi FIR
+Sep,16.66,0.24,14.54,Yangon FIR
+Sep,33.51,0.3,9.08,U-Jung Pandang FIR
+Sep,7.61,0.12,15.65,Kota Kinabalu FIR
+Sep,42.37,0.71,16.65,Jakarta FIR
+Sep,26.55,0.34,12.99,Kuala Lumpur FIR
+Sep,24.91,0.52,20.98,Singapore FIR
+Sep,55.43,0.06,1.13,Brisbane FIR
+Sep,68.69,0.23,3.34,Melbourne FIR
+Sep,18.08,0.03,1.54,Beijing FIR
+Sep,54.37,0.02,0.42,Guangzhou FIR
+Sep,15.59,0.0,0.25,Wuhan FIR
+Sep,14.17,0.09,6.05,Sanya FIR
+Sep,1.82,0.01,2.83,Pyongyang FIR
+Sep,10.82,0.02,1.66,Lanzhou FIR
+Sep,14.16,0.35,24.81,Ulaanbaatar FIR
+Sep,19.44,0.03,1.32,Kunming FIR
+Sep,95.34,0.04,0.4,Shanghai FIR
+Sep,6.44,0.06,9.3,Urumqi FIR
+Sep,14.57,0.02,1.47,Shenyang FIR
+Oct,5060.84,68.51,13.54,Global
+Oct,533.27,2.53,4.75,Africa & Middle East
+Oct,162.36,0.05,0.33,Accra FIR
+Oct,1327.6,31.52,23.74,European Airspace
+Oct,238.91,7.82,32.71,North Atlantic
+Oct,788.07,19.28,24.47,Continental Europe
+Oct,1367.24,5.64,4.12,USA
+Oct,544.29,1.23,2.26,East Asia
+Oct,311.42,4.27,13.7,Southeast Asia
+Oct,176.9,1.96,11.06,Latin America
+Oct,599.16,1.9,3.17,China
+Oct,207.72,1.34,6.46,India
+Oct,2505.87,51.37,20.5,North Pacific
+Oct,27.64,1.12,40.39,Arctic
+Oct,0.31,0.0,15.13,Honiara FIR
+Oct,0.08,0.0,3.56,Nauru FIR
+Oct,1.69,0.04,25.89,Port Moresby FIR
+Oct,12.02,0.59,49.34,Nuuk FIR
+Oct,14.86,0.39,26.04,Reykjavik FIR
+Oct,30.84,0.82,26.56,Edmonton FIR
+Oct,16.49,0.67,40.32,Moncton FIR
+Oct,79.12,3.39,42.79,Gander FIR
+Oct,30.02,0.46,15.49,Montreal FIR
+Oct,12.89,0.19,14.81,Vancouver FIR
+Oct,26.36,0.69,26.08,Winnipeg FIR
+Oct,26.68,0.2,7.57,Toronto FIR
+Oct,12.41,0.09,7.57,Alger FIR
+Oct,3.47,0.09,24.59,Kano FIR
+Oct,3.66,0.05,12.73,Niamey FIR
+Oct,2.97,0.01,4.58,Tunis FIR
+Oct,16.97,0.47,27.64,Brussels FIR
+Oct,51.43,1.27,24.71,Langen FIR
+Oct,33.14,0.89,26.96,Munchen FIR
+Oct,28.7,1.37,47.89,Bremen FIR
+Oct,4.64,0.16,33.52,Tallinn FIR
+Oct,6.13,0.1,16.23,Helsinki FIR
+Oct,50.69,1.06,20.88,Shanwick FIR
+Oct,13.49,0.06,4.27,Scottish FIR
+Oct,72.89,0.96,13.18,London FIR
+Oct,22.87,0.87,38.14,Amsterdam FIR
+Oct,14.12,0.2,14.37,Shannon FIR
+Oct,11.76,0.41,35.13,Copenhagen FIR
+Oct,0.91,0.03,28.68,Bodo Oceanic FIR
+Oct,14.0,0.13,9.47,Polaris FIR
+Oct,33.46,1.63,48.66,Warszawa FIR
+Oct,25.13,0.79,31.54,Sweden FIR
+Oct,5.53,0.31,56.78,Riga FIR
+Oct,4.3,0.28,65.63,Vilnius FIR
+Oct,3.08,0.0,1.07,Cape Town FIR
+Oct,7.12,0.0,0.35,Johannesburg FIR
+Oct,0.67,0.02,22.9,Johannesburg Oceanic FIR
+Oct,1.59,0.0,1.79,Gaborone FIR
+Oct,2.88,0.17,58.77,Brazzaville FIR
+Oct,1.4,0.03,19.83,Mauritius FIR
+Oct,0.9,0.0,5.5,Lusaka FIR
+Oct,1.95,0.0,1.97,Antananarivo FIR
+Oct,2.68,0.08,31.22,Luanda FIR
+Oct,1.63,0.0,1.03,Beira FIR
+Oct,1.89,0.06,29.39,Seychelles FIR
+Oct,2.46,0.06,25.35,N'Djamena FIR
+Oct,1.16,0.0,0.34,Harare FIR
+Oct,0.48,0.0,5.21,Lilongwe FIR
+Oct,0.95,0.0,1.64,Windhoek FIR
+Oct,1.79,0.12,65.92,Kinshasa FIR
+Oct,12.88,0.05,4.18,Canarias FIR
+Oct,0.53,0.02,39.01,Roberts FIR
+Oct,21.73,0.09,4.07,Casablanca FIR
+Oct,12.14,0.24,19.92,Dakar FIR
+Oct,4.11,0.05,11.57,Sal Oceanic FIR
+Oct,4.77,0.08,16.27,Addis Abeba FIR
+Oct,0.03,0.0,26.31,Bujumbura FIR
+Oct,4.93,0.09,17.85,Mogadishu FIR/UIR
+Oct,20.35,0.07,3.26,Cairo FIR
+Oct,0.55,0.0,3.53,Asmara FIR
+Oct,3.68,0.03,9.14,Nairobi FIR
+Oct,1.54,0.0,2.83,Tripoli FIR
+Oct,0.05,0.0,7.39,Kigali FIR
+Oct,7.16,0.1,13.39,Khartoum FIR
+Oct,2.76,0.03,9.47,Dar-Es-Salaam FIR
+Oct,0.38,0.01,28.78,Entebbe FIR
+Oct,72.53,0.07,0.91,Albuquerque FIR
+Oct,87.26,1.45,16.64,Oakland Oceanic FIR
+Oct,65.65,0.3,4.5,Chicago FIR
+Oct,46.42,0.48,10.33,Boston FIR
+Oct,85.42,0.22,2.6,Washington FIR
+Oct,88.69,0.23,2.6,Denver FIR
+Oct,63.4,0.05,0.84,Fort Worth FIR
+Oct,61.66,0.12,1.99,Houston FIR
+Oct,63.7,0.34,5.3,Indianapolis FIR
+Oct,72.16,0.31,4.35,Jacksonville FIR
+Oct,68.47,0.27,3.94,Kansas City FIR
+Oct,71.89,0.07,0.96,Los Angeles FIR
+Oct,62.75,0.48,7.59,Salt Lake City FIR
+Oct,51.2,0.15,2.85,Miami FIR/UIR
+Oct,65.69,0.23,3.44,Memphis FIR
+Oct,68.22,0.67,9.87,Minneapolis FIR
+Oct,44.76,0.09,1.98,New York FIR
+Oct,49.73,0.05,0.94,Oakland FIR
+Oct,54.93,0.39,7.13,Cleveland FIR
+Oct,40.63,0.13,3.23,Seattle FIR
+Oct,72.14,0.19,2.6,Atlanta FIR
+Oct,38.99,1.23,31.55,New York Oceanic FIR
+Oct,3.33,0.02,5.98,Tirana FIR
+Oct,20.89,0.32,15.5,Sofia FIR
+Oct,12.78,0.05,3.96,Nicosia FIR
+Oct,16.21,0.47,28.77,Zagreb FIR
+Oct,32.23,0.34,10.67,Barcelona FIR
+Oct,57.15,0.91,16.0,Madrid FIR
+Oct,32.28,0.69,21.25,Bordeaux FIR
+Oct,11.03,0.29,26.63,Reims FIR
+Oct,49.04,1.34,27.22,Paris FIR
+Oct,40.56,1.01,24.95,Marseille FIR
+Oct,28.9,1.39,47.96,Brest FIR
+Oct,39.76,0.21,5.24,Athinai FIR
+Oct,18.48,0.38,20.62,Budapest FIR
+Oct,8.76,0.12,13.96,Brindisi FIR
+Oct,33.92,0.91,26.79,Milano FIR
+Oct,29.75,0.32,10.84,Roma FIR
+Oct,4.33,0.11,26.23,Ljubljana FIR
+Oct,17.77,0.47,26.46,Praha FIR
+Oct,1.96,0.0,0.02,Tel-Aviv FIR
+Oct,3.98,0.01,2.08,Malta FIR
+Oct,24.02,0.61,25.46,Wien FIR
+Oct,28.31,0.44,15.64,Lisboa FIR
+Oct,22.45,0.58,25.65,Santa Maria FIR
+Oct,8.29,0.27,32.55,Sarajevo FIR
+Oct,26.39,0.53,20.18,Bucarest FIR
+Oct,13.02,0.36,27.58,Switzerland FIR
+Oct,61.35,0.5,8.1,Ankara FIR
+Oct,33.41,0.13,3.96,Istanbul FIR
+Oct,0.85,0.03,40.16,Chisinau FIR
+Oct,2.98,0.03,8.67,Skopje FIR
+Oct,18.22,0.39,21.39,Beograd FIR
+Oct,7.19,0.18,24.77,Bratislava  FIR
+Oct,2.5,0.01,4.09,Santo Domingo FIR
+Oct,12.47,0.15,12.1,Central America FIR
+Oct,4.98,0.06,12.46,Kingston FIR
+Oct,0.15,-0.0,-1.51,Oceanica Mazatlan FIR
+Oct,61.37,0.14,2.32,Mexico FIR
+Oct,8.48,0.12,14.6,Panama FIR
+Oct,0.55,0.0,9.04,Port-Au-Prince FIR
+Oct,8.87,0.05,6.11,Habana FIR/UIR
+Oct,5.79,0.07,11.8,Nadi FIR
+Oct,1.1,0.01,4.86,Tahiti Oceanic FIR
+Oct,9.63,0.01,1.11,New Zealand FIR
+Oct,7.69,0.12,16.1,Auckland Oceanic FIR
+Oct,5.96,0.02,3.39,Kabul FIR
+Oct,16.54,0.0,0.09,Bahrain FIR
+Oct,42.32,0.01,0.2,Jeddah FIR
+Oct,35.5,0.07,1.89,Tehran FIR
+Oct,1.47,0.0,0.36,Amman FIR
+Oct,4.94,0.0,0.03,Kuwait FIR
+Oct,0.73,0.0,0.26,Beirut FIR
+Oct,14.4,0.0,0.0,Emirates FIR
+Oct,27.49,0.01,0.2,Muscat FIR
+Oct,18.32,0.0,0.06,Karachi FIR
+Oct,6.12,0.0,0.36,Lahore FIR
+Oct,18.79,0.02,1.3,Baghdad FIR
+Oct,2.12,0.0,2.14,Damascus FIR
+Oct,3.22,0.03,9.63,Sanaa FIR
+Oct,30.23,0.75,24.67,Alaska FIR
+Oct,34.57,0.05,1.37,Taipei FIR
+Oct,141.42,0.51,3.62,Fukuoka FIR
+Oct,32.34,0.01,0.29,Incheon FIR
+Oct,41.28,0.37,8.87,Manila FIR
+Oct,3.87,0.02,5.99,Cordoba FIR
+Oct,5.59,0.01,1.88,Ezeiza FIR
+Oct,1.38,0.0,1.56,Mendoza FIR
+Oct,1.53,0.01,4.82,Resistencia FIR
+Oct,1.2,0.01,7.93,Comodoro Rivadavia FIR
+Oct,6.26,0.07,10.89,Atlantico FIR
+Oct,15.22,0.48,31.36,Amazonica FIR
+Oct,23.86,0.13,5.32,Brasilia FIR
+Oct,23.03,0.08,3.27,Curitiba FIR
+Oct,22.13,0.07,3.25,Recife FIR
+Oct,0.29,0.01,28.23,Punta Arenas FIR
+Oct,5.7,0.01,1.6,Santiago FIR
+Oct,6.23,0.01,1.21,Antofagasta FIR
+Oct,0.41,0.02,40.28,Isla De Pascua FIR
+Oct,1.01,0.01,6.81,Puerto Montt FIR
+Oct,3.9,0.05,12.92,Guayaquil FIR/UIR
+Oct,1.04,0.0,3.07,Asuncion FIR/UIR
+Oct,6.12,0.1,15.84,Barranquilla FIR
+Oct,13.37,0.21,15.38,Bogota FIR
+Oct,3.28,0.07,20.23,La Paz FIR
+Oct,0.74,0.02,28.81,Paramaribo FIR
+Oct,0.72,0.02,22.84,Cayenne FIR
+Oct,15.36,0.25,16.35,Lima FIR
+Oct,1.55,0.0,2.26,Montevideo FIR
+Oct,2.29,0.07,29.69,Maiquetia FIR
+Oct,1.18,0.04,31.63,Georgetown FIR
+Oct,6.46,0.06,9.61,San Juan Oceanic FIR/UIR
+Oct,1.85,0.04,20.52,Curacao FIR
+Oct,5.7,0.14,23.73,Piarco FIR
+Oct,4.69,0.17,37.21,Almaty FIR
+Oct,6.09,0.37,60.57,Nur-Sultan FIR
+Oct,5.35,0.12,23.21,Shymkent FIR
+Oct,8.97,0.52,57.67,Aktobe FIR
+Oct,4.6,0.07,15.87,Baku FIR
+Oct,0.47,0.01,12.87,Bishkek FIR
+Oct,0.43,0.0,10.48,Osh FIR
+Oct,0.9,0.01,14.01,Yerevan FIR
+Oct,7.62,0.42,55.15,Yakutsk FIR
+Oct,2.68,0.05,18.37,Tibilisi FIR
+Oct,11.97,0.15,12.87,Khabarovsk FIR
+Oct,8.13,0.33,40.68,Magadan FIR
+Oct,4.91,0.1,19.69,Petropavlovsk-Kamchatsky FIR
+Oct,7.28,0.19,25.56,Irkutsk FIR
+Oct,4.36,0.13,30.65,Kiev FIR
+Oct,0.92,0.05,58.98,Dnipro FIR
+Oct,1.85,0.04,18.99,Simferopol FIR
+Oct,4.35,0.16,36.37,Lvov FIR
+Oct,2.17,0.1,45.5,Odessa FIR
+Oct,2.5,0.09,35.15,Arkhangelsk FIR
+Oct,1.23,0.11,86.52,Kotlas FIR
+Oct,8.65,0.39,45.62,Sankt-Peterburg FIR
+Oct,1.56,0.06,35.38,Murmansk FIR
+Oct,4.77,0.42,87.18,Vologda FIR
+Oct,1.26,0.09,73.77,Kaliningrad FIR
+Oct,12.31,1.03,83.94,Minsk FIR
+Oct,12.73,0.64,50.42,Krasnoyarsk FIR
+Oct,15.02,1.31,87.39,Novosibirsk FIR
+Oct,24.28,1.06,43.85,Rostov-Na-Donu FIR
+Oct,15.58,1.36,87.4,Yekaterinburg FIR
+Oct,11.9,1.19,99.66,Tyumen FIR
+Oct,1.93,0.02,9.72,Ashgabat FIR
+Oct,2.09,0.02,11.58,Turkmenbashi FIR
+Oct,0.49,0.01,17.7,Dashoguz FIR
+Oct,1.26,0.02,13.91,Turkmenabat FIR
+Oct,0.36,0.0,6.32,Dushanbe FIR
+Oct,1.79,0.03,15.79,Samarkand FIR
+Oct,3.12,0.07,23.23,Tashkent FIR
+Oct,48.64,3.35,68.91,Moscow FIR
+Oct,5.19,0.33,63.11,Syktyvkar FIR
+Oct,16.12,1.89,117.2,Samara FIR
+Oct,71.61,0.4,5.6,Mumbai FIR
+Oct,6.8,0.23,33.77,Colombo FIR
+Oct,5.19,0.03,6.51,Phnom Penh FIR
+Oct,40.73,0.25,6.2,Kolkata FIR
+Oct,5.16,0.04,6.97,Dhaka FIR
+Oct,26.98,0.08,2.86,Hong Kong FIR
+Oct,28.79,0.0,0.06,Delhi FIR
+Oct,8.21,0.04,4.45,Vientiane FIR
+Oct,1.01,0.0,1.61,Kathmandu FIR
+Oct,51.88,0.68,13.02,Chennai FIR
+Oct,1.11,0.02,16.22,Male FIR
+Oct,42.17,0.3,7.14,Bangkok FIR
+Oct,33.27,0.44,13.33,Ho Chi Minh FIR
+Oct,11.07,0.03,2.59,Hanoi FIR
+Oct,17.9,0.21,11.47,Yangon FIR
+Oct,35.31,0.63,17.87,U-Jung Pandang FIR
+Oct,7.5,0.11,14.62,Kota Kinabalu FIR
+Oct,42.07,0.96,22.82,Jakarta FIR
+Oct,26.98,0.31,11.49,Kuala Lumpur FIR
+Oct,24.34,0.39,16.18,Singapore FIR
+Oct,54.67,0.06,1.16,Brisbane FIR
+Oct,67.51,0.27,4.07,Melbourne FIR
+Oct,23.76,0.11,4.57,Beijing FIR
+Oct,62.68,0.05,0.82,Guangzhou FIR
+Oct,22.92,0.03,1.5,Wuhan FIR
+Oct,14.5,0.08,5.26,Sanya FIR
+Oct,1.71,0.02,9.32,Pyongyang FIR
+Oct,12.42,0.08,6.45,Lanzhou FIR
+Oct,13.09,0.17,13.11,Ulaanbaatar FIR
+Oct,21.66,0.04,1.99,Kunming FIR
+Oct,104.26,0.1,0.92,Shanghai FIR
+Oct,7.05,0.09,13.45,Urumqi FIR
+Oct,19.21,0.08,4.31,Shenyang FIR
+Nov,1082.76,50.4,46.55,European Airspace
+Nov,194.1,9.19,47.33,North Atlantic
+Nov,624.88,20.37,32.6,Continental Europe
+Nov,4876.91,99.32,20.36,Global
+Nov,1343.96,13.21,9.83,USA
+Nov,756.19,3.28,4.34,East Asia
+Nov,321.62,3.65,11.36,Southeast Asia
+Nov,184.53,1.91,10.35,Latin America
+Nov,343.98,4.25,12.34,Africa & Middle East
+Nov,831.76,3.87,4.65,China
+Nov,215.35,0.8,3.74,India
+Nov,2253.9,76.53,33.95,North Pacific
+Nov,24.21,1.49,61.53,Arctic
+Nov,0.43,0.0,8.84,Honiara FIR
+Nov,0.13,-0.0,-2.02,Nauru FIR
+Nov,1.9,0.05,26.81,Port Moresby FIR
+Nov,10.71,0.75,69.91,Nuuk FIR
+Nov,12.46,1.43,114.45,Reykjavik FIR
+Nov,27.51,0.9,32.56,Edmonton FIR
+Nov,12.42,0.62,49.9,Moncton FIR
+Nov,62.12,3.24,52.18,Gander FIR
+Nov,26.17,0.37,14.16,Montreal FIR
+Nov,12.14,0.43,35.37,Vancouver FIR
+Nov,22.49,0.46,20.64,Winnipeg FIR
+Nov,23.96,0.26,10.74,Toronto FIR
+Nov,12.8,0.16,12.43,Alger FIR
+Nov,2.72,0.05,19.2,Accra FIR
+Nov,3.89,0.09,24.36,Kano FIR
+Nov,4.08,0.06,15.92,Niamey FIR
+Nov,2.5,0.02,8.7,Tunis FIR
+Nov,14.2,0.31,21.68,Brussels FIR
+Nov,41.67,1.47,35.16,Langen FIR
+Nov,26.2,1.13,43.01,Munchen FIR
+Nov,24.16,1.41,58.34,Bremen FIR
+Nov,4.0,0.6,149.6,Tallinn FIR
+Nov,6.03,0.51,84.93,Helsinki FIR
+Nov,41.53,1.78,42.96,Shanwick FIR
+Nov,11.21,0.64,56.67,Scottish FIR
+Nov,59.17,1.16,19.6,London FIR
+Nov,19.53,0.61,31.33,Amsterdam FIR
+Nov,10.9,0.25,22.81,Shannon FIR
+Nov,10.54,0.76,72.19,Copenhagen FIR
+Nov,0.92,0.07,71.96,Bodo Oceanic FIR
+Nov,13.08,0.48,36.93,Polaris FIR
+Nov,27.65,2.31,83.55,Warszawa FIR
+Nov,22.54,2.09,92.52,Sweden FIR
+Nov,4.75,0.86,181.23,Riga FIR
+Nov,3.53,0.59,167.52,Vilnius FIR
+Nov,3.25,0.0,1.1,Cape Town FIR
+Nov,7.34,0.02,2.77,Johannesburg FIR
+Nov,0.72,0.01,18.41,Johannesburg Oceanic FIR
+Nov,1.61,0.01,5.64,Gaborone FIR
+Nov,3.26,0.17,53.15,Brazzaville FIR
+Nov,1.45,0.03,20.46,Mauritius FIR
+Nov,0.94,0.02,19.84,Lusaka FIR
+Nov,2.15,0.02,9.25,Antananarivo FIR
+Nov,2.73,0.09,33.95,Luanda FIR
+Nov,1.68,0.01,8.77,Beira FIR
+Nov,2.04,0.03,14.28,Seychelles FIR
+Nov,2.6,0.09,33.38,N'Djamena FIR
+Nov,1.21,0.02,18.31,Harare FIR
+Nov,0.5,0.01,10.93,Lilongwe FIR
+Nov,1.18,0.01,6.89,Windhoek FIR
+Nov,1.88,0.08,43.43,Kinshasa FIR
+Nov,13.08,0.1,7.44,Canarias FIR
+Nov,0.53,0.01,21.01,Roberts FIR
+Nov,21.99,0.27,12.11,Casablanca FIR
+Nov,12.35,0.45,36.23,Dakar FIR
+Nov,3.75,0.2,53.08,Sal Oceanic FIR
+Nov,5.13,0.06,12.42,Addis Abeba FIR
+Nov,0.03,0.0,18.87,Bujumbura FIR
+Nov,5.24,0.1,18.21,Mogadishu FIR/UIR
+Nov,20.67,0.04,1.71,Cairo FIR
+Nov,0.66,0.0,0.81,Asmara FIR
+Nov,3.98,0.05,12.6,Nairobi FIR
+Nov,1.62,0.02,13.21,Tripoli FIR
+Nov,0.05,0.0,11.99,Kigali FIR
+Nov,7.36,0.03,4.24,Khartoum FIR
+Nov,2.93,0.05,16.02,Dar-Es-Salaam FIR
+Nov,0.39,0.0,9.98,Entebbe FIR
+Nov,71.11,0.39,5.43,Albuquerque FIR
+Nov,91.78,1.96,21.38,Oakland Oceanic FIR
+Nov,61.38,0.56,9.1,Chicago FIR
+Nov,40.67,0.65,16.08,Boston FIR
+Nov,87.81,0.76,8.63,Washington FIR
+Nov,83.28,1.07,12.84,Denver FIR
+Nov,61.19,0.37,6.07,Fort Worth FIR
+Nov,63.98,0.59,9.15,Houston FIR
+Nov,61.2,0.58,9.44,Indianapolis FIR
+Nov,80.96,0.74,9.17,Jacksonville FIR
+Nov,65.25,0.98,15.05,Kansas City FIR
+Nov,70.62,0.2,2.83,Los Angeles FIR
+Nov,58.79,1.03,17.52,Salt Lake City FIR
+Nov,62.26,0.29,4.69,Miami FIR/UIR
+Nov,64.06,0.39,6.11,Memphis FIR
+Nov,61.15,1.23,20.1,Minneapolis FIR
+Nov,42.69,0.32,7.47,New York FIR
+Nov,47.76,0.11,2.22,Oakland FIR
+Nov,51.36,0.7,13.63,Cleveland FIR
+Nov,39.47,0.44,11.23,Seattle FIR
+Nov,72.75,0.29,3.97,Atlanta FIR
+Nov,40.49,2.3,56.71,New York Oceanic FIR
+Nov,2.0,0.13,66.32,Tirana FIR
+Nov,16.73,1.5,89.55,Sofia FIR
+Nov,10.97,0.03,3.03,Nicosia FIR
 Nov,9.82,0.51,52.19,Zagreb FIR
+Nov,21.88,0.25,11.36,Barcelona FIR
+Nov,48.27,0.85,17.68,Madrid FIR
+Nov,23.54,0.51,21.86,Bordeaux FIR
+Nov,8.12,0.18,22.47,Reims FIR
+Nov,39.75,0.74,18.65,Paris FIR
+Nov,29.36,0.42,14.27,Marseille FIR
+Nov,22.57,0.72,32.03,Brest FIR
+Nov,25.8,1.18,45.73,Athinai FIR
+Nov,14.92,0.83,55.61,Budapest FIR
+Nov,6.05,0.22,37.05,Brindisi FIR
+Nov,25.18,0.49,19.33,Milano FIR
+Nov,23.16,0.32,13.77,Roma FIR
+Nov,2.7,0.15,57.17,Ljubljana FIR
+Nov,14.52,0.75,51.6,Praha FIR
+Nov,1.79,0.0,0.32,Tel-Aviv FIR
+Nov,4.08,0.08,19.73,Malta FIR
+Nov,18.34,0.71,38.93,Wien FIR
+Nov,25.51,0.51,19.88,Lisboa FIR
+Nov,21.01,0.82,39.06,Santa Maria FIR
+Nov,5.25,0.35,65.72,Sarajevo FIR
+Nov,21.92,2.09,95.27,Bucarest FIR
+Nov,9.94,0.2,19.96,Switzerland FIR
+Nov,52.55,1.61,30.55,Ankara FIR
+Nov,25.62,0.56,22.03,Istanbul FIR
+Nov,0.62,0.09,149.15,Chisinau FIR
+Nov,1.6,0.16,102.85,Skopje FIR
+Nov,12.09,0.86,71.46,Beograd FIR
+Nov,5.45,0.3,54.75,Bratislava  FIR
+Nov,2.86,0.0,0.54,Santo Domingo FIR
+Nov,14.29,0.09,6.33,Central America FIR
+Nov,5.38,0.02,4.36,Kingston FIR
+Nov,0.18,-0.0,-8.83,Oceanica Mazatlan FIR
+Nov,75.62,0.58,7.69,Mexico FIR
+Nov,9.3,0.1,10.81,Panama FIR
+Nov,0.59,0.0,1.07,Port-Au-Prince FIR
+Nov,10.04,0.04,3.86,Habana FIR/UIR
+Nov,6.0,0.04,7.07,Nadi FIR
+Nov,1.2,0.0,2.97,Tahiti Oceanic FIR
+Nov,10.02,0.01,1.13,New Zealand FIR
+Nov,8.36,0.11,12.81,Auckland Oceanic FIR
+Nov,6.59,0.07,10.8,Kabul FIR
+Nov,16.56,0.0,0.12,Bahrain FIR
+Nov,43.7,0.04,0.89,Jeddah FIR
+Nov,34.78,0.08,2.31,Tehran FIR
+Nov,1.44,0.0,0.73,Amman FIR
+Nov,4.9,0.0,0.26,Kuwait FIR
+Nov,0.57,0.0,0.14,Beirut FIR
+Nov,14.54,0.0,0.18,Emirates FIR
+Nov,27.81,0.06,2.3,Muscat FIR
+Nov,18.81,0.08,4.47,Karachi FIR
+Nov,6.68,0.05,8.23,Lahore FIR
+Nov,17.93,0.06,3.27,Baghdad FIR
+Nov,2.23,0.02,7.44,Damascus FIR
+Nov,3.44,0.05,14.18,Sanaa FIR
+Nov,31.09,1.0,32.26,Alaska FIR
+Nov,34.91,0.15,4.36,Taipei FIR
+Nov,144.58,1.09,7.51,Fukuoka FIR
+Nov,34.62,0.1,2.82,Incheon FIR
+Nov,42.53,0.51,11.92,Manila FIR
+Nov,3.97,0.01,3.33,Cordoba FIR
+Nov,5.92,0.01,1.76,Ezeiza FIR
+Nov,1.54,0.0,0.81,Mendoza FIR
+Nov,1.55,0.01,5.17,Resistencia FIR
+Nov,1.57,0.0,0.45,Comodoro Rivadavia FIR
+Nov,6.36,0.19,29.3,Atlantico FIR
+Nov,14.81,0.39,26.04,Amazonica FIR
+Nov,24.34,0.2,8.35,Brasilia FIR
+Nov,23.25,0.14,5.92,Curitiba FIR
+Nov,22.25,0.27,12.22,Recife FIR
+Nov,0.42,0.0,5.8,Punta Arenas FIR
+Nov,6.8,0.0,0.16,Santiago FIR
+Nov,7.32,0.01,0.78,Antofagasta FIR
+Nov,0.61,0.03,50.7,Isla De Pascua FIR
+Nov,1.42,0.02,11.37,Puerto Montt FIR
+Nov,4.62,0.03,6.1,Guayaquil FIR/UIR
+Nov,1.0,0.01,9.0,Asuncion FIR/UIR
+Nov,6.19,0.12,19.83,Barranquilla FIR
+Nov,13.07,0.14,10.64,Bogota FIR
+Nov,3.27,0.04,13.29,La Paz FIR
+Nov,0.73,0.02,27.09,Paramaribo FIR
+Nov,0.57,0.02,42.26,Cayenne FIR
+Nov,17.72,0.16,9.27,Lima FIR
+Nov,1.52,0.0,0.63,Montevideo FIR
+Nov,2.24,0.06,25.69,Maiquetia FIR
+Nov,1.16,0.02,20.85,Georgetown FIR
+Nov,7.75,0.0,0.37,San Juan Oceanic FIR/UIR
+Nov,1.99,0.03,13.81,Curacao FIR
+Nov,5.96,0.07,11.35,Piarco FIR
+Nov,4.43,0.17,37.26,Almaty FIR
+Nov,5.83,0.31,53.61,Nur-Sultan FIR
+Nov,5.34,0.12,22.11,Shymkent FIR
+Nov,9.14,0.54,58.87,Aktobe FIR
+Nov,4.82,0.11,22.93,Baku FIR
+Nov,0.49,0.01,27.69,Bishkek FIR
+Nov,0.46,0.01,24.43,Osh FIR
+Nov,0.92,0.03,28.86,Yerevan FIR
+Nov,6.55,0.32,48.59,Yakutsk FIR
+Nov,2.45,0.1,40.47,Tibilisi FIR
+Nov,11.9,0.08,6.99,Khabarovsk FIR
+Nov,7.07,0.23,31.83,Magadan FIR
+Nov,5.41,0.08,14.14,Petropavlovsk-Kamchatsky FIR
+Nov,7.24,0.08,11.26,Irkutsk FIR
+Nov,3.48,0.37,105.04,Kiev FIR
+Nov,0.58,0.04,73.13,Dnipro FIR
+Nov,1.13,0.07,58.31,Simferopol FIR
+Nov,3.47,0.48,137.88,Lvov FIR
+Nov,1.62,0.26,162.0,Odessa FIR
+Nov,2.27,0.37,164.31,Arkhangelsk FIR
+Nov,1.24,0.35,280.06,Kotlas FIR
+Nov,8.38,1.62,193.61,Sankt-Peterburg FIR
+Nov,1.69,0.13,78.38,Murmansk FIR
+Nov,4.61,1.46,317.09,Vologda FIR
+Nov,1.13,0.16,137.7,Kaliningrad FIR
+Nov,10.6,2.11,199.52,Minsk FIR
+Nov,12.71,0.48,37.6,Krasnoyarsk FIR
+Nov,14.24,0.78,55.1,Novosibirsk FIR
+Nov,19.0,1.37,72.23,Rostov-Na-Donu FIR
+Nov,14.76,2.05,138.97,Yekaterinburg FIR
+Nov,11.49,1.15,100.48,Tyumen FIR
+Nov,2.33,0.01,4.06,Ashgabat FIR
+Nov,2.27,0.03,15.09,Turkmenbashi FIR
+Nov,0.45,0.01,13.26,Dashoguz FIR
+Nov,1.32,0.01,7.8,Turkmenabat FIR
+Nov,0.31,0.01,16.41,Dushanbe FIR
+Nov,1.98,0.05,25.42,Samarkand FIR
+Nov,2.93,0.06,18.93,Tashkent FIR
+Nov,44.12,5.71,129.44,Moscow FIR
+Nov,5.06,0.91,180.13,Syktyvkar FIR
+Nov,14.47,1.75,121.14,Samara FIR
+Nov,72.76,0.32,4.45,Mumbai FIR
+Nov,7.44,0.17,23.11,Colombo FIR
+Nov,5.25,0.04,7.91,Phnom Penh FIR
+Nov,41.48,0.1,2.45,Kolkata FIR
+Nov,5.26,0.01,1.63,Dhaka FIR
+Nov,27.95,0.01,0.54,Hong Kong FIR
+Nov,29.34,0.08,2.71,Delhi FIR
+Nov,8.79,0.04,4.82,Vientiane FIR
+Nov,1.05,0.0,0.99,Kathmandu FIR
+Nov,54.65,0.35,6.41,Chennai FIR
+Nov,1.28,0.01,4.73,Male FIR
+Nov,44.19,0.34,7.65,Bangkok FIR
+Nov,33.8,0.53,15.6,Ho Chi Minh FIR
+Nov,11.49,0.0,0.42,Hanoi FIR
+Nov,18.9,0.04,2.26,Yangon FIR
+Nov,36.62,0.53,14.53,U-Jung Pandang FIR
+Nov,7.72,0.1,13.09,Kota Kinabalu FIR
+Nov,42.69,0.63,14.72,Jakarta FIR
+Nov,27.02,0.31,11.33,Kuala Lumpur FIR
+Nov,24.85,0.44,17.61,Singapore FIR
+Nov,52.94,0.09,1.69,Brisbane FIR
+Nov,65.11,0.24,3.63,Melbourne FIR
+Nov,51.59,0.36,7.06,Beijing FIR
+Nov,102.59,0.06,0.58,Guangzhou FIR
+Nov,53.33,0.28,5.25,Wuhan FIR
+Nov,16.87,0.07,3.93,Sanya FIR
+Nov,1.33,0.01,6.3,Pyongyang FIR
+Nov,38.06,0.3,7.93,Lanzhou FIR
+Nov,13.88,0.27,19.12,Ulaanbaatar FIR
+Nov,64.17,0.05,0.8,Kunming FIR
+Nov,142.76,0.42,2.91,Shanghai FIR
+Nov,13.84,0.31,22.58,Urumqi FIR
+Nov,29.84,0.43,14.26,Shenyang FIR
+Dec,1087.21,41.93,38.57,European Airspace
+Dec,201.67,10.2,50.59,North Atlantic
+Dec,621.22,18.18,29.26,Continental Europe
+Dec,5129.83,109.77,21.4,Global
+Dec,1463.56,26.3,17.97,USA
+Dec,779.4,2.26,2.9,East Asia
+Dec,336.77,3.21,9.54,Southeast Asia
+Dec,200.63,2.02,10.07,Latin America
+Dec,361.08,4.05,11.22,Africa & Middle East
+Dec,851.97,4.0,4.7,China
+Dec,222.95,0.86,3.87,India
+Dec,2315.97,83.15,35.9,North Pacific
+Dec,26.75,2.03,76.04,Arctic
+Dec,0.5,0.0,4.81,Honiara FIR
+Dec,0.1,0.0,6.59,Nauru FIR
+Dec,2.2,0.03,11.96,Port Moresby FIR
+Dec,9.81,0.36,36.3,Nuuk FIR
+Dec,11.71,0.71,60.48,Reykjavik FIR
+Dec,29.87,0.64,21.41,Edmonton FIR
+Dec,12.78,0.62,48.5,Moncton FIR
+Dec,64.29,2.29,35.64,Gander FIR
+Dec,24.91,0.51,20.43,Montreal FIR
+Dec,13.0,0.28,21.55,Vancouver FIR
+Dec,23.8,0.6,25.26,Winnipeg FIR
+Dec,24.19,0.31,12.63,Toronto FIR
+Dec,12.95,0.3,23.5,Alger FIR
+Dec,3.01,0.03,8.51,Accra FIR
+Dec,4.2,0.05,11.78,Kano FIR
+Dec,4.3,0.17,39.25,Niamey FIR
+Dec,2.64,0.02,7.19,Tunis FIR
+Dec,14.31,0.38,26.55,Brussels FIR
+Dec,40.48,1.01,24.97,Langen FIR
+Dec,25.83,1.14,44.01,Munchen FIR
+Dec,23.53,1.25,53.17,Bremen FIR
+Dec,4.0,0.41,102.34,Tallinn FIR
+Dec,6.55,0.35,53.27,Helsinki FIR
+Dec,44.72,3.67,81.99,Shanwick FIR
+Dec,10.86,0.44,40.97,Scottish FIR
+Dec,58.93,1.15,19.52,London FIR
+Dec,18.7,0.68,36.36,Amsterdam FIR
+Dec,11.54,0.55,47.64,Shannon FIR
+Dec,10.17,0.45,44.5,Copenhagen FIR
+Dec,1.02,0.07,73.13,Bodo Oceanic FIR
+Dec,12.94,0.38,29.5,Polaris FIR
+Dec,27.2,1.7,62.61,Warszawa FIR
+Dec,22.47,1.3,57.89,Sweden FIR
+Dec,4.74,0.51,107.02,Riga FIR
+Dec,3.51,0.33,92.8,Vilnius FIR
+Dec,3.59,0.0,1.16,Cape Town FIR
+Dec,7.68,0.02,2.54,Johannesburg FIR
+Dec,0.83,0.01,9.49,Johannesburg Oceanic FIR
+Dec,1.62,0.02,12.38,Gaborone FIR
+Dec,3.58,0.1,28.59,Brazzaville FIR
+Dec,1.47,0.03,23.59,Mauritius FIR
+Dec,0.95,0.02,22.02,Lusaka FIR
+Dec,2.12,0.01,3.85,Antananarivo FIR
+Dec,2.94,0.09,31.74,Luanda FIR
+Dec,1.78,0.01,5.99,Beira FIR
+Dec,2.05,0.02,10.85,Seychelles FIR
+Dec,2.89,0.06,21.81,N'Djamena FIR
+Dec,1.32,0.01,4.17,Harare FIR
+Dec,0.53,0.01,10.34,Lilongwe FIR
+Dec,1.24,0.01,11.64,Windhoek FIR
+Dec,2.04,0.07,31.92,Kinshasa FIR
+Dec,13.9,0.06,4.43,Canarias FIR
+Dec,0.59,0.01,16.88,Roberts FIR
+Dec,23.0,0.35,15.11,Casablanca FIR
+Dec,13.57,0.41,30.17,Dakar FIR
+Dec,4.13,0.13,31.53,Sal Oceanic FIR
+Dec,5.95,0.01,1.83,Addis Abeba FIR
+Dec,0.04,0.0,43.2,Bujumbura FIR
+Dec,5.48,0.06,10.55,Mogadishu FIR/UIR
+Dec,22.34,0.06,2.74,Cairo FIR
+Dec,0.73,0.01,7.88,Asmara FIR
+Dec,4.3,0.02,3.9,Nairobi FIR
+Dec,1.79,0.03,15.15,Tripoli FIR
+Dec,0.06,0.0,11.59,Kigali FIR
+Dec,7.96,0.11,13.83,Khartoum FIR
+Dec,3.1,0.05,15.21,Dar-Es-Salaam FIR
+Dec,0.46,0.0,10.55,Entebbe FIR
+Dec,79.04,0.59,7.49,Albuquerque FIR
+Dec,104.25,1.73,16.62,Oakland Oceanic FIR
+Dec,65.43,0.96,14.66,Chicago FIR
+Dec,40.96,0.98,23.82,Boston FIR
+Dec,94.69,2.2,23.21,Washington FIR
+Dec,92.94,1.88,20.26,Denver FIR
+Dec,66.11,0.73,11.1,Fort Worth FIR
+Dec,69.56,1.11,15.95,Houston FIR
+Dec,65.93,1.33,20.11,Indianapolis FIR
+Dec,93.54,2.07,22.17,Jacksonville FIR
+Dec,71.44,1.7,23.8,Kansas City FIR
+Dec,75.25,0.43,5.75,Los Angeles FIR
+Dec,65.63,2.04,31.1,Salt Lake City FIR
+Dec,75.03,0.48,6.46,Miami FIR/UIR
+Dec,67.54,1.08,16.01,Memphis FIR
+Dec,66.25,2.15,32.44,Minneapolis FIR
+Dec,45.73,0.69,15.0,New York FIR
+Dec,49.59,0.48,9.6,Oakland FIR
+Dec,53.88,1.24,22.97,Cleveland FIR
+Dec,41.92,1.02,24.32,Seattle FIR
+Dec,77.3,1.4,18.1,Atlanta FIR
+Dec,48.35,1.95,40.35,New York Oceanic FIR
+Dec,2.01,0.04,19.45,Tirana FIR
+Dec,16.33,0.79,48.42,Sofia FIR
+Dec,11.16,0.03,3.12,Nicosia FIR
 Dec,9.79,0.27,27.09,Zagreb FIR
+Dec,22.06,0.08,3.55,Barcelona FIR
+Dec,48.98,0.99,20.25,Madrid FIR
+Dec,22.88,0.61,26.73,Bordeaux FIR
+Dec,7.94,0.19,23.67,Reims FIR
+Dec,39.42,0.97,24.63,Paris FIR
+Dec,29.89,0.46,15.53,Marseille FIR
+Dec,21.27,0.86,40.36,Brest FIR
+Dec,25.78,0.48,18.65,Athinai FIR
+Dec,15.03,0.42,27.62,Budapest FIR
+Dec,6.22,0.11,18.16,Brindisi FIR
+Dec,25.61,0.43,16.97,Milano FIR
+Dec,23.78,0.42,17.55,Roma FIR
+Dec,2.64,0.06,22.29,Ljubljana FIR
+Dec,14.25,0.72,50.84,Praha FIR
+Dec,1.83,0.0,0.14,Tel-Aviv FIR
+Dec,4.27,0.05,11.65,Malta FIR
+Dec,18.4,0.42,22.6,Wien FIR
+Dec,26.13,0.74,28.4,Lisboa FIR
+Dec,23.08,1.28,55.3,Santa Maria FIR
+Dec,5.23,0.14,26.3,Sarajevo FIR
+Dec,21.68,0.66,30.38,Bucarest FIR
+Dec,9.95,0.2,20.06,Switzerland FIR
+Dec,51.76,1.0,19.37,Ankara FIR
+Dec,24.4,0.4,16.52,Istanbul FIR
+Dec,0.59,0.02,28.59,Chisinau FIR
+Dec,1.59,0.05,29.88,Skopje FIR
+Dec,11.74,0.34,28.99,Beograd FIR
+Dec,5.24,0.21,39.98,Bratislava  FIR
+Dec,3.52,0.01,3.56,Santo Domingo FIR
+Dec,16.12,0.12,7.54,Central America FIR
+Dec,6.51,0.06,9.84,Kingston FIR
+Dec,0.25,0.0,18.17,Oceanica Mazatlan FIR
+Dec,86.82,0.66,7.65,Mexico FIR
+Dec,10.5,0.16,15.19,Panama FIR
+Dec,0.75,0.01,7.09,Port-Au-Prince FIR
+Dec,12.21,0.1,7.93,Habana FIR/UIR
+Dec,6.65,0.05,7.96,Nadi FIR
+Dec,1.5,0.01,6.73,Tahiti Oceanic FIR
+Dec,10.47,0.01,0.91,New Zealand FIR
+Dec,9.94,0.17,16.67,Auckland Oceanic FIR
+Dec,6.65,0.05,7.16,Kabul FIR
+Dec,17.11,0.05,2.66,Bahrain FIR
+Dec,47.68,0.19,3.94,Jeddah FIR
+Dec,38.3,0.18,4.63,Tehran FIR
+Dec,1.56,0.0,1.71,Amman FIR
+Dec,5.01,0.03,5.25,Kuwait FIR
+Dec,0.62,0.0,2.08,Beirut FIR
+Dec,15.16,0.02,1.22,Emirates FIR
+Dec,29.22,0.08,2.73,Muscat FIR
+Dec,19.14,0.06,3.1,Karachi FIR
+Dec,7.04,0.05,7.43,Lahore FIR
+Dec,18.19,0.04,2.43,Baghdad FIR
+Dec,2.75,0.01,2.16,Damascus FIR
+Dec,3.76,0.07,18.61,Sanaa FIR
+Dec,30.97,0.49,15.91,Alaska FIR
+Dec,36.0,0.04,1.19,Taipei FIR
+Dec,149.89,0.55,3.66,Fukuoka FIR
+Dec,36.54,0.08,2.06,Incheon FIR
+Dec,44.72,0.42,9.43,Manila FIR
+Dec,4.29,0.01,2.0,Cordoba FIR
+Dec,6.22,0.0,0.05,Ezeiza FIR
+Dec,1.64,0.0,0.11,Mendoza FIR
+Dec,1.74,0.01,3.13,Resistencia FIR
+Dec,1.75,-0.01,-4.34,Comodoro Rivadavia FIR
+Dec,6.87,0.18,25.76,Atlantico FIR
+Dec,16.0,0.33,20.66,Amazonica FIR
+Dec,26.03,0.24,9.28,Brasilia FIR
+Dec,25.52,0.12,4.78,Curitiba FIR
+Dec,25.15,0.26,10.14,Recife FIR
+Dec,0.51,0.0,6.85,Punta Arenas FIR
+Dec,6.92,0.0,0.18,Santiago FIR
+Dec,7.34,0.02,2.28,Antofagasta FIR
+Dec,0.67,0.01,11.52,Isla De Pascua FIR
+Dec,1.63,0.01,7.44,Puerto Montt FIR
+Dec,4.95,0.03,5.99,Guayaquil FIR/UIR
+Dec,1.1,0.01,5.5,Asuncion FIR/UIR
+Dec,6.98,0.21,30.11,Barranquilla FIR
+Dec,14.13,0.13,9.31,Bogota FIR
+Dec,3.77,0.06,16.3,La Paz FIR
+Dec,0.82,0.02,21.84,Paramaribo FIR
+Dec,0.63,0.02,33.65,Cayenne FIR
+Dec,18.09,0.18,9.9,Lima FIR
+Dec,1.77,0.0,1.55,Montevideo FIR
+Dec,2.43,0.06,23.23,Maiquetia FIR
+Dec,1.39,0.03,21.0,Georgetown FIR
+Dec,10.11,0.09,8.97,San Juan Oceanic FIR/UIR
+Dec,2.35,0.04,18.55,Curacao FIR
+Dec,6.94,0.05,7.82,Piarco FIR
+Dec,4.62,0.44,95.06,Almaty FIR
+Dec,6.1,0.79,128.87,Nur-Sultan FIR
+Dec,5.44,0.37,68.21,Shymkent FIR
+Dec,9.43,0.88,93.06,Aktobe FIR
+Dec,4.8,0.15,31.49,Baku FIR
+Dec,0.52,0.02,39.24,Bishkek FIR
+Dec,0.55,0.01,26.56,Osh FIR
+Dec,0.93,0.02,19.06,Yerevan FIR
+Dec,7.68,0.51,66.86,Yakutsk FIR
+Dec,2.51,0.06,25.1,Tibilisi FIR
+Dec,12.33,0.11,9.19,Khabarovsk FIR
+Dec,8.46,0.47,55.92,Magadan FIR
+Dec,5.97,0.09,15.61,Petropavlovsk-Kamchatsky FIR
+Dec,7.18,0.33,45.45,Irkutsk FIR
+Dec,3.33,0.16,46.98,Kiev FIR
+Dec,0.53,0.04,68.1,Dnipro FIR
+Dec,1.15,0.04,32.73,Simferopol FIR
+Dec,3.35,0.14,41.98,Lvov FIR
+Dec,1.53,0.08,49.95,Odessa FIR
+Dec,2.44,0.36,147.87,Arkhangelsk FIR
+Dec,1.21,0.33,268.2,Kotlas FIR
+Dec,8.53,1.41,164.74,Sankt-Peterburg FIR
+Dec,1.58,0.19,123.37,Murmansk FIR
+Dec,4.63,1.2,259.8,Vologda FIR
+Dec,1.17,0.11,90.14,Kaliningrad FIR
+Dec,10.87,1.3,119.64,Minsk FIR
+Dec,12.09,1.29,107.03,Krasnoyarsk FIR
+Dec,14.3,2.69,188.2,Novosibirsk FIR
+Dec,18.55,1.29,69.77,Rostov-Na-Donu FIR
+Dec,15.06,3.15,209.45,Yekaterinburg FIR
+Dec,11.69,2.85,243.79,Tyumen FIR
+Dec,2.44,0.07,28.12,Ashgabat FIR
+Dec,2.24,0.08,37.0,Turkmenbashi FIR
+Dec,0.44,0.03,65.83,Dashoguz FIR
+Dec,1.4,0.03,21.88,Turkmenabat FIR
+Dec,0.31,0.01,19.95,Dushanbe FIR
+Dec,2.07,0.06,29.96,Samarkand FIR
+Dec,3.05,0.13,42.76,Tashkent FIR
+Dec,44.95,6.31,140.46,Moscow FIR
+Dec,5.08,1.21,238.98,Syktyvkar FIR
+Dec,14.45,2.22,153.74,Samara FIR
+Dec,76.71,0.29,3.72,Mumbai FIR
+Dec,8.35,0.18,21.69,Colombo FIR
+Dec,5.11,0.02,3.66,Phnom Penh FIR
+Dec,42.63,0.12,2.84,Kolkata FIR
+Dec,5.21,0.0,0.29,Dhaka FIR
+Dec,28.99,0.06,2.22,Hong Kong FIR
+Dec,29.23,0.05,1.84,Delhi FIR
+Dec,8.96,0.01,1.64,Vientiane FIR
+Dec,0.92,0.0,0.89,Kathmandu FIR
+Dec,58.38,0.41,7.1,Chennai FIR
+Dec,1.53,0.02,12.92,Male FIR
+Dec,45.67,0.09,1.93,Bangkok FIR
+Dec,37.62,0.56,14.78,Ho Chi Minh FIR
+Dec,13.64,0.0,0.24,Hanoi FIR
+Dec,19.11,0.03,1.57,Yangon FIR
+Dec,36.6,0.58,15.71,U-Jung Pandang FIR
+Dec,8.04,0.08,10.35,Kota Kinabalu FIR
+Dec,44.84,0.62,13.72,Jakarta FIR
+Dec,28.04,0.15,5.44,Kuala Lumpur FIR
+Dec,26.11,0.44,16.79,Singapore FIR
+Dec,56.37,0.17,2.99,Brisbane FIR
+Dec,69.06,0.36,5.27,Melbourne FIR
+Dec,49.45,0.25,5.11,Beijing FIR
+Dec,106.67,0.0,0.05,Guangzhou FIR
+Dec,53.21,0.21,4.03,Wuhan FIR
+Dec,17.47,0.12,6.96,Sanya FIR
+Dec,1.5,0.01,6.89,Pyongyang FIR
+Dec,38.57,0.33,8.53,Lanzhou FIR
+Dec,13.6,0.38,28.18,Ulaanbaatar FIR
+Dec,67.78,0.04,0.52,Kunming FIR
+Dec,146.38,0.24,1.67,Shanghai FIR
+Dec,13.07,0.46,35.16,Urumqi FIR
+Dec,30.06,0.38,12.56,Shenyang FIR
