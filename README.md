@@ -79,6 +79,7 @@ The analysis supports ongoing research into **climate-optimized flight planning 
 * Forcing per **flight distance**, **hour**, **month**, **flight level**, and **FIR**
 * Comparison of **traffic density** and **warming intensity**
 
+
 **Figures:**
 
 * ![PQ File Availability](figures/2_forcing/forcing_1_pq_file_availability@2x.png)

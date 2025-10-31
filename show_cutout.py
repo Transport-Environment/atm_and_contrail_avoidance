@@ -80,7 +80,7 @@ plotter.add_mesh(
     thresh,
     #scalars="ef_per_m",
     color="#c2447a",
-    lighting=True,
+    lighting=False,
     opacity=0.6,
     specular=0.4,
     show_edges=True,
