@@ -72,7 +72,7 @@ mask = np.where(data > 0, data, np.nan)
 grid["ef_per_m"] = mask.flatten(order="F")
 
 # --- Visualization ---
-thresh = grid.threshold(value=5e8)
+thresh = grid.threshold(value=1.54e9)
 
 plotter = pv.Plotter()
 

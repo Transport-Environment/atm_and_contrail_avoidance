@@ -9,3 +9,8 @@ data/airspace_capacity/airspace_capacity_2024_partial.csv
 data/issr/contrail_region_details_2024.csv
 data/airspace_capacity/airspace_capacity.parquet
 data/airspace_capacity/airspace_capacity_merged.parquet
+data/airspace_capacity/airspace_capacity_euro.parquet
+data/airspace_capacity/airspace_capacity_merged_old.parquet
+data/airspace_capacity/airspace_capacity_mini.parquet
+data/issr/contrail_region_details_2024_partial.csv
+data/issr/contrail_region_details_2024_old.csv

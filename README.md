@@ -1,6 +1,6 @@
-# Contrail Avoidance and Atmospheric Forcing Analysis (20251017_contrail_avoidance_atm)
+# Air traffic management implications of contrail avoidance
 
-This repository analyzes the **climatic impact of aviation contrails** using a combination of **traffic data, meteorological datasets, and contrail forcing simulations**.
+This repository analyses the **climatic impact of aviation contrails** using a combination of **traffic data, meteorological datasets, and contrail forcing simulations**.
 It contains Jupyter notebooks, helper scripts, data, and visualizations exploring how **flight timing, routes, and airspace utilization** contribute to contrail formation and radiative forcing.
 
 

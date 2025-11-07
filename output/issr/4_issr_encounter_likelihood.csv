@@ -1,253 +1,757 @@
 region,threshold,flight_level,probability
+Africa_Middle_East,Warming,270,0.00010640687624880292
+Africa_Middle_East,Very warming,270,0.0
 Africa_Middle_East,Extremely warming,270,0.0
+Africa_Middle_East,Warming,280,0.0048947163074449344
+Africa_Middle_East,Very warming,280,0.0005556803537437486
 Africa_Middle_East,Extremely warming,280,0.0
+Africa_Middle_East,Warming,290,0.011338243813622445
+Africa_Middle_East,Very warming,290,0.004161691159953181
 Africa_Middle_East,Extremely warming,290,0.0
+Africa_Middle_East,Warming,300,0.013797424953594779
+Africa_Middle_East,Very warming,300,0.0048119554036958655
 Africa_Middle_East,Extremely warming,300,3.546895874960098e-05
+Africa_Middle_East,Warming,310,0.03085799411215285
+Africa_Middle_East,Very warming,310,0.013702841063595842
 Africa_Middle_East,Extremely warming,310,0.0006502642437426846
+Africa_Middle_East,Warming,320,0.041687849517031014
+Africa_Middle_East,Very warming,320,0.02247549686099715
 Africa_Middle_East,Extremely warming,320,0.0014896962674832408
+Africa_Middle_East,Warming,330,0.042030716118277155
+Africa_Middle_East,Very warming,330,0.027618495879689293
 Africa_Middle_East,Extremely warming,330,0.00436268192620092
+Africa_Middle_East,Warming,340,0.03338811316962438
+Africa_Middle_East,Very warming,340,0.011953039098615528
 Africa_Middle_East,Extremely warming,340,0.001371466404984571
+Africa_Middle_East,Warming,350,0.03801090079332238
+Africa_Middle_East,Very warming,350,0.016646764639812725
 Africa_Middle_East,Extremely warming,350,0.002991215521216349
+Africa_Middle_East,Warming,360,0.04279921022451851
+Africa_Middle_East,Very warming,360,0.015925562478570836
 Africa_Middle_East,Extremely warming,360,0.004350858939951053
+Africa_Middle_East,Warming,370,0.08974828862274033
+Africa_Middle_East,Very warming,370,0.04055284283704378
 Africa_Middle_East,Extremely warming,370,0.007318428488667668
+Africa_Middle_East,Warming,380,0.1155105756612005
+Africa_Middle_East,Very warming,380,0.05289604048190492
 Africa_Middle_East,Extremely warming,380,0.014329459334838793
+Africa_Middle_East,Warming,390,0.10672609687754933
+Africa_Middle_East,Very warming,390,0.04334306759201239
 Africa_Middle_East,Extremely warming,390,0.011243659923623509
+Africa_Middle_East,Warming,400,0.1268961114198224
+Africa_Middle_East,Very warming,400,0.059978009245575246
 Africa_Middle_East,Extremely warming,400,0.01784088625104929
+Africa_Middle_East,Warming,410,0.12129201593738546
+Africa_Middle_East,Very warming,410,0.04264551140327024
 Africa_Middle_East,Extremely warming,410,0.012934346957354488
+Africa_Middle_East,Warming,420,0.11098237192750145
+Africa_Middle_East,Very warming,420,0.037892670930823706
 Africa_Middle_East,Extremely warming,420,0.008276090374906894
+Africa_Middle_East,Warming,430,0.12547735306983837
+Africa_Middle_East,Very warming,430,0.05001123183693738
 Africa_Middle_East,Extremely warming,430,0.015097953441080149
+Africa_Middle_East,Warming,440,0.11968408980740355
+Africa_Middle_East,Very warming,440,0.03736063654957969
 Africa_Middle_East,Extremely warming,440,0.008583488017403437
+Arctic,Warming,270,0.2860858585858586
+Arctic,Very warming,270,0.1260227272727273
 Arctic,Extremely warming,270,0.007335858585858586
+Arctic,Warming,280,0.2805681818181818
+Arctic,Very warming,280,0.13771464646464646
 Arctic,Extremely warming,280,0.013838383838383839
+Arctic,Warming,290,0.2753787878787879
+Arctic,Very warming,290,0.13934343434343435
 Arctic,Extremely warming,290,0.024431818181818183
+Arctic,Warming,300,0.2336868686868687
+Arctic,Very warming,300,0.10414141414141415
 Arctic,Extremely warming,300,0.026287878787878787
+Arctic,Warming,310,0.19248737373737373
+Arctic,Very warming,310,0.07785353535353536
 Arctic,Extremely warming,310,0.025315656565656566
+Arctic,Warming,320,0.1766919191919192
+Arctic,Very warming,320,0.06512626262626263
 Arctic,Extremely warming,320,0.0273989898989899
+Arctic,Warming,330,0.16476010101010102
+Arctic,Very warming,330,0.05580808080808081
 Arctic,Extremely warming,330,0.022891414141414143
+Arctic,Warming,340,0.1418560606060606
+Arctic,Very warming,340,0.0335479797979798
 Arctic,Extremely warming,340,0.014797979797979798
+Arctic,Warming,350,0.12243686868686869
+Arctic,Very warming,350,0.03722222222222222
 Arctic,Extremely warming,350,0.01967171717171717
+Arctic,Warming,360,0.1211489898989899
+Arctic,Very warming,360,0.040113636363636365
 Arctic,Extremely warming,360,0.028636363636363637
+Arctic,Warming,370,0.0910479797979798
+Arctic,Very warming,370,0.028409090909090908
 Arctic,Extremely warming,370,0.018674242424242423
+Arctic,Warming,380,0.07761363636363636
+Arctic,Very warming,380,0.018787878787878787
 Arctic,Extremely warming,380,0.010997474747474747
+Arctic,Warming,390,0.06833333333333333
+Arctic,Very warming,390,0.011868686868686869
 Arctic,Extremely warming,390,0.006982323232323232
+Arctic,Warming,400,0.04619949494949495
+Arctic,Very warming,400,0.01871212121212121
 Arctic,Extremely warming,400,0.009785353535353536
+Arctic,Warming,410,0.03857323232323232
+Arctic,Very warming,410,0.023194444444444445
 Arctic,Extremely warming,410,0.017386363636363637
+Arctic,Warming,420,0.027853535353535352
+Arctic,Very warming,420,0.013207070707070707
 Arctic,Extremely warming,420,0.007626262626262626
+Arctic,Warming,430,0.004191919191919192
+Arctic,Very warming,430,0.0
 Arctic,Extremely warming,430,0.0
+Arctic,Warming,440,6.313131313131313e-05
+Arctic,Very warming,440,0.0
 Arctic,Extremely warming,440,0.0
+China,Warming,270,0.0660230457801308
+China,Very warming,270,0.00178364145975482
 China,Extremely warming,270,0.0
+China,Warming,280,0.0766116474618499
+China,Very warming,280,0.003369100535092438
 China,Extremely warming,280,0.0
+China,Warming,290,0.07253475269669601
+China,Very warming,290,0.002717929843435916
 China,Extremely warming,290,0.0
+China,Warming,300,0.05101780810282835
+China,Very warming,300,0.0012174060757056708
 China,Extremely warming,300,0.0
+China,Warming,310,0.04801676056736785
+China,Very warming,310,0.0015005237677302454
 China,Extremely warming,310,0.0
+China,Warming,320,0.048130007644177686
+China,Very warming,320,0.001358964921717958
 China,Extremely warming,320,0.0
+China,Warming,330,0.046091560261600745
+China,Very warming,330,0.0017553296905523626
 China,Extremely warming,330,0.0
+China,Warming,340,0.03830582373092495
+China,Very warming,340,0.0012457178449081284
 China,Extremely warming,340,0.0
+China,Warming,350,0.03977803572945273
+China,Very warming,350,0.00048130007644177683
 China,Extremely warming,350,0.0
+China,Warming,360,0.0411936241895756
+China,Very warming,360,0.00045298830723931936
 China,Extremely warming,360,0.0
+China,Warming,370,0.03674867642478979
+China,Very warming,370,0.00014155884601228731
 China,Extremely warming,370,0.0
+China,Warming,380,0.025905268820248576
+China,Very warming,380,0.0010192236912884686
 China,Extremely warming,380,0.0
+China,Warming,390,0.022479544746751224
+China,Very warming,390,0.0014439002293253306
 China,Extremely warming,390,0.0
+China,Warming,400,0.006540018685767673
+China,Very warming,400,0.0
 China,Extremely warming,400,0.0
+China,Warming,410,0.0010758472296933835
+China,Very warming,410,0.0
 China,Extremely warming,410,0.0
+China,Warming,420,2.831176920245746e-05
+China,Very warming,420,0.0
 China,Extremely warming,420,0.0
+China,Warming,430,0.0
+China,Very warming,430,0.0
 China,Extremely warming,430,0.0
+China,Warming,440,0.0
+China,Very warming,440,0.0
 China,Extremely warming,440,0.0
+East_Asia,Warming,270,0.018259935553168637
+East_Asia,Very warming,270,0.0
 East_Asia,Extremely warming,270,0.0
+East_Asia,Warming,280,0.01654930978239249
+East_Asia,Very warming,280,0.0005967299200381908
 East_Asia,Extremely warming,280,0.0
+East_Asia,Warming,290,0.01802124358515336
+East_Asia,Very warming,290,0.0010343318613995306
 East_Asia,Extremely warming,290,0.0
+East_Asia,Warming,300,0.022039225046743844
+East_Asia,Very warming,300,0.0012332418347455942
 East_Asia,Extremely warming,300,0.0
+East_Asia,Warming,310,0.014719338027608704
+East_Asia,Very warming,310,0.0007956398933842543
 East_Asia,Extremely warming,310,0.0
+East_Asia,Warming,320,0.008831602816565223
+East_Asia,Very warming,320,0.00023869196801527628
 East_Asia,Extremely warming,320,0.0
+East_Asia,Warming,330,0.00819509090185782
+East_Asia,Very warming,330,0.0005171659306997653
 East_Asia,Extremely warming,330,0.0
+East_Asia,Warming,340,0.009110076779249712
+East_Asia,Very warming,340,0.00047738393603055255
 East_Asia,Extremely warming,340,0.0
+East_Asia,Warming,350,0.009985280661972391
+East_Asia,Very warming,350,0.0009547678720611051
 East_Asia,Extremely warming,350,0.0
+East_Asia,Warming,360,0.006086645184389545
+East_Asia,Very warming,360,0.0006365119147074034
 East_Asia,Extremely warming,360,0.0
+East_Asia,Warming,370,0.0007160759040458289
+East_Asia,Very warming,370,0.0
 East_Asia,Extremely warming,370,0.0
+East_Asia,Warming,380,0.0017106257707761468
+East_Asia,Very warming,380,0.0
 East_Asia,Extremely warming,380,0.0
+East_Asia,Warming,390,0.0030234315948601664
+East_Asia,Very warming,390,0.00023869196801527628
 East_Asia,Extremely warming,390,0.0
+East_Asia,Warming,400,0.0040577634562596965
+East_Asia,Very warming,400,0.0011934598400763815
 East_Asia,Extremely warming,400,7.956398933842543e-05
+East_Asia,Warming,410,0.0045351473922902496
+East_Asia,Very warming,410,0.0014321518080916578
 East_Asia,Extremely warming,410,0.000278473962684489
+East_Asia,Warming,420,0.004177109440267335
+East_Asia,Very warming,420,0.0015117157974300832
 East_Asia,Extremely warming,420,0.00015912797867685086
+East_Asia,Warming,430,0.004734057365636313
+East_Asia,Very warming,430,0.0006365119147074034
 East_Asia,Extremely warming,430,3.9781994669212715e-05
+East_Asia,Warming,440,0.004376019413613399
+East_Asia,Very warming,440,0.0003182559573537017
 East_Asia,Extremely warming,440,7.956398933842543e-05
+Eurocontrol,Warming,270,0.17326723971242244
+Eurocontrol,Very warming,270,0.05030849549121975
 Eurocontrol,Extremely warming,270,0.005554676651022166
+Eurocontrol,Warming,280,0.20416952310640019
+Eurocontrol,Very warming,280,0.06345690731072791
 Eurocontrol,Extremely warming,280,0.009738262229956583
+Eurocontrol,Warming,290,0.22325932957162192
+Eurocontrol,Very warming,290,0.09442950306737682
 Eurocontrol,Extremely warming,290,0.018386682838510082
+Eurocontrol,Warming,300,0.22424370264901827
+Eurocontrol,Very warming,300,0.09293536536061453
 Eurocontrol,Extremely warming,300,0.023695266220183163
+Eurocontrol,Warming,310,0.2598569143419642
+Eurocontrol,Very warming,310,0.10548612209741778
 Eurocontrol,Extremely warming,310,0.02397651567086783
+Eurocontrol,Warming,320,0.29522403276556103
+Eurocontrol,Very warming,320,0.14653096380671132
 Eurocontrol,Extremely warming,320,0.02872260015117158
+Eurocontrol,Warming,330,0.2993724621631598
+Eurocontrol,Very warming,330,0.16521647418657384
 Eurocontrol,Extremely warming,330,0.042521401325388036
+Eurocontrol,Warming,340,0.258186995728524
+Eurocontrol,Very warming,340,0.08738068870959237
 Eurocontrol,Extremely warming,340,0.021796832428061665
+Eurocontrol,Warming,350,0.24407178892228726
+Eurocontrol,Very warming,350,0.08428694475206103
 Eurocontrol,Extremely warming,350,0.024328077484223665
+Eurocontrol,Warming,360,0.24329835293290442
+Eurocontrol,Very warming,360,0.07187681274060012
 Eurocontrol,Extremely warming,360,0.027931586071120954
+Eurocontrol,Warming,370,0.17899769727012252
+Eurocontrol,Very warming,370,0.05443934679815079
 Eurocontrol,Extremely warming,370,0.025154247745609874
+Eurocontrol,Warming,380,0.16231608922638824
+Eurocontrol,Very warming,380,0.047372954349698536
 Eurocontrol,Extremely warming,380,0.02239448751076658
+Eurocontrol,Warming,390,0.14018527307563852
+Eurocontrol,Very warming,390,0.029724551319235706
 Eurocontrol,Extremely warming,390,0.012972630912830248
+Eurocontrol,Warming,400,0.07133189192989857
+Eurocontrol,Very warming,400,0.016453092865052997
 Eurocontrol,Extremely warming,400,0.007664047531157165
+Eurocontrol,Warming,410,0.051292868568616076
+Eurocontrol,Very warming,410,0.013869113536887624
 Eurocontrol,Extremely warming,410,0.006609362091089666
+Eurocontrol,Warming,420,0.022904252140132537
+Eurocontrol,Very warming,420,0.002935541141521208
 Eurocontrol,Extremely warming,420,0.0012304663467454166
+Eurocontrol,Warming,430,0.0016523405227724165
+Eurocontrol,Very warming,430,0.0
 Eurocontrol,Extremely warming,430,0.0
+Eurocontrol,Warming,440,0.0008437483520539998
+Eurocontrol,Very warming,440,0.0
 Eurocontrol,Extremely warming,440,0.0
+Eurocontrol + North Atlantic,Warming,270,0.16417036807492338
+Eurocontrol + North Atlantic,Very warming,270,0.0613458205649095
 Eurocontrol + North Atlantic,Extremely warming,270,0.005382823170241825
+Eurocontrol + North Atlantic,Warming,280,0.18344064547969102
+Eurocontrol + North Atlantic,Very warming,280,0.06690080225871983
 Eurocontrol + North Atlantic,Extremely warming,280,0.00941133262174477
+Eurocontrol + North Atlantic,Warming,290,0.19168130014117
+Eurocontrol + North Atlantic,Very warming,290,0.08811073236235926
 Eurocontrol + North Atlantic,Extremely warming,290,0.015712334584351936
+Eurocontrol + North Atlantic,Warming,300,0.18717074682367524
+Eurocontrol + North Atlantic,Very warming,300,0.0858497170861596
 Eurocontrol + North Atlantic,Extremely warming,300,0.020085161082991885
+Eurocontrol + North Atlantic,Warming,310,0.1731799974750083
+Eurocontrol + North Atlantic,Very warming,310,0.06909295412549209
 Eurocontrol + North Atlantic,Extremely warming,310,0.015712334584351936
+Eurocontrol + North Atlantic,Warming,320,0.20527034626817708
+Eurocontrol + North Atlantic,Very warming,320,0.09580047974841902
 Eurocontrol + North Atlantic,Extremely warming,320,0.01875380183406214
+Eurocontrol + North Atlantic,Warming,330,0.21432588460788027
+Eurocontrol + North Atlantic,Very warming,330,0.11070940788945127
 Eurocontrol + North Atlantic,Extremely warming,330,0.027763431234147068
+Eurocontrol + North Atlantic,Warming,340,0.18399155275511023
+Eurocontrol + North Atlantic,Very warming,340,0.059934120671647786
 Eurocontrol + North Atlantic,Extremely warming,340,0.014243248516567388
+Eurocontrol + North Atlantic,Warming,350,0.19062539452994984
+Eurocontrol + North Atlantic,Very warming,350,0.06613182752011386
 Eurocontrol + North Atlantic,Extremely warming,350,0.015907447577729574
+Eurocontrol + North Atlantic,Warming,360,0.19386197477303768
+Eurocontrol + North Atlantic,Very warming,360,0.06359535860620459
 Eurocontrol + North Atlantic,Extremely warming,360,0.019626071686809216
+Eurocontrol + North Atlantic,Warming,370,0.14729883276521022
+Eurocontrol + North Atlantic,Very warming,370,0.050591651459330415
 Eurocontrol + North Atlantic,Extremely warming,370,0.017801191336983095
+Eurocontrol + North Atlantic,Warming,380,0.1312651356035304
+Eurocontrol + North Atlantic,Very warming,380,0.04393485521468168
 Eurocontrol + North Atlantic,Extremely warming,380,0.015838584168302174
+Eurocontrol + North Atlantic,Warming,390,0.1068301024917077
+Eurocontrol + North Atlantic,Very warming,390,0.025433552548520012
 Eurocontrol + North Atlantic,Extremely warming,390,0.00973269519907264
+Eurocontrol + North Atlantic,Warming,400,0.0486979077000769
+Eurocontrol + North Atlantic,Very warming,400,0.010811555280101918
 Eurocontrol + North Atlantic,Extremely warming,400,0.005004074418391121
+Eurocontrol + North Atlantic,Warming,410,0.0334905714515259
+Eurocontrol + North Atlantic,Very warming,410,0.009055538339703198
 Eurocontrol + North Atlantic,Extremely warming,410,0.004315440324117114
+Eurocontrol + North Atlantic,Warming,420,0.01495483708065053
+Eurocontrol + North Atlantic,Very warming,420,0.0019166982290626541
 Eurocontrol + North Atlantic,Extremely warming,420,0.0008034064433196755
+Eurocontrol + North Atlantic,Warming,430,0.0010788600810292784
+Eurocontrol + North Atlantic,Very warming,430,0.0
 Eurocontrol + North Atlantic,Extremely warming,430,0.0
+Eurocontrol + North Atlantic,Warming,440,0.000550907275419206
+Eurocontrol + North Atlantic,Very warming,440,0.0
 Eurocontrol + North Atlantic,Extremely warming,440,0.0
+Europe,Warming,270,0.2792232711643257
+Europe,Very warming,270,0.05050272469107376
 Europe,Extremely warming,270,0.0032235781717706653
+Europe,Warming,280,0.31276383452298717
+Europe,Very warming,280,0.05311228797298335
 Europe,Extremely warming,280,0.0022258039757464118
+Europe,Warming,290,0.3458438867142528
+Europe,Very warming,290,0.09156497045053343
 Europe,Extremely warming,290,0.009363727070381456
+Europe,Warming,300,0.33310307774963543
+Europe,Very warming,300,0.11896538491058409
 Europe,Extremely warming,300,0.017959935528436565
+Europe,Warming,310,0.36065699593215134
+Europe,Very warming,310,0.1733057026632896
 Europe,Extremely warming,310,0.021567273006370406
+Europe,Warming,320,0.4084734054800829
+Europe,Very warming,320,0.24414767058101158
 Europe,Extremely warming,320,0.03522910430577941
+Europe,Warming,330,0.41077596131706196
+Europe,Very warming,330,0.28060480466651316
 Europe,Extremely warming,330,0.0728375163097705
+Europe,Warming,340,0.3522142911965615
+Europe,Very warming,340,0.16148591603346382
 Europe,Extremely warming,340,0.026939903292654846
+Europe,Warming,350,0.3091564970450533
+Europe,Very warming,350,0.14536802517461048
 Europe,Extremely warming,350,0.03392432266482462
+Europe,Warming,360,0.29372937293729373
+Europe,Very warming,360,0.10046818635351908
 Europe,Extremely warming,360,0.015120116662829074
+Europe,Warming,370,0.17107989868754317
+Europe,Very warming,370,0.05633586614475401
 Europe,Extremely warming,370,0.01396883874433955
+Europe,Warming,380,0.14659605495433264
+Europe,Very warming,380,0.04021797528590068
 Europe,Extremely warming,380,0.010131245682707806
+Europe,Warming,390,0.11696983651853557
+Europe,Very warming,390,0.01972522833678717
 Europe,Extremely warming,390,0.006370404482308696
+Europe,Warming,400,0.03400107452605726
+Europe,Very warming,400,0.0
 Europe,Extremely warming,400,0.0
+Europe,Warming,410,0.022795302786092562
+Europe,Very warming,410,0.0
 Europe,Extremely warming,410,0.0
+Europe,Warming,420,0.0013047816409547932
+Europe,Very warming,420,0.0
 Europe,Extremely warming,420,0.0
+Europe,Warming,430,0.0
+Europe,Very warming,430,0.0
 Europe,Extremely warming,430,0.0
+Europe,Warming,440,0.0
+Europe,Very warming,440,0.0
 Europe,Extremely warming,440,0.0
+Global,Warming,270,0.08319682787311493
+Global,Very warming,270,0.026798405269544114
 Global,Extremely warming,270,0.0014289738256196914
+Global,Warming,280,0.08846420523487607
+Global,Very warming,280,0.031618348067256025
 Global,Extremely warming,280,0.0019154099497313225
+Global,Warming,290,0.09153774484312706
+Global,Very warming,290,0.03839053562142486
 Global,Extremely warming,290,0.0034288871554862196
+Global,Warming,300,0.08560842433697348
+Global,Very warming,300,0.03657804645519154
 Global,Extremely warming,300,0.004796108511007107
+Global,Warming,310,0.07575619691454324
+Global,Very warming,310,0.03140925637025481
 Global,Extremely warming,310,0.005029034494713122
+Global,Warming,320,0.07853614144565782
+Global,Very warming,320,0.03468647079216502
 Global,Extremely warming,320,0.005969405442884382
+Global,Warming,330,0.0795729329173167
+Global,Very warming,330,0.03708723348933957
 Global,Extremely warming,330,0.007487216155312879
+Global,Warming,340,0.06824947997919917
+Global,Very warming,340,0.025222092217022013
 Global,Extremely warming,340,0.006640015600624025
+Global,Warming,350,0.06298101924076963
+Global,Very warming,350,0.02140427283758017
 Global,Extremely warming,350,0.0062489166233316
+Global,Warming,360,0.06148704281504593
+Global,Very warming,360,0.019507280291211647
 Global,Extremely warming,360,0.0070094470445484485
+Global,Warming,370,0.05659018027387762
+Global,Very warming,370,0.018761917143352402
 Global,Extremely warming,370,0.0048307765643959095
+Global,Warming,380,0.06374046628531808
+Global,Very warming,380,0.021820289478245797
 Global,Extremely warming,380,0.006020324146299185
+Global,Warming,390,0.05568231062575836
+Global,Very warming,390,0.017286358120991507
 Global,Extremely warming,390,0.004840526954411509
+Global,Warming,400,0.056742936384122034
+Global,Very warming,400,0.023372768244063095
 Global,Extremely warming,400,0.0075608857687640835
+Global,Warming,410,0.052771277517767376
+Global,Very warming,410,0.019343690414283236
 Global,Extremely warming,410,0.008026737736176114
+Global,Warming,420,0.04471203848153926
+Global,Very warming,420,0.015381781937944185
 Global,Extremely warming,420,0.005869734789391575
+Global,Warming,430,0.047249306638932224
+Global,Very warming,430,0.018845337146819206
 Global,Extremely warming,430,0.007579303172126885
+Global,Warming,440,0.04474345640492287
+Global,Very warming,440,0.015802132085283412
 Global,Extremely warming,440,0.0059304038828219795
+India,Warming,270,7.570595805889923e-05
+India,Very warming,270,0.0
 India,Extremely warming,270,0.0
+India,Warming,280,0.0037095919448860626
+India,Very warming,280,0.0
 India,Extremely warming,280,0.0
+India,Warming,290,0.0024982966159436746
+India,Very warming,290,0.0
 India,Extremely warming,290,0.0
+India,Warming,300,0.0003028238322355969
+India,Very warming,300,0.0
 India,Extremely warming,300,0.0
+India,Warming,310,0.0
+India,Very warming,310,0.0
 India,Extremely warming,310,0.0
+India,Warming,320,0.0
+India,Very warming,320,0.0
 India,Extremely warming,320,0.0
+India,Warming,330,0.0
+India,Very warming,330,0.0
 India,Extremely warming,330,0.0
+India,Warming,340,0.0
+India,Very warming,340,0.0
 India,Extremely warming,340,0.0
+India,Warming,350,0.0
+India,Very warming,350,0.0
 India,Extremely warming,350,0.0
+India,Warming,360,0.0006813536225300931
+India,Very warming,360,0.0
 India,Extremely warming,360,0.0
+India,Warming,370,0.013324248618366265
+India,Very warming,370,0.002876826406238171
 India,Extremely warming,370,0.0
+India,Warming,380,0.026118555530320237
+India,Very warming,380,0.002574002574002574
 India,Extremely warming,380,0.0
+India,Warming,390,0.02157619804678628
+India,Very warming,390,0.002574002574002574
 India,Extremely warming,390,0.0
+India,Warming,400,0.026951321068968127
+India,Very warming,400,0.004088121735180559
 India,Extremely warming,400,0.0
+India,Warming,410,0.027254144901203724
+India,Very warming,410,0.0003028238322355969
 India,Extremely warming,410,0.0
+India,Warming,420,0.030206677265500796
+India,Very warming,420,0.001665531077295783
 India,Extremely warming,420,0.0
+India,Warming,430,0.036338859868271636
+India,Very warming,430,0.004996593231887349
 India,Extremely warming,430,0.0
+India,Warming,440,0.03066091301385419
+India,Very warming,440,0.00688924218335983
 India,Extremely warming,440,0.0
+Latin_America,Warming,270,0.006049486785342391
+Latin_America,Very warming,270,0.00269417034429183
 Latin_America,Extremely warming,270,0.0
+Latin_America,Warming,280,0.0037354754466868314
+Latin_America,Very warming,280,0.0011404770169088114
 Latin_America,Extremely warming,280,0.0
+Latin_America,Warming,290,0.010082477975570651
+Latin_America,Very warming,290,0.0013388208459364308
 Latin_America,Extremely warming,290,0.0
+Latin_America,Warming,300,0.02143766218740186
+Latin_America,Very warming,300,0.001884266375762384
 Latin_America,Extremely warming,300,0.0
+Latin_America,Warming,310,0.04211500636353118
+Latin_America,Very warming,310,0.008594899257863506
 Latin_America,Extremely warming,310,0.0
+Latin_America,Warming,320,0.05943703409860994
+Latin_America,Very warming,320,0.02512355167683179
 Latin_America,Extremely warming,320,0.0
+Latin_America,Warming,330,0.06823027718550106
+Latin_America,Very warming,330,0.03603246227335086
 Latin_America,Extremely warming,330,0.0011404770169088114
+Latin_America,Warming,340,0.058329614386539066
+Latin_America,Very warming,340,0.028677211946909968
 Latin_America,Extremely warming,340,0.005305697426488818
+Latin_America,Warming,350,0.05670980644948018
+Latin_America,Very warming,350,0.02932182939124973
 Latin_America,Extremely warming,350,0.010710566767491447
+Latin_America,Warming,360,0.05626353283416803
+Latin_America,Very warming,360,0.02672683096147171
 Latin_America,Extremely warming,360,0.012181616832779624
+Latin_America,Warming,370,0.04998264491496009
+Latin_America,Very warming,370,0.022759954380919323
 Latin_America,Extremely warming,370,0.006611460967587313
+Latin_America,Warming,380,0.1335515115452637
+Latin_America,Very warming,380,0.0511727078891258
 Latin_America,Extremely warming,380,0.008148625642551362
+Latin_America,Warming,390,0.12905571808730434
+Latin_America,Very warming,390,0.05360241979471414
 Latin_America,Extremely warming,390,0.016412951852035503
+Latin_America,Warming,400,0.1720302143766219
+Latin_America,Very warming,400,0.09508933736632452
 Latin_America,Extremely warming,400,0.03358622171534355
+Latin_America,Warming,410,0.1727905323878944
+Latin_America,Very warming,410,0.08604816449314888
 Latin_America,Extremely warming,410,0.03980099502487562
+Latin_America,Warming,420,0.17257565990644783
+Latin_America,Very warming,420,0.0824945042230707
 Latin_America,Extremely warming,420,0.04223070693046396
+Latin_America,Warming,430,0.20336853936298574
+Latin_America,Very warming,430,0.1217831110229583
 Latin_America,Extremely warming,430,0.0673212013024578
+Latin_America,Warming,440,0.19768268293086064
+Latin_America,Very warming,440,0.10289086130807755
 Latin_America,Extremely warming,440,0.05626353283416803
+North Atlantic,Warming,270,0.14007333250937257
+North Atlantic,Very warming,270,0.04404070366250566
 North Atlantic,Extremely warming,270,0.00012359411692003462
+North Atlantic,Warming,280,0.1609607382688584
+North Atlantic,Very warming,280,0.050385201664400775
 North Atlantic,Extremely warming,280,0.0015243274420137602
+North Atlantic,Warming,290,0.1685823754789272
+North Atlantic,Very warming,290,0.07201417212540683
 North Atlantic,Extremely warming,290,0.0035430313517076585
+North Atlantic,Warming,300,0.17653359700078275
+North Atlantic,Very warming,300,0.07481563877559429
 North Atlantic,Extremely warming,300,0.00931075680797594
+North Atlantic,Warming,310,0.12071025419190047
+North Atlantic,Very warming,310,0.019898652824125573
 North Atlantic,Extremely warming,310,0.0032134470399209
+North Atlantic,Warming,320,0.17525645779260907
+North Atlantic,Very warming,320,0.03135170765871544
 North Atlantic,Extremely warming,320,0.0005355745066534833
+North Atlantic,Warming,330,0.17591562641618258
+North Atlantic,Very warming,330,0.050385201664400775
 North Atlantic,Extremely warming,330,0.00032958431178675896
+North Atlantic,Warming,340,0.13673629135253162
+North Atlantic,Very warming,340,0.025501586124500472
 North Atlantic,Extremely warming,340,0.0007415647015202076
+North Atlantic,Warming,350,0.11770279734684629
+North Atlantic,Very warming,350,0.03098092530795534
 North Atlantic,Extremely warming,350,0.0011123470522803114
+North Atlantic,Warming,360,0.11156428953981791
+North Atlantic,Very warming,360,0.028385448852634616
 North Atlantic,Extremely warming,360,0.002224694104560623
+North Atlantic,Warming,370,0.06113788983644378
+North Atlantic,Very warming,370,0.020434227330779056
 North Atlantic,Extremely warming,370,0.0038314176245210726
+North Atlantic,Warming,380,0.05190952910641453
+North Atlantic,Very warming,380,0.017467968524698223
 North Atlantic,Extremely warming,380,0.0027190705722407614
+North Atlantic,Warming,390,0.029333003749021546
+North Atlantic,Very warming,390,0.000947554896386932
 North Atlantic,Extremely warming,390,4.119803897334487e-05
+North Atlantic,Warming,400,0.0
+North Atlantic,Very warming,400,0.0
 North Atlantic,Extremely warming,400,0.0
+North Atlantic,Warming,410,0.0
+North Atlantic,Very warming,410,0.0
 North Atlantic,Extremely warming,410,0.0
+North Atlantic,Warming,420,0.0
+North Atlantic,Very warming,420,0.0
 North Atlantic,Extremely warming,420,0.0
+North Atlantic,Warming,430,0.0
+North Atlantic,Very warming,430,0.0
 North Atlantic,Extremely warming,430,0.0
+North Atlantic,Warming,440,0.0
+North Atlantic,Very warming,440,0.0
 North Atlantic,Extremely warming,440,0.0
+North Pacific,Warming,270,0.16038416355804702
+North Pacific,Very warming,270,0.060077080027204716
 North Pacific,Extremely warming,270,0.012406999031347251
+North Pacific,Warming,280,0.15725149935079658
+North Pacific,Very warming,280,0.0603450052554564
 North Pacific,Extremely warming,280,0.010510912800643021
+North Pacific,Warming,290,0.15168689845633848
+North Pacific,Very warming,290,0.07343212217390409
 North Pacific,Extremely warming,290,0.016487706353949836
+North Pacific,Warming,300,0.12990251643618228
+North Pacific,Very warming,300,0.05595515343871726
 North Pacific,Extremely warming,300,0.017806722862265822
+North Pacific,Warming,310,0.0903526308196451
+North Pacific,Very warming,310,0.03262504894787824
 North Pacific,Extremely warming,310,0.008656045835823663
+North Pacific,Warming,320,0.08703447991591269
+North Pacific,Very warming,320,0.040971950289565344
 North Pacific,Extremely warming,320,0.012077244904268255
+North Pacific,Warming,330,0.07757465839533398
+North Pacific,Very warming,330,0.03903464479297624
 North Pacific,Extremely warming,330,0.01424125636322417
+North Pacific,Warming,340,0.05218359061025123
+North Pacific,Very warming,340,0.020218049916530985
 North Pacific,Extremely warming,340,0.014385523793821232
+North Pacific,Warming,350,0.022134745780177656
+North Pacific,Very warming,350,0.004987531172069825
 North Pacific,Extremely warming,350,0.003895220626120649
+North Pacific,Warming,360,0.019620370561200307
+North Pacific,Very warming,360,0.003771562828466025
 North Pacific,Extremely warming,360,0.0027616908142865976
+North Pacific,Warming,370,0.011376517384225387
+North Pacific,Very warming,370,0.0005564600894458069
 North Pacific,Extremely warming,370,0.0
+North Pacific,Warming,380,0.009851404546485027
+North Pacific,Very warming,380,0.00014426743059706108
 North Pacific,Extremely warming,380,0.0
+North Pacific,Warming,390,0.00350363760021434
+North Pacific,Very warming,390,0.0
 North Pacific,Extremely warming,390,0.0
+North Pacific,Warming,400,0.0021846210918983534
+North Pacific,Very warming,400,0.0
 North Pacific,Extremely warming,400,0.0
+North Pacific,Warming,410,0.0014426743059706107
+North Pacific,Very warming,410,0.0
 North Pacific,Extremely warming,410,0.0
+North Pacific,Warming,420,0.0
+North Pacific,Very warming,420,0.0
 North Pacific,Extremely warming,420,0.0
+North Pacific,Warming,430,0.0
+North Pacific,Very warming,430,0.0
 North Pacific,Extremely warming,430,0.0
+North Pacific,Warming,440,0.0
+North Pacific,Very warming,440,0.0
 North Pacific,Extremely warming,440,0.0
+Southeast_Asia,Warming,270,0.0
+Southeast_Asia,Very warming,270,0.0
 Southeast_Asia,Extremely warming,270,0.0
+Southeast_Asia,Warming,280,0.0
+Southeast_Asia,Very warming,280,0.0
 Southeast_Asia,Extremely warming,280,0.0
+Southeast_Asia,Warming,290,0.0
+Southeast_Asia,Very warming,290,0.0
 Southeast_Asia,Extremely warming,290,0.0
+Southeast_Asia,Warming,300,0.0
+Southeast_Asia,Very warming,300,0.0
 Southeast_Asia,Extremely warming,300,0.0
+Southeast_Asia,Warming,310,0.0
+Southeast_Asia,Very warming,310,0.0
 Southeast_Asia,Extremely warming,310,0.0
+Southeast_Asia,Warming,320,0.0
+Southeast_Asia,Very warming,320,0.0
 Southeast_Asia,Extremely warming,320,0.0
+Southeast_Asia,Warming,330,0.0
+Southeast_Asia,Very warming,330,0.0
 Southeast_Asia,Extremely warming,330,0.0
+Southeast_Asia,Warming,340,0.0
+Southeast_Asia,Very warming,340,0.0
 Southeast_Asia,Extremely warming,340,0.0
+Southeast_Asia,Warming,350,0.0
+Southeast_Asia,Very warming,350,0.0
 Southeast_Asia,Extremely warming,350,0.0
+Southeast_Asia,Warming,360,0.0001449905756125852
+Southeast_Asia,Very warming,360,0.0
 Southeast_Asia,Extremely warming,360,0.0
+Southeast_Asia,Warming,370,0.011115944130298197
+Southeast_Asia,Very warming,370,0.0
 Southeast_Asia,Extremely warming,370,0.0
+Southeast_Asia,Warming,380,0.03310618143154028
+Southeast_Asia,Very warming,380,0.0010149340292880964
 Southeast_Asia,Extremely warming,380,0.0
+Southeast_Asia,Warming,390,0.04233724807887487
+Southeast_Asia,Very warming,390,0.0022715190179305013
 Southeast_Asia,Extremely warming,390,0.0
+Southeast_Asia,Warming,400,0.07027209898023296
+Southeast_Asia,Very warming,400,0.007394519356241845
 Southeast_Asia,Extremely warming,400,0.0
+Southeast_Asia,Warming,410,0.09076410033347833
+Southeast_Asia,Very warming,410,0.016432265236092987
 Southeast_Asia,Extremely warming,410,4.833019187086173e-05
+Southeast_Asia,Warming,420,0.10618143154028321
+Southeast_Asia,Very warming,420,0.024745058237881205
 Southeast_Asia,Extremely warming,420,4.833019187086173e-05
+Southeast_Asia,Warming,430,0.1622927843023537
+Southeast_Asia,Very warming,430,0.0486201730220869
 Southeast_Asia,Extremely warming,430,0.0007732830699337876
+Southeast_Asia,Warming,440,0.1689623507805326
+Southeast_Asia,Very warming,440,0.05490309796529892
 Southeast_Asia,Extremely warming,440,0.003044802087864289
+USA,Warming,270,0.04415851383760326
+USA,Very warming,270,0.010049868666489017
 USA,Extremely warming,270,7.613536868552285e-05
+USA,Warming,280,0.10495260573299327
+USA,Very warming,280,0.02451558871673836
 USA,Extremely warming,280,0.0002284061060565686
+USA,Warming,290,0.1358254977349728
+USA,Very warming,290,0.05538848071871788
 USA,Extremely warming,290,0.0002284061060565686
+USA,Warming,300,0.11949446115192813
+USA,Very warming,300,0.04613803342342685
 USA,Extremely warming,300,0.0012181658989683657
+USA,Warming,310,0.11313715786668697
+USA,Very warming,310,0.034032509802428716
 USA,Extremely warming,310,0.0012181658989683657
+USA,Warming,320,0.10148844645780197
+USA,Very warming,320,0.03917164718870151
 USA,Extremely warming,320,0.0017511134797670257
+USA,Warming,330,0.1041151166774525
+USA,Very warming,330,0.04343522783509079
 USA,Extremely warming,330,0.00426358064638928
+USA,Warming,340,0.10396284594008147
+USA,Very warming,340,0.03250980242871826
 USA,Extremely warming,340,0.002322128744908447
+USA,Warming,350,0.08679432030149606
+USA,Very warming,350,0.03441318664585633
 USA,Extremely warming,350,0.0009897597929117972
+USA,Warming,360,0.06935932087251133
+USA,Very warming,360,0.024134911873310745
 USA,Extremely warming,360,0.0030454147474209144
+USA,Warming,370,0.013019148045224409
+USA,Very warming,370,0.005024934333244508
 USA,Extremely warming,370,0.0020556549545091172
+USA,Warming,380,0.007423198446838479
+USA,Very warming,380,0.00346415927519129
 USA,Extremely warming,380,0.0014465720050249344
+USA,Warming,390,0.0011420305302828429
+USA,Very warming,390,0.0003426091590848529
 USA,Extremely warming,390,0.0
+USA,Warming,400,0.0
+USA,Very warming,400,0.0
 USA,Extremely warming,400,0.0
+USA,Warming,410,0.0
+USA,Very warming,410,0.0
 USA,Extremely warming,410,0.0
+USA,Warming,420,0.0
+USA,Very warming,420,0.0
 USA,Extremely warming,420,0.0
+USA,Warming,430,0.0
+USA,Very warming,430,0.0
 USA,Extremely warming,430,0.0
+USA,Warming,440,0.0
+USA,Very warming,440,0.0
 USA,Extremely warming,440,0.0
