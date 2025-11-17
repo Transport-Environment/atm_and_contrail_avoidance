@@ -56,7 +56,7 @@ def build_regionmask():
     gdf_fir = gdf_fir[gdf_fir["type"].str.upper() == "FIR"]
 
     # Filter to European FIRs
-    european_fir = pd.read_csv("european_firs.csv")
+    european_fir = pd.read_csv("data/european_firs.csv")
     gdf_fir = gdf_fir[gdf_fir["designator"].isin(european_fir["FIR code"])]
 
     # Build rectangular GeoDataFrame
