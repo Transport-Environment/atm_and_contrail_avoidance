@@ -6,11 +6,20 @@ It contains Jupyter notebooks, helper scripts, data, and visualisations explorin
 
 ## Project Overview
 
-This project quantifies **contrail radiative forcing (RF)** over Europe and globally by analysing:
+This project quantifies **traffic levels** and **contrail warming** over Europe and the North Atlantic and globally by analysing:
 
-* 2019 European flight departures and their contrail warming,
-* Gridded contrail forcing simulations using CoCiP,
-* Gridded CoCiP outputs
+* 2019 European flight departures and their contrail warming
+* Gridded contrail forcing simulations based on CoCiP for 2019
+* Gridded CoCiP outputs for 2024
+* Global aviation emissions inventory based on ADS-B (GAIA) for 2019
+
+It draws on the following datasets. 
+* Contrails simulations kindly provided by the Imperial College London
+    - Flight-by-flight information for European arrivals and departures for the year 2019 based on ![Teoh et al. 2024](https://acp.copernicus.org/articles/24/6071/2024/)
+    - Gridded contrail simulation outputs (0.25 deg x 0.25 deg spatial resolution, 1h temporal resolution) for the year 2019 based on ![Teoh et al. 2024](https://acp.copernicus.org/articles/24/6071/2024/), re-run by ICL with an updated version of pycontrails (v0.54.8), not accounting for vPM activation
+* The high-resolution Global Aviation emissions Inventory based on ADS-B (![GAIA](https://zenodo.org/records/8369829)) for 2019 - 2021: High-resolution gridded outputs for 2019 (Full Year)
+* ![Gridded CoCiP](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1361/) outputs for the year 2024 kindly provided by ![contrails.org](https://apidocs.contrails.org/notebooks/research_api.html)
+
 
 ## Repository Structure
 
@@ -30,7 +39,7 @@ This project quantifies **contrail radiative forcing (RF)** over Europe and glob
 
 ## Core Analyses
 
-### 1Departures (`1_departures.ipynb`)
+### Departures (`1_departures.ipynb`)
 
 **Goal:** Quantify contrail forcing from 2019 European flights using the dataset presented in Teoh et al. (2024)
 
@@ -45,8 +54,11 @@ This project quantifies **contrail radiative forcing (RF)** over Europe and glob
 * ![Traffic by Month](figures/1_departures/departures_1_traffic_by_month@2x.png)
 * ![Traffic by Hour](figures/1_departures/departures_2_traffic_by_hour@2x.png)
 * ![Big Hits per Day per Airport](figures/1_departures/departures_3_big_hits_per_day_airport@2x.png)
+* ![Warming per Departure Airport](figures\1_departures\departures_4_airports@2x.png)
 * ![Big Hits per Day per FIR](figures/1_departures/departures_5_big_hits_per_day_fir@2x.png)
 * ![Big Hits by FIR](figures/1_departures/departures_6_big_hits_by_fir@2x.png)
+* ![Warming by Flight Distance](figures\1_departures\departures_7_by_distance@2x.png)
+* ![Big Hits by Aircraft Class](figures\1_departures\departures_8_by_aircraft@2x.png)
 
 
 ### Forcing (`2_forcing.ipynb`)
