@@ -118,7 +118,12 @@ Data: Gridded CoCiP outputs for 2024 provided by contrails.org, using Airbus A32
 **Figures:**
 
 * ![NetCDF Availability](figures/3_issr/issr_1_netcdf_file_availability@2x.png)
-* ![ISSR Depth Distribution](figures/3_issr/issr_2_depth@2x.png)
+* ![PCR map](figures\3_issr\issr_2_contrail_map@2x.png)
+* ![PCR movement](figures\3_issr\issr_3_movement@2x.png)
+* ![ISSR Depth Distribution](figures\3_issr\issr_4_depth_volume@2x.png)
+* ![Contrail Region explorer](figures\3_issr\issr_5_contrail_region_explorer@2x.png)
+* ![Vertical deviations](figures\3_issr\issr_6_deviation_likelihood@2x.png)
+
 
 
 ### Airspace Capacity (`4_airspace_capacity.ipynb`)
@@ -127,6 +132,7 @@ Data: Gridded CoCiP outputs for 2024 provided by contrails.org, using Airbus A32
 
 **Analyses:**
 
+* Download gridded CoCiP regions - see 3_issr.ipynb for more info
 * Fraction of volume producing **cooling**, **warming**, and **highly warming** (80th / 95th percentile) contrails
 * Aggregation by **week** and **flight level band**
 * Derive **hourly and weekly statistics** for comparison
