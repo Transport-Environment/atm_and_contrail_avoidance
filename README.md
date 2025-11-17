@@ -68,8 +68,15 @@ It draws on the following datasets.
 **Analyses:**
 
 * File availability and statistics of forcing datasets
+    - I used to approaches to analyse the data
+        1. Convert tabular parquet files to hourly grid-based netcdf files + sum hourly grid-based files to get hourly, monthly and annual averages
+        2. Directly sum parquet files for different FIRs to get hourly, monthly and annual statistics by FIR  - this method retains more of the original data fields since it is more memory efficient. At the same time, I lose all spatial information. 
+    - Both approaches agree numerically
+* Maps of flight distance, warming and contrails per flight
+    - Use netcdf files and aggregate using xarray
 * Forcing per **flight distance**, **hour**, **month**, **flight level**, and **FIR**
-* Comparison of **traffic density** and **warming intensity**
+    - User parquet files with the exception of forcing per flight level
+    - Aggregate using pandas
 
 
 **Figures:**
@@ -79,11 +86,16 @@ It draws on the following datasets.
 * ![Statistics](figures/2_forcing/forcing_3_statistics@2x.png)
 * ![Flight Distance](figures/2_forcing/forcing_4_flight_distance@2x.png)
 * ![Warming](figures/2_forcing/forcing_4_warming@2x.png)
-* ![Warming P er Flight Distance](figures/2_forcing/forcing_4_per_distance@2x.png)
+* ![Warming Per Flight Level](figures\2_forcing\forcing_5_by_flight_level@2x.png)
+* ![Warming Per Flight Distance](figures/2_forcing/forcing_4_per_distance@2x.png)
 * ![Warming by Hour](figures/2_forcing/forcing_6_by_hour@2x.png)
 * ![Warming by Month](figures/2_forcing/forcing_7_by_month@2x.png)
 * ![Warming by FIR](figures/2_forcing/forcing_8_by_fir@2x.png)
 * ![Airspace Activity](figures/2_forcing/forcing_9_how_busy_are_airspaces@2x.png)
+* ![Contrail Concentration](figures\2_forcing\forcing_10_contrail_concentration@2x.png)
+* ![Contrail Opportunities Pt. 1](figures\2_forcing\forcing_11_low_traffic@2x.png)
+* ![Contrail Opportunities Pt. 2](figures\2_forcing\forcing_12_low_load@2x.png)
+* ![Contrail calendar](figures\2_forcing\forcing_13_big_hits_per_day_fir@2x.png)
 
 ### ISSRs (`3_issr.ipynb`)
 
@@ -91,9 +103,17 @@ It draws on the following datasets.
 Data: Gridded CoCiP outputs for 2024 provided by contrails.org, using Airbus A320 (η = 0.032) as the reference aircraft.
 
 **Method:**
-
-* Detect connected regions exceeding a **forcing threshold (5 × 10⁸ J m⁻¹)**
+* Download gridded CoCiP output from contrails.org via their API (https://apidocs.contrails.org/notebooks/research_api.html)
+* Intro to gridded CoCiP: https://py.contrails.org/notebooks/CoCiPGrid.html and original publication: https://gmd.copernicus.org/articles/18/253/2025/
+* Hourly coverage not complete - around two days are missing despite repeated API requests
+* Detect connected regions exceeding a **forcing threshold (5 × 10⁸ J m⁻¹)** that are fully contained within a fixed bounding box - lon = (-70.0, 70.0) and lat = (20.0, 90.0)
+* This threshold comes from https://gmd.copernicus.org/articles/18/253/2025/: The grid-based CoCiP defines regions with strongly warming contrails based on the 80th percentile (5×108 J m−1) and the 95th percentile (1.5×109 J m−1) of EFcontrail per flight distance flown, both of which were derived from a 2019 global contrail simulation using the trajectory-based CoCiP (Teoh et al., 2024a).
 * Compute per-region statistics: centroid, forcing, flight level, thickness, area, and volume
+
+**Weaknesses of this analysis:**
+- The intersection condition implies that we potentially miss out on very big ISSRs that have very high longitudinal elongation
+- We do not track the evolution of ISSRs over time - in consecutive hours, we consider the same ISSR but don't actually track which ISSRs are the same  - so this is really an analysis about annual average properties of ISSRs rather than a study of how individual ISSRs evolve
+
 
 **Figures:**
 
