@@ -1,58 +1,38 @@
 # Air traffic management implications of contrail avoidance
 
-This repository analyses the **climatic impact of aviation contrails** using a combination of **traffic data, meteorological datasets, and contrail forcing simulations**.
-It contains Jupyter notebooks, helper scripts, data, and visualizations exploring how **flight timing, routes, and airspace utilization** contribute to contrail formation and radiative forcing.
+This repository analyses the **climate impact of contrails** using a combination of **traffic data, meteorological datasets, and contrail forcing simulations**.
+It contains Jupyter notebooks, helper scripts, data, and visualisations exploring how **flight timing, routes, and airspace utilisation** contribute to contrail formation and radiative forcing.
 
 
-## 🧭 Project Overview
+## Project Overview
 
-This project quantifies **contrail radiative forcing (RF)** over Europe and globally by analyzing:
+This project quantifies **contrail radiative forcing (RF)** over Europe and globally by analysing:
 
-* 2019 European flight departures and their contribution to warming,
+* 2019 European flight departures and their contrail warming,
 * Gridded contrail forcing simulations using CoCiP,
-* Identification of Ice-Supersaturated Regions (ISSRs),
-* Evaluation of airspace “capacity” in terms of cooling vs. warming contrails.
+* Gridded CoCiP outputs
 
-The analysis supports ongoing research into **climate-optimized flight planning and contrail avoidance strategies**.
+## Repository Structure
 
-
-## 📂 Repository Structure
-
-```
-20251017_contrail_avoidance_atm
-├─ 1_departures.ipynb
-├─ 2_forcing.ipynb
-├─ 3_issr.ipynb
-├─ 4_airspace_capacity.ipynb
-├─ supporting/
-├─ data/
-├─ figures/
-├─ helpers/
-├─ output/
-├─ README.md
-└─ requirements.txt
-```
-
-### Key Components
 
 | Component                     | Description                                                                                                                    |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| **1_departures.ipynb**        | Analyzes 2019 European departures (incoming/outbound) to assess contrail forcing by **month**, **hour**, and **airport/FIR**.  |
-| **2_forcing.ipynb**           | Examines **gridded contrail forcing outputs** for 2019 with ~20% lower total forcing (updated Pi-Contrails version).           |
-| **3_issr.ipynb**              | Detects **Ice-Supersaturated Regions** (ISSRs) from CoCiP outputs (2024), evaluating their distribution and geometry.          |
-| **4_airspace_capacity.ipynb** | Quantifies the **fraction of airspace volume** affected by warming/cooling contrails and analyzes it by flight level and time. |
+| **1_departures.ipynb**        | Analyses **2019 European departures** to assess contrail forcing by **month**, **hour**, and **airport**.  |
+| **2_forcing.ipynb**           | Examines **2019 gridded contrail forcing outputs** to assess contrail forcing by **month**, **hour**, and **FIR**.           |
+| **3_issr.ipynb**              | Detect **persistent contrail regions** (PCRs) from gridded CoCiP outputs (2024), evaluating their distribution and geometry.          |
+| **4_airspace_capacity.ipynb** | Quantifies the **fraction of airspace volume** affected by warming/cooling contrails based on gridded CoCiP outputs (2024) and analyses it by flight level and time. |
 | **supporting/**               | Contains supplementary notebooks for data acquisition and intermediate analyses.                                               |
 | **data/**                     | Includes airports, FIRs, GeoJSON boundaries, and intermediate simulation results.                                              |
 | **helpers/**                  | Python scripts for data conversion, downloads, and processing utilities.                                                       |
-| **output/**                   | Generated CSV summaries and figures for visualization.                                                                         |
-| **figures/**                  | Visualization outputs from each notebook (see below).                                                                          |
+| **output/**                   | Generated CSV summaries and figures for visualisation.                                                                         |
+| **figures/**                  | Visualisation outputs from each notebook (see below).                                                                          |
 
 
-## 🧪 Core Analyses
+## Core Analyses
 
-### 1️⃣ Departures (`1_departures.ipynb`)
+### 1Departures (`1_departures.ipynb`)
 
-**Goal:** Quantify contrail forcing from 2019 European flights using the dataset by Roger Teel (based on his 2024 publication, yielding ~62 mW m⁻² forcing).
+**Goal:** Quantify contrail forcing from 2019 European flights using the dataset presented in Teoh et al. (2024)
 
 **Analyses:**
 
@@ -69,9 +49,9 @@ The analysis supports ongoing research into **climate-optimized flight planning 
 * ![Big Hits by FIR](figures/1_departures/departures_6_big_hits_by_fir@2x.png)
 
 
-### 2️⃣ Forcing (`2_forcing.ipynb`)
+### Forcing (`2_forcing.ipynb`)
 
-**Goal:** Evaluate **gridded forcing** from a newer 2019 simulation with ~20% lower total energy forcing.
+**Goal:** Evaluate **gridded forcing** from a newer 2019 simulation re-run by ICL with an updated version of pycontrails (v0.54.8). It has ~20% lower total energy forcing than the original publication and does not account for vPM activations. 
 
 **Analyses:**
 
@@ -93,16 +73,15 @@ The analysis supports ongoing research into **climate-optimized flight planning 
 * ![Warming by FIR](figures/2_forcing/forcing_8_by_fir@2x.png)
 * ![Airspace Activity](figures/2_forcing/forcing_9_how_busy_are_airspaces@2x.png)
 
-### 3️⃣ ISSRs (`3_issr.ipynb`)
+### ISSRs (`3_issr.ipynb`)
 
-**Goal:** Identify and characterize **Ice-Supersaturated Regions** (ISSRs) where persistent contrails form.
-Data: CoCiP outputs for 2024, using Airbus A320 (η = 0.032) as the reference aircraft.
+**Goal:** Identify and characterize **persistent contrail regions** (PCRs) where persistent contrails form.
+Data: Gridded CoCiP outputs for 2024 provided by contrails.org, using Airbus A320 (η = 0.032) as the reference aircraft.
 
 **Method:**
 
 * Detect connected regions exceeding a **forcing threshold (5 × 10⁸ J m⁻¹)**
 * Compute per-region statistics: centroid, forcing, flight level, thickness, area, and volume
-* Compare distributions to **Paul Hodgins (2024)** results
 
 **Figures:**
 
@@ -110,7 +89,7 @@ Data: CoCiP outputs for 2024, using Airbus A320 (η = 0.032) as the reference ai
 * ![ISSR Depth Distribution](figures/3_issr/issr_2_depth@2x.png)
 
 
-### 4️⃣ Airspace Capacity (`4_airspace_capacity.ipynb`)
+### Airspace Capacity (`4_airspace_capacity.ipynb`)
 
 **Goal:** Quantify **airspace capacity** in terms of contrail warming potential.
 
@@ -128,7 +107,7 @@ Data: CoCiP outputs for 2024, using Airbus A320 (η = 0.032) as the reference ai
 * ![Weekly FL Comparison](figures/4_airspace_capacity/airspace_capacity_4_week_fl@2x.png)
 
 
-## 🧩 Supporting Notebooks
+## Supporting Notebooks
 
 | Notebook                                             | Purpose                                                                                             |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -140,7 +119,7 @@ Data: CoCiP outputs for 2024, using Airbus A320 (η = 0.032) as the reference ai
 | `20251017_ADS-B_Traffic_Library_Demo.ipynb`          | Demonstrates loading and binning ADS-B traffic into FIRs.                                           |
 
 
-## 🧰 Helper Scripts
+## Helper Scripts
 
 Key Python utilities in the `helpers/` folder:
 
@@ -151,7 +130,7 @@ Key Python utilities in the `helpers/` folder:
 * `gaia_parquet_to_netcdf.py` — GAIA dataset conversion
 
 
-## 📊 Data
+## Data
 
 The `/data` directory includes:
 
@@ -160,14 +139,16 @@ The `/data` directory includes:
 * **Gridded forcing outputs** (`hourly_totals.csv`)
 * **ISSR datasets** (`ISSR and PCR depth distribution.csv`)
 
+The datasets provided by contrails.org and Imperial College London are not included in this repository - partly because they are several 100 GBytes large. 
 
-## 📈 Outputs
 
-Final CSV summaries in `/output` are used for visualization (e.g., via Flourish).
+## Outputs
+
+Final CSV summaries in `/output` are used for visualisation (e.g., via Flourish).
 Each subfolder corresponds to a notebook (e.g., `/output/departures`, `/output/forcing`, `/output/issr`).
 
 
-## ⚙️ Requirements
+## Requirements
 
 All dependencies are listed in `requirements.txt`.
 Typical environment setup:
@@ -176,10 +157,3 @@ Typical environment setup:
 conda create -n contrail python=3.11
 pip install -r requirements.txt
 ```
-
-
-## 🧮 TODO
-
-* [ ] Validate correctness of **gridded forcing summation**
-* [ ] Automate generation of weekly summary plots
-* [ ] Add references to published datasets and models (FastMeteo, CoCiP, GAIA)
