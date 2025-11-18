@@ -54,7 +54,7 @@ It draws on the following datasets.
 
 ![Traffic by Month](figures/1_departures/departures_1_traffic_by_month@2x.png)
 ![Traffic by Hour](figures/1_departures/departures_2_traffic_by_hour@2x.png)
-![Big Hits per Day per Airport](figures/1_departures/partures_3_big_hits_per_day_airport@2x.png)
+![Big Hits per Day per Airport](figures/1_departures/departures_3_big_hits_per_day_airport@2x.png)
 ![Warming per Departure Airport](figures/1_departures/departures_4_airports@2x.png)
 ![Big Hits per Day per FIR](figures/1_departures/departures_5_big_hits_per_day_fir@2x.png)
 ![Big Hits by FIR](figures/1_departures/departures_6_big_hits_by_fir@2x.png)
@@ -212,7 +212,54 @@ The `/data` directory includes:
 | `max_contrail_lifetime`               | float           | Maximum contrail lifetime                           |
 | `total_contrail_energy_forcing`       | float           | Energy forcing due to contrails (J)                    |
 
-* **Gridded forcing outputs** (`hourly_totals.csv`)
+* **Gridded forcing outputs**
+    - `data/gridded_forcing/annual_hourly_sum_XX.nc`: Netcdf files containing the annual gridded forcing in hour XX
+    - `data/gridded_forcing/monthly_sum_XX.nc`: Netcdf files containing the annual monthly forcing in month XX
+    - `data/gridded_forcing/annual_sum.nc`: Netcdf file containing the annual forcing sum
+    - These netcdf files have the following structure
+
+| Dimension  | Size  | Description |
+|------------|-------|-------------|
+| `longitude` | 1441 | Grid longitudes from -180.0° to 180.0° |
+| `latitude`  | 721  | Grid latitudes from -90.0° to 90.0° |
+| `altitude`  | 31   | Altitude levels (approx. 6000 m → 15 140 m) |
+
+| Name        | Shape        | Type     | Description |
+|-------------|--------------|----------|-------------|
+| `longitude` | (longitude,) | float64  | Longitude values in 0.25° resolution |
+| `latitude`  | (latitude,)  | float64  | Latitude values in 0.25° resolution |
+| `altitude`  | (altitude,)  | float64  | Altitude levels in meters |
+
+| Variable                     | Dimensions (in order)                   | Type     | Description |
+|------------------------------|------------------------------------------|----------|-------------|
+| `total_flight_dist`         | (longitude, latitude, altitude)          | float32  | Total flight distance intersecting each grid cell |
+| `ef_net`                    | (longitude, latitude, altitude)          | float32  | Net contrail energy forcing (all-sky) |
+| `ef_initial_loc`            | (longitude, latitude, altitude)          | float32  | Energy forcing at the initial contrail location (no overlap) |
+| `ef_net_overlap`            | (longitude, latitude, altitude)          | float32  | Net energy forcing including overlap effects |
+| `ef_initial_loc_overlap`    | (longitude, latitude, altitude)          | float32  | Energy forcing attributed to initial location including overlap |
+
+
+    - `data/hourly_totals_by_region.pq`: Parquet file containing by region statistics shown below
+| Column                        | Type          | Description |
+|-------------------------------|-----------------|-------------|
+| `hour`                        | int             | Hour of day (0–23) for the aggregation window |
+| `total_flight_dist`          | float           | Total flown distance in the aggregation (e.g. km) |
+| `contrail_ef_initial_loc`    | float           | Contrail energy forcing at initial location (no overlap) |
+| `contrail_ef_overlap_initial_loc` | float      | Contrail energy forcing at initial location accounting for overlap |
+| `new_contrail_length`        | float           | Length of newly formed contrails in the time step |
+| `total_contrail_length`      | float           | Total contrail length present in the aggregation |
+| `tau_contrail_area`          | float           | Effective contrail optical depth integrated over area |
+| `mean_contrail_age`          | float           | Mean age of contrails in the aggregation (e.g. hours) |
+| `contrail_ef`                | float           | Net contrail energy forcing (all-sky, no overlap) |
+| `contrail_ef_sw`             | float           | Shortwave component of contrail energy forcing |
+| `contrail_ef_lw`             | float           | Longwave component of contrail energy forcing |
+| `contrail_ef_overlap`        | float           | Net contrail energy forcing accounting for overlap |
+| `contrail_ef_sw_overlap`     | float           | Shortwave contrail energy forcing with overlap |
+| `contrail_ef_lw_overlap`     | float           | Longwave contrail energy forcing with overlap |
+| `timestamp`                  | datetime        | Timestamp representing the start of the aggregation period |
+| `region`                     | string          | Region label (e.g. `European Airspace`) |
+| `file`                       | string          | Source file name for the aggregated data (e.g. `20190101.pq`) |
+
 * **ISSR datasets** (`ISSR and PCR depth distribution.csv`)
 
 The datasets provided by contrails.org and Imperial College London are not included in this repository - partly because they are several 100 GBytes large. 
