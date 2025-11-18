@@ -268,7 +268,7 @@ The `/data` directory includes:
 - `data/issr/2024MMDDTHH.nc`: Hourly gridded CoCiP outputs provided by contrails.org
 - `data/issr/contrail_region_details_2024.csv`: A summary of all PCRs with energy forcing greater than 5e8 J/m in 2024 completely contained within bounding box lon = (-70.0, 70.0) and lat = (20.0, 90.0) by hour
 
-| Column          | Type (inferred) | Description |
+| Column          | Type            | Description |
 |-----------------|-----------------|-------------|
 | `time`          | datetime        | Timestamp representing the aggregation window (e.g., `2024-01-01 00:00:00`) |
 | `file`          | string          | Source file for the aggregated region (e.g., `20240101T00.nc`) |
@@ -292,6 +292,20 @@ The `/data` directory includes:
 | `max_FL`        | float           | Maximum flight level present in the region |
 | `area_by_FL`    | dict[int → float] | Mapping of flight levels → area contribution (e.g. `{320: 23265.83, ...}`) |
 | `thickness_ft`  | float           | Contrail layer thickness converted to feet |
+
+* **Airspace capacity**
+- `data\airspace_capacity\airspace_capacity.parquet`: A summary of airspace volumes and areas covered by PCRs by hour, region and flight level based on the hourly gridded CoCiP ouputs provided by contrails.org for 2024
+
+| Column          | Type            | Description |
+|-----------------|-----------------|-------------|
+| `time`          | datetime        | Timestamp representing the aggregation period (e.g., `2024-01-01 02:00:00`) |
+| `file`          | string          | Source file used to compute the volume (e.g., `GriddedCoCip/20240101T02.nc`) |
+| `region`        | string          | Geographic region name (e.g., `European Airspace`) |
+| `flight_level`  | int             | Flight level (e.g., `300` → FL300 → 30,000 ft) |
+| `forcing_case`  | string          | Forcing classification (e.g., `Negative`, `Positive`, `Neutral`) |
+| `vol_total_km3` | float           | Total contrail volume across all forcing cases (km³) |
+| `vol_case_km3`  | float           | Contrail volume associated with the specific forcing case (km³) |
+
 
 
 ## Outputs
