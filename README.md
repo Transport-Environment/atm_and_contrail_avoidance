@@ -119,7 +119,7 @@ It draws on the following datasets.
 ### ISSRs (`3_issr.ipynb`)
 
 **Goal:** Identify and characterize **persistent contrail regions** (PCRs) where persistent contrails form.
-Data: Gridded CoCiP outputs for 2024 provided by contrails.org, using Airbus A320 (η = 0.032) as the reference aircraft.
+Data: Gridded CoCiP outputs for 2024 provided by contrails.org, using Airbus A320 (η = 0.32) as the reference aircraft.
 
 **Method:**
 * Download gridded CoCiP output from contrails.org via their API (https://apidocs.contrails.org/notebooks/research_api.html)
