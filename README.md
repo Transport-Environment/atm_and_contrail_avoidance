@@ -181,7 +181,7 @@ The `/data` directory includes:
     - `data/airspaces.geojson`: combines `data/worldfirs.json` with bounding boxes from Teoh et al. 2024
     - `data/worldfirst.geojson`: converted `data/worldfirs.json` to `.geojson` for Flourish
 * **Departures**
-    - `data\departures\2019 - Jet-A - Flight Summary.pq`
+    - `data\departures\2019 - Jet-A - Flight Summary.pq`: not included in this repository
         - flight schedules + contrail information on a flight-by-flight level
         - 700 MB and contains all European arrivals and departures in 2019 
         - Corresponds to the data used in Teoh et al. 2019
@@ -213,10 +213,13 @@ The `/data` directory includes:
 | `total_contrail_energy_forcing`       | float           | Energy forcing due to contrails (J)                    |
 
 * **Gridded forcing outputs**
+    - Based on tabular, gridded forcing outputs from a CoCiP simulation provided by Imperial College London that are not included in this repository. 
     - `data/gridded_forcing/annual_hourly_sum_XX.nc`: Netcdf files containing the annual gridded forcing in hour XX
     - `data/gridded_forcing/monthly_sum_XX.nc`: Netcdf files containing the annual monthly forcing in month XX
     - `data/gridded_forcing/annual_sum.nc`: Netcdf file containing the annual forcing sum
-    - These netcdf files have the following structure
+    - `data/hourly_totals_by_region.pq`: Parquet file containing by region statistics
+
+### Netcdf file structure
 
 | Dimension  | Size  | Description |
 |------------|-------|-------------|
@@ -238,8 +241,8 @@ The `/data` directory includes:
 | `ef_net_overlap`            | (longitude, latitude, altitude)          | float32  | Net energy forcing including overlap effects |
 | `ef_initial_loc_overlap`    | (longitude, latitude, altitude)          | float32  | Energy forcing attributed to initial location including overlap |
 
+### Parquet file structure
 
-    - `data/hourly_totals_by_region.pq`: Parquet file containing by region statistics shown below
 | Column                        | Type          | Description |
 |-------------------------------|-----------------|-------------|
 | `hour`                        | int             | Hour of day (0–23) for the aggregation window |
@@ -260,9 +263,35 @@ The `/data` directory includes:
 | `region`                     | string          | Region label (e.g. `European Airspace`) |
 | `file`                       | string          | Source file name for the aggregated data (e.g. `20190101.pq`) |
 
-* **ISSR datasets** (`ISSR and PCR depth distribution.csv`)
+* **ISSR datasets**
 
-The datasets provided by contrails.org and Imperial College London are not included in this repository - partly because they are several 100 GBytes large. 
+- `data/issr/2024MMDDTHH.nc`: Hourly gridded CoCiP outputs provided by contrails.org
+- `data/issr/contrail_region_details_2024.csv`: A summary of all PCRs with energy forcing greater than 5e8 J/m in 2024 completely contained within bounding box lon = (-70.0, 70.0) and lat = (20.0, 90.0) by hour
+
+| Column          | Type (inferred) | Description |
+|-----------------|-----------------|-------------|
+| `time`          | datetime        | Timestamp representing the aggregation window (e.g., `2024-01-01 00:00:00`) |
+| `file`          | string          | Source file for the aggregated region (e.g., `20240101T00.nc`) |
+| `region_id`     | int             | Unique numeric identifier for the region/cluster |
+| `area_km2`      | float           | Total area of the region in square kilometers (sum of areas of grid cells) |
+| `pt in mask`    | int             | Number of grid points included in the region mask |
+| `vol_km3`       | float           | Total contrail volume in cubic kilometers (sum of volumes of grid cells)|
+| `thickness_m`   | float           | Mean contrail layer thickness in meters |
+| `std_thickness` | float           | Standard deviation of layer thickness |
+| `mean_FL`       | float           | Mean flight level (e.g., FL320 = 32,000 ft) |
+| `mean_lat`      | float           | Mean latitude of the region |
+| `mean_lon`      | float           | Mean longitude of the region |
+| `mean_forcing`  | float           | Mean radiative forcing over the region |
+| `max_forcing`   | float           | Maximum radiative forcing in the region |
+| `std_forcing`   | float           | Standard deviation of radiative forcing |
+| `min_lat`       | float           | Minimum latitude of the region |
+| `max_lat`       | float           | Maximum latitude of the region |
+| `min_lon`       | float           | Minimum longitude of the region |
+| `max_lon`       | float           | Maximum longitude of the region |
+| `min_FL`        | float           | Minimum flight level present in the region |
+| `max_FL`        | float           | Maximum flight level present in the region |
+| `area_by_FL`    | dict[int → float] | Mapping of flight levels → area contribution (e.g. `{320: 23265.83, ...}`) |
+| `thickness_ft`  | float           | Contrail layer thickness converted to feet |
 
 
 ## Outputs
