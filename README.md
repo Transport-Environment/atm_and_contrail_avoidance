@@ -201,19 +201,21 @@ Key Python utilities in the `helpers/` folder:
 
 The `/data` directory includes:
 
-* **Airports, FIR boundaries, and country metadata**
+### Airports, FIR boundaries, and country metadata
     - `data/countries.csv`: downloaded from https://ourairports.com/data/
     - `data/airports.csv`: downloaded from https://ourairports.com/data/
     - `data/worldfirs.json`: downloaded from https://observablehq.com/@openaviation/flight-information-regions#plot_fir
     - `data/european_firs.csv`: list of European FIRs extracted from https://www.eurocontrol.int/publication/flight-information-region-firuir-charts-2024
     - `data/airspaces.geojson`: combines `data/worldfirs.json` with bounding boxes from Teoh et al. 2024
     - `data/worldfirst.geojson`: converted `data/worldfirs.json` to `.geojson` for Flourish
-* **Departures**
+
+### Departures
     - `data\departures\2019 - Jet-A - Flight Summary.pq`: not included in this repository
         - flight schedules + contrail information on a flight-by-flight level
         - 700 MB and contains all European arrivals and departures in 2019 
         - Corresponds to the data used in Teoh et al. 2019
-        - It has the following structure
+
+#### Departure file structure
 
 | Column                                | Type (inferred) | Description                                         |
 | ------------------------------------- | --------------- | --------------------------------------------------- |
@@ -240,14 +242,14 @@ The `/data` directory includes:
 | `max_contrail_lifetime`               | float           | Maximum contrail lifetime                           |
 | `total_contrail_energy_forcing`       | float           | Energy forcing due to contrails (J)                    |
 
-* **Gridded forcing outputs**
+### Gridded forcing outputs
     - Based on tabular, gridded forcing outputs from a CoCiP simulation provided by Imperial College London that are not included in this repository. 
     - `data/gridded_forcing/annual_hourly_sum_XX.nc`: Netcdf files containing the annual gridded forcing in hour XX
     - `data/gridded_forcing/monthly_sum_XX.nc`: Netcdf files containing the annual monthly forcing in month XX
     - `data/gridded_forcing/annual_sum.nc`: Netcdf file containing the annual forcing sum
     - `data/hourly_totals_by_region.pq`: Parquet file containing by region statistics
 
-### Netcdf file structure
+#### Netcdf file structure
 
 | Dimension  | Size  | Description |
 |------------|-------|-------------|
@@ -269,7 +271,7 @@ The `/data` directory includes:
 | `ef_net_overlap`            | (longitude, latitude, altitude)          | float32  | Net energy forcing including overlap effects |
 | `ef_initial_loc_overlap`    | (longitude, latitude, altitude)          | float32  | Energy forcing attributed to initial location including overlap |
 
-### Parquet file structure
+#### Parquet file structure
 
 | Column                        | Type          | Description |
 |-------------------------------|-----------------|-------------|
@@ -291,11 +293,12 @@ The `/data` directory includes:
 | `region`                     | string          | Region label (e.g. `European Airspace`) |
 | `file`                       | string          | Source file name for the aggregated data (e.g. `20190101.pq`) |
 
-* **ISSR datasets**
+### ISSR datasets
 
 - `data/issr/2024MMDDTHH.nc`: Hourly gridded CoCiP outputs provided by contrails.org
 - `data/issr/contrail_region_details_2024.csv`: A summary of all PCRs with energy forcing greater than 5e8 J/m in 2024 completely contained within bounding box lon = (-70.0, 70.0) and lat = (20.0, 90.0) by hour
 
+#### PCR file structure
 | Column          | Type            | Description |
 |-----------------|-----------------|-------------|
 | `time`          | datetime        | Timestamp representing the aggregation window (e.g., `2024-01-01 00:00:00`) |
@@ -321,8 +324,10 @@ The `/data` directory includes:
 | `area_by_FL`    | dict[int → float] | Mapping of flight levels → area contribution (e.g. `{320: 23265.83, ...}`) |
 | `thickness_ft`  | float           | Contrail layer thickness converted to feet |
 
-* **Airspace capacity**
+### Airspace capacity
 - `data\airspace_capacity\airspace_capacity.parquet`: A summary of airspace volumes and areas covered by PCRs by hour, region and flight level based on the hourly gridded CoCiP ouputs provided by contrails.org for 2024
+
+#### Airspace capacity file structure
 
 | Column          | Type            | Description |
 |-----------------|-----------------|-------------|
