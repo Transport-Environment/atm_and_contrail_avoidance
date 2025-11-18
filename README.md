@@ -51,15 +51,21 @@ It draws on the following datasets.
 * FIR geometry is on ![worldfirs.json](data/worldfirs.json) found on ![observablehq.com/@openaviation](https://observablehq.com/@openaviation/flight-information-regions#plot_fir)
 
 **Figures:**
+<details>
+<summary><strong>Click to expand image gallery</strong></summary>
 
-![Traffic by Month](figures/1_departures/departures_1_traffic_by_month@2x.png)
-![Traffic by Hour](figures/1_departures/departures_2_traffic_by_hour@2x.png)
-![Big Hits per Day per Airport](figures/1_departures/departures_3_big_hits_per_day_airport@2x.png)
-![Warming per Departure Airport](figures/1_departures/departures_4_airports@2x.png)
-![Big Hits per Day per FIR](figures/1_departures/departures_5_big_hits_per_day_fir@2x.png)
-![Big Hits by FIR](figures/1_departures/departures_6_big_hits_by_fir@2x.png)
-![Warming by Flight Distance](figures/1_departures/departures_7_by_distance@2x.png)
-![Big Hits by Aircraft Class](figures/1_departures/departures_8_by_aircraft@2x.png)
+<p align="center">
+  <img src="figures/1_departures/departures_1_traffic_by_month@2x.png" width="400">
+  <img src="figures/1_departures/departures_2_traffic_by_hour@2x.png" width="400">
+  <img src="figures/1_departures/departures_3_big_hits_per_day_airport@2x.png" width="400">
+  <img src="figures/1_departures/departures_4_airports@2x.png" width="400">
+  <img src="figures/1_departures/departures_5_big_hits_per_day_fir@2x.png" width="400">
+  <img src="figures/1_departures/departures_6_big_hits_by_fir@2x.png" width="400">
+  <img src="figures/1_departures/departures_7_by_distance@2x.png" width="400">
+  <img src="figures/1_departures/departures_8_by_aircraft@2x.png" width="400">
+</p>
+
+</details>
 
 
 ### Forcing (`2_forcing.ipynb`)
