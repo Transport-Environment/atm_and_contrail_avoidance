@@ -174,7 +174,19 @@ Key Python utilities in the `helpers/` folder:
 The `/data` directory includes:
 
 * **Airports, FIR boundaries, and country metadata**
-* **GeoJSON** and **CSV** files for spatial aggregation
+    - `data/countries.csv`: downloaded from https://ourairports.com/data/
+    - `data/airports.csv`: downloaded from https://ourairports.com/data/
+    - `data/worldfirs.json`: downloaded from https://observablehq.com/@openaviation/flight-information-regions#plot_fir
+    - `data/european_firs.csv`: list of European FIRs extracted from https://www.eurocontrol.int/publication/flight-information-region-firuir-charts-2024
+    - `data/airspaces.geojson`: combines `data/worldfirs.json` with bounding boxes from Teoh et al. 2024
+    - `data/worldfirst.geojson`: converted `data/worldfirs.json` to `.geojson` for Flourish
+* **Departures**
+    - `data\departures\2019 - Jet-A - Flight Summary.pq`
+        - flight schedules + contrail information on a flight-by-flight level
+        - 700 MB and contains all European arrivals and departures in 2019 
+        - Corresponds to the data used in Teoh et al. 2019
+
+        
 * **Gridded forcing outputs** (`hourly_totals.csv`)
 * **ISSR datasets** (`ISSR and PCR depth distribution.csv`)
 
@@ -197,3 +209,8 @@ Typical environment setup:
 conda create -n contrail python=3.11
 pip install -r requirements.txt
 ```
+
+## Sources and special thanks
+
+## License
+
