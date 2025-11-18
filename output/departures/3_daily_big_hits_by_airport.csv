@@ -1,1096 +1,1096 @@
 Date,Departure airport,Number of big hits
-2019-01-01,Charles de Gaulle International Airport,28
-2019-01-01,Frankfurt am Main Airport,26
-2019-01-01,London Heathrow Airport,32
-2019-01-02,Charles de Gaulle International Airport,47
-2019-01-02,Frankfurt am Main Airport,38
-2019-01-02,London Heathrow Airport,107
-2019-01-03,Charles de Gaulle International Airport,69
-2019-01-03,Frankfurt am Main Airport,56
-2019-01-03,London Heathrow Airport,130
-2019-01-04,Charles de Gaulle International Airport,84
-2019-01-04,Frankfurt am Main Airport,61
-2019-01-04,London Heathrow Airport,184
-2019-01-05,Charles de Gaulle International Airport,48
-2019-01-05,Frankfurt am Main Airport,39
-2019-01-05,London Heathrow Airport,47
-2019-01-06,Charles de Gaulle International Airport,79
-2019-01-06,Frankfurt am Main Airport,68
-2019-01-06,London Heathrow Airport,148
-2019-01-07,Charles de Gaulle International Airport,109
-2019-01-07,Frankfurt am Main Airport,94
-2019-01-07,London Heathrow Airport,207
-2019-01-08,Charles de Gaulle International Airport,61
-2019-01-08,Frankfurt am Main Airport,76
-2019-01-08,London Heathrow Airport,129
-2019-01-09,Charles de Gaulle International Airport,40
-2019-01-09,Frankfurt am Main Airport,48
-2019-01-09,London Heathrow Airport,56
-2019-01-10,Charles de Gaulle International Airport,64
+2019-01-01,Charles de Gaulle International Airport,30
+2019-01-01,Frankfurt am Main Airport,28
+2019-01-01,London Heathrow Airport,36
+2019-01-02,Charles de Gaulle International Airport,52
+2019-01-02,Frankfurt am Main Airport,39
+2019-01-02,London Heathrow Airport,114
+2019-01-03,Charles de Gaulle International Airport,77
+2019-01-03,Frankfurt am Main Airport,59
+2019-01-03,London Heathrow Airport,137
+2019-01-04,Charles de Gaulle International Airport,92
+2019-01-04,Frankfurt am Main Airport,72
+2019-01-04,London Heathrow Airport,188
+2019-01-05,Charles de Gaulle International Airport,52
+2019-01-05,Frankfurt am Main Airport,42
+2019-01-05,London Heathrow Airport,53
+2019-01-06,Charles de Gaulle International Airport,80
+2019-01-06,Frankfurt am Main Airport,69
+2019-01-06,London Heathrow Airport,151
+2019-01-07,Charles de Gaulle International Airport,114
+2019-01-07,Frankfurt am Main Airport,97
+2019-01-07,London Heathrow Airport,216
+2019-01-08,Charles de Gaulle International Airport,66
+2019-01-08,Frankfurt am Main Airport,81
+2019-01-08,London Heathrow Airport,137
+2019-01-09,Charles de Gaulle International Airport,44
+2019-01-09,Frankfurt am Main Airport,51
+2019-01-09,London Heathrow Airport,58
+2019-01-10,Charles de Gaulle International Airport,68
 2019-01-10,Frankfurt am Main Airport,60
-2019-01-10,London Heathrow Airport,110
-2019-01-11,Charles de Gaulle International Airport,77
-2019-01-11,Frankfurt am Main Airport,85
-2019-01-11,London Heathrow Airport,148
-2019-01-12,Charles de Gaulle International Airport,104
-2019-01-12,Frankfurt am Main Airport,99
-2019-01-12,London Heathrow Airport,227
-2019-01-13,Charles de Gaulle International Airport,103
-2019-01-13,Frankfurt am Main Airport,84
-2019-01-13,London Heathrow Airport,167
-2019-01-14,Charles de Gaulle International Airport,60
-2019-01-14,Frankfurt am Main Airport,50
-2019-01-14,London Heathrow Airport,101
-2019-01-15,Charles de Gaulle International Airport,68
-2019-01-15,Frankfurt am Main Airport,36
-2019-01-15,London Heathrow Airport,131
-2019-01-16,Charles de Gaulle International Airport,110
-2019-01-16,Frankfurt am Main Airport,116
-2019-01-16,London Heathrow Airport,191
-2019-01-17,Charles de Gaulle International Airport,52
-2019-01-17,Frankfurt am Main Airport,55
-2019-01-17,London Heathrow Airport,90
-2019-01-18,Charles de Gaulle International Airport,60
-2019-01-18,Frankfurt am Main Airport,70
-2019-01-18,London Heathrow Airport,60
-2019-01-19,Charles de Gaulle International Airport,73
-2019-01-19,Frankfurt am Main Airport,80
-2019-01-19,London Heathrow Airport,94
-2019-01-20,Charles de Gaulle International Airport,47
-2019-01-20,Frankfurt am Main Airport,48
-2019-01-20,London Heathrow Airport,84
-2019-01-21,Charles de Gaulle International Airport,58
-2019-01-21,Frankfurt am Main Airport,68
-2019-01-21,London Heathrow Airport,164
-2019-01-22,Charles de Gaulle International Airport,46
-2019-01-22,Frankfurt am Main Airport,73
-2019-01-22,London Heathrow Airport,128
-2019-01-23,Charles de Gaulle International Airport,58
-2019-01-23,Frankfurt am Main Airport,63
-2019-01-23,London Heathrow Airport,108
-2019-01-24,Charles de Gaulle International Airport,82
-2019-01-24,Frankfurt am Main Airport,71
-2019-01-24,London Heathrow Airport,126
-2019-01-25,Charles de Gaulle International Airport,62
-2019-01-25,Frankfurt am Main Airport,75
-2019-01-25,London Heathrow Airport,123
-2019-01-26,Charles de Gaulle International Airport,167
-2019-01-26,Frankfurt am Main Airport,178
-2019-01-26,London Heathrow Airport,216
-2019-01-27,Charles de Gaulle International Airport,54
-2019-01-27,Frankfurt am Main Airport,67
-2019-01-27,London Heathrow Airport,66
-2019-01-28,Charles de Gaulle International Airport,37
-2019-01-28,Frankfurt am Main Airport,55
-2019-01-28,London Heathrow Airport,51
-2019-01-29,Charles de Gaulle International Airport,29
-2019-01-29,Frankfurt am Main Airport,31
-2019-01-29,London Heathrow Airport,58
-2019-01-30,Charles de Gaulle International Airport,40
-2019-01-30,Frankfurt am Main Airport,40
-2019-01-30,London Heathrow Airport,41
-2019-01-31,Charles de Gaulle International Airport,48
-2019-01-31,Frankfurt am Main Airport,50
-2019-01-31,London Heathrow Airport,50
-2019-02-01,Charles de Gaulle International Airport,55
-2019-02-01,Frankfurt am Main Airport,80
-2019-02-01,London Heathrow Airport,84
-2019-02-02,Charles de Gaulle International Airport,77
-2019-02-02,Frankfurt am Main Airport,63
-2019-02-02,London Heathrow Airport,92
-2019-02-03,Charles de Gaulle International Airport,76
-2019-02-03,Frankfurt am Main Airport,76
-2019-02-03,London Heathrow Airport,121
-2019-02-04,Charles de Gaulle International Airport,58
-2019-02-04,Frankfurt am Main Airport,56
-2019-02-04,London Heathrow Airport,95
-2019-02-05,Charles de Gaulle International Airport,57
-2019-02-05,Frankfurt am Main Airport,48
-2019-02-05,London Heathrow Airport,144
-2019-02-06,Charles de Gaulle International Airport,124
-2019-02-06,Frankfurt am Main Airport,113
-2019-02-06,London Heathrow Airport,215
-2019-02-07,Charles de Gaulle International Airport,121
-2019-02-07,Frankfurt am Main Airport,155
-2019-02-07,London Heathrow Airport,141
-2019-02-08,Charles de Gaulle International Airport,97
-2019-02-08,Frankfurt am Main Airport,98
-2019-02-08,London Heathrow Airport,172
-2019-02-09,Charles de Gaulle International Airport,163
-2019-02-09,Frankfurt am Main Airport,122
-2019-02-09,London Heathrow Airport,237
-2019-02-10,Charles de Gaulle International Airport,83
-2019-02-10,Frankfurt am Main Airport,104
-2019-02-10,London Heathrow Airport,117
+2019-01-10,London Heathrow Airport,114
+2019-01-11,Charles de Gaulle International Airport,80
+2019-01-11,Frankfurt am Main Airport,90
+2019-01-11,London Heathrow Airport,152
+2019-01-12,Charles de Gaulle International Airport,109
+2019-01-12,Frankfurt am Main Airport,103
+2019-01-12,London Heathrow Airport,236
+2019-01-13,Charles de Gaulle International Airport,113
+2019-01-13,Frankfurt am Main Airport,89
+2019-01-13,London Heathrow Airport,180
+2019-01-14,Charles de Gaulle International Airport,61
+2019-01-14,Frankfurt am Main Airport,51
+2019-01-14,London Heathrow Airport,104
+2019-01-15,Charles de Gaulle International Airport,73
+2019-01-15,Frankfurt am Main Airport,38
+2019-01-15,London Heathrow Airport,139
+2019-01-16,Charles de Gaulle International Airport,125
+2019-01-16,Frankfurt am Main Airport,128
+2019-01-16,London Heathrow Airport,196
+2019-01-17,Charles de Gaulle International Airport,54
+2019-01-17,Frankfurt am Main Airport,59
+2019-01-17,London Heathrow Airport,99
+2019-01-18,Charles de Gaulle International Airport,63
+2019-01-18,Frankfurt am Main Airport,71
+2019-01-18,London Heathrow Airport,67
+2019-01-19,Charles de Gaulle International Airport,83
+2019-01-19,Frankfurt am Main Airport,84
+2019-01-19,London Heathrow Airport,98
+2019-01-20,Charles de Gaulle International Airport,50
+2019-01-20,Frankfurt am Main Airport,50
+2019-01-20,London Heathrow Airport,89
+2019-01-21,Charles de Gaulle International Airport,62
+2019-01-21,Frankfurt am Main Airport,73
+2019-01-21,London Heathrow Airport,172
+2019-01-22,Charles de Gaulle International Airport,58
+2019-01-22,Frankfurt am Main Airport,78
+2019-01-22,London Heathrow Airport,135
+2019-01-23,Charles de Gaulle International Airport,61
+2019-01-23,Frankfurt am Main Airport,64
+2019-01-23,London Heathrow Airport,112
+2019-01-24,Charles de Gaulle International Airport,91
+2019-01-24,Frankfurt am Main Airport,74
+2019-01-24,London Heathrow Airport,137
+2019-01-25,Charles de Gaulle International Airport,68
+2019-01-25,Frankfurt am Main Airport,79
+2019-01-25,London Heathrow Airport,133
+2019-01-26,Charles de Gaulle International Airport,174
+2019-01-26,Frankfurt am Main Airport,186
+2019-01-26,London Heathrow Airport,227
+2019-01-27,Charles de Gaulle International Airport,61
+2019-01-27,Frankfurt am Main Airport,73
+2019-01-27,London Heathrow Airport,73
+2019-01-28,Charles de Gaulle International Airport,40
+2019-01-28,Frankfurt am Main Airport,58
+2019-01-28,London Heathrow Airport,55
+2019-01-29,Charles de Gaulle International Airport,31
+2019-01-29,Frankfurt am Main Airport,32
+2019-01-29,London Heathrow Airport,61
+2019-01-30,Charles de Gaulle International Airport,44
+2019-01-30,Frankfurt am Main Airport,43
+2019-01-30,London Heathrow Airport,43
+2019-01-31,Charles de Gaulle International Airport,54
+2019-01-31,Frankfurt am Main Airport,51
+2019-01-31,London Heathrow Airport,54
+2019-02-01,Charles de Gaulle International Airport,62
+2019-02-01,Frankfurt am Main Airport,86
+2019-02-01,London Heathrow Airport,90
+2019-02-02,Charles de Gaulle International Airport,82
+2019-02-02,Frankfurt am Main Airport,69
+2019-02-02,London Heathrow Airport,98
+2019-02-03,Charles de Gaulle International Airport,81
+2019-02-03,Frankfurt am Main Airport,79
+2019-02-03,London Heathrow Airport,132
+2019-02-04,Charles de Gaulle International Airport,64
+2019-02-04,Frankfurt am Main Airport,59
+2019-02-04,London Heathrow Airport,105
+2019-02-05,Charles de Gaulle International Airport,61
+2019-02-05,Frankfurt am Main Airport,52
+2019-02-05,London Heathrow Airport,162
+2019-02-06,Charles de Gaulle International Airport,137
+2019-02-06,Frankfurt am Main Airport,121
+2019-02-06,London Heathrow Airport,235
+2019-02-07,Charles de Gaulle International Airport,127
+2019-02-07,Frankfurt am Main Airport,163
+2019-02-07,London Heathrow Airport,148
+2019-02-08,Charles de Gaulle International Airport,103
+2019-02-08,Frankfurt am Main Airport,109
+2019-02-08,London Heathrow Airport,181
+2019-02-09,Charles de Gaulle International Airport,171
+2019-02-09,Frankfurt am Main Airport,130
+2019-02-09,London Heathrow Airport,247
+2019-02-10,Charles de Gaulle International Airport,91
+2019-02-10,Frankfurt am Main Airport,108
+2019-02-10,London Heathrow Airport,127
 2019-02-11,Charles de Gaulle International Airport,79
-2019-02-11,Frankfurt am Main Airport,79
-2019-02-11,London Heathrow Airport,178
-2019-02-12,Charles de Gaulle International Airport,39
-2019-02-12,Frankfurt am Main Airport,38
-2019-02-12,London Heathrow Airport,91
-2019-02-13,Charles de Gaulle International Airport,78
-2019-02-13,Frankfurt am Main Airport,60
-2019-02-13,London Heathrow Airport,156
-2019-02-14,Charles de Gaulle International Airport,57
-2019-02-14,Frankfurt am Main Airport,59
-2019-02-14,London Heathrow Airport,116
-2019-02-15,Charles de Gaulle International Airport,45
+2019-02-11,Frankfurt am Main Airport,84
+2019-02-11,London Heathrow Airport,188
+2019-02-12,Charles de Gaulle International Airport,43
+2019-02-12,Frankfurt am Main Airport,40
+2019-02-12,London Heathrow Airport,100
+2019-02-13,Charles de Gaulle International Airport,83
+2019-02-13,Frankfurt am Main Airport,66
+2019-02-13,London Heathrow Airport,169
+2019-02-14,Charles de Gaulle International Airport,60
+2019-02-14,Frankfurt am Main Airport,60
+2019-02-14,London Heathrow Airport,118
+2019-02-15,Charles de Gaulle International Airport,46
 2019-02-15,Frankfurt am Main Airport,48
-2019-02-15,London Heathrow Airport,84
-2019-02-16,Charles de Gaulle International Airport,79
-2019-02-16,Frankfurt am Main Airport,77
-2019-02-16,London Heathrow Airport,251
-2019-02-17,Charles de Gaulle International Airport,96
-2019-02-17,Frankfurt am Main Airport,95
-2019-02-17,London Heathrow Airport,153
-2019-02-18,Charles de Gaulle International Airport,70
-2019-02-18,Frankfurt am Main Airport,56
-2019-02-18,London Heathrow Airport,129
-2019-02-19,Charles de Gaulle International Airport,61
-2019-02-19,Frankfurt am Main Airport,56
-2019-02-19,London Heathrow Airport,173
-2019-02-20,Charles de Gaulle International Airport,45
-2019-02-20,Frankfurt am Main Airport,48
-2019-02-20,London Heathrow Airport,114
-2019-02-21,Charles de Gaulle International Airport,32
-2019-02-21,Frankfurt am Main Airport,31
-2019-02-21,London Heathrow Airport,51
-2019-02-22,Charles de Gaulle International Airport,43
-2019-02-22,Frankfurt am Main Airport,38
-2019-02-22,London Heathrow Airport,86
-2019-02-23,Charles de Gaulle International Airport,55
-2019-02-23,Frankfurt am Main Airport,45
-2019-02-23,London Heathrow Airport,64
-2019-02-24,Charles de Gaulle International Airport,45
-2019-02-24,Frankfurt am Main Airport,33
-2019-02-24,London Heathrow Airport,98
-2019-02-25,Charles de Gaulle International Airport,42
-2019-02-25,Frankfurt am Main Airport,50
-2019-02-25,London Heathrow Airport,108
+2019-02-15,London Heathrow Airport,90
+2019-02-16,Charles de Gaulle International Airport,84
+2019-02-16,Frankfurt am Main Airport,79
+2019-02-16,London Heathrow Airport,257
+2019-02-17,Charles de Gaulle International Airport,100
+2019-02-17,Frankfurt am Main Airport,100
+2019-02-17,London Heathrow Airport,167
+2019-02-18,Charles de Gaulle International Airport,75
+2019-02-18,Frankfurt am Main Airport,64
+2019-02-18,London Heathrow Airport,136
+2019-02-19,Charles de Gaulle International Airport,62
+2019-02-19,Frankfurt am Main Airport,60
+2019-02-19,London Heathrow Airport,186
+2019-02-20,Charles de Gaulle International Airport,53
+2019-02-20,Frankfurt am Main Airport,55
+2019-02-20,London Heathrow Airport,121
+2019-02-21,Charles de Gaulle International Airport,34
+2019-02-21,Frankfurt am Main Airport,33
+2019-02-21,London Heathrow Airport,57
+2019-02-22,Charles de Gaulle International Airport,47
+2019-02-22,Frankfurt am Main Airport,41
+2019-02-22,London Heathrow Airport,96
+2019-02-23,Charles de Gaulle International Airport,60
+2019-02-23,Frankfurt am Main Airport,48
+2019-02-23,London Heathrow Airport,68
+2019-02-24,Charles de Gaulle International Airport,47
+2019-02-24,Frankfurt am Main Airport,34
+2019-02-24,London Heathrow Airport,102
+2019-02-25,Charles de Gaulle International Airport,48
+2019-02-25,Frankfurt am Main Airport,54
+2019-02-25,London Heathrow Airport,113
 2019-02-26,Charles de Gaulle International Airport,33
-2019-02-26,Frankfurt am Main Airport,32
-2019-02-26,London Heathrow Airport,37
-2019-02-27,Charles de Gaulle International Airport,32
-2019-02-27,Frankfurt am Main Airport,30
-2019-02-27,London Heathrow Airport,29
-2019-02-28,Charles de Gaulle International Airport,26
-2019-02-28,Frankfurt am Main Airport,44
-2019-02-28,London Heathrow Airport,53
-2019-03-01,Charles de Gaulle International Airport,41
-2019-03-01,Frankfurt am Main Airport,40
-2019-03-01,London Heathrow Airport,64
-2019-03-02,Charles de Gaulle International Airport,41
-2019-03-02,Frankfurt am Main Airport,39
-2019-03-02,London Heathrow Airport,75
-2019-03-03,Charles de Gaulle International Airport,102
-2019-03-03,Frankfurt am Main Airport,109
-2019-03-03,London Heathrow Airport,156
-2019-03-04,Charles de Gaulle International Airport,38
-2019-03-04,Frankfurt am Main Airport,57
-2019-03-04,London Heathrow Airport,63
-2019-03-05,Charles de Gaulle International Airport,55
-2019-03-05,Frankfurt am Main Airport,66
-2019-03-05,London Heathrow Airport,101
-2019-03-06,Charles de Gaulle International Airport,109
-2019-03-06,Frankfurt am Main Airport,114
-2019-03-06,London Heathrow Airport,180
-2019-03-07,Charles de Gaulle International Airport,52
-2019-03-07,Frankfurt am Main Airport,85
-2019-03-07,London Heathrow Airport,85
+2019-02-26,Frankfurt am Main Airport,37
+2019-02-26,London Heathrow Airport,42
+2019-02-27,Charles de Gaulle International Airport,34
+2019-02-27,Frankfurt am Main Airport,31
+2019-02-27,London Heathrow Airport,34
+2019-02-28,Charles de Gaulle International Airport,29
+2019-02-28,Frankfurt am Main Airport,48
+2019-02-28,London Heathrow Airport,60
+2019-03-01,Charles de Gaulle International Airport,43
+2019-03-01,Frankfurt am Main Airport,45
+2019-03-01,London Heathrow Airport,68
+2019-03-02,Charles de Gaulle International Airport,44
+2019-03-02,Frankfurt am Main Airport,40
+2019-03-02,London Heathrow Airport,83
+2019-03-03,Charles de Gaulle International Airport,107
+2019-03-03,Frankfurt am Main Airport,117
+2019-03-03,London Heathrow Airport,163
+2019-03-04,Charles de Gaulle International Airport,41
+2019-03-04,Frankfurt am Main Airport,60
+2019-03-04,London Heathrow Airport,65
+2019-03-05,Charles de Gaulle International Airport,62
+2019-03-05,Frankfurt am Main Airport,70
+2019-03-05,London Heathrow Airport,113
+2019-03-06,Charles de Gaulle International Airport,113
+2019-03-06,Frankfurt am Main Airport,122
+2019-03-06,London Heathrow Airport,190
+2019-03-07,Charles de Gaulle International Airport,55
+2019-03-07,Frankfurt am Main Airport,87
+2019-03-07,London Heathrow Airport,88
 2019-03-08,Charles de Gaulle International Airport,50
-2019-03-08,Frankfurt am Main Airport,71
-2019-03-08,London Heathrow Airport,77
-2019-03-09,Charles de Gaulle International Airport,102
-2019-03-09,Frankfurt am Main Airport,114
-2019-03-09,London Heathrow Airport,132
-2019-03-10,Charles de Gaulle International Airport,46
-2019-03-10,Frankfurt am Main Airport,47
-2019-03-10,London Heathrow Airport,56
-2019-03-11,Charles de Gaulle International Airport,38
-2019-03-11,Frankfurt am Main Airport,44
-2019-03-11,London Heathrow Airport,88
-2019-03-12,Charles de Gaulle International Airport,48
-2019-03-12,Frankfurt am Main Airport,42
-2019-03-12,London Heathrow Airport,79
-2019-03-13,Charles de Gaulle International Airport,58
-2019-03-13,Frankfurt am Main Airport,77
-2019-03-13,London Heathrow Airport,116
-2019-03-14,Charles de Gaulle International Airport,57
-2019-03-14,Frankfurt am Main Airport,57
-2019-03-14,London Heathrow Airport,108
-2019-03-15,Charles de Gaulle International Airport,93
-2019-03-15,Frankfurt am Main Airport,95
-2019-03-15,London Heathrow Airport,187
-2019-03-16,Charles de Gaulle International Airport,41
-2019-03-16,Frankfurt am Main Airport,51
-2019-03-16,London Heathrow Airport,92
-2019-03-17,Charles de Gaulle International Airport,54
-2019-03-17,Frankfurt am Main Airport,64
-2019-03-17,London Heathrow Airport,88
-2019-03-18,Charles de Gaulle International Airport,34
-2019-03-18,Frankfurt am Main Airport,42
-2019-03-18,London Heathrow Airport,64
-2019-03-19,Charles de Gaulle International Airport,30
+2019-03-08,Frankfurt am Main Airport,74
+2019-03-08,London Heathrow Airport,82
+2019-03-09,Charles de Gaulle International Airport,107
+2019-03-09,Frankfurt am Main Airport,120
+2019-03-09,London Heathrow Airport,140
+2019-03-10,Charles de Gaulle International Airport,49
+2019-03-10,Frankfurt am Main Airport,50
+2019-03-10,London Heathrow Airport,67
+2019-03-11,Charles de Gaulle International Airport,40
+2019-03-11,Frankfurt am Main Airport,46
+2019-03-11,London Heathrow Airport,89
+2019-03-12,Charles de Gaulle International Airport,56
+2019-03-12,Frankfurt am Main Airport,44
+2019-03-12,London Heathrow Airport,85
+2019-03-13,Charles de Gaulle International Airport,62
+2019-03-13,Frankfurt am Main Airport,83
+2019-03-13,London Heathrow Airport,122
+2019-03-14,Charles de Gaulle International Airport,63
+2019-03-14,Frankfurt am Main Airport,60
+2019-03-14,London Heathrow Airport,113
+2019-03-15,Charles de Gaulle International Airport,102
+2019-03-15,Frankfurt am Main Airport,101
+2019-03-15,London Heathrow Airport,202
+2019-03-16,Charles de Gaulle International Airport,51
+2019-03-16,Frankfurt am Main Airport,63
+2019-03-16,London Heathrow Airport,105
+2019-03-17,Charles de Gaulle International Airport,58
+2019-03-17,Frankfurt am Main Airport,67
+2019-03-17,London Heathrow Airport,90
+2019-03-18,Charles de Gaulle International Airport,39
+2019-03-18,Frankfurt am Main Airport,46
+2019-03-18,London Heathrow Airport,70
+2019-03-19,Charles de Gaulle International Airport,33
 2019-03-19,Frankfurt am Main Airport,41
-2019-03-19,London Heathrow Airport,75
-2019-03-20,Charles de Gaulle International Airport,48
-2019-03-20,Frankfurt am Main Airport,59
-2019-03-20,London Heathrow Airport,59
-2019-03-21,Charles de Gaulle International Airport,29
-2019-03-21,Frankfurt am Main Airport,35
-2019-03-21,London Heathrow Airport,92
-2019-03-22,Charles de Gaulle International Airport,36
-2019-03-22,Frankfurt am Main Airport,39
-2019-03-22,London Heathrow Airport,42
-2019-03-23,Charles de Gaulle International Airport,69
-2019-03-23,Frankfurt am Main Airport,61
-2019-03-23,London Heathrow Airport,103
-2019-03-24,Charles de Gaulle International Airport,32
-2019-03-24,Frankfurt am Main Airport,36
-2019-03-24,London Heathrow Airport,95
-2019-03-25,Charles de Gaulle International Airport,25
-2019-03-25,Frankfurt am Main Airport,24
-2019-03-25,London Heathrow Airport,75
-2019-03-26,Charles de Gaulle International Airport,25
+2019-03-19,London Heathrow Airport,80
+2019-03-20,Charles de Gaulle International Airport,56
+2019-03-20,Frankfurt am Main Airport,62
+2019-03-20,London Heathrow Airport,70
+2019-03-21,Charles de Gaulle International Airport,34
+2019-03-21,Frankfurt am Main Airport,39
+2019-03-21,London Heathrow Airport,97
+2019-03-22,Charles de Gaulle International Airport,39
+2019-03-22,Frankfurt am Main Airport,41
+2019-03-22,London Heathrow Airport,43
+2019-03-23,Charles de Gaulle International Airport,76
+2019-03-23,Frankfurt am Main Airport,64
+2019-03-23,London Heathrow Airport,110
+2019-03-24,Charles de Gaulle International Airport,36
+2019-03-24,Frankfurt am Main Airport,41
+2019-03-24,London Heathrow Airport,99
+2019-03-25,Charles de Gaulle International Airport,28
+2019-03-25,Frankfurt am Main Airport,26
+2019-03-25,London Heathrow Airport,78
+2019-03-26,Charles de Gaulle International Airport,28
 2019-03-26,Frankfurt am Main Airport,27
-2019-03-26,London Heathrow Airport,64
-2019-03-27,Charles de Gaulle International Airport,34
-2019-03-27,Frankfurt am Main Airport,25
-2019-03-27,London Heathrow Airport,79
-2019-03-28,Charles de Gaulle International Airport,44
-2019-03-28,Frankfurt am Main Airport,54
-2019-03-28,London Heathrow Airport,104
-2019-03-29,Charles de Gaulle International Airport,42
-2019-03-29,Frankfurt am Main Airport,66
-2019-03-29,London Heathrow Airport,96
-2019-03-30,Charles de Gaulle International Airport,50
-2019-03-30,Frankfurt am Main Airport,61
-2019-03-30,London Heathrow Airport,76
-2019-03-31,Charles de Gaulle International Airport,30
-2019-03-31,Frankfurt am Main Airport,30
-2019-03-31,London Heathrow Airport,66
-2019-04-01,Charles de Gaulle International Airport,46
-2019-04-01,Frankfurt am Main Airport,38
-2019-04-01,London Heathrow Airport,115
-2019-04-02,Charles de Gaulle International Airport,61
-2019-04-02,Frankfurt am Main Airport,75
-2019-04-02,London Heathrow Airport,106
-2019-04-03,Charles de Gaulle International Airport,34
-2019-04-03,Frankfurt am Main Airport,30
+2019-03-26,London Heathrow Airport,66
+2019-03-27,Charles de Gaulle International Airport,39
+2019-03-27,Frankfurt am Main Airport,26
+2019-03-27,London Heathrow Airport,83
+2019-03-28,Charles de Gaulle International Airport,46
+2019-03-28,Frankfurt am Main Airport,56
+2019-03-28,London Heathrow Airport,111
+2019-03-29,Charles de Gaulle International Airport,43
+2019-03-29,Frankfurt am Main Airport,69
+2019-03-29,London Heathrow Airport,102
+2019-03-30,Charles de Gaulle International Airport,52
+2019-03-30,Frankfurt am Main Airport,64
+2019-03-30,London Heathrow Airport,87
+2019-03-31,Charles de Gaulle International Airport,31
+2019-03-31,Frankfurt am Main Airport,31
+2019-03-31,London Heathrow Airport,69
+2019-04-01,Charles de Gaulle International Airport,52
+2019-04-01,Frankfurt am Main Airport,43
+2019-04-01,London Heathrow Airport,120
+2019-04-02,Charles de Gaulle International Airport,68
+2019-04-02,Frankfurt am Main Airport,83
+2019-04-02,London Heathrow Airport,109
+2019-04-03,Charles de Gaulle International Airport,36
+2019-04-03,Frankfurt am Main Airport,32
 2019-04-03,London Heathrow Airport,52
-2019-04-04,Charles de Gaulle International Airport,18
-2019-04-04,Frankfurt am Main Airport,26
-2019-04-04,London Heathrow Airport,36
-2019-04-05,Charles de Gaulle International Airport,56
-2019-04-05,Frankfurt am Main Airport,54
-2019-04-05,London Heathrow Airport,93
-2019-04-06,Charles de Gaulle International Airport,39
-2019-04-06,Frankfurt am Main Airport,59
-2019-04-06,London Heathrow Airport,91
-2019-04-07,Charles de Gaulle International Airport,21
-2019-04-07,Frankfurt am Main Airport,32
-2019-04-07,London Heathrow Airport,55
-2019-04-08,Charles de Gaulle International Airport,30
-2019-04-08,Frankfurt am Main Airport,47
-2019-04-08,London Heathrow Airport,53
-2019-04-09,Charles de Gaulle International Airport,19
-2019-04-09,Frankfurt am Main Airport,33
-2019-04-09,London Heathrow Airport,48
-2019-04-10,Charles de Gaulle International Airport,36
-2019-04-10,Frankfurt am Main Airport,39
-2019-04-10,London Heathrow Airport,46
-2019-04-11,Charles de Gaulle International Airport,23
-2019-04-11,Frankfurt am Main Airport,47
+2019-04-04,Charles de Gaulle International Airport,19
+2019-04-04,Frankfurt am Main Airport,27
+2019-04-04,London Heathrow Airport,39
+2019-04-05,Charles de Gaulle International Airport,61
+2019-04-05,Frankfurt am Main Airport,55
+2019-04-05,London Heathrow Airport,109
+2019-04-06,Charles de Gaulle International Airport,43
+2019-04-06,Frankfurt am Main Airport,65
+2019-04-06,London Heathrow Airport,93
+2019-04-07,Charles de Gaulle International Airport,24
+2019-04-07,Frankfurt am Main Airport,35
+2019-04-07,London Heathrow Airport,57
+2019-04-08,Charles de Gaulle International Airport,34
+2019-04-08,Frankfurt am Main Airport,50
+2019-04-08,London Heathrow Airport,58
+2019-04-09,Charles de Gaulle International Airport,21
+2019-04-09,Frankfurt am Main Airport,35
+2019-04-09,London Heathrow Airport,52
+2019-04-10,Charles de Gaulle International Airport,37
+2019-04-10,Frankfurt am Main Airport,42
+2019-04-10,London Heathrow Airport,49
+2019-04-11,Charles de Gaulle International Airport,24
+2019-04-11,Frankfurt am Main Airport,48
 2019-04-11,London Heathrow Airport,44
 2019-04-12,Charles de Gaulle International Airport,28
-2019-04-12,Frankfurt am Main Airport,46
-2019-04-12,London Heathrow Airport,46
-2019-04-13,Charles de Gaulle International Airport,35
+2019-04-12,Frankfurt am Main Airport,54
+2019-04-12,London Heathrow Airport,51
+2019-04-13,Charles de Gaulle International Airport,38
 2019-04-13,Frankfurt am Main Airport,28
-2019-04-13,London Heathrow Airport,44
-2019-04-14,Charles de Gaulle International Airport,12
-2019-04-14,Frankfurt am Main Airport,23
-2019-04-14,London Heathrow Airport,20
-2019-04-15,Charles de Gaulle International Airport,32
-2019-04-15,Frankfurt am Main Airport,31
-2019-04-15,London Heathrow Airport,77
-2019-04-16,Charles de Gaulle International Airport,29
-2019-04-16,Frankfurt am Main Airport,21
-2019-04-16,London Heathrow Airport,69
-2019-04-17,Charles de Gaulle International Airport,39
-2019-04-17,Frankfurt am Main Airport,42
-2019-04-17,London Heathrow Airport,58
-2019-04-18,Charles de Gaulle International Airport,43
-2019-04-18,Frankfurt am Main Airport,27
-2019-04-18,London Heathrow Airport,53
-2019-04-19,Charles de Gaulle International Airport,37
+2019-04-13,London Heathrow Airport,55
+2019-04-14,Charles de Gaulle International Airport,13
+2019-04-14,Frankfurt am Main Airport,27
+2019-04-14,London Heathrow Airport,22
+2019-04-15,Charles de Gaulle International Airport,33
+2019-04-15,Frankfurt am Main Airport,37
+2019-04-15,London Heathrow Airport,87
+2019-04-16,Charles de Gaulle International Airport,33
+2019-04-16,Frankfurt am Main Airport,25
+2019-04-16,London Heathrow Airport,76
+2019-04-17,Charles de Gaulle International Airport,46
+2019-04-17,Frankfurt am Main Airport,44
+2019-04-17,London Heathrow Airport,61
+2019-04-18,Charles de Gaulle International Airport,48
+2019-04-18,Frankfurt am Main Airport,29
+2019-04-18,London Heathrow Airport,57
+2019-04-19,Charles de Gaulle International Airport,44
 2019-04-19,Frankfurt am Main Airport,32
-2019-04-19,London Heathrow Airport,69
-2019-04-20,Charles de Gaulle International Airport,32
-2019-04-20,Frankfurt am Main Airport,16
-2019-04-20,London Heathrow Airport,61
-2019-04-21,Charles de Gaulle International Airport,63
-2019-04-21,Frankfurt am Main Airport,46
-2019-04-21,London Heathrow Airport,81
-2019-04-22,Charles de Gaulle International Airport,48
-2019-04-22,Frankfurt am Main Airport,41
-2019-04-22,London Heathrow Airport,71
-2019-04-23,Charles de Gaulle International Airport,41
-2019-04-23,Frankfurt am Main Airport,47
-2019-04-23,London Heathrow Airport,71
-2019-04-24,Charles de Gaulle International Airport,26
-2019-04-24,Frankfurt am Main Airport,22
-2019-04-24,London Heathrow Airport,44
-2019-04-25,Charles de Gaulle International Airport,33
-2019-04-25,Frankfurt am Main Airport,51
-2019-04-25,London Heathrow Airport,42
-2019-04-26,Charles de Gaulle International Airport,31
-2019-04-26,Frankfurt am Main Airport,56
-2019-04-26,London Heathrow Airport,49
-2019-04-27,Charles de Gaulle International Airport,36
-2019-04-27,Frankfurt am Main Airport,30
-2019-04-27,London Heathrow Airport,36
-2019-04-28,Charles de Gaulle International Airport,53
-2019-04-28,Frankfurt am Main Airport,57
-2019-04-28,London Heathrow Airport,92
-2019-04-29,Charles de Gaulle International Airport,25
-2019-04-29,Frankfurt am Main Airport,35
-2019-04-29,London Heathrow Airport,42
-2019-04-30,Charles de Gaulle International Airport,24
+2019-04-19,London Heathrow Airport,71
+2019-04-20,Charles de Gaulle International Airport,35
+2019-04-20,Frankfurt am Main Airport,19
+2019-04-20,London Heathrow Airport,65
+2019-04-21,Charles de Gaulle International Airport,65
+2019-04-21,Frankfurt am Main Airport,50
+2019-04-21,London Heathrow Airport,84
+2019-04-22,Charles de Gaulle International Airport,53
+2019-04-22,Frankfurt am Main Airport,42
+2019-04-22,London Heathrow Airport,78
+2019-04-23,Charles de Gaulle International Airport,45
+2019-04-23,Frankfurt am Main Airport,54
+2019-04-23,London Heathrow Airport,77
+2019-04-24,Charles de Gaulle International Airport,28
+2019-04-24,Frankfurt am Main Airport,29
+2019-04-24,London Heathrow Airport,48
+2019-04-25,Charles de Gaulle International Airport,35
+2019-04-25,Frankfurt am Main Airport,52
+2019-04-25,London Heathrow Airport,46
+2019-04-26,Charles de Gaulle International Airport,34
+2019-04-26,Frankfurt am Main Airport,57
+2019-04-26,London Heathrow Airport,55
+2019-04-27,Charles de Gaulle International Airport,42
+2019-04-27,Frankfurt am Main Airport,34
+2019-04-27,London Heathrow Airport,38
+2019-04-28,Charles de Gaulle International Airport,62
+2019-04-28,Frankfurt am Main Airport,63
+2019-04-28,London Heathrow Airport,104
+2019-04-29,Charles de Gaulle International Airport,26
+2019-04-29,Frankfurt am Main Airport,37
+2019-04-29,London Heathrow Airport,45
+2019-04-30,Charles de Gaulle International Airport,28
 2019-04-30,Frankfurt am Main Airport,25
-2019-04-30,London Heathrow Airport,45
-2019-05-01,Charles de Gaulle International Airport,24
-2019-05-01,Frankfurt am Main Airport,40
-2019-05-01,London Heathrow Airport,52
-2019-05-02,Charles de Gaulle International Airport,30
-2019-05-02,Frankfurt am Main Airport,32
-2019-05-02,London Heathrow Airport,54
-2019-05-03,Charles de Gaulle International Airport,37
-2019-05-03,Frankfurt am Main Airport,42
-2019-05-03,London Heathrow Airport,69
-2019-05-04,Charles de Gaulle International Airport,42
-2019-05-04,Frankfurt am Main Airport,41
-2019-05-04,London Heathrow Airport,63
-2019-05-05,Charles de Gaulle International Airport,34
-2019-05-05,Frankfurt am Main Airport,32
-2019-05-05,London Heathrow Airport,55
-2019-05-06,Charles de Gaulle International Airport,26
-2019-05-06,Frankfurt am Main Airport,29
-2019-05-06,London Heathrow Airport,43
-2019-05-07,Charles de Gaulle International Airport,43
-2019-05-07,Frankfurt am Main Airport,34
-2019-05-07,London Heathrow Airport,57
-2019-05-08,Charles de Gaulle International Airport,49
-2019-05-08,Frankfurt am Main Airport,65
-2019-05-08,London Heathrow Airport,52
-2019-05-09,Charles de Gaulle International Airport,25
-2019-05-09,Frankfurt am Main Airport,30
-2019-05-09,London Heathrow Airport,40
-2019-05-10,Charles de Gaulle International Airport,31
-2019-05-10,Frankfurt am Main Airport,22
-2019-05-10,London Heathrow Airport,61
-2019-05-11,Charles de Gaulle International Airport,34
-2019-05-11,Frankfurt am Main Airport,39
-2019-05-11,London Heathrow Airport,31
-2019-05-12,Charles de Gaulle International Airport,36
-2019-05-12,Frankfurt am Main Airport,56
-2019-05-12,London Heathrow Airport,61
-2019-05-13,Charles de Gaulle International Airport,23
-2019-05-13,Frankfurt am Main Airport,33
-2019-05-13,London Heathrow Airport,32
-2019-05-14,Charles de Gaulle International Airport,24
+2019-04-30,London Heathrow Airport,51
+2019-05-01,Charles de Gaulle International Airport,28
+2019-05-01,Frankfurt am Main Airport,44
+2019-05-01,London Heathrow Airport,59
+2019-05-02,Charles de Gaulle International Airport,31
+2019-05-02,Frankfurt am Main Airport,37
+2019-05-02,London Heathrow Airport,60
+2019-05-03,Charles de Gaulle International Airport,38
+2019-05-03,Frankfurt am Main Airport,46
+2019-05-03,London Heathrow Airport,73
+2019-05-04,Charles de Gaulle International Airport,44
+2019-05-04,Frankfurt am Main Airport,48
+2019-05-04,London Heathrow Airport,73
+2019-05-05,Charles de Gaulle International Airport,37
+2019-05-05,Frankfurt am Main Airport,35
+2019-05-05,London Heathrow Airport,61
+2019-05-06,Charles de Gaulle International Airport,27
+2019-05-06,Frankfurt am Main Airport,30
+2019-05-06,London Heathrow Airport,45
+2019-05-07,Charles de Gaulle International Airport,45
+2019-05-07,Frankfurt am Main Airport,36
+2019-05-07,London Heathrow Airport,63
+2019-05-08,Charles de Gaulle International Airport,54
+2019-05-08,Frankfurt am Main Airport,74
+2019-05-08,London Heathrow Airport,59
+2019-05-09,Charles de Gaulle International Airport,30
+2019-05-09,Frankfurt am Main Airport,33
+2019-05-09,London Heathrow Airport,45
+2019-05-10,Charles de Gaulle International Airport,35
+2019-05-10,Frankfurt am Main Airport,25
+2019-05-10,London Heathrow Airport,66
+2019-05-11,Charles de Gaulle International Airport,41
+2019-05-11,Frankfurt am Main Airport,42
+2019-05-11,London Heathrow Airport,37
+2019-05-12,Charles de Gaulle International Airport,43
+2019-05-12,Frankfurt am Main Airport,61
+2019-05-12,London Heathrow Airport,70
+2019-05-13,Charles de Gaulle International Airport,26
+2019-05-13,Frankfurt am Main Airport,36
+2019-05-13,London Heathrow Airport,35
+2019-05-14,Charles de Gaulle International Airport,29
 2019-05-14,Frankfurt am Main Airport,27
-2019-05-14,London Heathrow Airport,33
-2019-05-15,Charles de Gaulle International Airport,27
-2019-05-15,Frankfurt am Main Airport,45
-2019-05-15,London Heathrow Airport,37
-2019-05-16,Charles de Gaulle International Airport,24
-2019-05-16,Frankfurt am Main Airport,30
-2019-05-16,London Heathrow Airport,34
-2019-05-17,Charles de Gaulle International Airport,35
-2019-05-17,Frankfurt am Main Airport,46
-2019-05-17,London Heathrow Airport,36
-2019-05-18,Charles de Gaulle International Airport,29
-2019-05-18,Frankfurt am Main Airport,33
-2019-05-18,London Heathrow Airport,41
-2019-05-19,Charles de Gaulle International Airport,54
-2019-05-19,Frankfurt am Main Airport,46
-2019-05-19,London Heathrow Airport,94
-2019-05-20,Charles de Gaulle International Airport,20
-2019-05-20,Frankfurt am Main Airport,36
-2019-05-20,London Heathrow Airport,60
-2019-05-21,Charles de Gaulle International Airport,48
-2019-05-21,Frankfurt am Main Airport,39
-2019-05-21,London Heathrow Airport,60
-2019-05-22,Charles de Gaulle International Airport,42
-2019-05-22,Frankfurt am Main Airport,49
-2019-05-22,London Heathrow Airport,78
-2019-05-23,Charles de Gaulle International Airport,38
-2019-05-23,Frankfurt am Main Airport,50
-2019-05-23,London Heathrow Airport,80
-2019-05-24,Charles de Gaulle International Airport,48
-2019-05-24,Frankfurt am Main Airport,67
-2019-05-24,London Heathrow Airport,69
-2019-05-25,Charles de Gaulle International Airport,35
-2019-05-25,Frankfurt am Main Airport,42
-2019-05-25,London Heathrow Airport,42
-2019-05-26,Charles de Gaulle International Airport,57
-2019-05-26,Frankfurt am Main Airport,59
-2019-05-26,London Heathrow Airport,74
-2019-05-27,Charles de Gaulle International Airport,54
-2019-05-27,Frankfurt am Main Airport,41
-2019-05-27,London Heathrow Airport,64
-2019-05-28,Charles de Gaulle International Airport,35
-2019-05-28,Frankfurt am Main Airport,33
-2019-05-28,London Heathrow Airport,59
-2019-05-29,Charles de Gaulle International Airport,72
-2019-05-29,Frankfurt am Main Airport,62
-2019-05-29,London Heathrow Airport,132
-2019-05-30,Charles de Gaulle International Airport,53
-2019-05-30,Frankfurt am Main Airport,35
-2019-05-30,London Heathrow Airport,80
-2019-05-31,Charles de Gaulle International Airport,24
-2019-05-31,Frankfurt am Main Airport,39
-2019-05-31,London Heathrow Airport,59
-2019-06-01,Charles de Gaulle International Airport,22
+2019-05-14,London Heathrow Airport,38
+2019-05-15,Charles de Gaulle International Airport,30
+2019-05-15,Frankfurt am Main Airport,46
+2019-05-15,London Heathrow Airport,41
+2019-05-16,Charles de Gaulle International Airport,26
+2019-05-16,Frankfurt am Main Airport,35
+2019-05-16,London Heathrow Airport,35
+2019-05-17,Charles de Gaulle International Airport,39
+2019-05-17,Frankfurt am Main Airport,52
+2019-05-17,London Heathrow Airport,39
+2019-05-18,Charles de Gaulle International Airport,34
+2019-05-18,Frankfurt am Main Airport,39
+2019-05-18,London Heathrow Airport,46
+2019-05-19,Charles de Gaulle International Airport,57
+2019-05-19,Frankfurt am Main Airport,52
+2019-05-19,London Heathrow Airport,100
+2019-05-20,Charles de Gaulle International Airport,29
+2019-05-20,Frankfurt am Main Airport,40
+2019-05-20,London Heathrow Airport,68
+2019-05-21,Charles de Gaulle International Airport,58
+2019-05-21,Frankfurt am Main Airport,47
+2019-05-21,London Heathrow Airport,65
+2019-05-22,Charles de Gaulle International Airport,45
+2019-05-22,Frankfurt am Main Airport,51
+2019-05-22,London Heathrow Airport,88
+2019-05-23,Charles de Gaulle International Airport,48
+2019-05-23,Frankfurt am Main Airport,53
+2019-05-23,London Heathrow Airport,87
+2019-05-24,Charles de Gaulle International Airport,56
+2019-05-24,Frankfurt am Main Airport,71
+2019-05-24,London Heathrow Airport,77
+2019-05-25,Charles de Gaulle International Airport,37
+2019-05-25,Frankfurt am Main Airport,44
+2019-05-25,London Heathrow Airport,47
+2019-05-26,Charles de Gaulle International Airport,63
+2019-05-26,Frankfurt am Main Airport,63
+2019-05-26,London Heathrow Airport,88
+2019-05-27,Charles de Gaulle International Airport,63
+2019-05-27,Frankfurt am Main Airport,44
+2019-05-27,London Heathrow Airport,72
+2019-05-28,Charles de Gaulle International Airport,39
+2019-05-28,Frankfurt am Main Airport,38
+2019-05-28,London Heathrow Airport,60
+2019-05-29,Charles de Gaulle International Airport,76
+2019-05-29,Frankfurt am Main Airport,65
+2019-05-29,London Heathrow Airport,145
+2019-05-30,Charles de Gaulle International Airport,60
+2019-05-30,Frankfurt am Main Airport,44
+2019-05-30,London Heathrow Airport,90
+2019-05-31,Charles de Gaulle International Airport,27
+2019-05-31,Frankfurt am Main Airport,43
+2019-05-31,London Heathrow Airport,62
+2019-06-01,Charles de Gaulle International Airport,25
 2019-06-01,Frankfurt am Main Airport,22
-2019-06-01,London Heathrow Airport,39
+2019-06-01,London Heathrow Airport,46
 2019-06-02,Charles de Gaulle International Airport,28
-2019-06-02,Frankfurt am Main Airport,31
-2019-06-02,London Heathrow Airport,49
-2019-06-03,Charles de Gaulle International Airport,18
-2019-06-03,Frankfurt am Main Airport,26
-2019-06-03,London Heathrow Airport,43
-2019-06-04,Charles de Gaulle International Airport,30
-2019-06-04,Frankfurt am Main Airport,24
-2019-06-04,London Heathrow Airport,84
-2019-06-05,Charles de Gaulle International Airport,19
-2019-06-05,Frankfurt am Main Airport,24
-2019-06-05,London Heathrow Airport,43
-2019-06-06,Charles de Gaulle International Airport,16
-2019-06-06,Frankfurt am Main Airport,25
-2019-06-06,London Heathrow Airport,30
-2019-06-07,Charles de Gaulle International Airport,10
+2019-06-02,Frankfurt am Main Airport,34
+2019-06-02,London Heathrow Airport,61
+2019-06-03,Charles de Gaulle International Airport,25
+2019-06-03,Frankfurt am Main Airport,27
+2019-06-03,London Heathrow Airport,50
+2019-06-04,Charles de Gaulle International Airport,33
+2019-06-04,Frankfurt am Main Airport,29
+2019-06-04,London Heathrow Airport,97
+2019-06-05,Charles de Gaulle International Airport,21
+2019-06-05,Frankfurt am Main Airport,29
+2019-06-05,London Heathrow Airport,45
+2019-06-06,Charles de Gaulle International Airport,20
+2019-06-06,Frankfurt am Main Airport,27
+2019-06-06,London Heathrow Airport,36
+2019-06-07,Charles de Gaulle International Airport,12
 2019-06-07,Frankfurt am Main Airport,13
 2019-06-07,London Heathrow Airport,24
-2019-06-08,Charles de Gaulle International Airport,17
-2019-06-08,Frankfurt am Main Airport,15
-2019-06-08,London Heathrow Airport,28
-2019-06-09,Charles de Gaulle International Airport,33
-2019-06-09,Frankfurt am Main Airport,24
-2019-06-09,London Heathrow Airport,39
-2019-06-10,Charles de Gaulle International Airport,30
-2019-06-10,Frankfurt am Main Airport,29
-2019-06-10,London Heathrow Airport,60
-2019-06-11,Charles de Gaulle International Airport,38
-2019-06-11,Frankfurt am Main Airport,46
-2019-06-11,London Heathrow Airport,69
-2019-06-12,Charles de Gaulle International Airport,14
-2019-06-12,Frankfurt am Main Airport,18
-2019-06-12,London Heathrow Airport,20
-2019-06-13,Charles de Gaulle International Airport,26
-2019-06-13,Frankfurt am Main Airport,14
-2019-06-13,London Heathrow Airport,46
-2019-06-14,Charles de Gaulle International Airport,8
-2019-06-14,Frankfurt am Main Airport,18
-2019-06-14,London Heathrow Airport,26
-2019-06-15,Charles de Gaulle International Airport,11
-2019-06-15,Frankfurt am Main Airport,19
-2019-06-15,London Heathrow Airport,23
-2019-06-16,Charles de Gaulle International Airport,24
-2019-06-16,Frankfurt am Main Airport,15
-2019-06-16,London Heathrow Airport,31
-2019-06-17,Charles de Gaulle International Airport,30
-2019-06-17,Frankfurt am Main Airport,39
-2019-06-17,London Heathrow Airport,79
-2019-06-18,Charles de Gaulle International Airport,24
-2019-06-18,Frankfurt am Main Airport,24
-2019-06-18,London Heathrow Airport,57
-2019-06-19,Charles de Gaulle International Airport,41
-2019-06-19,Frankfurt am Main Airport,38
-2019-06-19,London Heathrow Airport,78
-2019-06-20,Charles de Gaulle International Airport,19
-2019-06-20,Frankfurt am Main Airport,37
-2019-06-20,London Heathrow Airport,35
-2019-06-21,Charles de Gaulle International Airport,37
-2019-06-21,Frankfurt am Main Airport,37
-2019-06-21,London Heathrow Airport,43
-2019-06-22,Charles de Gaulle International Airport,32
-2019-06-22,Frankfurt am Main Airport,53
-2019-06-22,London Heathrow Airport,54
-2019-06-23,Charles de Gaulle International Airport,43
-2019-06-23,Frankfurt am Main Airport,29
-2019-06-23,London Heathrow Airport,63
-2019-06-24,Charles de Gaulle International Airport,40
-2019-06-24,Frankfurt am Main Airport,31
-2019-06-24,London Heathrow Airport,60
-2019-06-25,Charles de Gaulle International Airport,23
-2019-06-25,Frankfurt am Main Airport,34
-2019-06-25,London Heathrow Airport,40
-2019-06-26,Charles de Gaulle International Airport,19
-2019-06-26,Frankfurt am Main Airport,21
-2019-06-26,London Heathrow Airport,21
-2019-06-27,Charles de Gaulle International Airport,15
-2019-06-27,Frankfurt am Main Airport,16
-2019-06-27,London Heathrow Airport,22
-2019-06-28,Charles de Gaulle International Airport,11
-2019-06-28,Frankfurt am Main Airport,8
+2019-06-08,Charles de Gaulle International Airport,21
+2019-06-08,Frankfurt am Main Airport,18
+2019-06-08,London Heathrow Airport,31
+2019-06-09,Charles de Gaulle International Airport,38
+2019-06-09,Frankfurt am Main Airport,31
+2019-06-09,London Heathrow Airport,44
+2019-06-10,Charles de Gaulle International Airport,33
+2019-06-10,Frankfurt am Main Airport,33
+2019-06-10,London Heathrow Airport,69
+2019-06-11,Charles de Gaulle International Airport,45
+2019-06-11,Frankfurt am Main Airport,53
+2019-06-11,London Heathrow Airport,81
+2019-06-12,Charles de Gaulle International Airport,18
+2019-06-12,Frankfurt am Main Airport,24
+2019-06-12,London Heathrow Airport,23
+2019-06-13,Charles de Gaulle International Airport,30
+2019-06-13,Frankfurt am Main Airport,18
+2019-06-13,London Heathrow Airport,51
+2019-06-14,Charles de Gaulle International Airport,14
+2019-06-14,Frankfurt am Main Airport,20
+2019-06-14,London Heathrow Airport,27
+2019-06-15,Charles de Gaulle International Airport,14
+2019-06-15,Frankfurt am Main Airport,21
+2019-06-15,London Heathrow Airport,26
+2019-06-16,Charles de Gaulle International Airport,29
+2019-06-16,Frankfurt am Main Airport,18
+2019-06-16,London Heathrow Airport,37
+2019-06-17,Charles de Gaulle International Airport,33
+2019-06-17,Frankfurt am Main Airport,42
+2019-06-17,London Heathrow Airport,88
+2019-06-18,Charles de Gaulle International Airport,28
+2019-06-18,Frankfurt am Main Airport,29
+2019-06-18,London Heathrow Airport,62
+2019-06-19,Charles de Gaulle International Airport,50
+2019-06-19,Frankfurt am Main Airport,47
+2019-06-19,London Heathrow Airport,83
+2019-06-20,Charles de Gaulle International Airport,24
+2019-06-20,Frankfurt am Main Airport,38
+2019-06-20,London Heathrow Airport,43
+2019-06-21,Charles de Gaulle International Airport,43
+2019-06-21,Frankfurt am Main Airport,40
+2019-06-21,London Heathrow Airport,48
+2019-06-22,Charles de Gaulle International Airport,34
+2019-06-22,Frankfurt am Main Airport,58
+2019-06-22,London Heathrow Airport,61
+2019-06-23,Charles de Gaulle International Airport,50
+2019-06-23,Frankfurt am Main Airport,38
+2019-06-23,London Heathrow Airport,75
+2019-06-24,Charles de Gaulle International Airport,44
+2019-06-24,Frankfurt am Main Airport,34
+2019-06-24,London Heathrow Airport,72
+2019-06-25,Charles de Gaulle International Airport,24
+2019-06-25,Frankfurt am Main Airport,36
+2019-06-25,London Heathrow Airport,47
+2019-06-26,Charles de Gaulle International Airport,20
+2019-06-26,Frankfurt am Main Airport,22
+2019-06-26,London Heathrow Airport,25
+2019-06-27,Charles de Gaulle International Airport,17
+2019-06-27,Frankfurt am Main Airport,21
+2019-06-27,London Heathrow Airport,27
+2019-06-28,Charles de Gaulle International Airport,13
+2019-06-28,Frankfurt am Main Airport,11
 2019-06-28,London Heathrow Airport,24
-2019-06-29,Charles de Gaulle International Airport,16
-2019-06-29,Frankfurt am Main Airport,25
-2019-06-29,London Heathrow Airport,15
-2019-06-30,Charles de Gaulle International Airport,17
+2019-06-29,Charles de Gaulle International Airport,17
+2019-06-29,Frankfurt am Main Airport,27
+2019-06-29,London Heathrow Airport,19
+2019-06-30,Charles de Gaulle International Airport,21
 2019-06-30,Frankfurt am Main Airport,17
-2019-06-30,London Heathrow Airport,36
-2019-07-01,Charles de Gaulle International Airport,8
-2019-07-01,Frankfurt am Main Airport,19
-2019-07-01,London Heathrow Airport,26
-2019-07-02,Charles de Gaulle International Airport,21
+2019-06-30,London Heathrow Airport,38
+2019-07-01,Charles de Gaulle International Airport,11
+2019-07-01,Frankfurt am Main Airport,22
+2019-07-01,London Heathrow Airport,30
+2019-07-02,Charles de Gaulle International Airport,29
 2019-07-02,Frankfurt am Main Airport,8
-2019-07-02,London Heathrow Airport,41
-2019-07-03,Charles de Gaulle International Airport,14
-2019-07-03,Frankfurt am Main Airport,25
-2019-07-03,London Heathrow Airport,57
-2019-07-04,Charles de Gaulle International Airport,15
-2019-07-04,Frankfurt am Main Airport,10
-2019-07-04,London Heathrow Airport,28
-2019-07-05,Charles de Gaulle International Airport,20
-2019-07-05,Frankfurt am Main Airport,16
-2019-07-05,London Heathrow Airport,34
-2019-07-06,Charles de Gaulle International Airport,18
-2019-07-06,Frankfurt am Main Airport,8
-2019-07-06,London Heathrow Airport,48
-2019-07-07,Charles de Gaulle International Airport,27
-2019-07-07,Frankfurt am Main Airport,21
-2019-07-07,London Heathrow Airport,79
-2019-07-08,Charles de Gaulle International Airport,32
-2019-07-08,Frankfurt am Main Airport,35
-2019-07-08,London Heathrow Airport,51
-2019-07-09,Charles de Gaulle International Airport,23
-2019-07-09,Frankfurt am Main Airport,17
-2019-07-09,London Heathrow Airport,36
-2019-07-10,Charles de Gaulle International Airport,19
-2019-07-10,Frankfurt am Main Airport,23
-2019-07-10,London Heathrow Airport,21
-2019-07-11,Charles de Gaulle International Airport,23
-2019-07-11,Frankfurt am Main Airport,19
-2019-07-11,London Heathrow Airport,31
-2019-07-12,Charles de Gaulle International Airport,18
-2019-07-12,Frankfurt am Main Airport,19
-2019-07-12,London Heathrow Airport,34
-2019-07-13,Charles de Gaulle International Airport,27
-2019-07-13,Frankfurt am Main Airport,31
-2019-07-13,London Heathrow Airport,68
-2019-07-14,Charles de Gaulle International Airport,24
-2019-07-14,Frankfurt am Main Airport,29
-2019-07-14,London Heathrow Airport,35
-2019-07-15,Charles de Gaulle International Airport,26
-2019-07-15,Frankfurt am Main Airport,39
-2019-07-15,London Heathrow Airport,59
-2019-07-16,Charles de Gaulle International Airport,50
-2019-07-16,Frankfurt am Main Airport,29
-2019-07-16,London Heathrow Airport,67
-2019-07-17,Charles de Gaulle International Airport,41
-2019-07-17,Frankfurt am Main Airport,53
-2019-07-17,London Heathrow Airport,78
-2019-07-18,Charles de Gaulle International Airport,47
-2019-07-18,Frankfurt am Main Airport,40
-2019-07-18,London Heathrow Airport,83
-2019-07-19,Charles de Gaulle International Airport,26
-2019-07-19,Frankfurt am Main Airport,34
-2019-07-19,London Heathrow Airport,77
-2019-07-20,Charles de Gaulle International Airport,36
-2019-07-20,Frankfurt am Main Airport,41
-2019-07-20,London Heathrow Airport,65
-2019-07-21,Charles de Gaulle International Airport,29
-2019-07-21,Frankfurt am Main Airport,22
-2019-07-21,London Heathrow Airport,68
-2019-07-22,Charles de Gaulle International Airport,20
-2019-07-22,Frankfurt am Main Airport,10
-2019-07-22,London Heathrow Airport,34
-2019-07-23,Charles de Gaulle International Airport,22
-2019-07-23,Frankfurt am Main Airport,16
-2019-07-23,London Heathrow Airport,29
-2019-07-24,Charles de Gaulle International Airport,16
-2019-07-24,Frankfurt am Main Airport,14
-2019-07-24,London Heathrow Airport,31
-2019-07-25,Charles de Gaulle International Airport,25
-2019-07-25,Frankfurt am Main Airport,15
-2019-07-25,London Heathrow Airport,19
-2019-07-26,Charles de Gaulle International Airport,11
-2019-07-26,Frankfurt am Main Airport,11
-2019-07-26,London Heathrow Airport,21
-2019-07-27,Charles de Gaulle International Airport,17
-2019-07-27,Frankfurt am Main Airport,12
-2019-07-27,London Heathrow Airport,26
-2019-07-28,Charles de Gaulle International Airport,28
-2019-07-28,Frankfurt am Main Airport,33
-2019-07-28,London Heathrow Airport,50
+2019-07-02,London Heathrow Airport,44
+2019-07-03,Charles de Gaulle International Airport,17
+2019-07-03,Frankfurt am Main Airport,29
+2019-07-03,London Heathrow Airport,63
+2019-07-04,Charles de Gaulle International Airport,20
+2019-07-04,Frankfurt am Main Airport,11
+2019-07-04,London Heathrow Airport,37
+2019-07-05,Charles de Gaulle International Airport,21
+2019-07-05,Frankfurt am Main Airport,18
+2019-07-05,London Heathrow Airport,39
+2019-07-06,Charles de Gaulle International Airport,20
+2019-07-06,Frankfurt am Main Airport,10
+2019-07-06,London Heathrow Airport,56
+2019-07-07,Charles de Gaulle International Airport,30
+2019-07-07,Frankfurt am Main Airport,27
+2019-07-07,London Heathrow Airport,83
+2019-07-08,Charles de Gaulle International Airport,36
+2019-07-08,Frankfurt am Main Airport,39
+2019-07-08,London Heathrow Airport,64
+2019-07-09,Charles de Gaulle International Airport,28
+2019-07-09,Frankfurt am Main Airport,22
+2019-07-09,London Heathrow Airport,42
+2019-07-10,Charles de Gaulle International Airport,21
+2019-07-10,Frankfurt am Main Airport,25
+2019-07-10,London Heathrow Airport,27
+2019-07-11,Charles de Gaulle International Airport,25
+2019-07-11,Frankfurt am Main Airport,21
+2019-07-11,London Heathrow Airport,34
+2019-07-12,Charles de Gaulle International Airport,20
+2019-07-12,Frankfurt am Main Airport,21
+2019-07-12,London Heathrow Airport,36
+2019-07-13,Charles de Gaulle International Airport,32
+2019-07-13,Frankfurt am Main Airport,33
+2019-07-13,London Heathrow Airport,80
+2019-07-14,Charles de Gaulle International Airport,31
+2019-07-14,Frankfurt am Main Airport,35
+2019-07-14,London Heathrow Airport,39
+2019-07-15,Charles de Gaulle International Airport,31
+2019-07-15,Frankfurt am Main Airport,41
+2019-07-15,London Heathrow Airport,66
+2019-07-16,Charles de Gaulle International Airport,55
+2019-07-16,Frankfurt am Main Airport,31
+2019-07-16,London Heathrow Airport,75
+2019-07-17,Charles de Gaulle International Airport,49
+2019-07-17,Frankfurt am Main Airport,60
+2019-07-17,London Heathrow Airport,86
+2019-07-18,Charles de Gaulle International Airport,54
+2019-07-18,Frankfurt am Main Airport,45
+2019-07-18,London Heathrow Airport,94
+2019-07-19,Charles de Gaulle International Airport,35
+2019-07-19,Frankfurt am Main Airport,40
+2019-07-19,London Heathrow Airport,87
+2019-07-20,Charles de Gaulle International Airport,41
+2019-07-20,Frankfurt am Main Airport,48
+2019-07-20,London Heathrow Airport,78
+2019-07-21,Charles de Gaulle International Airport,32
+2019-07-21,Frankfurt am Main Airport,26
+2019-07-21,London Heathrow Airport,76
+2019-07-22,Charles de Gaulle International Airport,21
+2019-07-22,Frankfurt am Main Airport,15
+2019-07-22,London Heathrow Airport,36
+2019-07-23,Charles de Gaulle International Airport,25
+2019-07-23,Frankfurt am Main Airport,18
+2019-07-23,London Heathrow Airport,31
+2019-07-24,Charles de Gaulle International Airport,22
+2019-07-24,Frankfurt am Main Airport,16
+2019-07-24,London Heathrow Airport,34
+2019-07-25,Charles de Gaulle International Airport,27
+2019-07-25,Frankfurt am Main Airport,18
+2019-07-25,London Heathrow Airport,21
+2019-07-26,Charles de Gaulle International Airport,13
+2019-07-26,Frankfurt am Main Airport,13
+2019-07-26,London Heathrow Airport,23
+2019-07-27,Charles de Gaulle International Airport,19
+2019-07-27,Frankfurt am Main Airport,14
+2019-07-27,London Heathrow Airport,33
+2019-07-28,Charles de Gaulle International Airport,34
+2019-07-28,Frankfurt am Main Airport,38
+2019-07-28,London Heathrow Airport,58
 2019-07-29,Charles de Gaulle International Airport,14
 2019-07-29,Frankfurt am Main Airport,17
-2019-07-29,London Heathrow Airport,23
-2019-07-30,Charles de Gaulle International Airport,12
-2019-07-30,Frankfurt am Main Airport,12
-2019-07-30,London Heathrow Airport,27
-2019-07-31,Charles de Gaulle International Airport,39
-2019-07-31,Frankfurt am Main Airport,15
-2019-07-31,London Heathrow Airport,33
-2019-08-01,Charles de Gaulle International Airport,21
-2019-08-01,Frankfurt am Main Airport,20
-2019-08-01,London Heathrow Airport,30
-2019-08-02,Charles de Gaulle International Airport,16
-2019-08-02,Frankfurt am Main Airport,18
-2019-08-02,London Heathrow Airport,38
-2019-08-03,Charles de Gaulle International Airport,37
-2019-08-03,Frankfurt am Main Airport,16
-2019-08-03,London Heathrow Airport,54
-2019-08-04,Charles de Gaulle International Airport,27
-2019-08-04,Frankfurt am Main Airport,29
-2019-08-04,London Heathrow Airport,71
-2019-08-05,Charles de Gaulle International Airport,22
-2019-08-05,Frankfurt am Main Airport,26
-2019-08-05,London Heathrow Airport,53
-2019-08-06,Charles de Gaulle International Airport,46
-2019-08-06,Frankfurt am Main Airport,42
-2019-08-06,London Heathrow Airport,78
-2019-08-07,Charles de Gaulle International Airport,38
-2019-08-07,Frankfurt am Main Airport,48
-2019-08-07,London Heathrow Airport,70
-2019-08-08,Charles de Gaulle International Airport,29
-2019-08-08,Frankfurt am Main Airport,28
-2019-08-08,London Heathrow Airport,62
-2019-08-09,Charles de Gaulle International Airport,32
-2019-08-09,Frankfurt am Main Airport,18
-2019-08-09,London Heathrow Airport,43
-2019-08-10,Charles de Gaulle International Airport,13
-2019-08-10,Frankfurt am Main Airport,17
-2019-08-10,London Heathrow Airport,23
-2019-08-11,Charles de Gaulle International Airport,18
-2019-08-11,Frankfurt am Main Airport,19
-2019-08-11,London Heathrow Airport,25
-2019-08-12,Charles de Gaulle International Airport,13
-2019-08-12,Frankfurt am Main Airport,22
-2019-08-12,London Heathrow Airport,18
-2019-08-13,Charles de Gaulle International Airport,16
-2019-08-13,Frankfurt am Main Airport,17
-2019-08-13,London Heathrow Airport,20
-2019-08-14,Charles de Gaulle International Airport,15
-2019-08-14,Frankfurt am Main Airport,23
-2019-08-14,London Heathrow Airport,21
-2019-08-15,Charles de Gaulle International Airport,29
-2019-08-15,Frankfurt am Main Airport,45
-2019-08-15,London Heathrow Airport,34
-2019-08-16,Charles de Gaulle International Airport,30
-2019-08-16,Frankfurt am Main Airport,37
-2019-08-16,London Heathrow Airport,51
-2019-08-17,Charles de Gaulle International Airport,33
-2019-08-17,Frankfurt am Main Airport,31
-2019-08-17,London Heathrow Airport,44
-2019-08-18,Charles de Gaulle International Airport,28
-2019-08-18,Frankfurt am Main Airport,19
-2019-08-18,London Heathrow Airport,62
-2019-08-19,Charles de Gaulle International Airport,49
-2019-08-19,Frankfurt am Main Airport,40
-2019-08-19,London Heathrow Airport,66
-2019-08-20,Charles de Gaulle International Airport,33
-2019-08-20,Frankfurt am Main Airport,27
-2019-08-20,London Heathrow Airport,50
-2019-08-21,Charles de Gaulle International Airport,44
-2019-08-21,Frankfurt am Main Airport,44
-2019-08-21,London Heathrow Airport,54
-2019-08-22,Charles de Gaulle International Airport,50
-2019-08-22,Frankfurt am Main Airport,54
-2019-08-22,London Heathrow Airport,110
-2019-08-23,Charles de Gaulle International Airport,44
-2019-08-23,Frankfurt am Main Airport,50
-2019-08-23,London Heathrow Airport,76
-2019-08-24,Charles de Gaulle International Airport,30
-2019-08-24,Frankfurt am Main Airport,28
-2019-08-24,London Heathrow Airport,62
-2019-08-25,Charles de Gaulle International Airport,20
-2019-08-25,Frankfurt am Main Airport,21
-2019-08-25,London Heathrow Airport,41
-2019-08-26,Charles de Gaulle International Airport,38
-2019-08-26,Frankfurt am Main Airport,24
-2019-08-26,London Heathrow Airport,51
-2019-08-27,Charles de Gaulle International Airport,32
-2019-08-27,Frankfurt am Main Airport,27
-2019-08-27,London Heathrow Airport,58
-2019-08-28,Charles de Gaulle International Airport,50
-2019-08-28,Frankfurt am Main Airport,40
-2019-08-28,London Heathrow Airport,74
-2019-08-29,Charles de Gaulle International Airport,39
-2019-08-29,Frankfurt am Main Airport,26
-2019-08-29,London Heathrow Airport,50
-2019-08-30,Charles de Gaulle International Airport,33
+2019-07-29,London Heathrow Airport,29
+2019-07-30,Charles de Gaulle International Airport,15
+2019-07-30,Frankfurt am Main Airport,16
+2019-07-30,London Heathrow Airport,29
+2019-07-31,Charles de Gaulle International Airport,40
+2019-07-31,Frankfurt am Main Airport,18
+2019-07-31,London Heathrow Airport,36
+2019-08-01,Charles de Gaulle International Airport,27
+2019-08-01,Frankfurt am Main Airport,26
+2019-08-01,London Heathrow Airport,32
+2019-08-02,Charles de Gaulle International Airport,20
+2019-08-02,Frankfurt am Main Airport,21
+2019-08-02,London Heathrow Airport,39
+2019-08-03,Charles de Gaulle International Airport,40
+2019-08-03,Frankfurt am Main Airport,20
+2019-08-03,London Heathrow Airport,62
+2019-08-04,Charles de Gaulle International Airport,37
+2019-08-04,Frankfurt am Main Airport,33
+2019-08-04,London Heathrow Airport,76
+2019-08-05,Charles de Gaulle International Airport,31
+2019-08-05,Frankfurt am Main Airport,29
+2019-08-05,London Heathrow Airport,60
+2019-08-06,Charles de Gaulle International Airport,55
+2019-08-06,Frankfurt am Main Airport,55
+2019-08-06,London Heathrow Airport,88
+2019-08-07,Charles de Gaulle International Airport,41
+2019-08-07,Frankfurt am Main Airport,51
+2019-08-07,London Heathrow Airport,74
+2019-08-08,Charles de Gaulle International Airport,39
+2019-08-08,Frankfurt am Main Airport,34
+2019-08-08,London Heathrow Airport,67
+2019-08-09,Charles de Gaulle International Airport,38
+2019-08-09,Frankfurt am Main Airport,20
+2019-08-09,London Heathrow Airport,55
+2019-08-10,Charles de Gaulle International Airport,15
+2019-08-10,Frankfurt am Main Airport,18
+2019-08-10,London Heathrow Airport,27
+2019-08-11,Charles de Gaulle International Airport,22
+2019-08-11,Frankfurt am Main Airport,23
+2019-08-11,London Heathrow Airport,27
+2019-08-12,Charles de Gaulle International Airport,18
+2019-08-12,Frankfurt am Main Airport,23
+2019-08-12,London Heathrow Airport,20
+2019-08-13,Charles de Gaulle International Airport,18
+2019-08-13,Frankfurt am Main Airport,22
+2019-08-13,London Heathrow Airport,27
+2019-08-14,Charles de Gaulle International Airport,16
+2019-08-14,Frankfurt am Main Airport,29
+2019-08-14,London Heathrow Airport,24
+2019-08-15,Charles de Gaulle International Airport,31
+2019-08-15,Frankfurt am Main Airport,46
+2019-08-15,London Heathrow Airport,37
+2019-08-16,Charles de Gaulle International Airport,35
+2019-08-16,Frankfurt am Main Airport,40
+2019-08-16,London Heathrow Airport,58
+2019-08-17,Charles de Gaulle International Airport,38
+2019-08-17,Frankfurt am Main Airport,33
+2019-08-17,London Heathrow Airport,49
+2019-08-18,Charles de Gaulle International Airport,31
+2019-08-18,Frankfurt am Main Airport,23
+2019-08-18,London Heathrow Airport,71
+2019-08-19,Charles de Gaulle International Airport,53
+2019-08-19,Frankfurt am Main Airport,41
+2019-08-19,London Heathrow Airport,71
+2019-08-20,Charles de Gaulle International Airport,37
+2019-08-20,Frankfurt am Main Airport,33
+2019-08-20,London Heathrow Airport,56
+2019-08-21,Charles de Gaulle International Airport,49
+2019-08-21,Frankfurt am Main Airport,48
+2019-08-21,London Heathrow Airport,59
+2019-08-22,Charles de Gaulle International Airport,56
+2019-08-22,Frankfurt am Main Airport,58
+2019-08-22,London Heathrow Airport,122
+2019-08-23,Charles de Gaulle International Airport,49
+2019-08-23,Frankfurt am Main Airport,53
+2019-08-23,London Heathrow Airport,86
+2019-08-24,Charles de Gaulle International Airport,37
+2019-08-24,Frankfurt am Main Airport,35
+2019-08-24,London Heathrow Airport,71
+2019-08-25,Charles de Gaulle International Airport,27
+2019-08-25,Frankfurt am Main Airport,26
+2019-08-25,London Heathrow Airport,45
+2019-08-26,Charles de Gaulle International Airport,41
+2019-08-26,Frankfurt am Main Airport,27
+2019-08-26,London Heathrow Airport,56
+2019-08-27,Charles de Gaulle International Airport,33
+2019-08-27,Frankfurt am Main Airport,30
+2019-08-27,London Heathrow Airport,64
+2019-08-28,Charles de Gaulle International Airport,60
+2019-08-28,Frankfurt am Main Airport,45
+2019-08-28,London Heathrow Airport,79
+2019-08-29,Charles de Gaulle International Airport,43
+2019-08-29,Frankfurt am Main Airport,31
+2019-08-29,London Heathrow Airport,62
+2019-08-30,Charles de Gaulle International Airport,34
 2019-08-30,Frankfurt am Main Airport,26
-2019-08-30,London Heathrow Airport,81
-2019-08-31,Charles de Gaulle International Airport,40
-2019-08-31,Frankfurt am Main Airport,40
-2019-08-31,London Heathrow Airport,89
-2019-09-01,Charles de Gaulle International Airport,26
-2019-09-01,Frankfurt am Main Airport,28
-2019-09-01,London Heathrow Airport,41
+2019-08-30,London Heathrow Airport,85
+2019-08-31,Charles de Gaulle International Airport,44
+2019-08-31,Frankfurt am Main Airport,41
+2019-08-31,London Heathrow Airport,92
+2019-09-01,Charles de Gaulle International Airport,31
+2019-09-01,Frankfurt am Main Airport,35
+2019-09-01,London Heathrow Airport,50
 2019-09-02,Charles de Gaulle International Airport,38
-2019-09-02,Frankfurt am Main Airport,29
-2019-09-02,London Heathrow Airport,62
-2019-09-03,Charles de Gaulle International Airport,31
-2019-09-03,Frankfurt am Main Airport,23
-2019-09-03,London Heathrow Airport,63
-2019-09-04,Charles de Gaulle International Airport,40
-2019-09-04,Frankfurt am Main Airport,29
-2019-09-04,London Heathrow Airport,51
-2019-09-05,Charles de Gaulle International Airport,34
-2019-09-05,Frankfurt am Main Airport,46
-2019-09-05,London Heathrow Airport,82
-2019-09-06,Charles de Gaulle International Airport,60
-2019-09-06,Frankfurt am Main Airport,76
-2019-09-06,London Heathrow Airport,134
-2019-09-07,Charles de Gaulle International Airport,59
-2019-09-07,Frankfurt am Main Airport,82
-2019-09-07,London Heathrow Airport,101
-2019-09-08,Charles de Gaulle International Airport,58
-2019-09-08,Frankfurt am Main Airport,65
-2019-09-08,London Heathrow Airport,91
-2019-09-09,Charles de Gaulle International Airport,40
-2019-09-09,Frankfurt am Main Airport,57
-2019-09-09,London Heathrow Airport,27
-2019-09-10,Charles de Gaulle International Airport,36
-2019-09-10,Frankfurt am Main Airport,52
-2019-09-10,London Heathrow Airport,24
-2019-09-11,Charles de Gaulle International Airport,28
-2019-09-11,Frankfurt am Main Airport,39
-2019-09-11,London Heathrow Airport,34
-2019-09-12,Charles de Gaulle International Airport,31
-2019-09-12,Frankfurt am Main Airport,31
-2019-09-12,London Heathrow Airport,37
-2019-09-13,Charles de Gaulle International Airport,34
+2019-09-02,Frankfurt am Main Airport,31
+2019-09-02,London Heathrow Airport,70
+2019-09-03,Charles de Gaulle International Airport,35
+2019-09-03,Frankfurt am Main Airport,33
+2019-09-03,London Heathrow Airport,66
+2019-09-04,Charles de Gaulle International Airport,42
+2019-09-04,Frankfurt am Main Airport,30
+2019-09-04,London Heathrow Airport,54
+2019-09-05,Charles de Gaulle International Airport,40
+2019-09-05,Frankfurt am Main Airport,47
+2019-09-05,London Heathrow Airport,86
+2019-09-06,Charles de Gaulle International Airport,64
+2019-09-06,Frankfurt am Main Airport,83
+2019-09-06,London Heathrow Airport,147
+2019-09-07,Charles de Gaulle International Airport,66
+2019-09-07,Frankfurt am Main Airport,90
+2019-09-07,London Heathrow Airport,108
+2019-09-08,Charles de Gaulle International Airport,62
+2019-09-08,Frankfurt am Main Airport,70
+2019-09-08,London Heathrow Airport,100
+2019-09-09,Charles de Gaulle International Airport,47
+2019-09-09,Frankfurt am Main Airport,67
+2019-09-09,London Heathrow Airport,31
+2019-09-10,Charles de Gaulle International Airport,40
+2019-09-10,Frankfurt am Main Airport,56
+2019-09-10,London Heathrow Airport,28
+2019-09-11,Charles de Gaulle International Airport,29
+2019-09-11,Frankfurt am Main Airport,42
+2019-09-11,London Heathrow Airport,43
+2019-09-12,Charles de Gaulle International Airport,32
+2019-09-12,Frankfurt am Main Airport,34
+2019-09-12,London Heathrow Airport,38
+2019-09-13,Charles de Gaulle International Airport,37
 2019-09-13,Frankfurt am Main Airport,34
-2019-09-13,London Heathrow Airport,49
-2019-09-14,Charles de Gaulle International Airport,42
-2019-09-14,Frankfurt am Main Airport,37
-2019-09-14,London Heathrow Airport,71
-2019-09-15,Charles de Gaulle International Airport,66
-2019-09-15,Frankfurt am Main Airport,71
-2019-09-15,London Heathrow Airport,107
-2019-09-16,Charles de Gaulle International Airport,51
-2019-09-16,Frankfurt am Main Airport,45
-2019-09-16,London Heathrow Airport,124
-2019-09-17,Charles de Gaulle International Airport,38
-2019-09-17,Frankfurt am Main Airport,32
-2019-09-17,London Heathrow Airport,74
-2019-09-18,Charles de Gaulle International Airport,56
+2019-09-13,London Heathrow Airport,50
+2019-09-14,Charles de Gaulle International Airport,47
+2019-09-14,Frankfurt am Main Airport,42
+2019-09-14,London Heathrow Airport,80
+2019-09-15,Charles de Gaulle International Airport,71
+2019-09-15,Frankfurt am Main Airport,72
+2019-09-15,London Heathrow Airport,114
+2019-09-16,Charles de Gaulle International Airport,57
+2019-09-16,Frankfurt am Main Airport,49
+2019-09-16,London Heathrow Airport,141
+2019-09-17,Charles de Gaulle International Airport,43
+2019-09-17,Frankfurt am Main Airport,34
+2019-09-17,London Heathrow Airport,79
+2019-09-18,Charles de Gaulle International Airport,59
 2019-09-18,Frankfurt am Main Airport,47
-2019-09-18,London Heathrow Airport,123
-2019-09-19,Charles de Gaulle International Airport,30
-2019-09-19,Frankfurt am Main Airport,35
-2019-09-19,London Heathrow Airport,53
-2019-09-20,Charles de Gaulle International Airport,25
-2019-09-20,Frankfurt am Main Airport,30
-2019-09-20,London Heathrow Airport,45
-2019-09-21,Charles de Gaulle International Airport,56
-2019-09-21,Frankfurt am Main Airport,43
-2019-09-21,London Heathrow Airport,46
-2019-09-22,Charles de Gaulle International Airport,83
-2019-09-22,Frankfurt am Main Airport,72
-2019-09-22,London Heathrow Airport,145
-2019-09-23,Charles de Gaulle International Airport,47
-2019-09-23,Frankfurt am Main Airport,96
-2019-09-23,London Heathrow Airport,96
-2019-09-24,Charles de Gaulle International Airport,21
-2019-09-24,Frankfurt am Main Airport,46
-2019-09-24,London Heathrow Airport,51
-2019-09-25,Charles de Gaulle International Airport,36
-2019-09-25,Frankfurt am Main Airport,43
-2019-09-25,London Heathrow Airport,46
-2019-09-26,Charles de Gaulle International Airport,25
-2019-09-26,Frankfurt am Main Airport,30
-2019-09-26,London Heathrow Airport,73
-2019-09-27,Charles de Gaulle International Airport,49
-2019-09-27,Frankfurt am Main Airport,62
-2019-09-27,London Heathrow Airport,56
-2019-09-28,Charles de Gaulle International Airport,65
-2019-09-28,Frankfurt am Main Airport,41
-2019-09-28,London Heathrow Airport,103
-2019-09-29,Charles de Gaulle International Airport,28
-2019-09-29,Frankfurt am Main Airport,40
-2019-09-29,London Heathrow Airport,44
-2019-09-30,Charles de Gaulle International Airport,40
-2019-09-30,Frankfurt am Main Airport,30
-2019-09-30,London Heathrow Airport,90
-2019-10-01,Charles de Gaulle International Airport,24
-2019-10-01,Frankfurt am Main Airport,22
-2019-10-01,London Heathrow Airport,26
-2019-10-02,Charles de Gaulle International Airport,34
-2019-10-02,Frankfurt am Main Airport,49
-2019-10-02,London Heathrow Airport,58
-2019-10-03,Charles de Gaulle International Airport,32
-2019-10-03,Frankfurt am Main Airport,52
-2019-10-03,London Heathrow Airport,44
-2019-10-04,Charles de Gaulle International Airport,30
-2019-10-04,Frankfurt am Main Airport,40
-2019-10-04,London Heathrow Airport,63
-2019-10-05,Charles de Gaulle International Airport,40
-2019-10-05,Frankfurt am Main Airport,32
-2019-10-05,London Heathrow Airport,42
-2019-10-06,Charles de Gaulle International Airport,31
-2019-10-06,Frankfurt am Main Airport,35
-2019-10-06,London Heathrow Airport,59
-2019-10-07,Charles de Gaulle International Airport,37
-2019-10-07,Frankfurt am Main Airport,51
-2019-10-07,London Heathrow Airport,70
-2019-10-08,Charles de Gaulle International Airport,34
-2019-10-08,Frankfurt am Main Airport,31
-2019-10-08,London Heathrow Airport,41
-2019-10-09,Charles de Gaulle International Airport,24
-2019-10-09,Frankfurt am Main Airport,34
-2019-10-09,London Heathrow Airport,24
-2019-10-10,Charles de Gaulle International Airport,23
-2019-10-10,Frankfurt am Main Airport,36
-2019-10-10,London Heathrow Airport,57
-2019-10-11,Charles de Gaulle International Airport,69
-2019-10-11,Frankfurt am Main Airport,91
-2019-10-11,London Heathrow Airport,161
-2019-10-12,Charles de Gaulle International Airport,68
-2019-10-12,Frankfurt am Main Airport,88
-2019-10-12,London Heathrow Airport,114
-2019-10-13,Charles de Gaulle International Airport,80
-2019-10-13,Frankfurt am Main Airport,83
-2019-10-13,London Heathrow Airport,135
-2019-10-14,Charles de Gaulle International Airport,62
-2019-10-14,Frankfurt am Main Airport,79
-2019-10-14,London Heathrow Airport,126
+2019-09-18,London Heathrow Airport,131
+2019-09-19,Charles de Gaulle International Airport,33
+2019-09-19,Frankfurt am Main Airport,40
+2019-09-19,London Heathrow Airport,58
+2019-09-20,Charles de Gaulle International Airport,35
+2019-09-20,Frankfurt am Main Airport,33
+2019-09-20,London Heathrow Airport,54
+2019-09-21,Charles de Gaulle International Airport,65
+2019-09-21,Frankfurt am Main Airport,48
+2019-09-21,London Heathrow Airport,52
+2019-09-22,Charles de Gaulle International Airport,94
+2019-09-22,Frankfurt am Main Airport,81
+2019-09-22,London Heathrow Airport,162
+2019-09-23,Charles de Gaulle International Airport,54
+2019-09-23,Frankfurt am Main Airport,102
+2019-09-23,London Heathrow Airport,102
+2019-09-24,Charles de Gaulle International Airport,26
+2019-09-24,Frankfurt am Main Airport,51
+2019-09-24,London Heathrow Airport,56
+2019-09-25,Charles de Gaulle International Airport,37
+2019-09-25,Frankfurt am Main Airport,49
+2019-09-25,London Heathrow Airport,53
+2019-09-26,Charles de Gaulle International Airport,30
+2019-09-26,Frankfurt am Main Airport,36
+2019-09-26,London Heathrow Airport,83
+2019-09-27,Charles de Gaulle International Airport,57
+2019-09-27,Frankfurt am Main Airport,73
+2019-09-27,London Heathrow Airport,60
+2019-09-28,Charles de Gaulle International Airport,71
+2019-09-28,Frankfurt am Main Airport,49
+2019-09-28,London Heathrow Airport,111
+2019-09-29,Charles de Gaulle International Airport,29
+2019-09-29,Frankfurt am Main Airport,43
+2019-09-29,London Heathrow Airport,47
+2019-09-30,Charles de Gaulle International Airport,45
+2019-09-30,Frankfurt am Main Airport,35
+2019-09-30,London Heathrow Airport,99
+2019-10-01,Charles de Gaulle International Airport,25
+2019-10-01,Frankfurt am Main Airport,26
+2019-10-01,London Heathrow Airport,27
+2019-10-02,Charles de Gaulle International Airport,38
+2019-10-02,Frankfurt am Main Airport,51
+2019-10-02,London Heathrow Airport,61
+2019-10-03,Charles de Gaulle International Airport,35
+2019-10-03,Frankfurt am Main Airport,54
+2019-10-03,London Heathrow Airport,46
+2019-10-04,Charles de Gaulle International Airport,33
+2019-10-04,Frankfurt am Main Airport,41
+2019-10-04,London Heathrow Airport,72
+2019-10-05,Charles de Gaulle International Airport,44
+2019-10-05,Frankfurt am Main Airport,35
+2019-10-05,London Heathrow Airport,44
+2019-10-06,Charles de Gaulle International Airport,35
+2019-10-06,Frankfurt am Main Airport,36
+2019-10-06,London Heathrow Airport,62
+2019-10-07,Charles de Gaulle International Airport,42
+2019-10-07,Frankfurt am Main Airport,52
+2019-10-07,London Heathrow Airport,72
+2019-10-08,Charles de Gaulle International Airport,35
+2019-10-08,Frankfurt am Main Airport,37
+2019-10-08,London Heathrow Airport,44
+2019-10-09,Charles de Gaulle International Airport,25
+2019-10-09,Frankfurt am Main Airport,37
+2019-10-09,London Heathrow Airport,25
+2019-10-10,Charles de Gaulle International Airport,25
+2019-10-10,Frankfurt am Main Airport,42
+2019-10-10,London Heathrow Airport,62
+2019-10-11,Charles de Gaulle International Airport,79
+2019-10-11,Frankfurt am Main Airport,103
+2019-10-11,London Heathrow Airport,168
+2019-10-12,Charles de Gaulle International Airport,76
+2019-10-12,Frankfurt am Main Airport,100
+2019-10-12,London Heathrow Airport,128
+2019-10-13,Charles de Gaulle International Airport,88
+2019-10-13,Frankfurt am Main Airport,87
+2019-10-13,London Heathrow Airport,147
+2019-10-14,Charles de Gaulle International Airport,75
+2019-10-14,Frankfurt am Main Airport,87
+2019-10-14,London Heathrow Airport,130
 2019-10-15,Charles de Gaulle International Airport,58
-2019-10-15,Frankfurt am Main Airport,60
-2019-10-15,London Heathrow Airport,86
-2019-10-16,Charles de Gaulle International Airport,42
-2019-10-16,Frankfurt am Main Airport,57
-2019-10-16,London Heathrow Airport,71
-2019-10-17,Charles de Gaulle International Airport,63
-2019-10-17,Frankfurt am Main Airport,55
-2019-10-17,London Heathrow Airport,62
-2019-10-18,Charles de Gaulle International Airport,107
-2019-10-18,Frankfurt am Main Airport,118
-2019-10-18,London Heathrow Airport,140
-2019-10-19,Charles de Gaulle International Airport,85
-2019-10-19,Frankfurt am Main Airport,78
-2019-10-19,London Heathrow Airport,110
-2019-10-20,Charles de Gaulle International Airport,70
-2019-10-20,Frankfurt am Main Airport,77
-2019-10-20,London Heathrow Airport,110
-2019-10-21,Charles de Gaulle International Airport,59
-2019-10-21,Frankfurt am Main Airport,71
-2019-10-21,London Heathrow Airport,87
-2019-10-22,Charles de Gaulle International Airport,65
-2019-10-22,Frankfurt am Main Airport,70
-2019-10-22,London Heathrow Airport,80
-2019-10-23,Charles de Gaulle International Airport,39
-2019-10-23,Frankfurt am Main Airport,54
-2019-10-23,London Heathrow Airport,65
-2019-10-24,Charles de Gaulle International Airport,68
-2019-10-24,Frankfurt am Main Airport,49
-2019-10-24,London Heathrow Airport,79
-2019-10-25,Charles de Gaulle International Airport,79
-2019-10-25,Frankfurt am Main Airport,89
-2019-10-25,London Heathrow Airport,127
-2019-10-26,Charles de Gaulle International Airport,63
-2019-10-26,Frankfurt am Main Airport,61
-2019-10-26,London Heathrow Airport,140
-2019-10-27,Charles de Gaulle International Airport,84
-2019-10-27,Frankfurt am Main Airport,54
-2019-10-27,London Heathrow Airport,84
-2019-10-28,Charles de Gaulle International Airport,118
-2019-10-28,Frankfurt am Main Airport,120
-2019-10-28,London Heathrow Airport,157
-2019-10-29,Charles de Gaulle International Airport,81
-2019-10-29,Frankfurt am Main Airport,87
-2019-10-29,London Heathrow Airport,94
-2019-10-30,Charles de Gaulle International Airport,92
-2019-10-30,Frankfurt am Main Airport,98
-2019-10-30,London Heathrow Airport,131
-2019-10-31,Charles de Gaulle International Airport,55
-2019-10-31,Frankfurt am Main Airport,51
-2019-10-31,London Heathrow Airport,113
-2019-11-01,Charles de Gaulle International Airport,152
-2019-11-01,Frankfurt am Main Airport,145
-2019-11-01,London Heathrow Airport,192
-2019-11-02,Charles de Gaulle International Airport,112
-2019-11-02,Frankfurt am Main Airport,145
-2019-11-02,London Heathrow Airport,149
-2019-11-03,Charles de Gaulle International Airport,78
-2019-11-03,Frankfurt am Main Airport,129
-2019-11-03,London Heathrow Airport,120
-2019-11-04,Charles de Gaulle International Airport,52
-2019-11-04,Frankfurt am Main Airport,57
-2019-11-04,London Heathrow Airport,102
-2019-11-05,Charles de Gaulle International Airport,35
+2019-10-15,Frankfurt am Main Airport,65
+2019-10-15,London Heathrow Airport,91
+2019-10-16,Charles de Gaulle International Airport,44
+2019-10-16,Frankfurt am Main Airport,58
+2019-10-16,London Heathrow Airport,75
+2019-10-17,Charles de Gaulle International Airport,70
+2019-10-17,Frankfurt am Main Airport,63
+2019-10-17,London Heathrow Airport,68
+2019-10-18,Charles de Gaulle International Airport,120
+2019-10-18,Frankfurt am Main Airport,132
+2019-10-18,London Heathrow Airport,151
+2019-10-19,Charles de Gaulle International Airport,86
+2019-10-19,Frankfurt am Main Airport,85
+2019-10-19,London Heathrow Airport,121
+2019-10-20,Charles de Gaulle International Airport,74
+2019-10-20,Frankfurt am Main Airport,81
+2019-10-20,London Heathrow Airport,118
+2019-10-21,Charles de Gaulle International Airport,65
+2019-10-21,Frankfurt am Main Airport,76
+2019-10-21,London Heathrow Airport,91
+2019-10-22,Charles de Gaulle International Airport,74
+2019-10-22,Frankfurt am Main Airport,76
+2019-10-22,London Heathrow Airport,89
+2019-10-23,Charles de Gaulle International Airport,46
+2019-10-23,Frankfurt am Main Airport,63
+2019-10-23,London Heathrow Airport,69
+2019-10-24,Charles de Gaulle International Airport,71
+2019-10-24,Frankfurt am Main Airport,51
+2019-10-24,London Heathrow Airport,86
+2019-10-25,Charles de Gaulle International Airport,88
+2019-10-25,Frankfurt am Main Airport,94
+2019-10-25,London Heathrow Airport,139
+2019-10-26,Charles de Gaulle International Airport,68
+2019-10-26,Frankfurt am Main Airport,63
+2019-10-26,London Heathrow Airport,146
+2019-10-27,Charles de Gaulle International Airport,91
+2019-10-27,Frankfurt am Main Airport,60
+2019-10-27,London Heathrow Airport,92
+2019-10-28,Charles de Gaulle International Airport,129
+2019-10-28,Frankfurt am Main Airport,129
+2019-10-28,London Heathrow Airport,165
+2019-10-29,Charles de Gaulle International Airport,88
+2019-10-29,Frankfurt am Main Airport,97
+2019-10-29,London Heathrow Airport,100
+2019-10-30,Charles de Gaulle International Airport,98
+2019-10-30,Frankfurt am Main Airport,103
+2019-10-30,London Heathrow Airport,137
+2019-10-31,Charles de Gaulle International Airport,62
+2019-10-31,Frankfurt am Main Airport,57
+2019-10-31,London Heathrow Airport,126
+2019-11-01,Charles de Gaulle International Airport,159
+2019-11-01,Frankfurt am Main Airport,154
+2019-11-01,London Heathrow Airport,205
+2019-11-02,Charles de Gaulle International Airport,120
+2019-11-02,Frankfurt am Main Airport,154
+2019-11-02,London Heathrow Airport,160
+2019-11-03,Charles de Gaulle International Airport,82
+2019-11-03,Frankfurt am Main Airport,136
+2019-11-03,London Heathrow Airport,123
+2019-11-04,Charles de Gaulle International Airport,53
+2019-11-04,Frankfurt am Main Airport,61
+2019-11-04,London Heathrow Airport,108
+2019-11-05,Charles de Gaulle International Airport,36
 2019-11-05,Frankfurt am Main Airport,37
-2019-11-05,London Heathrow Airport,48
-2019-11-06,Charles de Gaulle International Airport,48
-2019-11-06,Frankfurt am Main Airport,66
-2019-11-06,London Heathrow Airport,67
-2019-11-07,Charles de Gaulle International Airport,55
-2019-11-07,Frankfurt am Main Airport,51
-2019-11-07,London Heathrow Airport,96
-2019-11-08,Charles de Gaulle International Airport,40
-2019-11-08,Frankfurt am Main Airport,39
-2019-11-08,London Heathrow Airport,77
-2019-11-09,Charles de Gaulle International Airport,52
-2019-11-09,Frankfurt am Main Airport,66
-2019-11-09,London Heathrow Airport,98
-2019-11-10,Charles de Gaulle International Airport,51
-2019-11-10,Frankfurt am Main Airport,65
-2019-11-10,London Heathrow Airport,93
-2019-11-11,Charles de Gaulle International Airport,63
-2019-11-11,Frankfurt am Main Airport,85
-2019-11-11,London Heathrow Airport,98
-2019-11-12,Charles de Gaulle International Airport,75
-2019-11-12,Frankfurt am Main Airport,116
-2019-11-12,London Heathrow Airport,126
-2019-11-13,Charles de Gaulle International Airport,86
-2019-11-13,Frankfurt am Main Airport,87
-2019-11-13,London Heathrow Airport,133
-2019-11-14,Charles de Gaulle International Airport,57
-2019-11-14,Frankfurt am Main Airport,63
-2019-11-14,London Heathrow Airport,94
-2019-11-15,Charles de Gaulle International Airport,90
-2019-11-15,Frankfurt am Main Airport,125
-2019-11-15,London Heathrow Airport,150
-2019-11-16,Charles de Gaulle International Airport,82
-2019-11-16,Frankfurt am Main Airport,93
-2019-11-16,London Heathrow Airport,135
-2019-11-17,Charles de Gaulle International Airport,76
-2019-11-17,Frankfurt am Main Airport,115
-2019-11-17,London Heathrow Airport,146
-2019-11-18,Charles de Gaulle International Airport,70
-2019-11-18,Frankfurt am Main Airport,79
-2019-11-18,London Heathrow Airport,144
-2019-11-19,Charles de Gaulle International Airport,100
-2019-11-19,Frankfurt am Main Airport,96
-2019-11-19,London Heathrow Airport,172
-2019-11-20,Charles de Gaulle International Airport,76
-2019-11-20,Frankfurt am Main Airport,105
-2019-11-20,London Heathrow Airport,139
-2019-11-21,Charles de Gaulle International Airport,81
-2019-11-21,Frankfurt am Main Airport,111
-2019-11-21,London Heathrow Airport,129
-2019-11-22,Charles de Gaulle International Airport,104
-2019-11-22,Frankfurt am Main Airport,154
-2019-11-22,London Heathrow Airport,161
-2019-11-23,Charles de Gaulle International Airport,118
-2019-11-23,Frankfurt am Main Airport,118
-2019-11-23,London Heathrow Airport,161
-2019-11-24,Charles de Gaulle International Airport,147
-2019-11-24,Frankfurt am Main Airport,139
-2019-11-24,London Heathrow Airport,230
-2019-11-25,Charles de Gaulle International Airport,128
-2019-11-25,Frankfurt am Main Airport,158
-2019-11-25,London Heathrow Airport,160
-2019-11-26,Charles de Gaulle International Airport,117
-2019-11-26,Frankfurt am Main Airport,146
-2019-11-26,London Heathrow Airport,217
-2019-11-27,Charles de Gaulle International Airport,65
-2019-11-27,Frankfurt am Main Airport,99
-2019-11-27,London Heathrow Airport,92
-2019-11-28,Charles de Gaulle International Airport,46
+2019-11-05,London Heathrow Airport,49
+2019-11-06,Charles de Gaulle International Airport,50
+2019-11-06,Frankfurt am Main Airport,69
+2019-11-06,London Heathrow Airport,71
+2019-11-07,Charles de Gaulle International Airport,59
+2019-11-07,Frankfurt am Main Airport,53
+2019-11-07,London Heathrow Airport,101
+2019-11-08,Charles de Gaulle International Airport,44
+2019-11-08,Frankfurt am Main Airport,40
+2019-11-08,London Heathrow Airport,78
+2019-11-09,Charles de Gaulle International Airport,55
+2019-11-09,Frankfurt am Main Airport,71
+2019-11-09,London Heathrow Airport,101
+2019-11-10,Charles de Gaulle International Airport,58
+2019-11-10,Frankfurt am Main Airport,67
+2019-11-10,London Heathrow Airport,100
+2019-11-11,Charles de Gaulle International Airport,67
+2019-11-11,Frankfurt am Main Airport,89
+2019-11-11,London Heathrow Airport,104
+2019-11-12,Charles de Gaulle International Airport,79
+2019-11-12,Frankfurt am Main Airport,118
+2019-11-12,London Heathrow Airport,132
+2019-11-13,Charles de Gaulle International Airport,87
+2019-11-13,Frankfurt am Main Airport,91
+2019-11-13,London Heathrow Airport,135
+2019-11-14,Charles de Gaulle International Airport,59
+2019-11-14,Frankfurt am Main Airport,67
+2019-11-14,London Heathrow Airport,99
+2019-11-15,Charles de Gaulle International Airport,97
+2019-11-15,Frankfurt am Main Airport,128
+2019-11-15,London Heathrow Airport,161
+2019-11-16,Charles de Gaulle International Airport,89
+2019-11-16,Frankfurt am Main Airport,103
+2019-11-16,London Heathrow Airport,141
+2019-11-17,Charles de Gaulle International Airport,81
+2019-11-17,Frankfurt am Main Airport,121
+2019-11-17,London Heathrow Airport,155
+2019-11-18,Charles de Gaulle International Airport,74
+2019-11-18,Frankfurt am Main Airport,86
+2019-11-18,London Heathrow Airport,145
+2019-11-19,Charles de Gaulle International Airport,107
+2019-11-19,Frankfurt am Main Airport,99
+2019-11-19,London Heathrow Airport,184
+2019-11-20,Charles de Gaulle International Airport,83
+2019-11-20,Frankfurt am Main Airport,113
+2019-11-20,London Heathrow Airport,148
+2019-11-21,Charles de Gaulle International Airport,85
+2019-11-21,Frankfurt am Main Airport,116
+2019-11-21,London Heathrow Airport,136
+2019-11-22,Charles de Gaulle International Airport,113
+2019-11-22,Frankfurt am Main Airport,160
+2019-11-22,London Heathrow Airport,168
+2019-11-23,Charles de Gaulle International Airport,124
+2019-11-23,Frankfurt am Main Airport,126
+2019-11-23,London Heathrow Airport,169
+2019-11-24,Charles de Gaulle International Airport,155
+2019-11-24,Frankfurt am Main Airport,142
+2019-11-24,London Heathrow Airport,246
+2019-11-25,Charles de Gaulle International Airport,130
+2019-11-25,Frankfurt am Main Airport,169
+2019-11-25,London Heathrow Airport,171
+2019-11-26,Charles de Gaulle International Airport,133
+2019-11-26,Frankfurt am Main Airport,165
+2019-11-26,London Heathrow Airport,228
+2019-11-27,Charles de Gaulle International Airport,71
+2019-11-27,Frankfurt am Main Airport,104
+2019-11-27,London Heathrow Airport,98
+2019-11-28,Charles de Gaulle International Airport,50
 2019-11-28,Frankfurt am Main Airport,61
-2019-11-28,London Heathrow Airport,62
-2019-11-29,Charles de Gaulle International Airport,30
-2019-11-29,Frankfurt am Main Airport,34
-2019-11-29,London Heathrow Airport,55
-2019-11-30,Charles de Gaulle International Airport,55
-2019-11-30,Frankfurt am Main Airport,61
-2019-11-30,London Heathrow Airport,108
-2019-12-01,Charles de Gaulle International Airport,68
-2019-12-01,Frankfurt am Main Airport,94
-2019-12-01,London Heathrow Airport,142
-2019-12-02,Charles de Gaulle International Airport,61
-2019-12-02,Frankfurt am Main Airport,66
-2019-12-02,London Heathrow Airport,127
-2019-12-03,Charles de Gaulle International Airport,48
-2019-12-03,Frankfurt am Main Airport,51
-2019-12-03,London Heathrow Airport,57
-2019-12-04,Charles de Gaulle International Airport,43
-2019-12-04,Frankfurt am Main Airport,37
-2019-12-04,London Heathrow Airport,83
-2019-12-05,Charles de Gaulle International Airport,69
-2019-12-05,Frankfurt am Main Airport,64
-2019-12-05,London Heathrow Airport,111
-2019-12-06,Charles de Gaulle International Airport,95
-2019-12-06,Frankfurt am Main Airport,101
-2019-12-06,London Heathrow Airport,152
-2019-12-07,Charles de Gaulle International Airport,76
-2019-12-07,Frankfurt am Main Airport,84
-2019-12-07,London Heathrow Airport,130
-2019-12-08,Charles de Gaulle International Airport,89
-2019-12-08,Frankfurt am Main Airport,108
-2019-12-08,London Heathrow Airport,141
-2019-12-09,Charles de Gaulle International Airport,54
-2019-12-09,Frankfurt am Main Airport,39
-2019-12-09,London Heathrow Airport,96
-2019-12-10,Charles de Gaulle International Airport,70
-2019-12-10,Frankfurt am Main Airport,54
-2019-12-10,London Heathrow Airport,138
-2019-12-11,Charles de Gaulle International Airport,96
-2019-12-11,Frankfurt am Main Airport,118
-2019-12-11,London Heathrow Airport,145
-2019-12-12,Charles de Gaulle International Airport,44
-2019-12-12,Frankfurt am Main Airport,39
-2019-12-12,London Heathrow Airport,58
-2019-12-13,Charles de Gaulle International Airport,36
-2019-12-13,Frankfurt am Main Airport,31
-2019-12-13,London Heathrow Airport,47
-2019-12-14,Charles de Gaulle International Airport,78
-2019-12-14,Frankfurt am Main Airport,59
-2019-12-14,London Heathrow Airport,120
-2019-12-15,Charles de Gaulle International Airport,109
-2019-12-15,Frankfurt am Main Airport,95
-2019-12-15,London Heathrow Airport,166
-2019-12-16,Charles de Gaulle International Airport,153
-2019-12-16,Frankfurt am Main Airport,170
-2019-12-16,London Heathrow Airport,258
-2019-12-17,Charles de Gaulle International Airport,84
-2019-12-17,Frankfurt am Main Airport,109
-2019-12-17,London Heathrow Airport,134
-2019-12-18,Charles de Gaulle International Airport,73
-2019-12-18,Frankfurt am Main Airport,86
-2019-12-18,London Heathrow Airport,104
-2019-12-19,Charles de Gaulle International Airport,95
-2019-12-19,Frankfurt am Main Airport,139
-2019-12-19,London Heathrow Airport,154
-2019-12-20,Charles de Gaulle International Airport,73
-2019-12-20,Frankfurt am Main Airport,110
-2019-12-20,London Heathrow Airport,100
-2019-12-21,Charles de Gaulle International Airport,45
-2019-12-21,Frankfurt am Main Airport,68
-2019-12-21,London Heathrow Airport,71
-2019-12-22,Charles de Gaulle International Airport,43
-2019-12-22,Frankfurt am Main Airport,56
-2019-12-22,London Heathrow Airport,56
-2019-12-23,Charles de Gaulle International Airport,49
+2019-11-28,London Heathrow Airport,64
+2019-11-29,Charles de Gaulle International Airport,32
+2019-11-29,Frankfurt am Main Airport,37
+2019-11-29,London Heathrow Airport,60
+2019-11-30,Charles de Gaulle International Airport,60
+2019-11-30,Frankfurt am Main Airport,63
+2019-11-30,London Heathrow Airport,116
+2019-12-01,Charles de Gaulle International Airport,74
+2019-12-01,Frankfurt am Main Airport,99
+2019-12-01,London Heathrow Airport,148
+2019-12-02,Charles de Gaulle International Airport,67
+2019-12-02,Frankfurt am Main Airport,71
+2019-12-02,London Heathrow Airport,131
+2019-12-03,Charles de Gaulle International Airport,51
+2019-12-03,Frankfurt am Main Airport,55
+2019-12-03,London Heathrow Airport,60
+2019-12-04,Charles de Gaulle International Airport,44
+2019-12-04,Frankfurt am Main Airport,41
+2019-12-04,London Heathrow Airport,86
+2019-12-05,Charles de Gaulle International Airport,71
+2019-12-05,Frankfurt am Main Airport,72
+2019-12-05,London Heathrow Airport,122
+2019-12-06,Charles de Gaulle International Airport,107
+2019-12-06,Frankfurt am Main Airport,109
+2019-12-06,London Heathrow Airport,161
+2019-12-07,Charles de Gaulle International Airport,81
+2019-12-07,Frankfurt am Main Airport,92
+2019-12-07,London Heathrow Airport,144
+2019-12-08,Charles de Gaulle International Airport,98
+2019-12-08,Frankfurt am Main Airport,120
+2019-12-08,London Heathrow Airport,148
+2019-12-09,Charles de Gaulle International Airport,56
+2019-12-09,Frankfurt am Main Airport,43
+2019-12-09,London Heathrow Airport,101
+2019-12-10,Charles de Gaulle International Airport,75
+2019-12-10,Frankfurt am Main Airport,64
+2019-12-10,London Heathrow Airport,153
+2019-12-11,Charles de Gaulle International Airport,102
+2019-12-11,Frankfurt am Main Airport,130
+2019-12-11,London Heathrow Airport,153
+2019-12-12,Charles de Gaulle International Airport,50
+2019-12-12,Frankfurt am Main Airport,42
+2019-12-12,London Heathrow Airport,63
+2019-12-13,Charles de Gaulle International Airport,40
+2019-12-13,Frankfurt am Main Airport,32
+2019-12-13,London Heathrow Airport,51
+2019-12-14,Charles de Gaulle International Airport,82
+2019-12-14,Frankfurt am Main Airport,66
+2019-12-14,London Heathrow Airport,125
+2019-12-15,Charles de Gaulle International Airport,119
+2019-12-15,Frankfurt am Main Airport,109
+2019-12-15,London Heathrow Airport,178
+2019-12-16,Charles de Gaulle International Airport,173
+2019-12-16,Frankfurt am Main Airport,182
+2019-12-16,London Heathrow Airport,269
+2019-12-17,Charles de Gaulle International Airport,87
+2019-12-17,Frankfurt am Main Airport,114
+2019-12-17,London Heathrow Airport,142
+2019-12-18,Charles de Gaulle International Airport,77
+2019-12-18,Frankfurt am Main Airport,90
+2019-12-18,London Heathrow Airport,114
+2019-12-19,Charles de Gaulle International Airport,96
+2019-12-19,Frankfurt am Main Airport,147
+2019-12-19,London Heathrow Airport,158
+2019-12-20,Charles de Gaulle International Airport,76
+2019-12-20,Frankfurt am Main Airport,120
+2019-12-20,London Heathrow Airport,102
+2019-12-21,Charles de Gaulle International Airport,50
+2019-12-21,Frankfurt am Main Airport,72
+2019-12-21,London Heathrow Airport,75
+2019-12-22,Charles de Gaulle International Airport,46
+2019-12-22,Frankfurt am Main Airport,57
+2019-12-22,London Heathrow Airport,60
+2019-12-23,Charles de Gaulle International Airport,50
 2019-12-23,Frankfurt am Main Airport,44
 2019-12-23,London Heathrow Airport,61
-2019-12-24,Charles de Gaulle International Airport,28
+2019-12-24,Charles de Gaulle International Airport,29
 2019-12-24,Frankfurt am Main Airport,27
-2019-12-24,London Heathrow Airport,40
-2019-12-25,Charles de Gaulle International Airport,67
-2019-12-25,Frankfurt am Main Airport,38
-2019-12-25,London Heathrow Airport,72
-2019-12-26,Charles de Gaulle International Airport,78
-2019-12-26,Frankfurt am Main Airport,75
-2019-12-26,London Heathrow Airport,126
-2019-12-27,Charles de Gaulle International Airport,65
-2019-12-27,Frankfurt am Main Airport,57
-2019-12-27,London Heathrow Airport,135
-2019-12-28,Charles de Gaulle International Airport,86
-2019-12-28,Frankfurt am Main Airport,66
-2019-12-28,London Heathrow Airport,154
-2019-12-29,Charles de Gaulle International Airport,61
-2019-12-29,Frankfurt am Main Airport,55
-2019-12-29,London Heathrow Airport,103
-2019-12-30,Charles de Gaulle International Airport,72
-2019-12-30,Frankfurt am Main Airport,55
-2019-12-30,London Heathrow Airport,97
-2019-12-31,Charles de Gaulle International Airport,50
-2019-12-31,Frankfurt am Main Airport,33
-2019-12-31,London Heathrow Airport,93
+2019-12-24,London Heathrow Airport,41
+2019-12-25,Charles de Gaulle International Airport,69
+2019-12-25,Frankfurt am Main Airport,39
+2019-12-25,London Heathrow Airport,74
+2019-12-26,Charles de Gaulle International Airport,85
+2019-12-26,Frankfurt am Main Airport,77
+2019-12-26,London Heathrow Airport,137
+2019-12-27,Charles de Gaulle International Airport,68
+2019-12-27,Frankfurt am Main Airport,60
+2019-12-27,London Heathrow Airport,143
+2019-12-28,Charles de Gaulle International Airport,90
+2019-12-28,Frankfurt am Main Airport,67
+2019-12-28,London Heathrow Airport,170
+2019-12-29,Charles de Gaulle International Airport,68
+2019-12-29,Frankfurt am Main Airport,58
+2019-12-29,London Heathrow Airport,110
+2019-12-30,Charles de Gaulle International Airport,75
+2019-12-30,Frankfurt am Main Airport,57
+2019-12-30,London Heathrow Airport,107
+2019-12-31,Charles de Gaulle International Airport,53
+2019-12-31,Frankfurt am Main Airport,34
+2019-12-31,London Heathrow Airport,94
