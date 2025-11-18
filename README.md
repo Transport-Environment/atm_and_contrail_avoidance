@@ -14,7 +14,7 @@ This project quantifies **traffic levels** and **contrail warming** over Europe 
 * Global aviation emissions inventory based on ADS-B (GAIA) for 2019
 
 It draws on the following datasets. 
-* Contrails simulations kindly provided by the Imperial College London
+* Contrails simulations using CoCiP based on Spire ADS-B data kindly provided by the Imperial College London
     - Flight-by-flight information for European arrivals and departures for the year 2019 based on ![Teoh et al. 2024](https://acp.copernicus.org/articles/24/6071/2024/)
     - Gridded contrail simulation outputs (0.25 deg x 0.25 deg spatial resolution, 1h temporal resolution) for the year 2019 based on ![Teoh et al. 2024](https://acp.copernicus.org/articles/24/6071/2024/), re-run by ICL with an updated version of pycontrails (v0.54.8), not accounting for vPM activation
 * The high-resolution Global Aviation emissions Inventory based on ADS-B (![GAIA](https://zenodo.org/records/8369829)) for 2019 - 2021: High-resolution gridded outputs for 2019 (Full Year)
@@ -47,7 +47,8 @@ It draws on the following datasets.
 
 * Contrail forcing by **month of year** and **hour of day**
 * Number of **“big hit”** flights (major warming contrails) by day, airport, and FIR
-* Total CO₂ and contrail forcing per departure airport/FIR
+* Total CO₂ and contrail forcing per departure airport
+* FIR geometry is on ![worldfirs.json](data/worldfirs.json) found on ![observablehq.com/@openaviation](https://observablehq.com/@openaviation/flight-information-regions#plot_fir)
 
 **Figures:**
 
@@ -68,15 +69,16 @@ It draws on the following datasets.
 **Analyses:**
 
 * File availability and statistics of forcing datasets
-    - I used to approaches to analyse the data
-        1. Convert tabular parquet files to hourly grid-based netcdf files + sum hourly grid-based files to get hourly, monthly and annual averages
-        2. Directly sum parquet files for different FIRs to get hourly, monthly and annual statistics by FIR  - this method retains more of the original data fields since it is more memory efficient. At the same time, I lose all spatial information. 
+    - Two approaches to analyse the data
+        1. Convert tabular parquet files to hourly grid-based netcdf files & sum hourly grid-based files to get hourly, monthly and annual averages
+        2. Directly sum parquet files for different FIRs to get hourly, monthly and annual statistics by FIR  - this method retains more of the original data fields since it is more memory efficient. At the same time, it discards spatial information. 
     - Both approaches agree numerically
 * Maps of flight distance, warming and contrails per flight
     - Use netcdf files and aggregate using xarray
 * Forcing per **flight distance**, **hour**, **month**, **flight level**, and **FIR**
     - User parquet files with the exception of forcing per flight level
     - Aggregate using pandas
+* Region boundaries based on rectangular bounding boxes suggest in Teoh et al. 2024 as well as on lower flight information region boundaries
 
 
 **Figures:**
@@ -107,7 +109,7 @@ Data: Gridded CoCiP outputs for 2024 provided by contrails.org, using Airbus A32
 * Intro to gridded CoCiP: https://py.contrails.org/notebooks/CoCiPGrid.html and original publication: https://gmd.copernicus.org/articles/18/253/2025/
 * Hourly coverage not complete - around two days are missing despite repeated API requests
 * Detect connected regions exceeding a **forcing threshold (5 × 10⁸ J m⁻¹)** that are fully contained within a fixed bounding box - lon = (-70.0, 70.0) and lat = (20.0, 90.0)
-* This threshold comes from https://gmd.copernicus.org/articles/18/253/2025/: The grid-based CoCiP defines regions with strongly warming contrails based on the 80th percentile (5×108 J m−1) and the 95th percentile (1.5×109 J m−1) of EFcontrail per flight distance flown, both of which were derived from a 2019 global contrail simulation using the trajectory-based CoCiP (Teoh et al., 2024a).
+* This threshold comes from https://gmd.copernicus.org/articles/18/253/2025/: The grid-based CoCiP defines regions with strongly warming contrails based on the 80th percentile (5×10^8 J/m) and the 95th percentile (1.5×10^9 J/m) of EFcontrail per flight distance flown, both of which were derived from a 2019 global contrail simulation using the trajectory-based CoCiP (Teoh et al., 2024a).
 * Compute per-region statistics: centroid, forcing, flight level, thickness, area, and volume
 
 **Weaknesses of this analysis:**
@@ -132,16 +134,15 @@ Data: Gridded CoCiP outputs for 2024 provided by contrails.org, using Airbus A32
 
 **Analyses:**
 
-* Download gridded CoCiP regions - see 3_issr.ipynb for more info
-* Fraction of volume producing **cooling**, **warming**, and **highly warming** (80th / 95th percentile) contrails
+* Download gridded CoCiP data for 2024 - see 3_issr.ipynb for more info
+* Fraction of volume producing **cooling**, **warming**, and **highly warming** (80th / 95th percentile) contrails per hour of the year
 * Aggregation by **week** and **flight level band**
-* Derive **hourly and weekly statistics** for comparison
 
 **Figures:**
 
-![Forcing per Year](figures/4_airspace_capacity/airspace_capacity_1_forcing_per_year@2x.g)
-![Forcing per Week](figures/4_airspace_capacity/airspace_capacity_2_forcing_per_week@2x.g)
-![Forcing by Flight Level](figures/4_airspace_capacity/airspace_capacity_3_forcing_fl@2x.g)
+![Forcing per Year](figures/4_airspace_capacity/airspace_capacity_1_forcing_per_year@2x.png)
+![Forcing per Week](figures/4_airspace_capacity/airspace_capacity_2_forcing_per_week@2x.png)
+![Forcing by Flight Level](figures/4_airspace_capacity/airspace_capacity_3_forcing_fl@2x.png)
 ![Weekly FL Comparison](figures/4_airspace_capacity/airspace_capacity_4_week_fl@2x.png)
 
 
@@ -184,6 +185,7 @@ The datasets provided by contrails.org and Imperial College London are not inclu
 
 Final CSV summaries in `/output` are used for visualisation (e.g., via Flourish).
 Each subfolder corresponds to a notebook (e.g., `/output/departures`, `/output/forcing`, `/output/issr`).
+The figures `figures/1.png` to `figures/XX.png` correspond to the figures used in T&E's report in order of appearance. The subfolders `figures/1_departures` etc. contain all the figures created by the respective notebook. 
 
 
 ## Requirements
