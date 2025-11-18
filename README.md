@@ -16,9 +16,9 @@ This project quantifies **traffic levels** and **contrail warming** over Europe 
 It draws on the following datasets. 
 * Contrails simulations using CoCiP based on Spire ADS-B data kindly provided by the Imperial College London
     - Flight-by-flight information for European arrivals and departures for the year 2019 based on ![Teoh et al. 2024](https://acp.copernicus.org/articles/24/6071/2024/)
-    - Gridded contrail simulation outputs (0.25 deg x 0.25 deg spatial resolution, 1h temporal resolution) for the year 2019 based on ![Teoh et al. 2024](https://acp.copernicus.org/articles/24/6071/2024/), re-run by ICL with an updated version of pycontrails (v0.54.8), not accounting for vPM activation
-* The high-resolution Global Aviation emissions Inventory based on ADS-B (![GAIA](https://zenodo.org/records/8369829)) for 2019 - 2021: High-resolution gridded outputs for 2019 (Full Year)
-* ![Gridded CoCiP](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1361/) outputs for the year 2024 kindly provided by ![contrails.org](https://apidocs.contrails.org/notebooks/research_api.html)
+    - Gridded contrail simulation outputs (0.25° x 0.25° lateral resolution, 1000 ft (~300 m) vertical resolution, 1h temporal resolution) for the year 2019 based on ![Teoh et al. 2024](https://acp.copernicus.org/articles/24/6071/2024/), re-run by ICL with an updated version of pycontrails (v0.54.8), not accounting for vPM activation
+* The high-resolution Global Aviation emissions Inventory based on ADS-B (![GAIA](https://zenodo.org/records/8369829)) for 2019 - 2021: High-resolution gridded outputs for 2019 (Full Year) with (0.05° x 0.05° lateral resolution, 100 m vertical resolution, 1h temporal resolution)
+* ![Gridded CoCiP](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1361/) outputs for the year 2024 kindly provided by ![contrails.org](https://apidocs.contrails.org/notebooks/research_api.html) with (0.25° x 0.25° lateral resolution, 1000 ft (~300 m) vertical resolution, 1h temporal resolution)
 
 
 ## Repository Structure
@@ -125,7 +125,7 @@ Data: Gridded CoCiP outputs for 2024 provided by contrails.org, using Airbus A32
 * Download gridded CoCiP output from contrails.org via their API (https://apidocs.contrails.org/notebooks/research_api.html)
 * Intro to gridded CoCiP: https://py.contrails.org/notebooks/CoCiPGrid.html and original publication: https://gmd.copernicus.org/articles/18/253/2025/
 * Hourly coverage not complete - around two days are missing despite repeated API requests
-* Detect connected regions exceeding a **forcing threshold (5 × 10⁸ J m⁻¹)** that are fully contained within a fixed bounding box - lon = (-70.0, 70.0) and lat = (20.0, 90.0)
+* Detect connected regions exceeding a **forcing threshold (5 × 10⁸ J m⁻¹)** that are fully contained within a fixed bounding box - lon = (-70.0°, 70.0°) and lat = (20.0°, 90.0°)
 * This threshold comes from https://gmd.copernicus.org/articles/18/253/2025/: The grid-based CoCiP defines regions with strongly warming contrails based on the 80th percentile (5×10^8 J/m) and the 95th percentile (1.5×10^9 J/m) of EFcontrail per flight distance flown, both of which were derived from a 2019 global contrail simulation using the trajectory-based CoCiP (Teoh et al., 2024a).
 * Compute per-region statistics: centroid, forcing, flight level, thickness, area, and volume
 
