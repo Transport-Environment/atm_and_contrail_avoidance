@@ -86,24 +86,35 @@ It draws on the following datasets.
     - Aggregate using pandas
 * Region boundaries based on rectangular bounding boxes suggest in Teoh et al. 2024 as well as on lower flight information region boundaries
 
-
 **Figures:**
 
-![PQ File Availability](figures/2_forcing/forcing_1_pq_file_availability@2x.png)
-![NetCDF Availability](figures/2_forcing/forcing_2_netcdf_file_availability@2x.png)
-![Statistics](figures/2_forcing/forcing_3_statistics@2x.png)
-![Flight Distance](figures/2_forcing/forcing_4_flight_distance@2x.png)
-![Warming](figures/2_forcing/forcing_4_warming@2x.png)
-![Warming Per Flight Level](figures/2_forcing/forcing_5_by_flight_level@2x.png)
-![Warming Per Flight Distance](figures/2_forcing/forcing_4_per_distance@2x.png)
-![Warming by Hour](figures/2_forcing/forcing_6_by_hour@2x.png)
-![Warming by Month](figures/2_forcing/forcing_7_by_month@2x.png)
-![Warming by FIR](figures/2_forcing/forcing_8_by_fir@2x.png)
-![Airspace Activity](figures/2_forcing/forcing_9_how_busy_are_airspaces@2x.png)
-![Contrail Concentration](figures/2_forcing/forcing_10_contrail_concentration@2x.png)
-![Contrail Opportunities Pt. 1](figures/2_forcing/forcing_11_low_traffic@2x.png)
-![Contrail Opportunities Pt. 2](figures/2_forcing/forcing_12_low_load@2x.png)
-![Contrail calendar](figures/2_forcing/forcing_13_big_hits_per_day_fir@2x.png)
+<table>
+  <tr>
+    <td><img src="figures/2_forcing/forcing_1_pq_file_availability@2x.png" width="300"></td>
+    <td><img src="figures/2_forcing/forcing_2_netcdf_file_availability@2x.png" width="300"></td>
+    <td><img src="figures/2_forcing/forcing_3_statistics@2x.png" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="figures/2_forcing/forcing_4_flight_distance@2x.png" width="300"></td>
+    <td><img src="figures/2_forcing/forcing_4_warming@2x.png" width="300"></td>
+    <td><img src="figures/2_forcing/forcing_5_by_flight_level@2x.png" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="figures/2_forcing/forcing_4_per_distance@2x.png" width="300"></td>
+    <td><img src="figures/2_forcing/forcing_6_by_hour@2x.png" width="300"></td>
+    <td><img src="figures/2_forcing/forcing_7_by_month@2x.png" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="figures/2_forcing/forcing_8_by_fir@2x.png" width="300"></td>
+    <td><img src="figures/2_forcing/forcing_9_how_busy_are_airspaces@2x.png" width="300"></td>
+    <td><img src="figures/2_forcing/forcing_10_contrail_concentration@2x.png" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="figures/2_forcing/forcing_11_low_traffic@2x.png" width="300"></td>
+    <td><img src="figures/2_forcing/forcing_12_low_load@2x.png" width="300"></td>
+    <td><img src="figures/2_forcing/forcing_13_big_hits_per_day_fir@2x.png" width="300"></td>
+  </tr>
+</table>
 
 ### ISSRs (`3_issr.ipynb`)
 
@@ -125,12 +136,18 @@ Data: Gridded CoCiP outputs for 2024 provided by contrails.org, using Airbus A32
 
 **Figures:**
 
-![NetCDF Availability](figures/3_issr/issr_1_netcdf_file_availability@2x.png)
-![PCR map](figures/3_issr/issr_2_contrail_map@2x.png)
-![PCR movement](figures/3_issr/issr_3_movement@2x.png)
-![ISSR Depth Distribution](figures/3_issr/issr_4_depth_volume@2x.png)
-![Contrail Region explorer](figures/3_issr/issr_5_contrail_region_explorer@2x.png)
-![Vertical deviations](figures/3_issr/issr_6_deviation_likelihood@2x.png)
+<table>
+  <tr>
+    <td><img src="figures/3_issr/issr_1_netcdf_file_availability@2x.png" width="300"></td>
+    <td><img src="figures/3_issr/issr_2_contrail_map@2x.png" width="300"></td>
+    <td><img src="figures/3_issr/issr_3_movement@2x.png" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="figures/3_issr/issr_4_depth_volume@2x.png" width="300"></td>
+    <td><img src="figures/3_issr/issr_5_contrail_region_explorer@2x.png" width="300"></td>
+    <td><img src="figures/3_issr/issr_6_deviation_likelihood@2x.png" width="300"></td>
+  </tr>
+</table>
 
 
 
@@ -145,11 +162,16 @@ Data: Gridded CoCiP outputs for 2024 provided by contrails.org, using Airbus A32
 * Aggregation by **week** and **flight level band**
 
 **Figures:**
-
-![Forcing per Year](figures/4_airspace_capacity/airspace_capacity_1_forcing_per_year@2x.png)
-![Forcing per Week](figures/4_airspace_capacity/airspace_capacity_2_forcing_per_week@2x.png)
-![Forcing by Flight Level](figures/4_airspace_capacity/airspace_capacity_3_forcing_fl@2x.png)
-![Weekly FL Comparison](figures/4_airspace_capacity/airspace_capacity_4_week_fl@2x.png)
+<table>
+  <tr>
+    <td><img src="figures/4_airspace_capacity/airspace_capacity_1_forcing_per_year@2x.png" width="400"></td>
+    <td><img src="figures/4_airspace_capacity/airspace_capacity_2_forcing_per_week@2x.png" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="figures/4_airspace_capacity/airspace_capacity_3_forcing_fl@2x.png" width="400"></td>
+    <td><img src="figures/4_airspace_capacity/airspace_capacity_4_week_fl@2x.png" width="400"></td>
+  </tr>
+</table>
 
 
 ## Supporting Notebooks
