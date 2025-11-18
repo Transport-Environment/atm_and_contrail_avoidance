@@ -14,3 +14,9 @@ data/airspace_capacity/airspace_capacity_merged_old.parquet
 data/airspace_capacity/airspace_capacity_mini.parquet
 data/issr/contrail_region_details_2024_partial.csv
 data/issr/contrail_region_details_2024_old.csv
+python/1.py
+python/2.py
+python/3.py
+python/4.py
+python/5_3D_visualisation.py
+python/requirements.txt
