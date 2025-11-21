@@ -397,6 +397,9 @@ pip install -r requirements.txt
   - gridded forcing in m so probably not
   - gridded CoCiP? maybe
 - searchsorted binnign
+- make sure correct European Airspace boundary is used everywhere (i originally moved a rect but now i use the union of all eurocontrol firs ) - this is ont yet implemented in the airspace capacity analysis. 
+- Check whether labelling algorithm works 
+
 ## Sources and special thanks
 
 * Contrails simulations using CoCiP based on Spire ADS-B data kindly provided by the Imperial College London
