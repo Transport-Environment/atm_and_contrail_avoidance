@@ -1,5 +1,5 @@
-Month,Flight distance in 10^9 km,Contrail warming in 10^18 J,Warming per flight distance in 10^9 J/m,Region
-Jan,1054.24,37.25,35.33,European Airspace
+Month,Flight distance,Contrail warming,Warming per flight distance ,Region
+Jan,896.82,28.67,31.97,European Airspace
 Jan,209.68,14.36,68.46,North Atlantic
 Jan,590.46,13.68,23.17,Continental Europe
 Jan,4781.21,91.29,19.09,Global
@@ -267,7 +267,7 @@ Jan,58.91,0.03,0.56,Kunming FIR
 Jan,139.84,0.03,0.19,Shanghai FIR
 Jan,9.24,0.32,34.94,Urumqi FIR
 Jan,19.68,0.04,2.25,Shenyang FIR
-Feb,954.11,32.12,33.67,European Airspace
+Feb,813.7,25.56,31.42,European Airspace
 Feb,181.52,7.3,40.22,North Atlantic
 Feb,542.47,16.1,29.68,Continental Europe
 Feb,4374.46,72.71,16.62,Global
@@ -535,7 +535,7 @@ Feb,53.06,0.12,2.34,Kunming FIR
 Feb,133.96,0.5,3.72,Shanghai FIR
 Feb,8.13,0.18,22.43,Urumqi FIR
 Feb,23.15,0.19,8.28,Shenyang FIR
-Mar,1072.09,22.32,20.82,European Airspace
+Mar,913.08,19.06,20.88,European Airspace
 Mar,200.69,7.85,39.13,North Atlantic
 Mar,614.15,11.97,19.49,Continental Europe
 Mar,4994.48,64.2,12.85,Global
@@ -803,7 +803,7 @@ Mar,54.19,0.05,0.98,Kunming FIR
 Mar,137.06,0.25,1.85,Shanghai FIR
 Mar,10.02,0.29,28.96,Urumqi FIR
 Mar,24.96,0.05,2.01,Shenyang FIR
-Apr,1219.47,10.84,8.89,European Airspace
+Apr,1054.45,8.94,8.48,European Airspace
 Apr,225.78,6.48,28.69,North Atlantic
 Apr,726.06,4.84,6.67,Continental Europe
 Apr,4949.35,50.13,10.13,Global
@@ -1071,7 +1071,7 @@ Apr,43.55,0.1,2.3,Kunming FIR
 Apr,138.8,0.32,2.3,Shanghai FIR
 Apr,8.82,0.32,36.17,Urumqi FIR
 Apr,25.59,0.05,2.05,Shenyang FIR
-May,1288.18,15.22,11.82,European Airspace
+May,1117.73,12.41,11.11,European Airspace
 May,252.38,4.68,18.55,North Atlantic
 May,755.56,6.68,8.84,Continental Europe
 May,5161.62,46.79,9.06,Global
@@ -1339,7 +1339,7 @@ May,43.62,0.02,0.42,Kunming FIR
 May,137.59,0.16,1.2,Shanghai FIR
 May,8.22,0.11,13.92,Urumqi FIR
 May,23.85,0.39,16.46,Shenyang FIR
-Jun,1374.76,8.32,6.05,European Airspace
+Jun,1191.34,6.99,5.87,European Airspace
 Jun,260.68,6.06,23.26,North Atlantic
 Jun,797.53,4.51,5.65,Continental Europe
 Jun,5204.7,39.27,7.55,Global
@@ -1610,7 +1610,7 @@ Jun,23.74,0.21,8.73,Shenyang FIR
 Jul,5550.32,34.23,6.17,Global
 Jul,611.81,1.42,2.31,Africa & Middle East
 Jul,177.98,0.07,0.42,Accra FIR
-Jul,1487.37,8.32,5.6,European Airspace
+Jul,1290.67,7.67,5.94,European Airspace
 Jul,275.98,5.69,20.61,North Atlantic
 Jul,859.07,5.31,6.18,Continental Europe
 Jul,1419.03,4.26,3.0,USA
@@ -1875,7 +1875,7 @@ Jul,36.77,0.06,1.67,Kunming FIR
 Jul,134.49,0.08,0.61,Shanghai FIR
 Jul,7.48,0.02,3.24,Urumqi FIR
 Jul,22.96,0.09,3.97,Shenyang FIR
-Aug,1587.07,11.2,7.06,European Airspace
+Aug,1380.68,9.71,7.04,European Airspace
 Aug,368.69,9.02,24.46,North Atlantic
 Aug,898.62,6.88,7.66,Continental Europe
 Aug,5762.03,44.73,7.76,Global
@@ -2143,7 +2143,7 @@ Aug,30.32,0.04,1.42,Kunming FIR
 Aug,120.78,0.07,0.54,Shanghai FIR
 Aug,7.75,0.01,0.95,Urumqi FIR
 Aug,26.55,0.12,4.36,Shenyang FIR
-Sep,1463.2,21.12,14.43,European Airspace
+Sep,1285.22,17.49,13.61,European Airspace
 Sep,278.82,7.91,28.39,North Atlantic
 Sep,869.27,10.7,12.31,Continental Europe
 Sep,5008.26,50.68,10.12,Global
@@ -2414,7 +2414,7 @@ Sep,14.57,0.02,1.47,Shenyang FIR
 Oct,5060.84,68.51,13.54,Global
 Oct,533.27,2.53,4.75,Africa & Middle East
 Oct,162.36,0.05,0.33,Accra FIR
-Oct,1327.6,31.52,23.74,European Airspace
+Oct,1162.76,25.4,21.85,European Airspace
 Oct,238.91,7.82,32.71,North Atlantic
 Oct,788.07,19.28,24.47,Continental Europe
 Oct,1367.24,5.64,4.12,USA
@@ -2679,7 +2679,7 @@ Oct,21.66,0.04,1.99,Kunming FIR
 Oct,104.26,0.1,0.92,Shanghai FIR
 Oct,7.05,0.09,13.45,Urumqi FIR
 Oct,19.21,0.08,4.31,Shenyang FIR
-Nov,1082.76,50.4,46.55,European Airspace
+Nov,930.09,38.02,40.88,European Airspace
 Nov,194.1,9.19,47.33,North Atlantic
 Nov,624.88,20.37,32.6,Continental Europe
 Nov,4876.91,99.32,20.36,Global
@@ -2947,7 +2947,7 @@ Nov,64.17,0.05,0.8,Kunming FIR
 Nov,142.76,0.42,2.91,Shanghai FIR
 Nov,13.84,0.31,22.58,Urumqi FIR
 Nov,29.84,0.43,14.26,Shenyang FIR
-Dec,1087.21,41.93,38.57,European Airspace
+Dec,929.51,30.51,32.82,European Airspace
 Dec,201.67,10.2,50.59,North Atlantic
 Dec,621.22,18.18,29.26,Continental Europe
 Dec,5129.83,109.77,21.4,Global

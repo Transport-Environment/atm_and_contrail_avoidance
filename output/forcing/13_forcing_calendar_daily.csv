@@ -1,15 +1,15 @@
 date,region,contrail_ef_overlap_initial_loc
-2019-01-01,European Airspace,0.3
+2019-01-01,European Airspace,0.2
 2019-01-01,Global,1.44
 2019-01-01,London FIR,0.0
 2019-01-01,Paris FIR,0.0
 2019-01-01,Switzerland FIR,0.0
-2019-01-02,European Airspace,0.63
+2019-01-02,European Airspace,0.41
 2019-01-02,Global,2.1
 2019-01-02,London FIR,0.01
 2019-01-02,Paris FIR,0.0
 2019-01-02,Switzerland FIR,0.0
-2019-01-03,European Airspace,0.97
+2019-01-03,European Airspace,0.84
 2019-01-03,Global,2.33
 2019-01-03,London FIR,0.0
 2019-01-03,Paris FIR,0.01
@@ -19,352 +19,352 @@ date,region,contrail_ef_overlap_initial_loc
 2019-01-04,London FIR,0.08
 2019-01-04,Paris FIR,0.08
 2019-01-04,Switzerland FIR,0.0
-2019-01-05,European Airspace,0.57
+2019-01-05,European Airspace,0.52
 2019-01-05,Global,1.66
 2019-01-05,London FIR,0.01
 2019-01-05,Paris FIR,0.01
 2019-01-05,Switzerland FIR,0.0
-2019-01-06,European Airspace,1.08
+2019-01-06,European Airspace,1.0
 2019-01-06,Global,2.22
 2019-01-06,London FIR,0.05
 2019-01-06,Paris FIR,0.02
 2019-01-06,Switzerland FIR,0.0
-2019-01-07,European Airspace,2.13
+2019-01-07,European Airspace,1.75
 2019-01-07,Global,3.84
 2019-01-07,London FIR,0.24
 2019-01-07,Paris FIR,0.06
 2019-01-07,Switzerland FIR,0.0
-2019-01-08,European Airspace,1.26
+2019-01-08,European Airspace,0.85
 2019-01-08,Global,3.42
 2019-01-08,London FIR,0.07
 2019-01-08,Paris FIR,0.07
 2019-01-08,Switzerland FIR,0.0
-2019-01-09,European Airspace,0.77
+2019-01-09,European Airspace,0.37
 2019-01-09,Global,2.81
 2019-01-09,London FIR,0.02
 2019-01-09,Paris FIR,0.0
 2019-01-09,Switzerland FIR,0.0
-2019-01-10,European Airspace,0.9
+2019-01-10,European Airspace,0.63
 2019-01-10,Global,2.49
 2019-01-10,London FIR,0.02
 2019-01-10,Paris FIR,0.0
 2019-01-10,Switzerland FIR,0.0
-2019-01-11,European Airspace,1.64
+2019-01-11,European Airspace,1.02
 2019-01-11,Global,3.88
 2019-01-11,London FIR,0.01
 2019-01-11,Paris FIR,0.0
 2019-01-11,Switzerland FIR,-0.0
-2019-01-12,European Airspace,2.42
+2019-01-12,European Airspace,2.09
 2019-01-12,Global,5.18
 2019-01-12,London FIR,0.28
 2019-01-12,Paris FIR,0.17
 2019-01-12,Switzerland FIR,0.0
-2019-01-13,European Airspace,1.4
+2019-01-13,European Airspace,1.09
 2019-01-13,Global,3.35
 2019-01-13,London FIR,0.13
 2019-01-13,Paris FIR,0.17
 2019-01-13,Switzerland FIR,0.01
-2019-01-14,European Airspace,0.78
+2019-01-14,European Airspace,0.42
 2019-01-14,Global,2.61
 2019-01-14,London FIR,0.02
 2019-01-14,Paris FIR,0.0
 2019-01-14,Switzerland FIR,0.0
-2019-01-15,European Airspace,1.0
+2019-01-15,European Airspace,0.86
 2019-01-15,Global,2.87
 2019-01-15,London FIR,0.15
 2019-01-15,Paris FIR,0.04
 2019-01-15,Switzerland FIR,0.0
-2019-01-16,European Airspace,1.42
+2019-01-16,European Airspace,1.4
 2019-01-16,Global,3.42
 2019-01-16,London FIR,0.03
 2019-01-16,Paris FIR,0.17
 2019-01-16,Switzerland FIR,0.04
-2019-01-17,European Airspace,0.57
+2019-01-17,European Airspace,0.42
 2019-01-17,Global,2.42
 2019-01-17,London FIR,0.05
 2019-01-17,Paris FIR,0.0
 2019-01-17,Switzerland FIR,0.0
-2019-01-18,European Airspace,0.81
+2019-01-18,European Airspace,0.73
 2019-01-18,Global,2.62
 2019-01-18,London FIR,0.02
 2019-01-18,Paris FIR,0.0
 2019-01-18,Switzerland FIR,0.01
-2019-01-19,European Airspace,0.95
+2019-01-19,European Airspace,0.88
 2019-01-19,Global,2.97
 2019-01-19,London FIR,0.01
 2019-01-19,Paris FIR,0.0
 2019-01-19,Switzerland FIR,0.0
-2019-01-20,European Airspace,0.62
+2019-01-20,European Airspace,0.57
 2019-01-20,Global,2.59
 2019-01-20,London FIR,0.0
 2019-01-20,Paris FIR,0.0
 2019-01-20,Switzerland FIR,-0.0
-2019-01-21,European Airspace,0.94
+2019-01-21,European Airspace,0.8
 2019-01-21,Global,2.81
 2019-01-21,London FIR,0.12
 2019-01-21,Paris FIR,0.02
 2019-01-21,Switzerland FIR,0.0
-2019-01-22,European Airspace,1.29
+2019-01-22,European Airspace,1.28
 2019-01-22,Global,3.24
 2019-01-22,London FIR,0.0
 2019-01-22,Paris FIR,-0.0
 2019-01-22,Switzerland FIR,0.0
-2019-01-23,European Airspace,1.53
+2019-01-23,European Airspace,1.35
 2019-01-23,Global,3.42
 2019-01-23,London FIR,0.03
 2019-01-23,Paris FIR,0.0
 2019-01-23,Switzerland FIR,-0.0
-2019-01-24,European Airspace,1.78
+2019-01-24,European Airspace,1.42
 2019-01-24,Global,3.52
 2019-01-24,London FIR,0.03
 2019-01-24,Paris FIR,0.0
 2019-01-24,Switzerland FIR,0.0
-2019-01-25,European Airspace,1.67
+2019-01-25,European Airspace,1.13
 2019-01-25,Global,3.1
 2019-01-25,London FIR,0.12
 2019-01-25,Paris FIR,0.03
 2019-01-25,Switzerland FIR,0.0
-2019-01-26,European Airspace,3.18
+2019-01-26,European Airspace,2.35
 2019-01-26,Global,5.04
 2019-01-26,London FIR,0.17
 2019-01-26,Paris FIR,0.31
 2019-01-26,Switzerland FIR,0.05
-2019-01-27,European Airspace,1.19
+2019-01-27,European Airspace,0.7
 2019-01-27,Global,3.21
 2019-01-27,London FIR,-0.0
 2019-01-27,Paris FIR,0.0
 2019-01-27,Switzerland FIR,0.0
-2019-01-28,European Airspace,0.88
+2019-01-28,European Airspace,0.58
 2019-01-28,Global,2.67
 2019-01-28,London FIR,0.0
 2019-01-28,Paris FIR,0.0
 2019-01-28,Switzerland FIR,-0.0
-2019-01-29,European Airspace,0.78
+2019-01-29,European Airspace,0.62
 2019-01-29,Global,2.35
 2019-01-29,London FIR,0.0
 2019-01-29,Paris FIR,0.01
 2019-01-29,Switzerland FIR,0.01
-2019-01-30,European Airspace,1.03
+2019-01-30,European Airspace,0.53
 2019-01-30,Global,2.19
 2019-01-30,London FIR,0.0
 2019-01-30,Paris FIR,-0.0
 2019-01-30,Switzerland FIR,0.0
-2019-01-31,European Airspace,1.48
+2019-01-31,European Airspace,0.61
 2019-01-31,Global,3.05
 2019-01-31,London FIR,-0.0
 2019-01-31,Paris FIR,0.02
 2019-01-31,Switzerland FIR,0.0
-2019-02-01,European Airspace,1.28
+2019-02-01,European Airspace,0.85
 2019-02-01,Global,3.36
 2019-02-01,London FIR,0.0
 2019-02-01,Paris FIR,0.0
 2019-02-01,Switzerland FIR,0.01
-2019-02-02,European Airspace,1.07
+2019-02-02,European Airspace,0.98
 2019-02-02,Global,2.92
 2019-02-02,London FIR,-0.0
 2019-02-02,Paris FIR,0.01
 2019-02-02,Switzerland FIR,0.0
-2019-02-03,European Airspace,1.51
+2019-02-03,European Airspace,0.89
 2019-02-03,Global,3.24
 2019-02-03,London FIR,0.05
 2019-02-03,Paris FIR,0.0
 2019-02-03,Switzerland FIR,0.0
-2019-02-04,European Airspace,0.98
+2019-02-04,European Airspace,0.49
 2019-02-04,Global,2.61
 2019-02-04,London FIR,0.02
 2019-02-04,Paris FIR,-0.01
 2019-02-04,Switzerland FIR,0.0
-2019-02-05,European Airspace,0.89
+2019-02-05,European Airspace,0.66
 2019-02-05,Global,2.72
 2019-02-05,London FIR,0.17
 2019-02-05,Paris FIR,-0.0
 2019-02-05,Switzerland FIR,0.0
-2019-02-06,European Airspace,2.14
+2019-02-06,European Airspace,2.03
 2019-02-06,Global,3.13
 2019-02-06,London FIR,0.16
 2019-02-06,Paris FIR,0.27
 2019-02-06,Switzerland FIR,0.01
-2019-02-07,European Airspace,2.1
+2019-02-07,European Airspace,2.03
 2019-02-07,Global,3.25
 2019-02-07,London FIR,0.05
 2019-02-07,Paris FIR,0.03
 2019-02-07,Switzerland FIR,0.03
-2019-02-08,European Airspace,1.89
+2019-02-08,European Airspace,1.66
 2019-02-08,Global,3.31
 2019-02-08,London FIR,0.08
 2019-02-08,Paris FIR,0.12
 2019-02-08,Switzerland FIR,0.02
-2019-02-09,European Airspace,2.65
+2019-02-09,European Airspace,2.13
 2019-02-09,Global,4.03
 2019-02-09,London FIR,0.03
 2019-02-09,Paris FIR,0.37
 2019-02-09,Switzerland FIR,0.06
-2019-02-10,European Airspace,1.86
+2019-02-10,European Airspace,1.57
 2019-02-10,Global,4.05
 2019-02-10,London FIR,0.0
 2019-02-10,Paris FIR,0.01
 2019-02-10,Switzerland FIR,0.01
-2019-02-11,European Airspace,1.33
+2019-02-11,European Airspace,0.94
 2019-02-11,Global,4.01
 2019-02-11,London FIR,0.05
 2019-02-11,Paris FIR,0.01
 2019-02-11,Switzerland FIR,-0.0
-2019-02-12,European Airspace,1.01
+2019-02-12,European Airspace,0.58
 2019-02-12,Global,2.97
 2019-02-12,London FIR,0.03
 2019-02-12,Paris FIR,0.01
 2019-02-12,Switzerland FIR,-0.0
-2019-02-13,European Airspace,1.22
+2019-02-13,European Airspace,0.94
 2019-02-13,Global,2.51
 2019-02-13,London FIR,0.06
 2019-02-13,Paris FIR,0.01
 2019-02-13,Switzerland FIR,0.0
-2019-02-14,European Airspace,0.93
+2019-02-14,European Airspace,0.75
 2019-02-14,Global,2.22
 2019-02-14,London FIR,0.0
 2019-02-14,Paris FIR,-0.0
 2019-02-14,Switzerland FIR,0.0
-2019-02-15,European Airspace,1.19
+2019-02-15,European Airspace,0.73
 2019-02-15,Global,2.82
 2019-02-15,London FIR,0.03
 2019-02-15,Paris FIR,-0.0
 2019-02-15,Switzerland FIR,-0.0
-2019-02-16,European Airspace,2.14
+2019-02-16,European Airspace,1.87
 2019-02-16,Global,3.68
 2019-02-16,London FIR,0.06
 2019-02-16,Paris FIR,0.41
 2019-02-16,Switzerland FIR,-0.0
-2019-02-17,European Airspace,1.61
+2019-02-17,European Airspace,1.3
 2019-02-17,Global,3.14
 2019-02-17,London FIR,0.18
 2019-02-17,Paris FIR,0.11
 2019-02-17,Switzerland FIR,-0.0
-2019-02-18,European Airspace,0.66
+2019-02-18,European Airspace,0.62
 2019-02-18,Global,1.47
 2019-02-18,London FIR,0.0
 2019-02-18,Paris FIR,0.01
 2019-02-18,Switzerland FIR,0.0
-2019-02-19,European Airspace,1.04
+2019-02-19,European Airspace,0.88
 2019-02-19,Global,1.83
 2019-02-19,London FIR,0.06
 2019-02-19,Paris FIR,0.07
 2019-02-19,Switzerland FIR,-0.0
-2019-02-20,European Airspace,0.74
+2019-02-20,European Airspace,0.6
 2019-02-20,Global,1.72
 2019-02-20,London FIR,0.01
 2019-02-20,Paris FIR,0.0
 2019-02-20,Switzerland FIR,0.0
-2019-02-21,European Airspace,0.4
+2019-02-21,European Airspace,0.39
 2019-02-21,Global,1.3
 2019-02-21,London FIR,0.01
 2019-02-21,Paris FIR,-0.0
 2019-02-21,Switzerland FIR,0.0
-2019-02-22,European Airspace,0.77
+2019-02-22,European Airspace,0.64
 2019-02-22,Global,1.6
 2019-02-22,London FIR,0.07
 2019-02-22,Paris FIR,0.0
 2019-02-22,Switzerland FIR,-0.0
-2019-02-23,European Airspace,0.56
+2019-02-23,European Airspace,0.38
 2019-02-23,Global,1.86
 2019-02-23,London FIR,-0.01
 2019-02-23,Paris FIR,0.0
 2019-02-23,Switzerland FIR,0.01
-2019-02-24,European Airspace,0.75
+2019-02-24,European Airspace,0.48
 2019-02-24,Global,2.06
 2019-02-24,London FIR,0.03
 2019-02-24,Paris FIR,0.0
 2019-02-24,Switzerland FIR,0.0
-2019-02-25,European Airspace,0.56
+2019-02-25,European Airspace,0.49
 2019-02-25,Global,2.09
 2019-02-25,London FIR,0.0
 2019-02-25,Paris FIR,0.0
 2019-02-25,Switzerland FIR,0.0
-2019-02-26,European Airspace,0.11
+2019-02-26,European Airspace,0.1
 2019-02-26,Global,1.45
 2019-02-26,London FIR,0.0
 2019-02-26,Paris FIR,-0.0
 2019-02-26,Switzerland FIR,0.0
-2019-02-27,European Airspace,0.32
+2019-02-27,European Airspace,0.25
 2019-02-27,Global,1.9
 2019-02-27,London FIR,0.0
 2019-02-27,Paris FIR,-0.0
 2019-02-27,Switzerland FIR,0.0
-2019-02-28,European Airspace,0.39
+2019-02-28,European Airspace,0.32
 2019-02-28,Global,1.48
 2019-02-28,London FIR,-0.0
 2019-02-28,Paris FIR,-0.0
 2019-02-28,Switzerland FIR,-0.0
-2019-03-01,European Airspace,0.56
+2019-03-01,European Airspace,0.51
 2019-03-01,Global,2.07
 2019-03-01,London FIR,0.02
 2019-03-01,Paris FIR,0.02
 2019-03-01,Switzerland FIR,-0.0
-2019-03-02,European Airspace,0.51
+2019-03-02,European Airspace,0.52
 2019-03-02,Global,1.96
 2019-03-02,London FIR,0.13
 2019-03-02,Paris FIR,0.05
 2019-03-02,Switzerland FIR,0.01
-2019-03-03,European Airspace,1.8
+2019-03-03,European Airspace,1.73
 2019-03-03,Global,2.97
 2019-03-03,London FIR,0.13
 2019-03-03,Paris FIR,0.14
 2019-03-03,Switzerland FIR,0.01
-2019-03-04,European Airspace,0.75
+2019-03-04,European Airspace,0.59
 2019-03-04,Global,1.69
 2019-03-04,London FIR,-0.01
 2019-03-04,Paris FIR,-0.0
 2019-03-04,Switzerland FIR,-0.0
-2019-03-05,European Airspace,1.4
+2019-03-05,European Airspace,1.03
 2019-03-05,Global,2.28
 2019-03-05,London FIR,0.07
 2019-03-05,Paris FIR,0.05
 2019-03-05,Switzerland FIR,0.0
-2019-03-06,European Airspace,1.44
+2019-03-06,European Airspace,1.42
 2019-03-06,Global,2.62
 2019-03-06,London FIR,0.03
 2019-03-06,Paris FIR,0.1
 2019-03-06,Switzerland FIR,0.05
-2019-03-07,European Airspace,0.86
+2019-03-07,European Airspace,0.65
 2019-03-07,Global,2.39
 2019-03-07,London FIR,0.0
 2019-03-07,Paris FIR,0.0
 2019-03-07,Switzerland FIR,0.0
-2019-03-08,European Airspace,1.21
+2019-03-08,European Airspace,0.73
 2019-03-08,Global,3.2
 2019-03-08,London FIR,0.0
 2019-03-08,Paris FIR,0.01
 2019-03-08,Switzerland FIR,0.0
-2019-03-09,European Airspace,1.77
+2019-03-09,European Airspace,1.63
 2019-03-09,Global,3.28
 2019-03-09,London FIR,0.03
 2019-03-09,Paris FIR,0.12
 2019-03-09,Switzerland FIR,0.01
-2019-03-10,European Airspace,0.51
+2019-03-10,European Airspace,0.41
 2019-03-10,Global,2.36
 2019-03-10,London FIR,0.0
 2019-03-10,Paris FIR,0.02
 2019-03-10,Switzerland FIR,0.0
-2019-03-11,European Airspace,0.55
+2019-03-11,European Airspace,0.54
 2019-03-11,Global,1.87
 2019-03-11,London FIR,0.02
 2019-03-11,Paris FIR,0.0
 2019-03-11,Switzerland FIR,-0.0
-2019-03-12,European Airspace,0.44
+2019-03-12,European Airspace,0.37
 2019-03-12,Global,1.8
 2019-03-12,London FIR,0.03
 2019-03-12,Paris FIR,-0.03
 2019-03-12,Switzerland FIR,0.01
-2019-03-13,European Airspace,0.73
+2019-03-13,European Airspace,0.64
 2019-03-13,Global,2.4
 2019-03-13,London FIR,0.02
 2019-03-13,Paris FIR,0.0
 2019-03-13,Switzerland FIR,0.0
-2019-03-14,European Airspace,1.05
+2019-03-14,European Airspace,0.78
 2019-03-14,Global,2.27
 2019-03-14,London FIR,0.1
 2019-03-14,Paris FIR,0.07
 2019-03-14,Switzerland FIR,-0.0
-2019-03-15,European Airspace,1.5
+2019-03-15,European Airspace,1.34
 2019-03-15,Global,2.63
 2019-03-15,London FIR,0.25
 2019-03-15,Paris FIR,0.14
@@ -374,27 +374,27 @@ date,region,contrail_ef_overlap_initial_loc
 2019-03-16,London FIR,0.14
 2019-03-16,Paris FIR,0.02
 2019-03-16,Switzerland FIR,-0.0
-2019-03-17,European Airspace,0.74
+2019-03-17,European Airspace,0.64
 2019-03-17,Global,2.36
 2019-03-17,London FIR,0.0
 2019-03-17,Paris FIR,0.01
 2019-03-17,Switzerland FIR,0.0
-2019-03-18,European Airspace,0.52
+2019-03-18,European Airspace,0.14
 2019-03-18,Global,1.55
 2019-03-18,London FIR,0.0
 2019-03-18,Paris FIR,-0.0
 2019-03-18,Switzerland FIR,0.0
-2019-03-19,European Airspace,0.38
+2019-03-19,European Airspace,0.26
 2019-03-19,Global,1.3
 2019-03-19,London FIR,0.01
 2019-03-19,Paris FIR,0.0
 2019-03-19,Switzerland FIR,0.0
-2019-03-20,European Airspace,0.66
+2019-03-20,European Airspace,0.64
 2019-03-20,Global,1.53
 2019-03-20,London FIR,0.13
 2019-03-20,Paris FIR,0.01
 2019-03-20,Switzerland FIR,0.0
-2019-03-21,European Airspace,0.37
+2019-03-21,European Airspace,0.38
 2019-03-21,Global,1.35
 2019-03-21,London FIR,0.05
 2019-03-21,Paris FIR,0.0
@@ -404,7 +404,7 @@ date,region,contrail_ef_overlap_initial_loc
 2019-03-22,London FIR,0.09
 2019-03-22,Paris FIR,-0.0
 2019-03-22,Switzerland FIR,0.01
-2019-03-23,European Airspace,0.78
+2019-03-23,European Airspace,0.65
 2019-03-23,Global,2.17
 2019-03-23,London FIR,0.12
 2019-03-23,Paris FIR,0.02
@@ -415,32 +415,32 @@ date,region,contrail_ef_overlap_initial_loc
 2019-03-24,Paris FIR,0.01
 2019-03-24,Switzerland FIR,-0.0
 2019-03-25,Global,0.0
-2019-03-26,European Airspace,0.4
+2019-03-26,European Airspace,0.39
 2019-03-26,Global,1.86
 2019-03-26,London FIR,-0.01
 2019-03-26,Paris FIR,0.0
 2019-03-26,Switzerland FIR,0.0
-2019-03-27,European Airspace,0.28
+2019-03-27,European Airspace,0.26
 2019-03-27,Global,1.96
 2019-03-27,London FIR,0.01
 2019-03-27,Paris FIR,0.0
 2019-03-27,Switzerland FIR,0.0
-2019-03-28,European Airspace,0.39
+2019-03-28,European Airspace,0.36
 2019-03-28,Global,1.96
 2019-03-28,London FIR,0.0
 2019-03-28,Paris FIR,-0.0
 2019-03-28,Switzerland FIR,0.0
-2019-03-29,European Airspace,0.97
+2019-03-29,European Airspace,0.78
 2019-03-29,Global,3.24
 2019-03-29,London FIR,0.0
 2019-03-29,Paris FIR,0.0
 2019-03-29,Switzerland FIR,0.0
-2019-03-30,European Airspace,0.55
+2019-03-30,European Airspace,0.42
 2019-03-30,Global,2.3
 2019-03-30,London FIR,0.0
 2019-03-30,Paris FIR,-0.0
 2019-03-30,Switzerland FIR,-0.0
-2019-03-31,European Airspace,0.04
+2019-03-31,European Airspace,0.05
 2019-03-31,Global,2.05
 2019-03-31,London FIR,-0.01
 2019-03-31,Paris FIR,-0.01
@@ -455,22 +455,22 @@ date,region,contrail_ef_overlap_initial_loc
 2019-04-02,London FIR,-0.01
 2019-04-02,Paris FIR,-0.0
 2019-04-02,Switzerland FIR,0.0
-2019-04-03,European Airspace,0.25
+2019-04-03,European Airspace,0.2
 2019-04-03,Global,1.89
 2019-04-03,London FIR,0.0
 2019-04-03,Paris FIR,-0.0
 2019-04-03,Switzerland FIR,-0.0
-2019-04-04,European Airspace,0.13
+2019-04-04,European Airspace,0.06
 2019-04-04,Global,1.69
 2019-04-04,London FIR,-0.0
 2019-04-04,Paris FIR,0.0
 2019-04-04,Switzerland FIR,0.0
-2019-04-05,European Airspace,0.34
+2019-04-05,European Airspace,0.33
 2019-04-05,Global,2.34
 2019-04-05,London FIR,0.04
 2019-04-05,Paris FIR,0.01
 2019-04-05,Switzerland FIR,0.0
-2019-04-06,European Airspace,0.43
+2019-04-06,European Airspace,0.44
 2019-04-06,Global,2.41
 2019-04-06,London FIR,0.07
 2019-04-06,Paris FIR,0.0
@@ -480,52 +480,52 @@ date,region,contrail_ef_overlap_initial_loc
 2019-04-07,London FIR,0.03
 2019-04-07,Paris FIR,-0.01
 2019-04-07,Switzerland FIR,-0.0
-2019-04-08,European Airspace,0.45
+2019-04-08,European Airspace,0.37
 2019-04-08,Global,1.99
 2019-04-08,London FIR,0.0
 2019-04-08,Paris FIR,0.01
 2019-04-08,Switzerland FIR,0.0
-2019-04-09,European Airspace,0.35
+2019-04-09,European Airspace,0.25
 2019-04-09,Global,1.57
 2019-04-09,London FIR,0.01
 2019-04-09,Paris FIR,-0.0
 2019-04-09,Switzerland FIR,-0.0
-2019-04-10,European Airspace,0.31
+2019-04-10,European Airspace,0.21
 2019-04-10,Global,1.5
 2019-04-10,London FIR,-0.0
 2019-04-10,Paris FIR,0.0
 2019-04-10,Switzerland FIR,0.0
-2019-04-11,European Airspace,0.45
+2019-04-11,European Airspace,0.39
 2019-04-11,Global,1.56
 2019-04-11,London FIR,0.0
 2019-04-11,Paris FIR,0.0
 2019-04-11,Switzerland FIR,0.0
-2019-04-12,European Airspace,0.48
+2019-04-12,European Airspace,0.32
 2019-04-12,Global,2.27
 2019-04-12,London FIR,0.0
 2019-04-12,Paris FIR,-0.0
 2019-04-12,Switzerland FIR,0.0
-2019-04-13,European Airspace,0.34
+2019-04-13,European Airspace,0.3
 2019-04-13,Global,1.53
 2019-04-13,London FIR,0.0
 2019-04-13,Paris FIR,0.0
 2019-04-13,Switzerland FIR,0.0
-2019-04-14,European Airspace,0.42
+2019-04-14,European Airspace,0.37
 2019-04-14,Global,1.78
 2019-04-14,London FIR,-0.0
 2019-04-14,Paris FIR,0.0
 2019-04-14,Switzerland FIR,0.0
-2019-04-15,European Airspace,0.11
+2019-04-15,European Airspace,0.05
 2019-04-15,Global,1.08
 2019-04-15,London FIR,0.05
 2019-04-15,Paris FIR,0.07
 2019-04-15,Switzerland FIR,0.0
-2019-04-16,European Airspace,0.65
+2019-04-16,European Airspace,0.52
 2019-04-16,Global,1.94
 2019-04-16,London FIR,-0.03
 2019-04-16,Paris FIR,0.07
 2019-04-16,Switzerland FIR,0.01
-2019-04-17,European Airspace,0.44
+2019-04-17,European Airspace,0.36
 2019-04-17,Global,1.54
 2019-04-17,London FIR,0.02
 2019-04-17,Paris FIR,0.04
@@ -535,92 +535,92 @@ date,region,contrail_ef_overlap_initial_loc
 2019-04-18,London FIR,-0.07
 2019-04-18,Paris FIR,-0.02
 2019-04-18,Switzerland FIR,0.0
-2019-04-19,European Airspace,0.12
+2019-04-19,European Airspace,0.02
 2019-04-19,Global,1.06
 2019-04-19,London FIR,0.0
 2019-04-19,Paris FIR,-0.0
 2019-04-19,Switzerland FIR,0.0
-2019-04-20,European Airspace,0.18
+2019-04-20,European Airspace,0.17
 2019-04-20,Global,1.1
 2019-04-20,London FIR,0.0
 2019-04-20,Paris FIR,0.0
 2019-04-20,Switzerland FIR,0.0
-2019-04-21,European Airspace,0.44
+2019-04-21,European Airspace,0.41
 2019-04-21,Global,1.63
 2019-04-21,London FIR,-0.02
 2019-04-21,Paris FIR,0.03
 2019-04-21,Switzerland FIR,0.0
-2019-04-22,European Airspace,0.34
+2019-04-22,European Airspace,0.27
 2019-04-22,Global,1.45
 2019-04-22,London FIR,0.01
 2019-04-22,Paris FIR,0.02
 2019-04-22,Switzerland FIR,-0.0
-2019-04-23,European Airspace,0.59
+2019-04-23,European Airspace,0.4
 2019-04-23,Global,1.84
 2019-04-23,London FIR,-0.0
 2019-04-23,Paris FIR,-0.05
 2019-04-23,Switzerland FIR,-0.0
-2019-04-24,European Airspace,0.29
+2019-04-24,European Airspace,0.28
 2019-04-24,Global,1.18
 2019-04-24,London FIR,-0.02
 2019-04-24,Paris FIR,0.0
 2019-04-24,Switzerland FIR,-0.0
-2019-04-25,European Airspace,0.37
+2019-04-25,European Airspace,0.34
 2019-04-25,Global,1.12
 2019-04-25,London FIR,-0.0
 2019-04-25,Paris FIR,-0.0
 2019-04-25,Switzerland FIR,0.0
-2019-04-26,European Airspace,0.55
+2019-04-26,European Airspace,0.44
 2019-04-26,Global,1.58
 2019-04-26,London FIR,0.0
 2019-04-26,Paris FIR,0.01
 2019-04-26,Switzerland FIR,0.0
-2019-04-27,European Airspace,0.39
+2019-04-27,European Airspace,0.32
 2019-04-27,Global,1.24
 2019-04-27,London FIR,0.0
 2019-04-27,Paris FIR,0.0
 2019-04-27,Switzerland FIR,0.0
-2019-04-28,European Airspace,0.63
+2019-04-28,European Airspace,0.6
 2019-04-28,Global,1.53
 2019-04-28,London FIR,0.03
 2019-04-28,Paris FIR,0.0
 2019-04-28,Switzerland FIR,0.0
-2019-04-29,European Airspace,0.43
+2019-04-29,European Airspace,0.3
 2019-04-29,Global,1.48
 2019-04-29,London FIR,0.0
 2019-04-29,Paris FIR,0.0
 2019-04-29,Switzerland FIR,0.0
-2019-04-30,European Airspace,0.41
+2019-04-30,European Airspace,0.3
 2019-04-30,Global,2.09
 2019-04-30,London FIR,0.02
 2019-04-30,Paris FIR,0.0
 2019-04-30,Switzerland FIR,0.0
-2019-05-01,European Airspace,0.7
+2019-05-01,European Airspace,0.33
 2019-05-01,Global,2.02
 2019-05-01,London FIR,-0.0
 2019-05-01,Paris FIR,0.03
 2019-05-01,Switzerland FIR,0.0
-2019-05-02,European Airspace,0.41
+2019-05-02,European Airspace,0.37
 2019-05-02,Global,1.78
 2019-05-02,London FIR,-0.0
 2019-05-02,Paris FIR,-0.0
 2019-05-02,Switzerland FIR,-0.0
-2019-05-03,European Airspace,0.35
+2019-05-03,European Airspace,0.34
 2019-05-03,Global,2.1
 2019-05-03,London FIR,0.0
 2019-05-03,Paris FIR,0.0
 2019-05-03,Switzerland FIR,0.0
-2019-05-04,European Airspace,0.51
+2019-05-04,European Airspace,0.48
 2019-05-04,Global,2.07
 2019-05-04,London FIR,-0.0
 2019-05-04,Paris FIR,0.0
 2019-05-04,Switzerland FIR,-0.0
-2019-05-05,European Airspace,0.33
+2019-05-05,European Airspace,0.3
 2019-05-05,Global,1.72
 2019-05-05,London FIR,0.0
 2019-05-05,Paris FIR,0.0
 2019-05-05,Switzerland FIR,-0.0
-2019-05-06,European Airspace,0.32
+2019-05-06,European Airspace,0.2
 2019-05-06,Global,1.34
 2019-05-06,London FIR,0.0
 2019-05-06,Paris FIR,0.04
@@ -630,133 +630,133 @@ date,region,contrail_ef_overlap_initial_loc
 2019-05-07,London FIR,0.02
 2019-05-07,Paris FIR,0.02
 2019-05-07,Switzerland FIR,0.0
-2019-05-08,European Airspace,0.92
+2019-05-08,European Airspace,0.88
 2019-05-08,Global,2.13
 2019-05-08,London FIR,0.0
 2019-05-08,Paris FIR,0.0
 2019-05-08,Switzerland FIR,0.01
 2019-05-09,Global,0.0
-2019-05-10,European Airspace,0.24
+2019-05-10,European Airspace,0.14
 2019-05-10,Global,1.32
 2019-05-10,London FIR,0.0
 2019-05-10,Paris FIR,0.03
 2019-05-10,Switzerland FIR,0.0
-2019-05-11,European Airspace,0.28
+2019-05-11,European Airspace,0.27
 2019-05-11,Global,1.4
 2019-05-11,London FIR,0.0
 2019-05-11,Paris FIR,-0.0
 2019-05-11,Switzerland FIR,0.0
-2019-05-12,European Airspace,0.6
+2019-05-12,European Airspace,0.48
 2019-05-12,Global,1.38
 2019-05-12,London FIR,0.02
 2019-05-12,Paris FIR,0.0
 2019-05-12,Switzerland FIR,0.0
-2019-05-13,European Airspace,0.09
+2019-05-13,European Airspace,0.02
 2019-05-13,Global,0.91
 2019-05-13,London FIR,-0.02
 2019-05-13,Paris FIR,-0.0
 2019-05-13,Switzerland FIR,0.0
-2019-05-14,European Airspace,0.18
+2019-05-14,European Airspace,0.11
 2019-05-14,Global,1.04
 2019-05-14,London FIR,-0.03
 2019-05-14,Paris FIR,-0.0
 2019-05-14,Switzerland FIR,0.0
-2019-05-15,European Airspace,0.24
+2019-05-15,European Airspace,0.17
 2019-05-15,Global,1.31
 2019-05-15,London FIR,-0.03
 2019-05-15,Paris FIR,0.01
 2019-05-15,Switzerland FIR,0.0
-2019-05-16,European Airspace,0.12
+2019-05-16,European Airspace,0.07
 2019-05-16,Global,1.27
 2019-05-16,London FIR,-0.02
 2019-05-16,Paris FIR,0.0
 2019-05-16,Switzerland FIR,0.0
-2019-05-17,European Airspace,0.52
+2019-05-17,European Airspace,0.37
 2019-05-17,Global,1.69
 2019-05-17,London FIR,0.01
 2019-05-17,Paris FIR,0.02
 2019-05-17,Switzerland FIR,0.0
-2019-05-18,European Airspace,0.42
+2019-05-18,European Airspace,0.39
 2019-05-18,Global,1.47
 2019-05-18,London FIR,0.0
 2019-05-18,Paris FIR,0.01
 2019-05-18,Switzerland FIR,-0.0
-2019-05-19,European Airspace,0.35
+2019-05-19,European Airspace,0.27
 2019-05-19,Global,1.42
 2019-05-19,London FIR,-0.01
 2019-05-19,Paris FIR,0.0
 2019-05-19,Switzerland FIR,0.0
-2019-05-20,European Airspace,0.31
+2019-05-20,European Airspace,0.27
 2019-05-20,Global,1.12
 2019-05-20,London FIR,-0.0
 2019-05-20,Paris FIR,0.0
 2019-05-20,Switzerland FIR,0.01
-2019-05-21,European Airspace,0.73
+2019-05-21,European Airspace,0.4
 2019-05-21,Global,1.5
 2019-05-21,London FIR,0.01
 2019-05-21,Paris FIR,0.0
 2019-05-21,Switzerland FIR,0.01
-2019-05-22,European Airspace,0.52
+2019-05-22,European Airspace,0.41
 2019-05-22,Global,1.47
 2019-05-22,London FIR,-0.07
 2019-05-22,Paris FIR,0.02
 2019-05-22,Switzerland FIR,0.0
-2019-05-23,European Airspace,0.7
+2019-05-23,European Airspace,0.54
 2019-05-23,Global,1.72
 2019-05-23,London FIR,-0.0
 2019-05-23,Paris FIR,0.0
 2019-05-23,Switzerland FIR,0.02
-2019-05-24,European Airspace,0.77
+2019-05-24,European Airspace,0.57
 2019-05-24,Global,1.52
 2019-05-24,London FIR,-0.0
 2019-05-24,Paris FIR,0.0
 2019-05-24,Switzerland FIR,0.0
-2019-05-25,European Airspace,0.54
+2019-05-25,European Airspace,0.33
 2019-05-25,Global,1.44
 2019-05-25,London FIR,0.01
 2019-05-25,Paris FIR,0.0
 2019-05-25,Switzerland FIR,-0.0
-2019-05-26,European Airspace,1.01
+2019-05-26,European Airspace,0.91
 2019-05-26,Global,1.8
 2019-05-26,London FIR,0.04
 2019-05-26,Paris FIR,0.05
 2019-05-26,Switzerland FIR,0.0
-2019-05-27,European Airspace,1.0
+2019-05-27,European Airspace,0.93
 2019-05-27,Global,2.0
 2019-05-27,London FIR,-0.02
 2019-05-27,Paris FIR,0.04
 2019-05-27,Switzerland FIR,0.06
-2019-05-28,European Airspace,0.51
+2019-05-28,European Airspace,0.34
 2019-05-28,Global,1.31
 2019-05-28,London FIR,0.0
 2019-05-28,Paris FIR,0.0
 2019-05-28,Switzerland FIR,0.0
-2019-05-29,European Airspace,0.87
+2019-05-29,European Airspace,0.85
 2019-05-29,Global,1.71
 2019-05-29,London FIR,0.15
 2019-05-29,Paris FIR,0.03
 2019-05-29,Switzerland FIR,0.0
-2019-05-30,European Airspace,0.74
+2019-05-30,European Airspace,0.7
 2019-05-30,Global,1.54
 2019-05-30,London FIR,0.11
 2019-05-30,Paris FIR,0.02
 2019-05-30,Switzerland FIR,0.0
-2019-05-31,European Airspace,0.59
+2019-05-31,European Airspace,0.56
 2019-05-31,Global,1.42
 2019-05-31,London FIR,0.09
 2019-05-31,Paris FIR,0.02
 2019-05-31,Switzerland FIR,0.0
-2019-06-01,European Airspace,0.29
+2019-06-01,European Airspace,0.3
 2019-06-01,Global,1.21
 2019-06-01,London FIR,-0.02
 2019-06-01,Paris FIR,0.01
 2019-06-01,Switzerland FIR,0.01
-2019-06-02,European Airspace,0.06
+2019-06-02,European Airspace,0.02
 2019-06-02,Global,0.99
 2019-06-02,London FIR,-0.14
 2019-06-02,Paris FIR,0.03
 2019-06-02,Switzerland FIR,-0.0
-2019-06-03,European Airspace,0.18
+2019-06-03,European Airspace,0.15
 2019-06-03,Global,1.18
 2019-06-03,London FIR,0.0
 2019-06-03,Paris FIR,-0.0
@@ -766,32 +766,32 @@ date,region,contrail_ef_overlap_initial_loc
 2019-06-04,London FIR,-0.0
 2019-06-04,Paris FIR,0.1
 2019-06-04,Switzerland FIR,0.0
-2019-06-05,European Airspace,0.13
+2019-06-05,European Airspace,0.09
 2019-06-05,Global,1.17
 2019-06-05,London FIR,-0.0
 2019-06-05,Paris FIR,0.0
 2019-06-05,Switzerland FIR,0.0
-2019-06-06,European Airspace,0.08
+2019-06-06,European Airspace,0.09
 2019-06-06,Global,1.31
 2019-06-06,London FIR,0.0
 2019-06-06,Paris FIR,0.01
 2019-06-06,Switzerland FIR,0.0
-2019-06-07,European Airspace,0.02
+2019-06-07,European Airspace,-0.04
 2019-06-07,Global,1.45
 2019-06-07,London FIR,-0.01
 2019-06-07,Paris FIR,-0.0
 2019-06-07,Switzerland FIR,-0.0
-2019-06-08,European Airspace,0.19
+2019-06-08,European Airspace,0.07
 2019-06-08,Global,1.31
 2019-06-08,London FIR,0.0
 2019-06-08,Paris FIR,0.02
 2019-06-08,Switzerland FIR,-0.0
-2019-06-09,European Airspace,0.34
+2019-06-09,European Airspace,0.28
 2019-06-09,Global,1.53
 2019-06-09,London FIR,-0.0
 2019-06-09,Paris FIR,0.0
 2019-06-09,Switzerland FIR,-0.0
-2019-06-10,European Airspace,0.26
+2019-06-10,European Airspace,0.22
 2019-06-10,Global,1.48
 2019-06-10,London FIR,-0.0
 2019-06-10,Paris FIR,0.0
@@ -801,78 +801,78 @@ date,region,contrail_ef_overlap_initial_loc
 2019-06-11,London FIR,0.0
 2019-06-11,Paris FIR,-0.0
 2019-06-11,Switzerland FIR,0.0
-2019-06-12,European Airspace,0.18
+2019-06-12,European Airspace,0.16
 2019-06-12,Global,1.14
 2019-06-12,London FIR,0.0
 2019-06-12,Paris FIR,0.0
 2019-06-12,Switzerland FIR,0.0
-2019-06-13,European Airspace,0.23
+2019-06-13,European Airspace,0.12
 2019-06-13,Global,1.31
 2019-06-13,London FIR,0.0
 2019-06-13,Paris FIR,0.0
 2019-06-13,Switzerland FIR,0.0
-2019-06-14,European Airspace,0.19
+2019-06-14,European Airspace,0.16
 2019-06-14,Global,1.23
 2019-06-14,London FIR,0.0
 2019-06-14,Paris FIR,0.0
 2019-06-14,Switzerland FIR,-0.01
-2019-06-15,European Airspace,0.21
+2019-06-15,European Airspace,0.18
 2019-06-15,Global,1.35
 2019-06-15,London FIR,-0.0
 2019-06-15,Paris FIR,0.0
 2019-06-15,Switzerland FIR,-0.0
-2019-06-16,European Airspace,0.27
+2019-06-16,European Airspace,0.25
 2019-06-16,Global,1.33
 2019-06-16,London FIR,0.0
 2019-06-16,Paris FIR,0.0
 2019-06-16,Switzerland FIR,0.0
-2019-06-17,European Airspace,0.64
+2019-06-17,European Airspace,0.59
 2019-06-17,Global,1.97
 2019-06-17,London FIR,0.0
 2019-06-17,Paris FIR,0.05
 2019-06-17,Switzerland FIR,0.0
-2019-06-18,European Airspace,0.33
+2019-06-18,European Airspace,0.32
 2019-06-18,Global,1.47
 2019-06-18,London FIR,-0.03
 2019-06-18,Paris FIR,-0.01
 2019-06-18,Switzerland FIR,-0.0
-2019-06-19,European Airspace,0.37
+2019-06-19,European Airspace,0.32
 2019-06-19,Global,1.54
 2019-06-19,London FIR,0.0
 2019-06-19,Paris FIR,0.0
 2019-06-19,Switzerland FIR,0.02
 2019-06-20,Global,0.0
-2019-06-21,European Airspace,0.35
+2019-06-21,European Airspace,0.23
 2019-06-21,Global,1.15
 2019-06-21,London FIR,0.0
 2019-06-21,Paris FIR,0.01
 2019-06-21,Switzerland FIR,0.01
-2019-06-22,European Airspace,0.74
+2019-06-22,European Airspace,0.71
 2019-06-22,Global,1.56
 2019-06-22,London FIR,0.04
 2019-06-22,Paris FIR,0.0
 2019-06-22,Switzerland FIR,-0.0
-2019-06-23,European Airspace,0.92
+2019-06-23,European Airspace,0.82
 2019-06-23,Global,1.76
 2019-06-23,London FIR,-0.02
 2019-06-23,Paris FIR,0.09
 2019-06-23,Switzerland FIR,0.0
-2019-06-24,European Airspace,0.67
+2019-06-24,European Airspace,0.6
 2019-06-24,Global,1.59
 2019-06-24,London FIR,-0.04
 2019-06-24,Paris FIR,0.08
 2019-06-24,Switzerland FIR,0.02
-2019-06-25,European Airspace,0.55
+2019-06-25,European Airspace,0.39
 2019-06-25,Global,1.38
 2019-06-25,London FIR,-0.01
 2019-06-25,Paris FIR,0.0
 2019-06-25,Switzerland FIR,0.0
-2019-06-26,European Airspace,0.13
+2019-06-26,European Airspace,0.05
 2019-06-26,Global,1.09
 2019-06-26,London FIR,-0.0
 2019-06-26,Paris FIR,0.0
 2019-06-26,Switzerland FIR,-0.0
-2019-06-27,European Airspace,0.11
+2019-06-27,European Airspace,0.04
 2019-06-27,Global,1.39
 2019-06-27,London FIR,-0.0
 2019-06-27,Paris FIR,0.0
@@ -893,7 +893,7 @@ date,region,contrail_ef_overlap_initial_loc
 2019-06-30,Paris FIR,0.0
 2019-06-30,Switzerland FIR,0.0
 2019-07-01,Global,0.0
-2019-07-02,European Airspace,0.09
+2019-07-02,European Airspace,0.07
 2019-07-02,Global,1.07
 2019-07-02,London FIR,0.0
 2019-07-02,Paris FIR,0.0
@@ -908,37 +908,37 @@ date,region,contrail_ef_overlap_initial_loc
 2019-07-04,London FIR,-0.0
 2019-07-04,Paris FIR,0.0
 2019-07-04,Switzerland FIR,0.0
-2019-07-05,European Airspace,0.12
+2019-07-05,European Airspace,0.09
 2019-07-05,Global,0.88
 2019-07-05,London FIR,-0.0
 2019-07-05,Paris FIR,-0.0
 2019-07-05,Switzerland FIR,0.0
-2019-07-06,European Airspace,0.14
+2019-07-06,European Airspace,0.15
 2019-07-06,Global,0.98
 2019-07-06,London FIR,0.0
 2019-07-06,Paris FIR,0.0
 2019-07-06,Switzerland FIR,-0.0
-2019-07-07,European Airspace,0.45
+2019-07-07,European Airspace,0.44
 2019-07-07,Global,1.4
 2019-07-07,London FIR,0.04
 2019-07-07,Paris FIR,0.02
 2019-07-07,Switzerland FIR,0.0
-2019-07-08,European Airspace,0.41
+2019-07-08,European Airspace,0.37
 2019-07-08,Global,1.29
 2019-07-08,London FIR,0.06
 2019-07-08,Paris FIR,0.01
 2019-07-08,Switzerland FIR,0.01
-2019-07-09,European Airspace,0.24
+2019-07-09,European Airspace,0.23
 2019-07-09,Global,1.09
 2019-07-09,London FIR,0.06
 2019-07-09,Paris FIR,-0.0
 2019-07-09,Switzerland FIR,0.0
-2019-07-10,European Airspace,0.23
+2019-07-10,European Airspace,0.2
 2019-07-10,Global,0.94
 2019-07-10,London FIR,0.0
 2019-07-10,Paris FIR,0.03
 2019-07-10,Switzerland FIR,0.0
-2019-07-11,European Airspace,0.11
+2019-07-11,European Airspace,0.05
 2019-07-11,Global,0.95
 2019-07-11,London FIR,0.0
 2019-07-11,Paris FIR,-0.0
@@ -948,7 +948,7 @@ date,region,contrail_ef_overlap_initial_loc
 2019-07-12,London FIR,0.01
 2019-07-12,Paris FIR,0.0
 2019-07-12,Switzerland FIR,-0.0
-2019-07-13,European Airspace,0.3
+2019-07-13,European Airspace,0.31
 2019-07-13,Global,1.05
 2019-07-13,London FIR,0.03
 2019-07-13,Paris FIR,0.01
@@ -958,22 +958,22 @@ date,region,contrail_ef_overlap_initial_loc
 2019-07-14,London FIR,0.0
 2019-07-14,Paris FIR,0.0
 2019-07-14,Switzerland FIR,0.0
-2019-07-15,European Airspace,0.31
+2019-07-15,European Airspace,0.25
 2019-07-15,Global,1.14
 2019-07-15,London FIR,0.03
 2019-07-15,Paris FIR,-0.0
 2019-07-15,Switzerland FIR,0.0
-2019-07-16,European Airspace,0.41
+2019-07-16,European Airspace,0.37
 2019-07-16,Global,1.48
 2019-07-16,London FIR,0.01
 2019-07-16,Paris FIR,-0.0
 2019-07-16,Switzerland FIR,0.02
-2019-07-17,European Airspace,0.67
+2019-07-17,European Airspace,0.64
 2019-07-17,Global,1.52
 2019-07-17,London FIR,-0.03
 2019-07-17,Paris FIR,0.05
 2019-07-17,Switzerland FIR,0.01
-2019-07-18,European Airspace,0.7
+2019-07-18,European Airspace,0.69
 2019-07-18,Global,1.5
 2019-07-18,London FIR,0.06
 2019-07-18,Paris FIR,0.1
@@ -988,42 +988,42 @@ date,region,contrail_ef_overlap_initial_loc
 2019-07-20,London FIR,0.0
 2019-07-20,Paris FIR,0.05
 2019-07-20,Switzerland FIR,0.05
-2019-07-21,European Airspace,0.54
+2019-07-21,European Airspace,0.53
 2019-07-21,Global,1.18
 2019-07-21,London FIR,0.01
 2019-07-21,Paris FIR,0.03
 2019-07-21,Switzerland FIR,0.0
-2019-07-22,European Airspace,0.35
+2019-07-22,European Airspace,0.29
 2019-07-22,Global,1.1
 2019-07-22,London FIR,0.0
 2019-07-22,Paris FIR,0.02
 2019-07-22,Switzerland FIR,0.02
-2019-07-23,European Airspace,0.14
+2019-07-23,European Airspace,0.08
 2019-07-23,Global,0.87
 2019-07-23,London FIR,0.0
 2019-07-23,Paris FIR,0.0
 2019-07-23,Switzerland FIR,0.0
-2019-07-24,European Airspace,0.11
+2019-07-24,European Airspace,0.08
 2019-07-24,Global,1.01
 2019-07-24,London FIR,0.03
 2019-07-24,Paris FIR,-0.0
 2019-07-24,Switzerland FIR,0.01
-2019-07-25,European Airspace,0.18
+2019-07-25,European Airspace,0.14
 2019-07-25,Global,1.05
 2019-07-25,London FIR,0.0
 2019-07-25,Paris FIR,0.0
 2019-07-25,Switzerland FIR,0.02
-2019-07-26,European Airspace,0.17
+2019-07-26,European Airspace,0.12
 2019-07-26,Global,1.0
 2019-07-26,London FIR,0.01
 2019-07-26,Paris FIR,0.02
 2019-07-26,Switzerland FIR,0.01
-2019-07-27,European Airspace,0.11
+2019-07-27,European Airspace,0.07
 2019-07-27,Global,0.88
 2019-07-27,London FIR,0.01
 2019-07-27,Paris FIR,0.0
 2019-07-27,Switzerland FIR,0.01
-2019-07-28,European Airspace,0.28
+2019-07-28,European Airspace,0.26
 2019-07-28,Global,1.69
 2019-07-28,London FIR,0.01
 2019-07-28,Paris FIR,0.01
@@ -1033,62 +1033,62 @@ date,region,contrail_ef_overlap_initial_loc
 2019-07-29,London FIR,0.0
 2019-07-29,Paris FIR,0.0
 2019-07-29,Switzerland FIR,0.0
-2019-07-30,European Airspace,0.12
+2019-07-30,European Airspace,0.07
 2019-07-30,Global,1.04
 2019-07-30,London FIR,0.0
 2019-07-30,Paris FIR,0.0
 2019-07-30,Switzerland FIR,0.0
-2019-07-31,European Airspace,0.15
+2019-07-31,European Airspace,0.13
 2019-07-31,Global,1.09
 2019-07-31,London FIR,0.0
 2019-07-31,Paris FIR,0.0
 2019-07-31,Switzerland FIR,0.0
-2019-08-01,European Airspace,0.12
+2019-08-01,European Airspace,0.11
 2019-08-01,Global,1.14
 2019-08-01,London FIR,0.0
 2019-08-01,Paris FIR,0.02
 2019-08-01,Switzerland FIR,0.0
-2019-08-02,European Airspace,0.14
+2019-08-02,European Airspace,0.1
 2019-08-02,Global,1.19
 2019-08-02,London FIR,-0.0
 2019-08-02,Paris FIR,0.0
 2019-08-02,Switzerland FIR,0.0
-2019-08-03,European Airspace,0.13
+2019-08-03,European Airspace,0.12
 2019-08-03,Global,1.28
 2019-08-03,London FIR,0.01
 2019-08-03,Paris FIR,-0.01
 2019-08-03,Switzerland FIR,0.01
-2019-08-04,European Airspace,0.27
+2019-08-04,European Airspace,0.26
 2019-08-04,Global,1.67
 2019-08-04,London FIR,-0.05
 2019-08-04,Paris FIR,0.01
 2019-08-04,Switzerland FIR,0.01
-2019-08-05,European Airspace,0.62
+2019-08-05,European Airspace,0.59
 2019-08-05,Global,1.8
 2019-08-05,London FIR,0.02
 2019-08-05,Paris FIR,0.1
 2019-08-05,Switzerland FIR,0.0
-2019-08-06,European Airspace,0.7
+2019-08-06,European Airspace,0.69
 2019-08-06,Global,1.77
 2019-08-06,London FIR,0.0
 2019-08-06,Paris FIR,0.05
 2019-08-06,Switzerland FIR,0.02
-2019-08-07,European Airspace,0.81
+2019-08-07,European Airspace,0.74
 2019-08-07,Global,1.99
 2019-08-07,London FIR,0.0
 2019-08-07,Paris FIR,0.03
 2019-08-07,Switzerland FIR,0.0
-2019-08-08,European Airspace,0.67
+2019-08-08,European Airspace,0.55
 2019-08-08,Global,1.71
 2019-08-08,London FIR,0.05
 2019-08-08,Paris FIR,0.01
 2019-08-08,Switzerland FIR,0.0
-2019-08-09,European Airspace,0.24
+2019-08-09,European Airspace,0.21
 2019-08-09,Global,1.45
 2019-08-09,London FIR,0.01
 2019-08-09,Paris FIR,-0.02
 2019-08-09,Switzerland FIR,0.01
-2019-08-10,European Airspace,0.16
+2019-08-10,European Airspace,0.15
 2019-08-10,Global,1.12
 2019-08-10,London FIR,0.0
 2019-08-10,Paris FIR,0.0
@@ -1098,27 +1098,27 @@ date,region,contrail_ef_overlap_initial_loc
 2019-08-11,London FIR,0.0
 2019-08-11,Paris FIR,-0.0
 2019-08-11,Switzerland FIR,0.01
-2019-08-12,European Airspace,0.21
+2019-08-12,European Airspace,0.2
 2019-08-12,Global,1.38
 2019-08-12,London FIR,0.0
 2019-08-12,Paris FIR,-0.0
 2019-08-12,Switzerland FIR,0.0
-2019-08-13,European Airspace,0.25
+2019-08-13,European Airspace,0.2
 2019-08-13,Global,1.11
 2019-08-13,London FIR,0.0
 2019-08-13,Paris FIR,0.0
 2019-08-13,Switzerland FIR,-0.0
-2019-08-14,European Airspace,0.27
+2019-08-14,European Airspace,0.17
 2019-08-14,Global,1.01
 2019-08-14,London FIR,0.01
 2019-08-14,Paris FIR,0.01
 2019-08-14,Switzerland FIR,-0.0
-2019-08-15,European Airspace,0.24
+2019-08-15,European Airspace,0.16
 2019-08-15,Global,1.42
 2019-08-15,London FIR,0.02
 2019-08-15,Paris FIR,0.01
 2019-08-15,Switzerland FIR,0.0
-2019-08-16,European Airspace,0.26
+2019-08-16,European Airspace,0.24
 2019-08-16,Global,1.36
 2019-08-16,London FIR,-0.0
 2019-08-16,Paris FIR,-0.01
@@ -1128,7 +1128,7 @@ date,region,contrail_ef_overlap_initial_loc
 2019-08-17,London FIR,0.0
 2019-08-17,Paris FIR,0.07
 2019-08-17,Switzerland FIR,0.01
-2019-08-18,European Airspace,0.06
+2019-08-18,European Airspace,0.05
 2019-08-18,Global,1.19
 2019-08-18,London FIR,0.0
 2019-08-18,Paris FIR,-0.0
@@ -1138,67 +1138,67 @@ date,region,contrail_ef_overlap_initial_loc
 2019-08-19,London FIR,0.0
 2019-08-19,Paris FIR,0.01
 2019-08-19,Switzerland FIR,0.01
-2019-08-20,European Airspace,0.44
+2019-08-20,European Airspace,0.39
 2019-08-20,Global,1.43
 2019-08-20,London FIR,0.0
 2019-08-20,Paris FIR,-0.01
 2019-08-20,Switzerland FIR,0.02
-2019-08-21,European Airspace,0.44
+2019-08-21,European Airspace,0.38
 2019-08-21,Global,1.41
 2019-08-21,London FIR,0.04
 2019-08-21,Paris FIR,-0.0
 2019-08-21,Switzerland FIR,0.02
-2019-08-22,European Airspace,0.58
+2019-08-22,European Airspace,0.43
 2019-08-22,Global,1.78
 2019-08-22,London FIR,0.09
 2019-08-22,Paris FIR,-0.0
 2019-08-22,Switzerland FIR,0.0
-2019-08-23,European Airspace,0.72
+2019-08-23,European Airspace,0.48
 2019-08-23,Global,2.09
 2019-08-23,London FIR,0.02
 2019-08-23,Paris FIR,-0.0
 2019-08-23,Switzerland FIR,-0.0
-2019-08-24,European Airspace,0.25
+2019-08-24,European Airspace,0.19
 2019-08-24,Global,1.75
 2019-08-24,London FIR,-0.02
 2019-08-24,Paris FIR,0.02
 2019-08-24,Switzerland FIR,0.0
-2019-08-25,European Airspace,0.33
+2019-08-25,European Airspace,0.28
 2019-08-25,Global,1.53
 2019-08-25,London FIR,0.0
 2019-08-25,Paris FIR,0.0
 2019-08-25,Switzerland FIR,-0.0
-2019-08-26,European Airspace,0.33
+2019-08-26,European Airspace,0.25
 2019-08-26,Global,1.48
 2019-08-26,London FIR,-0.0
 2019-08-26,Paris FIR,0.0
 2019-08-26,Switzerland FIR,0.0
-2019-08-27,European Airspace,0.28
+2019-08-27,European Airspace,0.27
 2019-08-27,Global,1.51
 2019-08-27,London FIR,0.01
 2019-08-27,Paris FIR,-0.01
 2019-08-27,Switzerland FIR,0.01
-2019-08-28,European Airspace,0.41
+2019-08-28,European Airspace,0.36
 2019-08-28,Global,1.47
 2019-08-28,London FIR,-0.01
 2019-08-28,Paris FIR,-0.06
 2019-08-28,Switzerland FIR,0.02
-2019-08-29,European Airspace,0.57
+2019-08-29,European Airspace,0.49
 2019-08-29,Global,1.45
 2019-08-29,London FIR,0.08
 2019-08-29,Paris FIR,0.0
 2019-08-29,Switzerland FIR,-0.0
-2019-08-30,European Airspace,0.28
+2019-08-30,European Airspace,0.27
 2019-08-30,Global,1.03
 2019-08-30,London FIR,-0.01
 2019-08-30,Paris FIR,-0.0
 2019-08-30,Switzerland FIR,0.0
-2019-08-31,European Airspace,0.51
+2019-08-31,European Airspace,0.47
 2019-08-31,Global,1.25
 2019-08-31,London FIR,0.0
 2019-08-31,Paris FIR,0.12
 2019-08-31,Switzerland FIR,0.0
-2019-09-01,European Airspace,0.37
+2019-09-01,European Airspace,0.2
 2019-09-01,Global,1.32
 2019-09-01,London FIR,0.0
 2019-09-01,Paris FIR,0.0
@@ -1208,77 +1208,77 @@ date,region,contrail_ef_overlap_initial_loc
 2019-09-02,London FIR,0.0
 2019-09-02,Paris FIR,0.01
 2019-09-02,Switzerland FIR,0.0
-2019-09-03,European Airspace,0.47
+2019-09-03,European Airspace,0.34
 2019-09-03,Global,1.73
 2019-09-03,London FIR,0.02
 2019-09-03,Paris FIR,0.01
 2019-09-03,Switzerland FIR,0.0
-2019-09-04,European Airspace,0.2
+2019-09-04,European Airspace,0.13
 2019-09-04,Global,1.14
 2019-09-04,London FIR,0.0
 2019-09-04,Paris FIR,0.0
 2019-09-04,Switzerland FIR,0.0
-2019-09-05,European Airspace,0.37
+2019-09-05,European Airspace,0.33
 2019-09-05,Global,1.5
 2019-09-05,London FIR,0.01
 2019-09-05,Paris FIR,-0.0
 2019-09-05,Switzerland FIR,0.0
-2019-09-06,European Airspace,0.89
+2019-09-06,European Airspace,0.84
 2019-09-06,Global,1.89
 2019-09-06,London FIR,-0.01
 2019-09-06,Paris FIR,0.04
 2019-09-06,Switzerland FIR,0.01
-2019-09-07,European Airspace,1.23
+2019-09-07,European Airspace,0.99
 2019-09-07,Global,2.24
 2019-09-07,London FIR,-0.0
 2019-09-07,Paris FIR,0.0
 2019-09-07,Switzerland FIR,0.0
-2019-09-08,European Airspace,0.88
+2019-09-08,European Airspace,0.66
 2019-09-08,Global,2.02
 2019-09-08,London FIR,0.01
 2019-09-08,Paris FIR,0.0
 2019-09-08,Switzerland FIR,0.0
-2019-09-09,European Airspace,0.64
+2019-09-09,European Airspace,0.38
 2019-09-09,Global,1.55
 2019-09-09,London FIR,-0.0
 2019-09-09,Paris FIR,-0.01
 2019-09-09,Switzerland FIR,0.01
-2019-09-10,European Airspace,0.7
+2019-09-10,European Airspace,0.47
 2019-09-10,Global,1.42
 2019-09-10,London FIR,0.01
 2019-09-10,Paris FIR,0.0
 2019-09-10,Switzerland FIR,0.01
-2019-09-11,European Airspace,0.44
+2019-09-11,European Airspace,0.28
 2019-09-11,Global,1.35
 2019-09-11,London FIR,0.01
 2019-09-11,Paris FIR,-0.01
 2019-09-11,Switzerland FIR,0.0
-2019-09-12,European Airspace,0.26
+2019-09-12,European Airspace,0.11
 2019-09-12,Global,1.27
 2019-09-12,London FIR,0.01
 2019-09-12,Paris FIR,0.01
 2019-09-12,Switzerland FIR,0.0
-2019-09-13,European Airspace,0.32
+2019-09-13,European Airspace,0.25
 2019-09-13,Global,1.56
 2019-09-13,London FIR,-0.02
 2019-09-13,Paris FIR,0.0
 2019-09-13,Switzerland FIR,0.0
-2019-09-14,European Airspace,0.76
+2019-09-14,European Airspace,0.59
 2019-09-14,Global,1.85
 2019-09-14,London FIR,-0.0
 2019-09-14,Paris FIR,0.02
 2019-09-14,Switzerland FIR,0.01
-2019-09-15,European Airspace,0.91
+2019-09-15,European Airspace,0.66
 2019-09-15,Global,1.95
 2019-09-15,London FIR,0.11
 2019-09-15,Paris FIR,0.0
 2019-09-15,Switzerland FIR,0.0
-2019-09-16,European Airspace,1.11
+2019-09-16,European Airspace,1.09
 2019-09-16,Global,2.09
 2019-09-16,London FIR,0.21
 2019-09-16,Paris FIR,0.04
 2019-09-16,Switzerland FIR,0.0
-2019-09-17,European Airspace,0.24
+2019-09-17,European Airspace,0.21
 2019-09-17,Global,1.55
 2019-09-17,London FIR,0.02
 2019-09-17,Paris FIR,0.0
@@ -1288,363 +1288,363 @@ date,region,contrail_ef_overlap_initial_loc
 2019-09-18,London FIR,0.01
 2019-09-18,Paris FIR,0.0
 2019-09-18,Switzerland FIR,0.0
-2019-09-19,European Airspace,0.74
+2019-09-19,European Airspace,0.66
 2019-09-19,Global,1.44
 2019-09-19,London FIR,0.0
 2019-09-19,Paris FIR,0.0
 2019-09-19,Switzerland FIR,0.0
-2019-09-20,European Airspace,0.54
+2019-09-20,European Airspace,0.47
 2019-09-20,Global,1.27
 2019-09-20,London FIR,0.01
 2019-09-20,Paris FIR,0.0
 2019-09-20,Switzerland FIR,-0.0
-2019-09-21,European Airspace,0.76
+2019-09-21,European Airspace,0.6
 2019-09-21,Global,1.56
 2019-09-21,London FIR,0.04
 2019-09-21,Paris FIR,0.05
 2019-09-21,Switzerland FIR,0.03
-2019-09-22,European Airspace,1.28
+2019-09-22,European Airspace,1.25
 2019-09-22,Global,1.92
 2019-09-22,London FIR,0.05
 2019-09-22,Paris FIR,0.08
 2019-09-22,Switzerland FIR,0.03
-2019-09-23,European Airspace,1.46
+2019-09-23,European Airspace,1.45
 2019-09-23,Global,2.18
 2019-09-23,London FIR,0.0
 2019-09-23,Paris FIR,0.04
 2019-09-23,Switzerland FIR,0.0
-2019-09-24,European Airspace,0.44
+2019-09-24,European Airspace,0.42
 2019-09-24,Global,1.28
 2019-09-24,London FIR,0.0
 2019-09-24,Paris FIR,-0.0
 2019-09-24,Switzerland FIR,-0.0
-2019-09-25,European Airspace,1.1
+2019-09-25,European Airspace,1.03
 2019-09-25,Global,1.91
 2019-09-25,London FIR,0.01
 2019-09-25,Paris FIR,0.01
 2019-09-25,Switzerland FIR,0.0
-2019-09-26,European Airspace,0.64
+2019-09-26,European Airspace,0.56
 2019-09-26,Global,1.75
 2019-09-26,London FIR,0.0
 2019-09-26,Paris FIR,0.08
 2019-09-26,Switzerland FIR,0.01
-2019-09-27,European Airspace,0.88
+2019-09-27,European Airspace,0.83
 2019-09-27,Global,1.83
 2019-09-27,London FIR,-0.0
 2019-09-27,Paris FIR,0.03
 2019-09-27,Switzerland FIR,0.02
-2019-09-28,European Airspace,1.03
+2019-09-28,European Airspace,0.93
 2019-09-28,Global,1.85
 2019-09-28,London FIR,0.03
 2019-09-28,Paris FIR,0.18
 2019-09-28,Switzerland FIR,0.01
-2019-09-29,European Airspace,0.75
+2019-09-29,European Airspace,0.48
 2019-09-29,Global,1.76
 2019-09-29,London FIR,0.01
 2019-09-29,Paris FIR,0.01
 2019-09-29,Switzerland FIR,0.0
-2019-09-30,European Airspace,0.88
+2019-09-30,European Airspace,0.48
 2019-09-30,Global,2.25
 2019-09-30,London FIR,0.07
 2019-09-30,Paris FIR,0.06
 2019-09-30,Switzerland FIR,0.0
 2019-10-01,Global,0.0
-2019-10-02,European Airspace,0.69
+2019-10-02,European Airspace,0.38
 2019-10-02,Global,1.72
 2019-10-02,London FIR,0.02
 2019-10-02,Paris FIR,0.0
 2019-10-02,Switzerland FIR,-0.0
-2019-10-03,European Airspace,0.7
+2019-10-03,European Airspace,0.21
 2019-10-03,Global,1.66
 2019-10-03,London FIR,-0.0
 2019-10-03,Paris FIR,-0.01
 2019-10-03,Switzerland FIR,-0.0
-2019-10-04,European Airspace,0.64
+2019-10-04,European Airspace,0.36
 2019-10-04,Global,1.92
 2019-10-04,London FIR,0.01
 2019-10-04,Paris FIR,0.02
 2019-10-04,Switzerland FIR,0.0
-2019-10-05,European Airspace,0.52
+2019-10-05,European Airspace,0.29
 2019-10-05,Global,1.87
 2019-10-05,London FIR,0.02
 2019-10-05,Paris FIR,0.01
 2019-10-05,Switzerland FIR,0.0
-2019-10-06,European Airspace,0.38
+2019-10-06,European Airspace,0.27
 2019-10-06,Global,2.07
 2019-10-06,London FIR,0.0
 2019-10-06,Paris FIR,0.0
 2019-10-06,Switzerland FIR,0.0
-2019-10-07,European Airspace,0.38
+2019-10-07,European Airspace,0.3
 2019-10-07,Global,1.66
 2019-10-07,London FIR,0.0
 2019-10-07,Paris FIR,0.0
 2019-10-07,Switzerland FIR,-0.0
-2019-10-08,European Airspace,0.2
+2019-10-08,European Airspace,0.14
 2019-10-08,Global,1.55
 2019-10-08,London FIR,0.0
 2019-10-08,Paris FIR,0.0
 2019-10-08,Switzerland FIR,0.0
-2019-10-09,European Airspace,0.3
+2019-10-09,European Airspace,0.25
 2019-10-09,Global,1.88
 2019-10-09,London FIR,0.0
 2019-10-09,Paris FIR,0.0
 2019-10-09,Switzerland FIR,0.0
-2019-10-10,European Airspace,0.53
+2019-10-10,European Airspace,0.43
 2019-10-10,Global,1.92
 2019-10-10,London FIR,0.03
 2019-10-10,Paris FIR,0.01
 2019-10-10,Switzerland FIR,0.0
-2019-10-11,European Airspace,1.46
+2019-10-11,European Airspace,1.4
 2019-10-11,Global,3.03
 2019-10-11,London FIR,0.18
 2019-10-11,Paris FIR,0.05
 2019-10-11,Switzerland FIR,0.01
-2019-10-12,European Airspace,1.22
+2019-10-12,European Airspace,1.02
 2019-10-12,Global,2.54
 2019-10-12,London FIR,0.11
 2019-10-12,Paris FIR,0.07
 2019-10-12,Switzerland FIR,-0.0
-2019-10-13,European Airspace,1.32
+2019-10-13,European Airspace,0.87
 2019-10-13,Global,2.95
 2019-10-13,London FIR,0.04
 2019-10-13,Paris FIR,0.02
 2019-10-13,Switzerland FIR,-0.0
-2019-10-14,European Airspace,0.84
+2019-10-14,European Airspace,0.65
 2019-10-14,Global,1.92
 2019-10-14,London FIR,-0.02
 2019-10-14,Paris FIR,0.05
 2019-10-14,Switzerland FIR,0.01
-2019-10-15,European Airspace,1.1
+2019-10-15,European Airspace,0.86
 2019-10-15,Global,2.01
 2019-10-15,London FIR,0.01
 2019-10-15,Paris FIR,0.0
 2019-10-15,Switzerland FIR,-0.0
-2019-10-16,European Airspace,0.55
+2019-10-16,European Airspace,0.39
 2019-10-16,Global,1.7
 2019-10-16,London FIR,0.0
 2019-10-16,Paris FIR,0.02
 2019-10-16,Switzerland FIR,0.01
-2019-10-17,European Airspace,0.77
+2019-10-17,European Airspace,0.59
 2019-10-17,Global,1.95
 2019-10-17,London FIR,0.0
 2019-10-17,Paris FIR,0.01
 2019-10-17,Switzerland FIR,0.02
-2019-10-18,European Airspace,1.58
+2019-10-18,European Airspace,1.48
 2019-10-18,Global,2.64
 2019-10-18,London FIR,0.0
 2019-10-18,Paris FIR,0.11
 2019-10-18,Switzerland FIR,0.02
-2019-10-19,European Airspace,1.18
+2019-10-19,European Airspace,0.81
 2019-10-19,Global,2.21
 2019-10-19,London FIR,0.0
 2019-10-19,Paris FIR,-0.01
 2019-10-19,Switzerland FIR,0.01
-2019-10-20,European Airspace,1.41
+2019-10-20,European Airspace,0.86
 2019-10-20,Global,2.7
 2019-10-20,London FIR,-0.0
 2019-10-20,Paris FIR,0.01
 2019-10-20,Switzerland FIR,0.03
-2019-10-21,European Airspace,1.36
+2019-10-21,European Airspace,1.01
 2019-10-21,Global,2.23
 2019-10-21,London FIR,-0.0
 2019-10-21,Paris FIR,0.0
 2019-10-21,Switzerland FIR,0.04
-2019-10-22,European Airspace,1.24
+2019-10-22,European Airspace,1.06
 2019-10-22,Global,2.33
 2019-10-22,London FIR,0.0
 2019-10-22,Paris FIR,0.05
 2019-10-22,Switzerland FIR,0.04
-2019-10-23,European Airspace,0.8
+2019-10-23,European Airspace,0.64
 2019-10-23,Global,1.67
 2019-10-23,London FIR,0.04
 2019-10-23,Paris FIR,0.05
 2019-10-23,Switzerland FIR,0.02
-2019-10-24,European Airspace,0.94
+2019-10-24,European Airspace,0.86
 2019-10-24,Global,2.01
 2019-10-24,London FIR,0.02
 2019-10-24,Paris FIR,0.01
 2019-10-24,Switzerland FIR,0.0
-2019-10-25,European Airspace,2.0
+2019-10-25,European Airspace,1.91
 2019-10-25,Global,3.04
 2019-10-25,London FIR,0.27
 2019-10-25,Paris FIR,0.25
 2019-10-25,Switzerland FIR,0.0
-2019-10-26,European Airspace,1.79
+2019-10-26,European Airspace,1.48
 2019-10-26,Global,2.98
 2019-10-26,London FIR,0.04
 2019-10-26,Paris FIR,0.16
 2019-10-26,Switzerland FIR,0.0
-2019-10-27,European Airspace,1.07
+2019-10-27,European Airspace,0.79
 2019-10-27,Global,2.11
 2019-10-27,London FIR,-0.0
 2019-10-27,Paris FIR,0.09
 2019-10-27,Switzerland FIR,0.04
-2019-10-28,European Airspace,1.86
+2019-10-28,European Airspace,1.78
 2019-10-28,Global,2.96
 2019-10-28,London FIR,0.03
 2019-10-28,Paris FIR,0.14
 2019-10-28,Switzerland FIR,0.05
-2019-10-29,European Airspace,1.69
+2019-10-29,European Airspace,1.39
 2019-10-29,Global,3.16
 2019-10-29,London FIR,0.01
 2019-10-29,Paris FIR,0.1
 2019-10-29,Switzerland FIR,0.02
-2019-10-30,European Airspace,1.73
+2019-10-30,European Airspace,1.7
 2019-10-30,Global,3.25
 2019-10-30,London FIR,0.1
 2019-10-30,Paris FIR,0.09
 2019-10-30,Switzerland FIR,0.02
-2019-10-31,European Airspace,1.28
+2019-10-31,European Airspace,1.24
 2019-10-31,Global,2.86
 2019-10-31,London FIR,0.05
 2019-10-31,Paris FIR,0.01
 2019-10-31,Switzerland FIR,0.01
-2019-11-01,European Airspace,2.33
+2019-11-01,European Airspace,2.32
 2019-11-01,Global,3.7
 2019-11-01,London FIR,0.13
 2019-11-01,Paris FIR,0.14
 2019-11-01,Switzerland FIR,0.03
-2019-11-02,European Airspace,2.6
+2019-11-02,European Airspace,2.3
 2019-11-02,Global,3.74
 2019-11-02,London FIR,0.0
 2019-11-02,Paris FIR,0.01
 2019-11-02,Switzerland FIR,0.03
-2019-11-03,European Airspace,2.03
+2019-11-03,European Airspace,1.61
 2019-11-03,Global,3.38
 2019-11-03,London FIR,-0.0
 2019-11-03,Paris FIR,-0.0
 2019-11-03,Switzerland FIR,0.0
-2019-11-04,European Airspace,1.3
+2019-11-04,European Airspace,0.62
 2019-11-04,Global,3.32
 2019-11-04,London FIR,0.0
 2019-11-04,Paris FIR,0.0
 2019-11-04,Switzerland FIR,0.0
-2019-11-05,European Airspace,0.65
+2019-11-05,European Airspace,0.23
 2019-11-05,Global,3.15
 2019-11-05,London FIR,0.0
 2019-11-05,Paris FIR,0.0
 2019-11-05,Switzerland FIR,0.0
-2019-11-06,European Airspace,1.0
+2019-11-06,European Airspace,0.68
 2019-11-06,Global,2.65
 2019-11-06,London FIR,0.02
 2019-11-06,Paris FIR,0.01
 2019-11-06,Switzerland FIR,-0.0
-2019-11-07,European Airspace,0.98
+2019-11-07,European Airspace,0.67
 2019-11-07,Global,2.61
 2019-11-07,London FIR,0.0
 2019-11-07,Paris FIR,0.0
 2019-11-07,Switzerland FIR,0.0
-2019-11-08,European Airspace,0.61
+2019-11-08,European Airspace,0.5
 2019-11-08,Global,2.08
 2019-11-08,London FIR,0.0
 2019-11-08,Paris FIR,-0.0
 2019-11-08,Switzerland FIR,-0.0
-2019-11-09,European Airspace,1.04
+2019-11-09,European Airspace,0.82
 2019-11-09,Global,2.47
 2019-11-09,London FIR,-0.0
 2019-11-09,Paris FIR,0.0
 2019-11-09,Switzerland FIR,0.0
-2019-11-10,European Airspace,1.49
+2019-11-10,European Airspace,0.6
 2019-11-10,Global,3.13
 2019-11-10,London FIR,0.04
 2019-11-10,Paris FIR,0.01
 2019-11-10,Switzerland FIR,0.0
-2019-11-11,European Airspace,1.56
+2019-11-11,European Airspace,1.05
 2019-11-11,Global,4.33
 2019-11-11,London FIR,0.0
 2019-11-11,Paris FIR,0.0
 2019-11-11,Switzerland FIR,-0.0
-2019-11-12,European Airspace,1.26
+2019-11-12,European Airspace,1.1
 2019-11-12,Global,3.37
 2019-11-12,London FIR,0.0
 2019-11-12,Paris FIR,0.0
 2019-11-12,Switzerland FIR,0.0
-2019-11-13,European Airspace,1.17
+2019-11-13,European Airspace,0.84
 2019-11-13,Global,3.21
 2019-11-13,London FIR,0.0
 2019-11-13,Paris FIR,0.0
 2019-11-13,Switzerland FIR,0.0
-2019-11-14,European Airspace,0.8
+2019-11-14,European Airspace,0.57
 2019-11-14,Global,2.43
 2019-11-14,London FIR,0.01
 2019-11-14,Paris FIR,0.01
 2019-11-14,Switzerland FIR,0.0
-2019-11-15,European Airspace,1.74
+2019-11-15,European Airspace,1.26
 2019-11-15,Global,3.66
 2019-11-15,London FIR,0.0
 2019-11-15,Paris FIR,-0.0
 2019-11-15,Switzerland FIR,0.0
-2019-11-16,European Airspace,1.55
+2019-11-16,European Airspace,1.18
 2019-11-16,Global,3.16
 2019-11-16,London FIR,0.06
 2019-11-16,Paris FIR,0.0
 2019-11-16,Switzerland FIR,0.0
-2019-11-17,European Airspace,2.2
+2019-11-17,European Airspace,1.65
 2019-11-17,Global,3.78
 2019-11-17,London FIR,0.01
 2019-11-17,Paris FIR,0.01
 2019-11-17,Switzerland FIR,-0.0
-2019-11-18,European Airspace,1.54
+2019-11-18,European Airspace,1.01
 2019-11-18,Global,3.58
 2019-11-18,London FIR,0.03
 2019-11-18,Paris FIR,-0.0
 2019-11-18,Switzerland FIR,0.0
-2019-11-19,European Airspace,1.89
+2019-11-19,European Airspace,1.49
 2019-11-19,Global,3.17
 2019-11-19,London FIR,0.13
 2019-11-19,Paris FIR,0.04
 2019-11-19,Switzerland FIR,0.0
-2019-11-20,European Airspace,1.92
+2019-11-20,European Airspace,1.43
 2019-11-20,Global,3.14
 2019-11-20,London FIR,0.25
 2019-11-20,Paris FIR,0.09
 2019-11-20,Switzerland FIR,0.0
-2019-11-21,European Airspace,2.3
+2019-11-21,European Airspace,2.09
 2019-11-21,Global,3.52
 2019-11-21,London FIR,0.1
 2019-11-21,Paris FIR,0.01
 2019-11-21,Switzerland FIR,0.0
-2019-11-22,European Airspace,3.02
+2019-11-22,European Airspace,2.66
 2019-11-22,Global,4.62
 2019-11-22,London FIR,0.04
 2019-11-22,Paris FIR,0.07
 2019-11-22,Switzerland FIR,0.01
-2019-11-23,European Airspace,2.29
+2019-11-23,European Airspace,1.84
 2019-11-23,Global,3.55
 2019-11-23,London FIR,0.07
 2019-11-23,Paris FIR,0.04
 2019-11-23,Switzerland FIR,0.01
-2019-11-24,European Airspace,3.09
+2019-11-24,European Airspace,2.28
 2019-11-24,Global,4.4
 2019-11-24,London FIR,0.11
 2019-11-24,Paris FIR,0.04
 2019-11-24,Switzerland FIR,0.06
-2019-11-25,European Airspace,2.92
+2019-11-25,European Airspace,2.53
 2019-11-25,Global,4.21
 2019-11-25,London FIR,0.07
 2019-11-25,Paris FIR,0.04
 2019-11-25,Switzerland FIR,0.03
-2019-11-26,European Airspace,2.82
+2019-11-26,European Airspace,2.35
 2019-11-26,Global,3.87
 2019-11-26,London FIR,0.06
 2019-11-26,Paris FIR,0.19
 2019-11-26,Switzerland FIR,0.01
-2019-11-27,European Airspace,1.88
+2019-11-27,European Airspace,1.24
 2019-11-27,Global,3.26
 2019-11-27,London FIR,0.0
 2019-11-27,Paris FIR,0.0
 2019-11-27,Switzerland FIR,0.0
-2019-11-28,European Airspace,1.21
+2019-11-28,European Airspace,0.68
 2019-11-28,Global,2.81
 2019-11-28,London FIR,0.02
 2019-11-28,Paris FIR,0.0
 2019-11-28,Switzerland FIR,0.0
-2019-11-29,European Airspace,0.6
+2019-11-29,European Airspace,0.17
 2019-11-29,Global,2.26
 2019-11-29,London FIR,0.0
 2019-11-29,Paris FIR,0.0
 2019-11-29,Switzerland FIR,0.0
-2019-11-30,European Airspace,0.62
+2019-11-30,European Airspace,0.25
 2019-11-30,Global,2.74
 2019-11-30,London FIR,0.02
 2019-11-30,Paris FIR,0.03
@@ -1654,152 +1654,152 @@ date,region,contrail_ef_overlap_initial_loc
 2019-12-01,London FIR,0.0
 2019-12-01,Paris FIR,-0.0
 2019-12-01,Switzerland FIR,-0.0
-2019-12-02,European Airspace,1.2
+2019-12-02,European Airspace,1.13
 2019-12-02,Global,2.48
 2019-12-02,London FIR,0.0
 2019-12-02,Paris FIR,0.0
 2019-12-02,Switzerland FIR,0.0
-2019-12-03,European Airspace,1.02
+2019-12-03,European Airspace,0.93
 2019-12-03,Global,2.62
 2019-12-03,London FIR,0.0
 2019-12-03,Paris FIR,0.0
 2019-12-03,Switzerland FIR,0.0
-2019-12-04,European Airspace,0.55
+2019-12-04,European Airspace,0.36
 2019-12-04,Global,2.56
 2019-12-04,London FIR,0.01
 2019-12-04,Paris FIR,-0.0
 2019-12-04,Switzerland FIR,0.0
-2019-12-05,European Airspace,1.15
+2019-12-05,European Airspace,1.05
 2019-12-05,Global,2.9
 2019-12-05,London FIR,0.16
 2019-12-05,Paris FIR,0.01
 2019-12-05,Switzerland FIR,-0.0
-2019-12-06,European Airspace,1.93
+2019-12-06,European Airspace,1.65
 2019-12-06,Global,3.83
 2019-12-06,London FIR,0.04
 2019-12-06,Paris FIR,0.04
 2019-12-06,Switzerland FIR,0.01
-2019-12-07,European Airspace,1.91
+2019-12-07,European Airspace,1.0
 2019-12-07,Global,3.36
 2019-12-07,London FIR,0.17
 2019-12-07,Paris FIR,0.02
 2019-12-07,Switzerland FIR,0.0
-2019-12-08,European Airspace,1.87
+2019-12-08,European Airspace,1.63
 2019-12-08,Global,4.14
 2019-12-08,London FIR,0.01
 2019-12-08,Paris FIR,0.1
 2019-12-08,Switzerland FIR,0.03
-2019-12-09,European Airspace,0.7
+2019-12-09,European Airspace,0.32
 2019-12-09,Global,3.6
 2019-12-09,London FIR,0.01
 2019-12-09,Paris FIR,0.0
 2019-12-09,Switzerland FIR,0.0
-2019-12-10,European Airspace,0.95
+2019-12-10,European Airspace,0.81
 2019-12-10,Global,3.9
 2019-12-10,London FIR,0.15
 2019-12-10,Paris FIR,0.07
 2019-12-10,Switzerland FIR,0.0
-2019-12-11,European Airspace,1.48
+2019-12-11,European Airspace,1.37
 2019-12-11,Global,4.28
 2019-12-11,London FIR,0.0
 2019-12-11,Paris FIR,0.01
 2019-12-11,Switzerland FIR,0.02
-2019-12-12,European Airspace,0.82
+2019-12-12,European Airspace,0.63
 2019-12-12,Global,2.98
 2019-12-12,London FIR,0.0
 2019-12-12,Paris FIR,0.01
 2019-12-12,Switzerland FIR,0.0
-2019-12-13,European Airspace,0.65
+2019-12-13,European Airspace,0.41
 2019-12-13,Global,3.13
 2019-12-13,London FIR,0.0
 2019-12-13,Paris FIR,0.0
 2019-12-13,Switzerland FIR,-0.0
-2019-12-14,European Airspace,1.67
+2019-12-14,European Airspace,0.5
 2019-12-14,Global,3.8
 2019-12-14,London FIR,0.0
 2019-12-14,Paris FIR,0.02
 2019-12-14,Switzerland FIR,0.0
-2019-12-15,European Airspace,1.84
+2019-12-15,European Airspace,1.3
 2019-12-15,Global,4.13
 2019-12-15,London FIR,0.0
 2019-12-15,Paris FIR,0.1
 2019-12-15,Switzerland FIR,0.05
-2019-12-16,European Airspace,2.46
+2019-12-16,European Airspace,2.4
 2019-12-16,Global,4.54
 2019-12-16,London FIR,0.03
 2019-12-16,Paris FIR,0.27
 2019-12-16,Switzerland FIR,0.04
-2019-12-17,European Airspace,2.0
+2019-12-17,European Airspace,1.48
 2019-12-17,Global,4.19
 2019-12-17,London FIR,0.03
 2019-12-17,Paris FIR,0.02
 2019-12-17,Switzerland FIR,0.01
-2019-12-18,European Airspace,1.51
+2019-12-18,European Airspace,1.0
 2019-12-18,Global,4.19
 2019-12-18,London FIR,0.05
 2019-12-18,Paris FIR,0.02
 2019-12-18,Switzerland FIR,0.0
-2019-12-19,European Airspace,2.5
+2019-12-19,European Airspace,2.46
 2019-12-19,Global,4.88
 2019-12-19,London FIR,0.04
 2019-12-19,Paris FIR,0.05
 2019-12-19,Switzerland FIR,-0.0
-2019-12-20,European Airspace,1.78
+2019-12-20,European Airspace,1.32
 2019-12-20,Global,3.92
 2019-12-20,London FIR,0.01
 2019-12-20,Paris FIR,0.01
 2019-12-20,Switzerland FIR,0.0
-2019-12-21,European Airspace,1.06
+2019-12-21,European Airspace,0.58
 2019-12-21,Global,3.39
 2019-12-21,London FIR,0.01
 2019-12-21,Paris FIR,0.0
 2019-12-21,Switzerland FIR,0.0
-2019-12-22,European Airspace,1.12
+2019-12-22,European Airspace,0.53
 2019-12-22,Global,3.11
 2019-12-22,London FIR,0.01
 2019-12-22,Paris FIR,0.0
 2019-12-22,Switzerland FIR,-0.0
-2019-12-23,European Airspace,0.97
+2019-12-23,European Airspace,0.54
 2019-12-23,Global,3.42
 2019-12-23,London FIR,0.01
 2019-12-23,Paris FIR,0.01
 2019-12-23,Switzerland FIR,0.0
-2019-12-24,European Airspace,0.76
+2019-12-24,European Airspace,0.25
 2019-12-24,Global,3.02
 2019-12-24,London FIR,0.0
 2019-12-24,Paris FIR,0.01
 2019-12-24,Switzerland FIR,-0.0
-2019-12-25,European Airspace,1.23
+2019-12-25,European Airspace,0.52
 2019-12-25,Global,3.29
 2019-12-25,London FIR,0.01
 2019-12-25,Paris FIR,0.0
 2019-12-25,Switzerland FIR,0.0
-2019-12-26,European Airspace,1.79
+2019-12-26,European Airspace,1.12
 2019-12-26,Global,4.12
 2019-12-26,London FIR,0.06
 2019-12-26,Paris FIR,0.01
 2019-12-26,Switzerland FIR,0.01
-2019-12-27,European Airspace,1.77
+2019-12-27,European Airspace,0.92
 2019-12-27,Global,4.54
 2019-12-27,London FIR,0.13
 2019-12-27,Paris FIR,0.03
 2019-12-27,Switzerland FIR,-0.0
-2019-12-28,European Airspace,1.66
+2019-12-28,European Airspace,1.21
 2019-12-28,Global,4.29
 2019-12-28,London FIR,0.13
 2019-12-28,Paris FIR,0.14
 2019-12-28,Switzerland FIR,0.01
-2019-12-29,European Airspace,0.99
+2019-12-29,European Airspace,0.83
 2019-12-29,Global,3.33
 2019-12-29,London FIR,0.08
 2019-12-29,Paris FIR,0.02
 2019-12-29,Switzerland FIR,0.0
-2019-12-30,European Airspace,0.83
+2019-12-30,European Airspace,0.59
 2019-12-30,Global,2.52
 2019-12-30,London FIR,0.01
 2019-12-30,Paris FIR,0.0
 2019-12-30,Switzerland FIR,0.0
-2019-12-31,European Airspace,0.95
+2019-12-31,European Airspace,0.87
 2019-12-31,Global,2.23
 2019-12-31,London FIR,0.0
 2019-12-31,Paris FIR,-0.01
