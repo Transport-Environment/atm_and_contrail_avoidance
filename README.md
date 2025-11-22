@@ -258,7 +258,13 @@ The `/data` directory includes:
 - `data/gridded_forcing/monthly_sum_XX.nc`: Netcdf files containing the annual monthly forcing in month XX
 - `data/gridded_forcing/annual_sum.nc`: Netcdf file containing the annual forcing sum
 - `data/hourly_totals_by_region.pq`: Parquet file containing by region statistics
-
+- Spatiotemporal grid: 
+  - For ERA5’s **regular lat–lon grid**, ECMWF explicitly state that the latitude and longitude coordinates are **gridpoint locations**, i.e. *points* in space (the “centre” of the grid cell if you visualize it as tiles), not cell edges (https://confluence.ecmwf.int/display/CKB/ERA5%3A%2BWhat%2Bis%2Bthe%2Bspatial%2Breference)
+  - Vertical levels: the “37 pressure levels” are standard pressure surfaces (e.g. 300 hPa, 250 hPa, …), 
+  - Standard ADS-B altitude information is also barometric
+  - Accordingly, CoCiP's gridded forcing outputs and gridded CoCip outputs are also barometric altitudes - even when given in meters
+  - The altitudes are again treated as level mid-points
+  - The **time information is a sightly different story**: “Time stamps (e.g. 00:00) represent the end of the preceding 1-hour period for accumulated/averaged ERA5 variables.” So, hour 0 reprsents a temporal average from 23:00 (previous day) to 00:00 - so it is not cell-centered but edge-centered
 
 #### Original parquet file structure provided by ICL
 | No. | Column                           | Description                                                                                                                                                               | Units |
@@ -288,13 +294,13 @@ The `/data` directory includes:
 |------------|-------|-------------|
 | `longitude` | 1441 | Grid longitudes from -180.0° to 180.0° |
 | `latitude`  | 721  | Grid latitudes from -90.0° to 90.0° |
-| `altitude`  | 31   | Altitude levels (approx. 6000 m → 15 140 m)  |
+| `altitude`  | 31   | Barometric altitude levels (approx. 6000 m → 15 140 m)  |
 
 | Name        | Shape        | Type     | Description |
 |-------------|--------------|----------|-------------|
 | `longitude` | (longitude,) | float64  | Longitude values in 0.25° resolution |
 | `latitude`  | (latitude,)  | float64  | Latitude values in 0.25° resolution |
-| `altitude`  | (altitude,)  | float64  | Altitude levels in meters in ~300 m (1000 ft) resolution |
+| `altitude`  | (altitude,)  | float64  | Barometric cell-centered altitude levels in meters in ~300 m (1000 ft) resolution |
 
 | Variable                     | Dimensions (in order)                   | Type     | Description |
 |------------------------------|------------------------------------------|----------|-------------|
@@ -328,8 +334,17 @@ The `/data` directory includes:
 
 ### ISSR datasets
 
-- `data/issr/2024MMDDTHH.nc`: Hourly gridded CoCiP outputs provided by contrails.org
-- `data/issr/contrail_region_details_2024.csv`: A summary of all PCRs with energy forcing greater than 5e8 J/m in 2024 completely contained within bounding box lon = (-70.0, 70.0) and lat = (20.0, 90.0) by hour
+- `data/issr/2024MMDDTHH.nc`: Hourly gridded CoCiP outputs provided by contrails.org, that represent a 4D gridded atmospheric field with **longitude**, **latitude**, **flight level**, and **time** dimensions. It contains variables describing estimated contrail energy forcing in J/m and estimated contrail age for contrails formed at that grid cell. Note that contrails.org does not provide −90° to +90° latitude data which means that the boundary for detection PCRs is also 
+
+| Name           | Size | Description                                      |
+| -------------- | ---- | ------------------------------------------------ |
+| `longitude`    | 1440 | Global 0.25° resolution, spanning −180° to +180° |
+| `latitude`     | 641  | Global 0.25° resolution, spanning −80° to +80°   |
+| `flight_level` | 18   | Pressure-based flight levels from FL270 to FL440 |
+| `time`         | 1    | Single timestamp (2024-01-01)                    |
+
+
+- `data/issr/contrail_region_details_2024.csv`: A summary of all PCRs with energy forcing greater than 5e8 J/m in 2024 completely contained within a bounding box spanning longitudes from −70° to +70° and latitudes from 20° to +80° by hour
 
 #### PCR file structure
 | Column          | Type            | Description |
@@ -392,13 +407,7 @@ pip install -r requirements.txt
 ```
 
 ## Open question: 
-- Grid definition (cell or edge centered?) for longitudes, latitudes, altitudes and times 
-- Altitudes - barometric or not?
-  - gridded forcing in m so probably not
-  - gridded CoCiP? maybe
 - searchsorted binnign
-- make sure correct European Airspace boundary is used everywhere (i originally moved a rect but now i use the union of all eurocontrol firs ) - this is ont yet implemented in the airspace capacity analysis. 
-- Check whether labelling algorithm works 
 
 ## Sources and special thanks
 
