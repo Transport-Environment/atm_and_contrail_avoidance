@@ -21,3 +21,9 @@ python/4.py
 python/5_3D_visualisation.py
 python/requirements.txt
 data/airspace_capacity/airspace_capacity_rectangular_european_airspace_boundary.parquet
+data/issr/extremely_warming.parquet
+data/issr/ISSR and PCR depth distribution.csv
+data/issr/pcr.parquet
+data/issr/pcrs.parquet
+data/issr/very_warming.parquet
+data/issr/warming.parquet

@@ -407,7 +407,7 @@ pip install -r requirements.txt
 ```
 
 ## Open question: 
-- searchsorted binnign
+- Searchsorted binning gives edge-centered grid - I want cell-centered. Potentially, I rerun this will all altitudes and to give a cell-centered grid. 
 
 ## Sources and special thanks
 
