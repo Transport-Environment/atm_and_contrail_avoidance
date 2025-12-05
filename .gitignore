@@ -27,3 +27,8 @@ data/issr/pcr.parquet
 data/issr/pcrs.parquet
 data/issr/very_warming.parquet
 data/issr/warming.parquet
+output/issr/issr_video_small_frame_slow.mp4
+output/issr/issr_video_small_frame.mp4
+output/issr/issr_video_small.mp4
+output/issr/issr_video_small.webm
+transient.ipynb
