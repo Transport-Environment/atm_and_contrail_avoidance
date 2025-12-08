@@ -16,9 +16,9 @@ This project quantifies **traffic levels** and **contrail warming** over Europe 
 It draws on the following datasets. 
 * Contrails simulations using CoCiP based on Spire ADS-B data kindly provided by the Imperial College London
     - Flight-by-flight information for European arrivals and departures for the year 2019 based on ![Teoh et al. 2024](https://acp.copernicus.org/articles/24/6071/2024/)
-    - Gridded contrail simulation outputs (0.25 deg x 0.25 deg spatial resolution, 1h temporal resolution) for the year 2019 based on ![Teoh et al. 2024](https://acp.copernicus.org/articles/24/6071/2024/), re-run by ICL with an updated version of pycontrails (v0.54.8), not accounting for vPM activation
-* The high-resolution Global Aviation emissions Inventory based on ADS-B (![GAIA](https://zenodo.org/records/8369829)) for 2019 - 2021: High-resolution gridded outputs for 2019 (Full Year)
-* ![Gridded CoCiP](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1361/) outputs for the year 2024 kindly provided by ![contrails.org](https://apidocs.contrails.org/notebooks/research_api.html)
+    - Gridded contrail simulation outputs (0.25° x 0.25° lateral resolution, 1000 ft (~300 m) vertical resolution, 1h temporal resolution) for the year 2019 based on ![Teoh et al. 2024](https://acp.copernicus.org/articles/24/6071/2024/), re-run by ICL with an updated version of pycontrails (v0.54.8), not accounting for vPM activation
+* The high-resolution Global Aviation emissions Inventory based on ADS-B (![GAIA](https://zenodo.org/records/8369829)) for 2019 - 2021: High-resolution gridded outputs for 2019 (Full Year) with (0.05° x 0.05° lateral resolution, 100 m vertical resolution, 1h temporal resolution)
+* ![Gridded CoCiP](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1361/) outputs for the year 2024 kindly provided by ![contrails.org](https://apidocs.contrails.org/notebooks/research_api.html) with (0.25° x 0.25° lateral resolution, 1000 ft (~300 m) vertical resolution, 1h temporal resolution)
 
 
 ## Repository Structure
@@ -49,6 +49,12 @@ It draws on the following datasets.
 * Number of **“big hit”** flights (major warming contrails) by day, airport, and FIR
 * Total CO₂ and contrail forcing per departure airport
 * FIR geometry is on ![worldfirs.json](data/worldfirs.json) found on ![observablehq.com/@openaviation](https://observablehq.com/@openaviation/flight-information-regions#plot_fir)
+
+**Methodology:**
+
+* Convert total_fuel_burn (kg of jet a1) and total_contrail_energy_forcing per flight to contrail CO2eq 
+* The fuel burn is converted to forcings over 20 and 100 years using the the CO2 absolute global warming potential over 20-years () and 100-years () are assumed to be 2.39 × 10−14 and 88.0 × 10−15 yr W m−2 kg−1, respectively (Gaillot et al., 2023). These forcings reflect the amount of energy deposited in the atmosphere over a given amount of time - the amount of energy absorbed by the atmosphere through CO2 grows with time. 
+* The GWP factors are the ratio of CO2 to contrail radiative forcing weighted by this ERF_RF_RATIO which makes the effective radiative forcing (ERF) smaller than the radiative forcing (RF) by a factor of 0.42. This factor is quite uncertain and reflects, among other things, how the global atmosphere reacts to a local radiative forcing in the long run. It is one of the reasons why the contrail climate impact is so uncertain and why I refrain from adding absolute values in the charts .
 
 **Figures:**
 <table>
@@ -84,7 +90,7 @@ It draws on the following datasets.
 * Forcing per **flight distance**, **hour**, **month**, **flight level**, and **FIR**
     - User parquet files with the exception of forcing per flight level
     - Aggregate using pandas
-* Region boundaries based on rectangular bounding boxes suggest in Teoh et al. 2024 as well as on lower flight information region boundaries
+* Region boundaries based on rectangular bounding boxes suggest in Teoh et al. 2024 as well as on lower flight information region boundaries that I assume to be 2D boundaries. I do not take into account the finite vertical extension of lower flight information regions. This is a simplication so that the 2D maps actually conver the full picture. 
 
 **Figures:**
 
@@ -119,18 +125,21 @@ It draws on the following datasets.
 ### ISSRs (`3_issr.ipynb`)
 
 **Goal:** Identify and characterize **persistent contrail regions** (PCRs) where persistent contrails form.
-Data: Gridded CoCiP outputs for 2024 provided by contrails.org, using Airbus A320 (η = 0.032) as the reference aircraft.
 
-**Method:**
-* Download gridded CoCiP output from contrails.org via their API (https://apidocs.contrails.org/notebooks/research_api.html)
+**Analyses:**
+* Compute per-region statistics from Gridded CoCiP outputs: centroid, forcing, flight level, thickness, area, and volume
 * Intro to gridded CoCiP: https://py.contrails.org/notebooks/CoCiPGrid.html and original publication: https://gmd.copernicus.org/articles/18/253/2025/
-* Hourly coverage not complete - around two days are missing despite repeated API requests
-* Detect connected regions exceeding a **forcing threshold (5 × 10⁸ J m⁻¹)** that are fully contained within a fixed bounding box - lon = (-70.0, 70.0) and lat = (20.0, 90.0)
-* This threshold comes from https://gmd.copernicus.org/articles/18/253/2025/: The grid-based CoCiP defines regions with strongly warming contrails based on the 80th percentile (5×10^8 J/m) and the 95th percentile (1.5×10^9 J/m) of EFcontrail per flight distance flown, both of which were derived from a 2019 global contrail simulation using the trajectory-based CoCiP (Teoh et al., 2024a).
-* Compute per-region statistics: centroid, forcing, flight level, thickness, area, and volume
 
-**Weaknesses of this analysis:**
-- The intersection condition implies that we potentially miss out on very big ISSRs that have very high longitudinal elongation
+**Methodology:**
+* Download gridded CoCiP output from contrails.org via their API (https://apidocs.contrails.org/notebooks/research_api.html)
+
+* Data: Gridded CoCiP outputs for 2024 provided by contrails.org, using Airbus A320 (η = 0.32) as the reference aircraft.
+* Hourly coverage not complete - around two days are missing despite repeated API requests
+* Detect connected regions exceeding a **forcing threshold (5 × 10⁸ J m⁻¹)** that are fully contained within a fixed bounding box - lon = (-70.0°, 70.0°) and lat = (20.0°, 90.0°)
+* This threshold comes from https://gmd.copernicus.org/articles/18/253/2025/: The grid-based CoCiP defines regions with strongly warming contrails based on the 80th percentile (5×10^8 J/m) and the 95th percentile (1.5×10^9 J/m) of EFcontrail per flight distance flown, both of which were derived from a 2019 global contrail simulation using the trajectory-based CoCiP (Teoh et al., 2024a).
+
+**Potential problems:**
+- The intersection condition implies that we potentially miss out on very big ISSRs that have very high longitudinal elongation - I tried to mitigate this by choosing a wide longitudinal bounding box. Given that we go up to the North pole, this method covers ISSRs as wide as 14,000 km at lower latitudes. 
 - We do not track the evolution of ISSRs over time - in consecutive hours, we consider the same ISSR but don't actually track which ISSRs are the same  - so this is really an analysis about annual average properties of ISSRs rather than a study of how individual ISSRs evolve
 
 
@@ -184,6 +193,7 @@ Data: Gridded CoCiP outputs for 2024 provided by contrails.org, using Airbus A32
 | `20250818_CoCiP.ipynb`                               | Demonstrates CoCiP usage for contrail simulations.                                                  |
 | `20250821_Meteorological_Plots_ARCO_ERA5.ipynb`      | Plots meteorological parameters (T, RH, ISSR, SAC); loads one hour of ADS-B data from ADSBexchange. |
 | `20251017_ADS-B_Traffic_Library_Demo.ipynb`          | Demonstrates loading and binning ADS-B traffic into FIRs.                                           |
+| `20251121_GriddedForcing_to_Netcdf.ipynb`            | Demonstrates loading and converting gridded forcing parquet into netcdf.                            |
 
 
 ## Helper Scripts
@@ -202,18 +212,18 @@ Key Python utilities in the `helpers/` folder:
 The `/data` directory includes:
 
 ### Airports, FIR boundaries, and country metadata
-    - `data/countries.csv`: downloaded from https://ourairports.com/data/
-    - `data/airports.csv`: downloaded from https://ourairports.com/data/
-    - `data/worldfirs.json`: downloaded from https://observablehq.com/@openaviation/flight-information-regions#plot_fir
-    - `data/european_firs.csv`: list of European FIRs extracted from https://www.eurocontrol.int/publication/flight-information-region-firuir-charts-2024
-    - `data/airspaces.geojson`: combines `data/worldfirs.json` with bounding boxes from Teoh et al. 2024
-    - `data/worldfirst.geojson`: converted `data/worldfirs.json` to `.geojson` for Flourish
+- `data/countries.csv`: downloaded from https://ourairports.com/data/
+- `data/airports.csv`: downloaded from https://ourairports.com/data/
+- `data/worldfirs.json`: downloaded from https://observablehq.com/@openaviation/flight-information-regions#plot_fir
+- `data/european_firs.csv`: list of European FIRs extracted from https://www.eurocontrol.int/publication/flight-information-region-firuir-charts-2024
+- `data/airspaces.geojson`: combines `data/worldfirs.json` with bounding boxes from Teoh et al. 2024
+- `data/worldfirst.geojson`: converted `data/worldfirs.json` to `.geojson` for Flourish
 
 ### Departures
-    - `data\departures\2019 - Jet-A - Flight Summary.pq`: not included in this repository
-        - flight schedules + contrail information on a flight-by-flight level
-        - 700 MB and contains all European arrivals and departures in 2019 
-        - Corresponds to the data used in Teoh et al. 2019
+- `data\departures\2019 - Jet-A - Flight Summary.pq`: not included in this repository
+  - flight schedules + contrail information on a flight-by-flight level
+  - 700 MB and contains all European arrivals and departures in 2019 
+  - Corresponds to the data used in Teoh et al. 2019
 
 #### Departure file structure
 
@@ -243,11 +253,40 @@ The `/data` directory includes:
 | `total_contrail_energy_forcing`       | float           | Energy forcing due to contrails (J)                    |
 
 ### Gridded forcing outputs
-    - Based on tabular, gridded forcing outputs from a CoCiP simulation provided by Imperial College London that are not included in this repository. 
-    - `data/gridded_forcing/annual_hourly_sum_XX.nc`: Netcdf files containing the annual gridded forcing in hour XX
-    - `data/gridded_forcing/monthly_sum_XX.nc`: Netcdf files containing the annual monthly forcing in month XX
-    - `data/gridded_forcing/annual_sum.nc`: Netcdf file containing the annual forcing sum
-    - `data/hourly_totals_by_region.pq`: Parquet file containing by region statistics
+- Based on tabular, gridded forcing outputs from a CoCiP simulation provided by Imperial College London that are not included in this repository. 
+- `data/gridded_forcing/annual_hourly_sum_XX.nc`: Netcdf files containing the annual gridded forcing in hour XX
+- `data/gridded_forcing/monthly_sum_XX.nc`: Netcdf files containing the annual monthly forcing in month XX
+- `data/gridded_forcing/annual_sum.nc`: Netcdf file containing the annual forcing sum
+- `data/hourly_totals_by_region.pq`: Parquet file containing by region statistics
+- Spatiotemporal grid: 
+  - For ERA5’s **regular lat–lon grid**, ECMWF explicitly state that the latitude and longitude coordinates are **gridpoint locations**, i.e. *points* in space (the “centre” of the grid cell if you visualize it as tiles), not cell edges (https://confluence.ecmwf.int/display/CKB/ERA5%3A%2BWhat%2Bis%2Bthe%2Bspatial%2Breference)
+  - Vertical levels: the “37 pressure levels” are standard pressure surfaces (e.g. 300 hPa, 250 hPa, …), 
+  - Standard ADS-B altitude information is also barometric
+  - Accordingly, CoCiP's gridded forcing outputs and gridded CoCip outputs are also barometric altitudes - even when given in meters
+  - The altitudes are again treated as level mid-points
+  - The **time information is a sightly different story**: “Time stamps (e.g. 00:00) represent the end of the preceding 1-hour period for accumulated/averaged ERA5 variables.” So, hour 0 reprsents a temporal average from 23:00 (previous day) to 00:00 - so it is not cell-centered but edge-centered
+
+#### Original parquet file structure provided by ICL
+| No. | Column                           | Description                                                                                                                                                               | Units |
+|----:|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+| 1   | longitude                        | Longitude of grid cell                                                                                                                                                    | degrees |
+| 2   | latitude                         | Latitude of grid cell                                                                                                                                                     | degrees |
+| 3   | altitude                         | Altitude of grid cell                                                                                                                                                     | m |
+| 4   | hour                             | Air traffic activity and contrail statistics between (hour − 1) and hour since midnight (UTC)                                                                              | h |
+| 5   | total_flight_dist                | Total hourly flight distance flown at each grid cell (longitude, latitude, altitude, hour)                                                                                | km |
+| 6   | new_contrail_length              | Total length of newly formed persistent contrails at each grid cell (longitude, latitude, altitude, hour)                                                                | km |
+| 7   | total_contrail_length            | Total persistent contrail length at each grid cell (longitude, latitude, altitude, hour)                                                                                 | km |
+| 8   | tau_contrail_area                | Sum of (contrail segment optical depth × length × width) at each grid cell. Used to calculate mean contrail optical depth.                                               | m² |
+| 9   | mean_contrail_age                | Mean contrail segment age at each grid cell (longitude, latitude, altitude, hour)                                                                                        | h |
+| 10  | contrail_ef_overlap_initial_loc  | Total contrail energy forcing at the initial location of contrail formation (with overlap effects)                                                                        | J |
+| 11  | contrail_ef_overlap              | Total contrail energy forcing at each grid cell (with overlap effects)                                                                                                    | J |
+| 12  | contrail_ef_sw_overlap           | Total shortwave contrail energy forcing at each grid cell (with overlap effects). Used for calculating mean shortwave radiative forcing.                                 | J |
+| 13  | contrail_ef_lw_overlap           | Total longwave contrail energy forcing at each grid cell (with overlap effects). Used for calculating mean longwave radiative forcing.                                   | J |
+| 14  | contrail_ef_initial_loc          | Total contrail energy forcing at the initial location of contrail formation (without overlap effects)                                                                     | J |
+| 15  | contrail_ef                      | Total contrail energy forcing at each grid cell (without overlap effects)                                                                                                 | J |
+| 16  | contrail_ef_sw                   | Total shortwave contrail energy forcing at each grid cell (without overlap effects). Used for calculating mean shortwave radiative forcing.                              | J |
+| 17  | contrail_ef_lw                   | Total longwave contrail energy forcing at each grid cell (without overlap effects). Used for calculating mean longwave radiative forcing.                                | J |
+
 
 #### Netcdf file structure
 
@@ -255,13 +294,13 @@ The `/data` directory includes:
 |------------|-------|-------------|
 | `longitude` | 1441 | Grid longitudes from -180.0° to 180.0° |
 | `latitude`  | 721  | Grid latitudes from -90.0° to 90.0° |
-| `altitude`  | 31   | Altitude levels (approx. 6000 m → 15 140 m) |
+| `altitude`  | 31   | Barometric altitude levels (approx. 6000 m → 15 140 m)  |
 
 | Name        | Shape        | Type     | Description |
 |-------------|--------------|----------|-------------|
 | `longitude` | (longitude,) | float64  | Longitude values in 0.25° resolution |
 | `latitude`  | (latitude,)  | float64  | Latitude values in 0.25° resolution |
-| `altitude`  | (altitude,)  | float64  | Altitude levels in meters |
+| `altitude`  | (altitude,)  | float64  | Barometric cell-centered altitude levels in meters in ~300 m (1000 ft) resolution |
 
 | Variable                     | Dimensions (in order)                   | Type     | Description |
 |------------------------------|------------------------------------------|----------|-------------|
@@ -275,10 +314,10 @@ The `/data` directory includes:
 
 | Column                        | Type          | Description |
 |-------------------------------|-----------------|-------------|
-| `hour`                        | int             | Hour of day (0–23) for the aggregation window |
-| `total_flight_dist`          | float           | Total flown distance in the aggregation (e.g. km) |
-| `contrail_ef_initial_loc`    | float           | Contrail energy forcing at initial location (no overlap) |
-| `contrail_ef_overlap_initial_loc` | float      | Contrail energy forcing at initial location accounting for overlap |
+| `hour`                        | int             | Hour of day (0–23) for the aggregation window where hour 0 = [00:00, 00:59] and so on  |
+| `total_flight_dist`          | float           | Total flown distance in the aggregation in km |
+| `contrail_ef_initial_loc`    | float           | Contrail energy forcing at initial location (no overlap) in J|
+| `contrail_ef_overlap_initial_loc` | float      | Contrail energy forcing at initial location accounting for overlap in J |
 | `new_contrail_length`        | float           | Length of newly formed contrails in the time step |
 | `total_contrail_length`      | float           | Total contrail length present in the aggregation |
 | `tau_contrail_area`          | float           | Effective contrail optical depth integrated over area |
@@ -295,8 +334,17 @@ The `/data` directory includes:
 
 ### ISSR datasets
 
-- `data/issr/2024MMDDTHH.nc`: Hourly gridded CoCiP outputs provided by contrails.org
-- `data/issr/contrail_region_details_2024.csv`: A summary of all PCRs with energy forcing greater than 5e8 J/m in 2024 completely contained within bounding box lon = (-70.0, 70.0) and lat = (20.0, 90.0) by hour
+- `data/issr/2024MMDDTHH.nc`: Hourly gridded CoCiP outputs provided by contrails.org, that represent a 4D gridded atmospheric field with **longitude**, **latitude**, **flight level**, and **time** dimensions. It contains variables describing estimated contrail energy forcing in J/m and estimated contrail age for contrails formed at that grid cell. Note that contrails.org does not provide −90° to +90° latitude data which means that the boundary for detection PCRs is also 
+
+| Name           | Size | Description                                      |
+| -------------- | ---- | ------------------------------------------------ |
+| `longitude`    | 1440 | Global 0.25° resolution, spanning −180° to +180° |
+| `latitude`     | 641  | Global 0.25° resolution, spanning −80° to +80°   |
+| `flight_level` | 18   | Pressure-based flight levels from FL270 to FL440 |
+| `time`         | 1    | Single timestamp (2024-01-01)                    |
+
+
+- `data/issr/contrail_region_details_2024.csv`: A summary of all PCRs with energy forcing greater than 5e8 J/m in 2024 completely contained within a bounding box spanning longitudes from −70° to +70° and latitudes from 20° to +80° by hour
 
 #### PCR file structure
 | Column          | Type            | Description |
@@ -354,11 +402,20 @@ All dependencies are listed in `requirements.txt`.
 Typical environment setup:
 
 ```bash
-conda create -n contrail python=3.11
+conda create -n contrail_atm python=3.11
 pip install -r requirements.txt
 ```
 
+## Open question: 
+- Searchsorted binning gives edge-centered grid - I want cell-centered. Potentially, I rerun this will all altitudes and to give a cell-centered grid. 
+
 ## Sources and special thanks
 
-## License
+* Contrails simulations using CoCiP based on Spire ADS-B data kindly provided by the Imperial College London
+    - Flight-by-flight information for European arrivals and departures for the year 2019 based on ![Teoh et al. 2024](https://acp.copernicus.org/articles/24/6071/2024/)
+    - Gridded contrail simulation outputs (0.25° x 0.25° lateral resolution, 1000 ft (~300 m) vertical resolution, 1h temporal resolution) for the year 2019 based on ![Teoh et al. 2024](https://acp.copernicus.org/articles/24/6071/2024/), re-run by ICL with an updated version of pycontrails (v0.54.8), not accounting for vPM activation
+* The high-resolution Global Aviation emissions Inventory based on ADS-B (![GAIA](https://zenodo.org/records/8369829)) for 2019 - 2021: High-resolution gridded outputs for 2019 (Full Year) with (0.05° x 0.05° lateral resolution, 100 m vertical resolution, 1h temporal resolution)
+* ![Gridded CoCiP](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1361/) outputs for the year 2024 kindly provided by ![contrails.org](https://apidocs.contrails.org/notebooks/research_api.html) with (0.25° x 0.25° lateral resolution, 1000 ft (~300 m) vertical resolution, 1h temporal resolution)
+* FIR geometry is on ![worldfirs.json](data/worldfirs.json) found on ![observablehq.com/@openaviation](https://observablehq.com/@openaviation/flight-information-regions#plot_fir)
 
+* Special thanks to many external stakeholders from universities, research organisations, ANSPs etc. 
