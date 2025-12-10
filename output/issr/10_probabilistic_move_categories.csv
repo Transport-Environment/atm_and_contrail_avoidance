@@ -1,4 +1,4 @@
-Flight Level,Direction,Small Move (2 FL),Large Move (4 FL),Other (>4 FL),Case
+Flight Level,Direction,Small movement (20 FLs),Large movement (40 FLs),Other (>40 FLs),Case
 270,Up,14.315435098804413,22.934778121050314,62.74978678014528,PCRs
 270,Down,100.0,0.0,0.0,PCRs
 270,Best,100.0,0.0,0.0,PCRs
