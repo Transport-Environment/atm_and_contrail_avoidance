@@ -1,7 +1,8 @@
-# Air traffic management implications of contrail avoidance
+# Managing complexity: How to scale up contrail avoidance in Europe?
 
-This repository analyses the **climate impact of contrails** using a combination of **traffic data, meteorological datasets, and contrail forcing simulations**.
-It contains Jupyter notebooks, helper scripts, data, and visualisations exploring how **flight timing, routes, and airspace utilisation** contribute to contrail formation and radiative forcing.
+This repository analyses the **climate impact of contrails** using a combination of **traffic data, meteorological datasets, and contrail forcing simulations** to understand opportunities for scaling up contrail avoidance in harmony with air traffic management. The analysis finds that there are opportunities for doing contrail avoidance at night, in winter, using vertical deviations, pre-tactically and in regions with lower air traffic densities such as the North Atlantic, Northern Europe and Eastern Europe. 
+
+The repository contains Jupyter notebooks, helper scripts, data, and visualisations exploring how **flight timing, routes, and airspace utilisation** contribute to contrail formation.
 
 
 ## Project Overview
@@ -16,7 +17,7 @@ This project quantifies **traffic levels** and **contrail warming** over Europe 
 It draws on the following datasets. 
 * Contrails simulations using CoCiP based on Spire ADS-B data kindly provided by the Imperial College London
     - Flight-by-flight information for European arrivals and departures for the year 2019 based on ![Teoh et al. 2024](https://acp.copernicus.org/articles/24/6071/2024/)
-    - Gridded contrail simulation outputs (0.25° x 0.25° lateral resolution, 1000 ft (~300 m) vertical resolution, 1h temporal resolution) for the year 2019 based on ![Teoh et al. 2024](https://acp.copernicus.org/articles/24/6071/2024/), re-run by ICL with an updated version of pycontrails (v0.54.8), not accounting for vPM activation
+    - Gridded contrail simulation outputs (0.25° x 0.25° lateral resolution, 100 m vertical resolution, 1h temporal resolution) for the year 2019 based on ![Teoh et al. 2024](https://acp.copernicus.org/articles/24/6071/2024/), re-run by ICL with an updated version of pycontrails (v0.54.8), not accounting for vPM activation
 * The high-resolution Global Aviation emissions Inventory based on ADS-B (![GAIA](https://zenodo.org/records/8369829)) for 2019 - 2021: High-resolution gridded outputs for 2019 (Full Year) with (0.05° x 0.05° lateral resolution, 100 m vertical resolution, 1h temporal resolution)
 * ![Gridded CoCiP](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1361/) outputs for the year 2024 kindly provided by ![contrails.org](https://apidocs.contrails.org/notebooks/research_api.html) with (0.25° x 0.25° lateral resolution, 1000 ft (~300 m) vertical resolution, 1h temporal resolution)
 
@@ -30,6 +31,7 @@ It draws on the following datasets.
 | **2_forcing.ipynb**           | Examines **2019 gridded contrail forcing outputs** to assess contrail forcing by **month**, **hour**, and **FIR**.           |
 | **3_issr.ipynb**              | Detect **persistent contrail regions** (PCRs) from gridded CoCiP outputs (2024), evaluating their distribution and geometry.          |
 | **4_airspace_capacity.ipynb** | Quantifies the **fraction of airspace volume** affected by warming/cooling contrails based on gridded CoCiP outputs (2024) and analyses it by flight level and time. |
+| **5_3D_visualisation.py** | Creates **3D visual showing gridded CoCiP regions** using Pyvista.  |
 | **supporting/**               | Contains supplementary notebooks for data acquisition and intermediate analyses.                                               |
 | **data/**                     | Includes airports, FIRs, GeoJSON boundaries, and intermediate simulation results.                                              |
 | **helpers/**                  | Python scripts for data conversion, downloads, and processing utilities.                                                       |
@@ -48,12 +50,12 @@ It draws on the following datasets.
 * Contrail forcing by **month of year** and **hour of day**
 * Number of **“big hit”** flights (major warming contrails) by day, airport, and FIR
 * Total CO₂ and contrail forcing per departure airport
-* FIR geometry is on ![worldfirs.json](data/worldfirs.json) found on ![observablehq.com/@openaviation](https://observablehq.com/@openaviation/flight-information-regions#plot_fir)
+* FIR geometry is based on ![worldfirs.json](data/worldfirs.json) provided by OpenAviation (![observablehq.com/@openaviation](https://observablehq.com/@openaviation/flight-information-regions#plot_fir))
 
 **Methodology:**
 
 * Convert total_fuel_burn (kg of jet a1) and total_contrail_energy_forcing per flight to contrail CO2eq 
-* The fuel burn is converted to forcings over 20 and 100 years using the the CO2 absolute global warming potential over 20-years () and 100-years () are assumed to be 2.39 × 10−14 and 88.0 × 10−15 yr W m−2 kg−1, respectively (Gaillot et al., 2023). These forcings reflect the amount of energy deposited in the atmosphere over a given amount of time - the amount of energy absorbed by the atmosphere through CO2 grows with time. 
+* The fuel burn is converted to forcings over 20 and 100 years using the the CO2 absolute global warming potential over 20-years and 100-years are assumed to be 2.39 × 10−14 and 88.0 × 10−15 yr W m−2 kg−1, respectively (Gaillot et al., 2023). These forcings reflect the amount of energy deposited in the atmosphere over a given amount of time - the amount of energy absorbed by the atmosphere through CO2 grows with time. 
 * The GWP factors are the ratio of CO2 to contrail radiative forcing weighted by this ERF_RF_RATIO which makes the effective radiative forcing (ERF) smaller than the radiative forcing (RF) by a factor of 0.42. This factor is quite uncertain and reflects, among other things, how the global atmosphere reacts to a local radiative forcing in the long run. It is one of the reasons why the contrail climate impact is so uncertain and why I refrain from adding absolute values in the charts .
 
 **Figures:**
@@ -182,6 +184,14 @@ It draws on the following datasets.
   </tr>
 </table>
 
+### 3D visuals (`5_3D_visualisation_xxx.py`)
+- Create 3D visualisation of contrail-sensitive regions based on gridded CoCiP for the 1st of January 2024 at midnight
+- Does not respect scales - Earth is shown with a radius of 63 km! whereas contrail-sensitive regions are shown at their original size
+- Does not show contrail-sensitive regions below FL270 and above FL440
+- Does not convert from barometric altitudes to true altitudes and should be understood as a mostly illustrative visualisation. 
+- Uses `pyvista` with default globe texture 
+- `5_3D_visualisation_with_avoidance.py` contains draft visualising an avoidance maneuver
+- The exported HTML does not contain text annotations - these have to be added manually
 
 ## Supporting Notebooks
 
@@ -406,9 +416,6 @@ conda create -n contrail_atm python=3.11
 pip install -r requirements.txt
 ```
 
-## Open question: 
-- Searchsorted binning gives edge-centered grid - I want cell-centered. Potentially, I rerun this will all altitudes and to give a cell-centered grid. 
-
 ## Sources and special thanks
 
 * Contrails simulations using CoCiP based on Spire ADS-B data kindly provided by the Imperial College London
@@ -418,4 +425,4 @@ pip install -r requirements.txt
 * ![Gridded CoCiP](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1361/) outputs for the year 2024 kindly provided by ![contrails.org](https://apidocs.contrails.org/notebooks/research_api.html) with (0.25° x 0.25° lateral resolution, 1000 ft (~300 m) vertical resolution, 1h temporal resolution)
 * FIR geometry is on ![worldfirs.json](data/worldfirs.json) found on ![observablehq.com/@openaviation](https://observablehq.com/@openaviation/flight-information-regions#plot_fir)
 
-* Special thanks to many external stakeholders from universities, research organisations, ANSPs etc. 
+* Special thanks to many external stakeholders from universities, research organisations, ANSPs etc. who have provided feedback on the analysis and the report
