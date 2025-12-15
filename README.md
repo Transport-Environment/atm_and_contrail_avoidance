@@ -158,6 +158,11 @@ It draws on the following datasets.
     <td><img src="figures/3_issr/issr_5_contrail_region_explorer@2x.png" width="300"></td>
     <td><img src="figures/3_issr/issr_6_deviation_likelihood@2x.png" width="300"></td>
   </tr>
+  <tr>
+    <td><img src="figures/3_issr/issr_6b_deviation_likelihood@2x.png" width="300"></td>
+    <td><img src="figures/3_issr/issr_7_tickness_pcr@2x.png" width="300"></td>
+    <td><img src="figures/3_issr/issr_8_tickness_very_warming@2x.png" width="300"></td>
+  </tr>
 </table>
 
 
