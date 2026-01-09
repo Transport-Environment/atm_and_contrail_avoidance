@@ -497,7 +497,12 @@ date,region,contrail_ef_overlap_initial_loc
 2019-03-24,Paris FIR,2.81e-05
 2019-03-24,Shanwick FIR,0.0003191
 2019-03-24,Switzerland FIR,-0.0
-2019-03-25,Global,0.0
+2019-03-25,European Airspace,0.001326
+2019-03-25,Global,0.0073803
+2019-03-25,London FIR,-1.3e-06
+2019-03-25,Paris FIR,0.0
+2019-03-25,Shanwick FIR,0.0010455
+2019-03-25,Switzerland FIR,0.0
 2019-03-26,European Airspace,0.0016996
 2019-03-26,Global,0.0080575
 2019-03-26,London FIR,-3.3e-05
@@ -762,7 +767,12 @@ date,region,contrail_ef_overlap_initial_loc
 2019-05-08,Paris FIR,1.24e-05
 2019-05-08,Shanwick FIR,1.25e-05
 2019-05-08,Switzerland FIR,3.02e-05
-2019-05-09,Global,0.0
+2019-05-09,European Airspace,0.0013402
+2019-05-09,Global,0.0062312
+2019-05-09,London FIR,1.1e-06
+2019-05-09,Paris FIR,2.1e-06
+2019-05-09,Shanwick FIR,4.28e-05
+2019-05-09,Switzerland FIR,6e-07
 2019-05-10,European Airspace,0.0006275
 2019-05-10,Global,0.0057283
 2019-05-10,London FIR,5e-07
@@ -1009,7 +1019,12 @@ date,region,contrail_ef_overlap_initial_loc
 2019-06-19,Paris FIR,1.46e-05
 2019-06-19,Shanwick FIR,0.0002903
 2019-06-19,Switzerland FIR,7.8e-05
-2019-06-20,Global,0.0
+2019-06-20,European Airspace,0.0007668
+2019-06-20,Global,0.0056545
+2019-06-20,London FIR,2e-07
+2019-06-20,Paris FIR,4.83e-05
+2019-06-20,Shanwick FIR,0.0002252
+2019-06-20,Switzerland FIR,1.3e-06
 2019-06-21,European Airspace,0.0009865
 2019-06-21,Global,0.0050071
 2019-06-21,London FIR,9.7e-06
@@ -1070,7 +1085,12 @@ date,region,contrail_ef_overlap_initial_loc
 2019-06-30,Paris FIR,1e-07
 2019-06-30,Shanwick FIR,5.54e-05
 2019-06-30,Switzerland FIR,5.5e-06
-2019-07-01,Global,0.0
+2019-07-01,European Airspace,0.0003501
+2019-07-01,Global,0.004969
+2019-07-01,London FIR,0.0
+2019-07-01,Paris FIR,4e-06
+2019-07-01,Shanwick FIR,5.25e-05
+2019-07-01,Switzerland FIR,5e-07
 2019-07-02,European Airspace,0.0003243
 2019-07-02,Global,0.0046586
 2019-07-02,London FIR,7.7e-06
@@ -1617,7 +1637,12 @@ date,region,contrail_ef_overlap_initial_loc
 2019-09-30,Paris FIR,0.0002466
 2019-09-30,Shanwick FIR,0.0001019
 2019-09-30,Switzerland FIR,8.3e-06
-2019-10-01,Global,0.0
+2019-10-01,European Airspace,0.000715
+2019-10-01,Global,0.0068786
+2019-10-01,London FIR,1.75e-05
+2019-10-01,Paris FIR,1.28e-05
+2019-10-01,Shanwick FIR,6.72e-05
+2019-10-01,Switzerland FIR,3.3e-06
 2019-10-02,European Airspace,0.0016706
 2019-10-02,Global,0.0074529
 2019-10-02,London FIR,8.42e-05
