@@ -3,6 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <title>PyVista Hover Zoom Example</title>
+
+  <!-- Roboto -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+
   <style>
     body {
       font-family: sans-serif;
@@ -11,51 +17,53 @@
       margin: 40px auto;
     }
 
-    .viz-wrapper {
+    .iframe-wrapper {
       position: relative;
-      height: 500px;
-      margin: 40px 0;
     }
 
-    .viz-wrapper iframe {
+    .iframe-wrapper iframe {
       width: 100%;
-      height: 100%;
+      height: 400px;
       border: none;
-      pointer-events: none; /* key line */
+      pointer-events: none; /* disabled by default */
     }
 
-    .viz-wrapper:hover iframe {
-      pointer-events: auto; /* enable interaction on hover */
-    }
-
-    .hint {
+    .iframe-overlay {
       position: absolute;
       inset: 0;
       display: flex;
       align-items: center;
       justify-content: center;
-      font-size: 14px;
-      color: #555;
-      pointer-events: none;
-    }
+      cursor: pointer;
 
-    .viz-wrapper:hover .hint {
-      display: none;
+      /* invisible overlay */
+      background: transparent;
+
+      /* text styling */
+      font-family: 'Roboto', sans-serif;
+      font-size: 16px;
+      font-weight: 500;
+      color: white;
+
+      /* improve readability on any background */
+      text-shadow: 0 1px 4px rgba(0,0,0,0.7);
     }
   </style>
 </head>
+
 <body>
 
   <h1>PyVista embedded scene</h1>
 
   <p>
     Scroll down this page normally.  
-    When you hover over the 3D view, mouse-wheel zoom becomes active.
+    When you click the 3D view, interaction becomes active.
   </p>
 
-  <div class="viz-wrapper">
-    <iframe src="html\pcr_visualisation.html"></iframe>
-    <div class="hint"></div>
+  <div class="iframe-wrapper">
+    <div class="iframe-overlay">Click to interact</div>
+    <iframe src="html/pcr_visualisation.html"
+  loading="lazy"></iframe>
   </div>
 
   <p>
@@ -63,9 +71,18 @@
     Scroll continues to work once you leave the visual.
   </p>
 
-  <p style="height: 800px">
-    Extra space to demonstrate scrolling.
-  </p>
+  <p style="height: 800px"></p>
+
+  <script>
+    const wrapper = document.querySelector('.iframe-wrapper');
+    const iframe = wrapper.querySelector('iframe');
+    const overlay = wrapper.querySelector('.iframe-overlay');
+
+    overlay.addEventListener('click', () => {
+      iframe.style.pointerEvents = 'auto';
+      overlay.style.display = 'none';
+    });
+  </script>
 
 </body>
 </html>

@@ -91,9 +91,6 @@ plotter.add_mesh(
     label="Very warming"
 )
 
-# Add Legend/Text
-plotter.add_legend()
-plotter.add_text("Persistent contrail regions on 1 January 2024 at 00:00", font_size=18, shadow=True)
 
 from pyvista import examples
 
@@ -105,6 +102,11 @@ earth.rotate_z(180, inplace=True)
 earth_texture = examples.load_globe_texture()
 
 plotter.add_mesh(earth, texture=earth_texture, smooth_shading=True)
+
+# Add Legend/Text
+#plotter.add_legend()
+#plotter.add_text("Persistent contrail regions on 1 January 2024 at 00:00", font_size=18, shadow=True)
+
 
 #plotter.add_mesh(earth, color="lightgray", opacity=0.2)
 # Optional: add axes + bounds
@@ -176,23 +178,26 @@ plotter.add_mesh(earth, texture=earth_texture, smooth_shading=True)
 #)
 
 # --- Controls Guide (Bottom Left) ---
-controls_text = (
-    "CONTROLS:\n"
-    "Left Click   : Rotate\n"
-    "Right Click  : Zoom\n"
-    "Shift+Click  : Pan\n"
-    "Ctrl+Click   : Spin\n"
-    "Key 'r'      : Reset Camera"
-)
+#controls_text = (
+#    "CONTROLS:\n"
+#    "Left Click   : Rotate\n"
+#    "Mouse wheel  : Zoom\n"
+#    "Shift+Click  : Pan\n"
+#    "Ctrl+Click   : Spin\n"
+#    "Key 'r'      : Reset Camera"
+#)
+#
+#plotter.add_text(
+#    controls_text,
+#    position="lower_left",
+#    font_size=10,        
+#    color="#555555",     
+#    font="courier",      # Monospace keeps the colons aligned
+#    shadow=False,
+#)
+#
 
-plotter.add_text(
-    controls_text,
-    position="lower_left",
-    font_size=10,        
-    color="#555555",     
-    font="courier",      # Monospace keeps the colons aligned
-    shadow=False,
-)
+plotter.enable_terrain_style(mouse_wheel_zooms=False)
 
 plotter.export_html("html/pcr_visualization_without_UI.html")
 plotter.show()
