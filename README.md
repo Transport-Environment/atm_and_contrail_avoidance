@@ -4,7 +4,7 @@ This repository analyses the **climate impact of contrails** using a combination
 
 The repository contains Jupyter notebooks, helper scripts, data, and visualisations exploring how **flight timing, routes, and airspace utilisation** contribute to contrail formation.
 
-You may find an overview over the most relevant charts in this ![Google spreadsheet](https://docs.google.com/spreadsheets/d/1nCdAg720wSkkM4I-Ybv9pD1Kr4LAK0b5nyOXn3pAcVE/edit?usp=sharing) or in the less interactive OpenDocument spreadsheet ![included in the repository](202601_atm_and_contrail_avoidance_published.ods). 
+You may find an overview over the most relevant charts in this [Google spreadsheet](https://docs.google.com/spreadsheets/d/1nCdAg720wSkkM4I-Ybv9pD1Kr4LAK0b5nyOXn3pAcVE/edit?usp=sharing) or in the less interactive OpenDocument spreadsheet [included in the repository](202601_atm_and_contrail_avoidance_published.ods). 
 
 ## Project Overview
 
