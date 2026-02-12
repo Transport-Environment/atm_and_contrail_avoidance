@@ -1,5 +1,6 @@
 supporting
 secrets.yml
+.vscode/
 *.pq
 *.nc
 output/forcing/4_global_warming_map.csv
