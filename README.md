@@ -1,6 +1,6 @@
 # Managing complexity: How to scale up contrail avoidance in Europe?
 
-This repository analyses the **climate impact of contrails** using a combination of **traffic data, meteorological datasets, and contrail forcing simulations** to understand opportunities for scaling up contrail avoidance in harmony with air traffic management. The analysis finds that there are opportunities for doing contrail avoidance at night, in winter, using vertical deviations, pre-tactically and in regions with lower air traffic densities such as the North Atlantic, Northern Europe and Eastern Europe. 
+This repository analyses the **climate impact of contrails** using a combination of **traffic data, meteorological datasets, and contrail forcing simulations** to understand opportunities for scaling up contrail avoidance in harmony with air traffic management. It contains supplementary material for T&E's report [How to scale up contrail avoidance in Europe?](https://www.transportenvironment.org/articles/scale_up_contrail_avoidance). The analysis finds that there are opportunities for doing contrail avoidance at night, in winter, using vertical deviations, pre-tactically and in regions with lower air traffic densities such as the North Atlantic, Northern Europe and Eastern Europe. 
 
 The repository contains Jupyter notebooks, helper scripts, data, and visualisations exploring how **flight timing, routes, and airspace utilisation** contribute to contrail formation.
 
