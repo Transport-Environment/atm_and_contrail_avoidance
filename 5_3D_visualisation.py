@@ -1,7 +1,7 @@
 import xarray as xr 
 import numpy as np 
 import pyvista as pv
-from matplotlib.colors import ListedColormap, BoundaryNorm
+from pyvista import examples
 
 # Load dataset
 ds0 = xr.open_dataset(r"data\issr\20240101T00.nc")
@@ -92,7 +92,6 @@ plotter.add_mesh(
 )
 
 
-from pyvista import examples
 
 # --- Earth globe with texture ---
 earth = examples.planets.load_earth(radius=R_EARTH, lat_resolution=90, lon_resolution=180)
@@ -102,100 +101,6 @@ earth.rotate_z(180, inplace=True)
 earth_texture = examples.load_globe_texture()
 
 plotter.add_mesh(earth, texture=earth_texture, smooth_shading=True)
-
-# Add Legend/Text
-#plotter.add_legend()
-#plotter.add_text("Persistent contrail regions on 1 January 2024 at 00:00", font_size=18, shadow=True)
-
-
-#plotter.add_mesh(earth, color="lightgray", opacity=0.2)
-# Optional: add axes + bounds
-#plotter.show_axes()
-#plotter.show_bounds(
-#    xlabel="X (m)",
-#    ylabel="Y (m)",
-#    zlabel="Z (m)",
-#    color='black',
-#    font_size=10,
-#)
-
-
-# --- Add Anchor Points ---
-
-#def to_cartesian(lat_deg, lon_deg, altitude_m=0):
-#    """Converts lat/lon to 3D cartesian using your constants."""
-#    # Use the same Radius logic as your data
-#    r = R_EARTH + altitude_m 
-#    
-#    # Convert to radians
-#    lat_rad = np.deg2rad(lat_deg)
-#    lon_rad = np.deg2rad(lon_deg)
-#    
-#    # Same formulas as your mesh generation
-#    x = r * np.cos(lat_rad) * np.cos(lon_rad)
-#    y = r * np.cos(lat_rad) * np.sin(lon_rad)
-#    z = r * np.sin(lat_rad)
-#    
-#    return [x, y, z]
-#
-## Define known locations (Lat, Lon)
-#landmarks = {
-#    "London (UK)": (51.5074, -0.1278),
-#    "New York (USA)": (40.7128, -74.0060),
-#    #"Tokyo (Japan)": (35.6762, 139.6503),
-#    #"Sydney (Aus)": (-33.8688, 151.2093)
-#}
-#
-## Create points and labels
-#points = []
-#labels = []
-#
-#for name, (lat, lon) in landmarks.items():
-#    loc = to_cartesian(lat, lon, altitude_m=0) 
-#    points.append(loc)
-#    labels.append(name)
-#
-## Convert to PyVista format
-#point_cloud = pv.PolyData(points)
-#
-## Add red markers for the cities
-#plotter.add_mesh(
-#    point_cloud, 
-#    color="red", 
-#    point_size=15, 
-#    render_points_as_spheres=True,
-#    label="Calibration Points"
-#)
-#
-## Add text labels floating near the points
-#plotter.add_point_labels(
-#    point_cloud, 
-#    labels, 
-#    font_size=16, 
-#    point_color="red", 
-#    text_color="white",
-#    always_visible=True
-#)
-
-# --- Controls Guide (Bottom Left) ---
-#controls_text = (
-#    "CONTROLS:\n"
-#    "Left Click   : Rotate\n"
-#    "Mouse wheel  : Zoom\n"
-#    "Shift+Click  : Pan\n"
-#    "Ctrl+Click   : Spin\n"
-#    "Key 'r'      : Reset Camera"
-#)
-#
-#plotter.add_text(
-#    controls_text,
-#    position="lower_left",
-#    font_size=10,        
-#    color="#555555",     
-#    font="courier",      # Monospace keeps the colons aligned
-#    shadow=False,
-#)
-#
 
 plotter.enable_terrain_style(mouse_wheel_zooms=False)
 
